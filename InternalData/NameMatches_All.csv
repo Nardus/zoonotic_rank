@@ -1,0 +1,1402 @@
+Babayan,Olival,Woolhouse,UniversalName,OtherTaxonomicInfo,Comments,Remove,RemoveComment,SppName_ICTV_MSL2018b
+Duck picornavirus GL/12,,,Duck picornavirus GL/12,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,Aalivirus A
+,Adelaide River virus,,Adelaide River ephemerovirus,Automatic match,,NA,,Adelaide River ephemerovirus
+,Adeno-associated virus-1,,Adeno-associated dependoparvovirus A,Merged,Checked for duplication – data differs,NA,,Adeno-associated dependoparvovirus A
+,Adeno-associated virus-2,,Adeno-associated dependoparvovirus A,Merged,Checked for duplication – data differs,NA,,Adeno-associated dependoparvovirus A
+,Adeno-associated virus-5,,Adeno-associated dependoparvovirus B,,,NA,,Adeno-associated dependoparvovirus B
+,African horse sickness virus,,African horse sickness virus,Automatic match,,NA,,African horse sickness virus
+,African swine fever virus,,African swine fever virus,Automatic match,,NA,,African swine fever virus
+Canine kobuvirus 1,,,Aichivirus A,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Aichivirus A
+Feline kobuvirus,,,Aichivirus A,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Aichivirus A
+,Aichi virus,Aichivirus A,Aichivirus A,,,NA,,Aichivirus A
+Akabane virus,Akabane virus,,Akabane orthobunyavirus,,,NA,,Akabane orthobunyavirus
+Vesicular stomatitis Alagoas virus,Vesicular stomatitis Alagoas virus,Alagoas vesiculovirus ,Alagoas vesiculovirus,,,NA,,Alagoas vesiculovirus
+,Alcelaphine herpesvirus 1,,Alcelaphine gammaherpesvirus 1,,,NA,,Alcelaphine gammaherpesvirus 1
+,Alcelaphine herpesvirus 2,,Alcelaphine gammaherpesvirus 2,,,NA,,Alcelaphine gammaherpesvirus 2
+Allpahuayo virus,Allpaahuayo virus,,Allpahuayo mammarenavirus,,,NA,,Allpahuayo mammarenavirus
+Oak-Vale virus,,,Almpiwar sripuvirus,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Almpiwar sripuvirus
+Almpiwar virus,,,Almpiwar sripuvirus,Strain,Checked for duplication – K80 distance from Oak-Vale virus is 0.765,NA,,Almpiwar sripuvirus
+,Equine arteritis virus,,Equine arteritis virus,Automatic match,,NA,,Alphaarterivirus equid
+,,Alphacoronavirus 1,Alphacoronavirus 1,Automatic match,,NA,,Alphacoronavirus 1
+Canine coronavirus,Canine coronavirus,,Alphacoronavirus 1,Strain,Several species merged into this name,NA,,Alphacoronavirus 1
+Feline coronavirus,Feline coronavirus,,Alphacoronavirus 1,Strain,Several species merged into this name,NA,,Alphacoronavirus 1
+,Transmissible gastroenteritis virus,,Alphacoronavirus 1,Strain,Several species merged into this name,NA,,Alphacoronavirus 1
+,Human papillomavirus 32,,Alphapapillomavirus 1,,See https://data.ictvonline.org/proposals/2010.001a-kkkV.A.v2.Papillomaviridae.pdf,NA,,Alphapapillomavirus 1
+,Human papillomavirus 6,,Alphapapillomavirus 10,,See https://data.ictvonline.org/proposals/2010.001a-kkkV.A.v2.Papillomaviridae.pdf,NA,,Alphapapillomavirus 10
+,Human papillomavirus 34,,Alphapapillomavirus 11,,See https://data.ictvonline.org/proposals/2010.001a-kkkV.A.v2.Papillomaviridae.pdf,NA,,Alphapapillomavirus 11
+,Rhesus monkey papillomavirus 1,,Alphapapillomavirus 12,,See https://data.ictvonline.org/proposals/2010.001a-kkkV.A.v2.Papillomaviridae.pdf,NA,,Alphapapillomavirus 12
+,Human papillomavirus 54,,Alphapapillomavirus 13,,See https://data.ictvonline.org/proposals/2010.001a-kkkV.A.v2.Papillomaviridae.pdf,NA,,Alphapapillomavirus 13
+,Human papillomavirus 71,,Alphapapillomavirus 14,Merged,See https://data.ictvonline.org/proposals/2010.001a-kkkV.A.v2.Papillomaviridae.pdf,TRUE,"Duplicate (data identical to Human papillomavirus cand9, except detected host association only by antibodies)",Alphapapillomavirus 14
+,Human papillomavirus cand90,,Alphapapillomavirus 14,Merged,See https://data.ictvonline.org/proposals/2010.001a-kkkV.A.v2.Papillomaviridae.pdf,NA,,Alphapapillomavirus 14
+,Human papillomavirus 10,,Alphapapillomavirus 2,,See https://data.ictvonline.org/proposals/2010.001a-kkkV.A.v2.Papillomaviridae.pdf,NA,,Alphapapillomavirus 2
+,Human papillomavirus 61,,Alphapapillomavirus 3,,See https://data.ictvonline.org/proposals/2010.001a-kkkV.A.v2.Papillomaviridae.pdf,NA,,Alphapapillomavirus 3
+,Human papillomavirus 2,,Alphapapillomavirus 4,,See https://data.ictvonline.org/proposals/2010.001a-kkkV.A.v2.Papillomaviridae.pdf,NA,,Alphapapillomavirus 4
+,Human papillomavirus 26,,Alphapapillomavirus 5,,See https://data.ictvonline.org/proposals/2010.001a-kkkV.A.v2.Papillomaviridae.pdf,NA,,Alphapapillomavirus 5
+,Human papillomavirus 53,,Alphapapillomavirus 6,,See https://data.ictvonline.org/proposals/2010.001a-kkkV.A.v2.Papillomaviridae.pdf,NA,,Alphapapillomavirus 6
+,Human papillomavirus 18,,Alphapapillomavirus 7,,See https://data.ictvonline.org/proposals/2010.001a-kkkV.A.v2.Papillomaviridae.pdf,NA,,Alphapapillomavirus 7
+,Human papillomavirus 7,,Alphapapillomavirus 8,,See https://data.ictvonline.org/proposals/2010.001a-kkkV.A.v2.Papillomaviridae.pdf,NA,,Alphapapillomavirus 8
+,Human papillomavirus 16,,Alphapapillomavirus 9,,See https://data.ictvonline.org/proposals/2010.001a-kkkV.A.v2.Papillomaviridae.pdf,NA,,Alphapapillomavirus 9
+American bat vesiculovirus TFFN-2013,,,American bat vesiculovirus,,No match in ICTV taxonomy; Listed as a strain/isolate on NCBI,NA,,American bat vesiculovirus
+Andes virus,Andes virus,Andes orthohantavirus,Andes orthohantavirus,,,NA,,Andes orthohantavirus
+Eel virus European X,,,Anguillid perhabdovirus,,No match in ICTV taxonomy; Listed as a strain/isolate on NCBI,NA,,Anguillid perhabdovirus
+,Anopheles A virus,,Anopheles A orthobunyavirus,Automatic match,,NA,,Anopheles A orthobunyavirus
+,Anopheles B virus,,Anopheles B orthobunyavirus,Automatic match,,NA,,Anopheles B orthobunyavirus
+Apoi virus,Apoi virus,,Apoi virus,,,NA,,Apoi virus
+Seal picornavirus type 1,,,Aquamavirus A,,No match in ICTV taxonomy; Listed as a strain/isolate on NCBI,NA,,Aquamavirus A
+Aravan virus,Aravan virus,,Aravan lyssavirus,,,NA,,Aravan lyssavirus
+Arboretum virus,,,Arboretum almendravirus,,,NA,,Arboretum almendravirus
+Junin arenavirus,Junin virus,Junín mammarenavirus,Junín mammarenavirus,,,NA,,Argentinian mammarenavirus
+Aroa virus,Aroa virus,Aroa virus,Aroa virus,,,NA,,Aroa virus
+,Ateline herpesvirus 1,,Ateline alphaherpesvirus 1,,,NA,,Ateline alphaherpesvirus 1
+,Ateline herpesvirus 2,,Ateline gammaherpesvirus 2,,,NA,,Ateline gammaherpesvirus 2
+Aura virus,Aura virus,,Aura virus,,,NA,,Aura virus
+Australian bat lyssavirus,Australian bat lyssavirus,Australian bat lyssavirus,Australian bat lyssavirus,,,NA,,Australian bat lyssavirus
+Avastrovirus 1,,,Avastrovirus 1,,,NA,,Avastrovirus 1
+Chicken astrovirus,,,Avastrovirus 2,,,NA,,Avastrovirus 2
+Avastrovirus 3,,,Avastrovirus 3,,,NA,,Avastrovirus 3
+Infectious bronchitis virus,,,Avian coronavirus,Strain,Large number of species merged into this name,NA,,Avian coronavirus
+Turkey enteric coronavirus,,,Avian coronavirus,Strain,Several species merged into this name,NA,,Avian coronavirus
+Avian metapneumovirus,,Avian metapneumovirus,Avian metapneumovirus,,,NA,,Avian metapneumovirus
+Duck hepatitis A virus,,,Avihepatovirus A,,,NA,,Avihepatovirus A
+Chicken picornavirus 2,,,Avisivirus B,,No match in ICTV taxonomy; Listed as a strain/isolate on NCBI,NA,,Avisivirus B
+Chicken picornavirus 3,,,Avisivirus C,,No match in ICTV taxonomy,NA,,Avisivirus C
+,Baboon orthoreovirus,,Baboon orthoreovirus,Automatic match,,NA,,Baboon orthoreovirus
+Bagaza virus,,Bagaza virus,Bagaza virus,,,NA,,Bagaza virus
+,Bakau virus,,Bakau orthobunyavirus,Automatic match,,NA,,Bakau orthobunyavirus
+,Banna virus,Banna virus ,Banna virus,Automatic match,,NA,,Banna virus
+,Banzi virus,Banzi virus ,Banzi virus,Automatic match,,NA,,Banzi virus
+Barmah Forest virus,Barmah Forest virus,Barmah Forest virus ,Barmah Forest virus,,,NA,,Barmah Forest virus
+,Barur virus,,Barur ledantevirus,Automatic match,,NA,,Barur ledantevirus
+Bas-Congo virus,,Bas-Congo tibrovirus,Bas-Congo tibrovirus,,,NA,,Bas-Congo tibrovirus
+Bat coronavirus CDPHE15,,,Bat coronavirus CDPHE15,,,NA,,Bat coronavirus CDPHE15
+Bat coronavirus HKU10,,,Bat coronavirus HKU10,,,NA,,Bat coronavirus HKU10
+,Bayou virus,Bayou orthohantavirus ,Bayou orthohantavirus,Automatic match,,NA,,Bayou orthohantavirus
+Bear canyon virus,Bear Canyon virus,,Bear Canyon mammarenavirus,,,NA,,Bear Canyon mammarenavirus
+Bebaru virus,Bebaru virus,,Bebaru virus,,,NA,,Bebaru virus
+Beluga Whale coronavirus SW1,,,Beluga whale coronavirus SW1,,,NA,,Beluga whale coronavirus SW1
+Berrimah virus,Berrimah virus,,Berrimah ephemerovirus,,,NA,,Berrimah ephemerovirus
+,Porcine reproductive and respiratory syndrome virus,,Porcine reproductive and respiratory syndrome virus 1,,,NA,,Betaarterivirus suid 1
+,,Betacoronavirus 1,Betacoronavirus 1,Automatic match,,NA,,Betacoronavirus 1
+,,Betacoronavirus 1,Betacoronavirus 1,Automatic match,,NA,,Betacoronavirus 1
+Dromedary camel coronavirus HKU23,,,Betacoronavirus 1,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Betacoronavirus 1
+Dromedary camel coronavirus HKU23,,,Betacoronavirus 1,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Betacoronavirus 1
+Equine coronavirus,,,Betacoronavirus 1,Strain,Large number of species merged into this name,NA,,Betacoronavirus 1
+Equine coronavirus,,,Betacoronavirus 1,Strain,Large number of species merged into this name,NA,,Betacoronavirus 1
+Human coronavirus OC43,Human coronavirus OC43,,Betacoronavirus 1,Strain,Large number of species merged into this name,NA,,Betacoronavirus 1
+Human coronavirus OC43,Human coronavirus OC43,,Betacoronavirus 1,Strain,Large number of species merged into this name,NA,,Betacoronavirus 1
+Porcine hemagglutinating encephalomyelitis virus,Porcine hemagglutinating encephalomyelitis virus,,Betacoronavirus 1,Strain,Large number of species merged into this name,NA,,Betacoronavirus 1
+Porcine hemagglutinating encephalomyelitis virus,Porcine hemagglutinating encephalomyelitis virus,,Betacoronavirus 1,Strain,Large number of species merged into this name,NA,,Betacoronavirus 1
+Bovine enteritic coronavirus,Bovine coronavirus,,Betacoronavirus 1,Strain; POSSIBLE DUPLICATE,"Bovine enteritic coronavirus: n match, but new sp. Betacoronavirus 1 contains 'Bovine coronavirus' and 'Human enteritic coronavirus'; So treated as a sub-strain of Olival’s as a sub-strain of Bovine coronavirus, which in turn has been merged into Betacoronavirus 1",NA,,Betacoronavirus 1
+Bovine enteritic coronavirus,Bovine coronavirus,,Betacoronavirus 1,Strain; POSSIBLE DUPLICATE,"Bovine enteritic coronavirus: n match, but new sp. Betacoronavirus 1 contains 'Bovine coronavirus' and 'Human enteritic coronavirus'; So treated as a sub-strain of Olival’s as a sub-strain of Bovine coronavirus, which in turn has been merged into Betacoronavirus 1",NA,,Betacoronavirus 1
+Bovine respiratory coronavirus AH187,Bovine coronavirus,,Betacoronavirus 1,Strain; POSSIBLE DUPLICATE,No match in ICTV taxonomy; Listed as a sub-strain of Bovine coronaviruson NCBI taxonomy,NA,,Betacoronavirus 1
+Bovine respiratory coronavirus AH187,Bovine coronavirus,,Betacoronavirus 1,Strain; POSSIBLE DUPLICATE,No match in ICTV taxonomy; Listed as a sub-strain of Bovine coronaviruson NCBI taxonomy,NA,,Betacoronavirus 1
+Human enteric coronavirus strain 4408,Bovine coronavirus,,Betacoronavirus 1,Strain; POSSIBLE DUPLICATE,Listed as a sub-strain of Bovine coronaviruson NCBI,NA,,Betacoronavirus 1
+Human enteric coronavirus strain 4408,Bovine coronavirus,,Betacoronavirus 1,Strain; POSSIBLE DUPLICATE,Listed as a sub-strain of Bovine coronaviruson NCBI,NA,,Betacoronavirus 1
+,Human papillomavirus 5,,Betapapillomavirus 1,,See https://data.ictvonline.org/proposals/2010.001a-kkkV.A.v2.Papillomaviridae.pdf,NA,,Betapapillomavirus 1
+,Human papillomavirus 9,,Betapapillomavirus 2,,See https://data.ictvonline.org/proposals/2010.001a-kkkV.A.v2.Papillomaviridae.pdf,NA,,Betapapillomavirus 2
+,Human papillomavirus 49,,Betapapillomavirus 3,,See https://data.ictvonline.org/proposals/2010.001a-kkkV.A.v2.Papillomaviridae.pdf,NA,,Betapapillomavirus 3
+,Human papillomavirus cand92,,Betapapillomavirus 4,,See https://data.ictvonline.org/proposals/2010.001a-kkkV.A.v2.Papillomaviridae.pdf,NA,,Betapapillomavirus 4
+,Human papillomavirus cand96,,Betapapillomavirus 5,,See https://data.ictvonline.org/proposals/2010.001a-kkkV.A.v2.Papillomaviridae.pdf,NA,,Betapapillomavirus 5
+,Bimiti virus,,Bimiti orthobunyavirus,Automatic match,,NA,,Bimiti orthobunyavirus
+,Black Creek Canal virus,Black creek canal orthohantavirus ,Black Creek Canal orthohantavirus,Automatic match,,NA,,Black Creek Canal orthohantavirus
+,Bluetongue virus,,Bluetongue virus,Automatic match,,NA,,Bluetongue virus
+Bokeloh bat lyssavirus,,,Bokeloh bat lyssavirus,,,NA,,Bokeloh bat lyssavirus
+,Bovine polyomavirus,,Bos taurus polyomavirus 1,,,NA,,Bos taurus polyomavirus 1
+,Bouboui virus,,Bouboui virus,Automatic match,,NA,,Bouboui virus
+,Bovine herpesvirus 1,,Bovine alphaherpesvirus 1,,,NA,,Bovine alphaherpesvirus 1
+,Bovine herpesvirus 2,,Bovine alphaherpesvirus 2,,,NA,,Bovine alphaherpesvirus 2
+,Bovine herpesvirus 5,,Bovine alphaherpesvirus 5,,,NA,,Bovine alphaherpesvirus 5
+,Bovine adenovirus D,,Bovine atadenovirus D,,,NA,,Bovine atadenovirus D
+Bovine ephemeral fever virus,Bovine ephemeral fever virus,,Bovine fever ephemerovirus,,,NA,,Bovine fever ephemerovirus
+,Bovine foamy virus,,Bovine foamy virus,Automatic match,,NA,,Bovine foamy virus
+,Bovine herpesvirus 4,,Bovine gammaherpesvirus 4,,,NA,,Bovine gammaherpesvirus 4
+,Bovine immunodeficiency virus,,Bovine immunodeficiency virus,Automatic match,,NA,,Bovine immunodeficiency virus
+,Bovine leukemia virus,,Bovine leukemia virus,Automatic match,,NA,,Bovine leukemia virus
+,Bovine adenovirus A,,Bovine mastadenovirus A,,,NA,,Bovine mastadenovirus A
+,Bovine adenovirus B,,Bovine mastadenovirus B,,,NA,,Bovine mastadenovirus B
+,Bovine adenovirus C,,Bovine mastadenovirus C,,,NA,,Bovine mastadenovirus C
+Bovine respiratory syncytial virus,Bovine respiratory syncytial virus,,Bovine orthopneumovirus,,,NA,,Bovine orthopneumovirus
+,Bovine papular stomatitis virus,,Bovine papular stomatitis virus,Automatic match,,NA,,Bovine papular stomatitis virus
+Bovine parainfluenza virus 3,Bovine parainfluenza virus 3,,Bovine respirovirus 3,,,NA,,Bovine respirovirus 3
+Breda virus,Bovine torovirus,,Bovine torovirus,,,NA,,Bovine torovirus
+Sabia virus,Sabia virus,Sabiá mammarenavirus,Sabiá mammarenavirus,,,NA,,Brazilian mammarenavirus
+,Bubaline herpesvirus 1,,Bubaline alphaherpesvirus 1,,,NA,,Bubaline alphaherpesvirus 1
+,Bujaru virus,,Bujaru phlebovirus,Automatic match,,NA,,Bujaru phlebovirus
+,Bukalasa bat virus,,Bukalasa bat virus,Automatic match,,NA,,Bukalasa bat virus
+Thrush coronavirus HKU12,,,Bulbul coronavirus HKU11,Merged,"Species merged in 2017 (or more precisely, examplar isolate of Thrush coronavirus HKU12 was re-assigned to Bulbul coronavirus HKU11)",NA,,Bulbul coronavirus HKU11
+Bundibugyo virus,,Bundibugyo ebolavirus,Bundibugyo ebolavirus,,,NA,,Bundibugyo ebolavirus
+Bunyamwera virus,Bunyamwera virus,Bunyamwera orthobunyavirus ,Bunyamwera orthobunyavirus,,,NA,,Bunyamwera orthobunyavirus
+,Bwamba virus,Bwamba orthobunyavirus ,Bwamba orthobunyavirus,Automatic match,,NA,,Bwamba orthobunyavirus
+,Cabassou virus,,Cabassou virus,Automatic match,,NA,,Cabassou virus
+Cacipacore virus,Cacipacore virus,Cacipacore virus,Cacipacore virus,,,NA,,Cacipacore virus
+Pichinde arenavirus,Pichinde virus,Pichindé mammarenavirus,Pichindé mammarenavirus,,,NA,,Cali mammarenavirus
+La Crosse Virus,California encephalitis virus,California encephalitis orthobunyavirus ,California encephalitis orthobunyavirus,Strain,Large number of species merged into this name (https://talk.ictvonline.org/taxonomy/p/taxonomy-history?taxnode_id=19981031),NA,,California encephalitis orthobunyavirus
+Boa arenavirus,,,Alethinophid 2 reptarenavirus,Strain,No match in ICTV taxonomy; Strain of Alethinophid 2 reptarenavirus on NCBI,NA,,California reptarenavirus
+University of Helsinki virus,,,Alethinophid 2 reptarenavirus,Strain,No match in ICTV taxonomy; Listed as a strain of Alethinophid 2 reptarenavirus on NCBI,NA,,California reptarenavirus
+,Callitrichine herpesvirus 3,,Callitrichine gammaherpesvirus 3,,,NA,,Callitrichine gammaherpesvirus 3
+,Camelpox virus,,Camelpox virus,Automatic match,,NA,,Camelpox virus
+Candiru virus,Candiru virus,Candiru phlebovirus,Candiru phlebovirus,,,NA,,Candiru phlebovirus
+,Canid herpesvirus 1,,Canid alphaherpesvirus 1,,,NA,,Canid alphaherpesvirus 1
+,Canine adenovirus,,Canine mastadenovirus A,,,NA,,Canine mastadenovirus A
+Canine distemper virus,Canine distemper virus,Canine morbillivirus,Canine morbillivirus,,,NA,,Canine morbillivirus
+,Cano Delgadito virus,,Cano Delgadito orthohantavirus,Automatic match,,NA,,Cano Delgadito orthohantavirus
+,Caprine herpesvirus 1,,Caprine alphaherpesvirus 1,,,NA,,Caprine alphaherpesvirus 1
+,Caprine arthritis encephalitis virus,,Caprine arthritis encephalitis virus,Automatic match,,NA,,Caprine arthritis encephalitis virus
+,Caraparu virus,Caraparu orthobunyavirus ,Caraparu orthobunyavirus,Automatic match,,NA,,Caraparu orthobunyavirus
+,Encephalomyocarditis virus,Cardiovirus A,Cardiovirus A,,,NA,,Cardiovirus A
+,Theilovirus,Cardiovirus B,Cardiovirus B,,,NA,,Cardiovirus B
+,Carey Island virus,,Carey Island virus,Automatic match,,NA,,Carey Island virus
+,Aleutian mink disease virus,,Carnivore amdoparvovirus 1,,,NA,,Carnivore amdoparvovirus 1
+,Canine minute virus,,Carnivore bocaparvovirus 1,,,NA,,Carnivore bocaparvovirus 1
+,Feline panleukopenia virus,,Carnivore protoparvovirus 1,,Merged with Canine parvovirus,NA,,Carnivore protoparvovirus 1
+Spring viraemia of carp virus,,,Carp sprivivirus,,,NA,,Carp sprivivirus
+,Catu virus,Catu orthobunyavirus,Catu orthobunyavirus,Automatic match,,NA,,Catu orthobunyavirus
+,Caviid herpesvirus 2,,Caviid betaherpesvirus 2,,,NA,,Caviid betaherpesvirus 2
+Cedar virus,,,Cedar henipavirus,,,NA,,Cedar henipavirus
+,Cercopithecine herpesvirus 2,,Cercopithecine alphaherpesvirus 2,,,NA,,Cercopithecine alphaherpesvirus 2
+,Cercopithecine herpesvirus 9,,Cercopithecine alphaherpesvirus 9,,,NA,,Cercopithecine alphaherpesvirus 9
+,Cercopithecine herpesvirus 5,,Cercopithecine betaherpesvirus 5,,,NA,,Cercopithecine betaherpesvirus 5
+,Cercopithecine herpesvirus 14,,Cercopithecine gammaherpesvirus 14,,,NA,,Cercopithecine gammaherpesvirus 14
+,Cervid herpesvirus 1,,Cervid alphaherpesvirus 1,,,NA,,Cervid alphaherpesvirus 1
+,Cervid herpesvirus 2,,Cervid alphaherpesvirus 2,,,NA,,Cervid alphaherpesvirus 2
+Dolphin morbillivirus,Cetacean morbillivirus virus,,Cetacean morbillivirus,,Dolphin morbillivirus: no match in ICTV taxonomy; listed as a strain/isolate on NCBI,NA,,Cetacean morbillivirus
+Chandipura virus,Chandipura virus,Chandipura vesiculovirus ,Chandipura vesiculovirus,,,NA,,Chandipura vesiculovirus
+,Changuinola virus,,Changuinola virus,Automatic match,,NA,,Changuinola virus
+Chapare virus,,Chapare mammarenavirus,Chapare mammarenavirus,,,NA,,Chapare mammarenavirus
+Chikungunya virus,Chikungunya virus,Chikungunya virus ,Chikungunya virus,,,NA,,Chikungunya virus
+,Chobar Gorge virus,,Chobar Gorge virus,Automatic match,,NA,,Chobar Gorge virus
+,,Choclo orthohantavirus,Choclo orthohantavirus,Automatic match,,NA,,Choclo orthohantavirus
+Coastal Plains virus,,,Coastal Plains tibrovirus,,,NA,,Coastal Plains tibrovirus
+,Cocal virus,Cocal vesiculovirus,Cocal vesiculovirus,Automatic match,,NA,,Cocal vesiculovirus
+,Colorado tick fever virus,Colorado tick fever virus ,Colorado tick fever virus,Automatic match,,NA,,Colorado tick fever virus
+Common-moorhen coronavirus HKU21,,,Common moorhen coronavirus HKU21,,,NA,,Common moorhen coronavirus HKU21
+Porcine coronavirus HKU15,,,Coronavirus HKU15,,Porcine coronavirus HKU15' is a strain on NCBI taxonomy,NA,,Coronavirus HKU15
+,Corriparta virus,Corriparta virus,Corriparta virus,Automatic match,,NA,,Corriparta virus
+,,Cosavirus A,Cosavirus A,Automatic match,,NA,,Cosavirus A
+,,Cosavirus B,Cosavirus B,Automatic match,,NA,,Cosavirus B
+,,Cosavirus D,Cosavirus D,Automatic match,,NA,,Cosavirus D
+,,Cosavirus E,Cosavirus E,Automatic match,,NA,,Cosavirus E
+,,Cosavirus F,Cosavirus F,Automatic match,,NA,,Cosavirus F
+,Cowbone Ridge virus,,Cowbone Ridge virus,Automatic match,,NA,,Cowbone Ridge virus
+,Cowpox virus,,Cowpox virus,Automatic match,,NA,,Cowpox virus
+Crimean-Congo hemorrhagic fever virus,Crimean-Congo hemorrhagic fever virus,Crimean-Congo haemorrhagic fever orthonairovirus ,Crimean-Congo hemorrhagic fever orthonairovirus,,,NA,,Crimean-Congo hemorrhagic fever orthonairovirus
+Cupixi virus,Cupixi virus,,Cupixi mammarenavirus,,,NA,,Cupixi mammarenavirus
+Curionopolis virus,,,Curionopolis curiovirus,,,NA,,Curionopolis curiovirus
+,Dakar bat virus,,Dakar bat virus,Automatic match,,NA,,Dakar bat virus
+,Simian hemorrhagic fever virus,,Simian hemorrhagic fever virus,Automatic match,,NA,,Deltaarterivirus hemfev
+,European elk papillomavirus,,Deltapapillomavirus 1,,,NA,,Deltapapillomavirus 1
+,Deer papillomavirus,,Deltapapillomavirus 2,,,NA,,Deltapapillomavirus 2
+,Ovine papillomavirus 1,,Deltapapillomavirus 3,,,NA,,Deltapapillomavirus 3
+,Bovine papillomavirus 1,,Deltapapillomavirus 4,,See https://data.ictvonline.org/proposals/2010.001a-kkkV.A.v2.Papillomaviridae.pdf,NA,,Deltapapillomavirus 4
+,Dengue virus,Dengue virus ,Dengue virus,Automatic match,,NA,,Dengue virus
+Dengue virus 1,,,Dengue virus,Merged,All Dengue virus subtypes merged (https://talk.ictvonline.org/taxonomy/p/taxonomy-history?taxnode_id=20162437). Checked for duplication – lowest K80 distance to other subtypes is 0.344,NA,,Dengue virus
+Dengue virus 2,,,Dengue virus,Merged,All Dengue virus subtypes merged (https://talk.ictvonline.org/taxonomy/p/taxonomy-history?taxnode_id=20162437). Checked for duplication – lowest K80 distance to other subtypes is 0.344,NA,,Dengue virus
+Dengue virus 3,,,Dengue virus,Merged,All Dengue virus subtypes merged (https://talk.ictvonline.org/taxonomy/p/taxonomy-history?taxnode_id=20162437). Checked for duplication – lowest K80 distance to other subtypes is 0.344,NA,,Dengue virus
+Dengue virus 4,,,Dengue virus,Merged,All Dengue virus subtypes merged (https://talk.ictvonline.org/taxonomy/p/taxonomy-history?taxnode_id=20162437). Checked for duplication – lowest K80 distance to other subtypes is 0.344,NA,,Dengue virus
+,Dera Ghazi Khan virus,,Dera Ghazi Khan orthonairovirus,Automatic match,,NA,,Dera Ghazi Khan orthonairovirus
+,Dhori virus,Dhori virus,Dhori virus,Automatic match,,NA,,Dhori thogotovirus
+Dobrava-Belgrade virus,Dobrava-Belgrade virus,Dobrava-Belgrade orthohantavirus ,Dobrava-Belgrade orthohantavirus,,,NA,,Dobrava-Belgrade orthohantavirus
+Drosophila melanogaster sigmavirus,,,Drosophila melanogaster sigmavirus,,,NA,,Drosophila melanogaster sigmavirus
+Drosophila obscura sigmavirus,,,Drosophila obscura sigmavirus,,,NA,,Drosophila obscura sigmavirus
+Dugbe virus,Dugbe virus,Dugbe orthonairovirus ,Dugbe orthonairovirus,,,NA,,Dugbe orthonairovirus
+Duvenhage virus,Duvenhage virus,Duvenhage lyssavirus ,Duvenhage lyssavirus,,,NA,,Duvenhage lyssavirus
+Eastern equine encephalitis virus,Eastern equine encephalitis virus,Eastern equine encephalitis virus ,Eastern equine encephalitis virus,,,NA,,Eastern equine encephalitis virus
+,Ectromelia virus,,Ectromelia virus,Automatic match,,NA,,Ectromelia virus
+,,Edge Hill virus,Edge Hill virus,Automatic match,,NA,,Edge Hill virus
+Eggplant mottled dwarf virus,,,Eggplant mottled dwarf nucleorhabdovirus,,,NA,,Eggplant mottled dwarf nucleorhabdovirus
+Eilat virus,,,Eilat virus,,,NA,,Eilat virus
+,,Ekpoma 1 tibrovirus ,Ekpoma 1 tibrovirus,Automatic match,,NA,,Ekpoma 1 tibrovirus
+,,Ekpoma 2 tibrovirus,Ekpoma 2 tibrovirus,Automatic match,,NA,,Ekpoma 2 tibrovirus
+,El Moro Canyon virus,,El Moro Canyon orthohantavirus,Automatic match,,NA,,El Moro Canyon orthohantavirus
+Entebbe bat virus,Entebbe bat virus,,Entebbe bat virus,,,NA,,Entebbe bat virus
+Enterovirus A71,Human enterovirus A,Enterovirus A,Enterovirus A,,"Enterovirus A71: no match in ICTV taxonomy, listed as a type/strain on NCBI",NA,,Enterovirus A
+Human enterovirus 107,Human enterovirus B,Enterovirus B,Enterovirus B,,Human enterovirus 107: No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Enterovirus B
+,,Enterovirus C,Enterovirus C,Automatic match,,NA,,Enterovirus C
+,Human enterovirus C,,Enterovirus C,Merged,,TRUE,Duplicate (data identical to Poliovirus),Enterovirus C
+Human poliovirus 2,Poliovirus,,Enterovirus C,Merged,,NA,,Enterovirus C
+,Human enterovirus D,Enterovirus D,Enterovirus D,,,NA,,Enterovirus D
+,,Enterovirus E,Enterovirus E,Automatic match,,NA,,Enterovirus E
+,Porcine enterovirus B,,Enterovirus G,,,NA,,Enterovirus G
+,Simian enterovirus A,,Enterovirus H,,,NA,,Enterovirus H
+Dromedary camel enterovirus,,,Enterovirus I,Strain,No match in ICTV taxonomy; Listed as a strain/isolate on NCBI,NA,,Enterovirus I
+,Epizootic hemorrhagic disease virus,,Epizootic hemorrhagic disease virus,Automatic match,,NA,,Epizootic hemorrhagic disease virus
+,Bovine papillomavirus 5,,Epsilonpapillomavirus 1,,,NA,,Epsilonpapillomavirus 1
+,Equid herpesvirus 1,,Equid alphaherpesvirus 1,,,NA,,Equid alphaherpesvirus 1
+,Equid herpesvirus 3,,Equid alphaherpesvirus 3,,,NA,,Equid alphaherpesvirus 3
+,Equid herpesvirus 4,,Equid alphaherpesvirus 4,,,NA,,Equid alphaherpesvirus 4
+,Equid herpesvirus 8,,Equid alphaherpesvirus 8,,,NA,,Equid alphaherpesvirus 8
+,Equid herpesvirus 9,,Equid alphaherpesvirus 9,,,NA,,Equid alphaherpesvirus 9
+,Equid herpesvirus 2,,Equid gammaherpesvirus 2,,,NA,,Equid gammaherpesvirus 2
+,Equid herpesvirus 5,,Equid gammaherpesvirus 5,,,NA,,Equid gammaherpesvirus 5
+,Equid herpesvirus 7,,Equid gammaherpesvirus 7,,,NA,,Equid gammaherpesvirus 7
+,Equine encephalosis virus,,Equine encephalosis virus,Automatic match,,NA,,Equine encephalosis virus
+,Equine foamy virus,,Equine foamy virus,Automatic match,,NA,,Equine foamy virus
+,Equine infectious anemia virus,,Equine infectious anemia virus,Automatic match,,NA,,Equine infectious anemia virus
+,Equine adenovirus A,,Equine mastadenovirus A,,,NA,,Equine mastadenovirus A
+,Equine adenovirus B,,Equine mastadenovirus B,,,NA,,Equine mastadenovirus B
+,Equine rhinitis A virus,Equine rhinitis A virus ,Equine rhinitis A virus,Automatic match,,NA,,Equine rhinitis A virus
+,Equine torovirus,,Equine torovirus,Automatic match,,NA,,Equine torovirus
+,Equine rhinitis B virus,Erbovirus A,Erbovirus A,,,NA,,Erbovirus A
+,Eubenangee virus,,Eubenangee virus,Automatic match,,NA,,Eubenangee virus
+European bat lyssavirus 1,European bat lyssavirus 1,European bat 1 lyssavirus,European bat 1 lyssavirus,,,NA,,European bat 1 lyssavirus
+European bat lyssavirus 2,European bat lyssavirus 2,European bat 2 lyssavirus,European bat 2 lyssavirus,,,NA,,European bat 2 lyssavirus
+European brown hare syndrome virus,European brown hare syndrome virus,,European brown hare syndrome virus,,,NA,,European brown hare syndrome virus
+,Everglades virus,Everglades virus ,Everglades virus,Automatic match,,NA,,Everglades virus
+,Eyach virus,Eyach virus,Eyach virus,Automatic match,,NA,,Eyach virus
+,Felid herpesvirus 1,,Felid alphaherpesvirus 1,,,NA,,Felid alphaherpesvirus 1
+Feline calicivirus,Feline calicivirus,,Feline calicivirus,,,NA,,Feline calicivirus
+,Feline foamy virus,,Feline foamy virus,Automatic match,,NA,,Feline foamy virus
+,Feline immunodeficiency virus,,Feline immunodeficiency virus,Automatic match,,NA,,Feline immunodeficiency virus
+,Feline leukemia virus,,Feline leukemia virus,Automatic match,,NA,,Feline leukemia virus
+Feline morbillivirus,,,Feline morbillivirus,,,NA,,Feline morbillivirus
+Ferak virus,,,Ferak orthoferavirus,,,NA,,Ferak feravirus
+Fikirini bat rhabdovirus,,,Fikirini ledantevirus,,No match in ICTV taxonomy; Listed as a strain/isolate on NCBI,NA,,Fikirini ledantevirus
+Flexal virus,Flexal virus,,Flexal mammarenavirus,,,NA,,Flexal mammarenavirus
+Foot-and-mouth disease virus - type A,Foot-and-mouth disease virus,Foot-and-mouth disease virus ,Foot-and-mouth disease virus,,,NA,,Foot-and-mouth disease virus
+Buggy Creek virus,,,Fort Morgan virus,Merged,,TRUE,"Duplicate (data identical, K80 distance between sequences in Babayan data only 0.039)",Fort Morgan virus
+Fort Morgan virus,,,Fort Morgan virus,Merged,,NA,,Fort Morgan virus
+,,Gadgets Gully virus,Gadgets Gully virus,Automatic match,,NA,,Gadgets Gully virus
+Gairo virus,,,Gairo mammarenavirus,,,NA,,Gairo mammarenavirus
+,Lactate dehydrogenase-elevating virus,,Lactate dehydrogenase-elevating virus,Automatic match,,NA,,Gammaarterivirus lacdeh
+,Human papillomavirus 4,,Gammapapillomavirus 1,,See https://data.ictvonline.org/proposals/2010.001a-kkkV.A.v2.Papillomaviridae.pdf,NA,,Gammapapillomavirus 1
+,Human papillomavirus 48,,Gammapapillomavirus 2,,See https://data.ictvonline.org/proposals/2010.001a-kkkV.A.v2.Papillomaviridae.pdf,NA,,Gammapapillomavirus 2
+,Human papillomavirus 50,,Gammapapillomavirus 3,,See https://data.ictvonline.org/proposals/2010.001a-kkkV.A.v2.Papillomaviridae.pdf,NA,,Gammapapillomavirus 3
+,Human papillomavirus 60,,Gammapapillomavirus 4,,See https://data.ictvonline.org/proposals/2010.001a-kkkV.A.v2.Papillomaviridae.pdf,NA,,Gammapapillomavirus 4
+,Human papillomavirus 88,,Gammapapillomavirus 5,,See https://data.ictvonline.org/proposals/2010.001a-kkkV.A.v2.Papillomaviridae.pdf,NA,,Gammapapillomavirus 5
+Getah virus,Getah virus,Getah virus ,Getah virus,,,NA,,Getah virus
+Bat Paramyxovirus Eid_hel,,,Ghanaian bat henipavirus,,No match in ICTV taxonomy; Listed as a strain on NCBI,NA,,Ghanaian bat henipavirus
+,Gibbon ape leukemia virus,,Gibbon ape leukemia virus,Automatic match,,NA,,Gibbon ape leukemia virus
+,Goatpox virus,,Goatpox virus,Automatic match,,NA,,Goatpox virus
+Golden Gate virus,,,Alethinophid 1 reptarenavirus,,No match in ICTV taxonomy; Comes up as (the only) strain of Alethinophid 1 reptarenavirus on NCBI,NA,,Golden reptarenavirus
+,Pongine herpesvirus 3,,Gorilline gammaherpesvirus 1,,,NA,,Gorilline gammaherpesvirus 1
+Gouleako virus,,,Gouleako goukovirus,,,NA,,Gouleako goukovirus
+,Great Island virus,Great Island virus ,Great Island virus,Automatic match,,NA,,Great Island virus
+,African green monkey simian foamy virus,African green monkey simian foamy virus,African green monkey simian foamy virus,Automatic match,,NA,,Grivet simian foamy virus
+,Arctic squirrel hepatitis virus,,Ground squirrel hepatitis virus,Strain,No match on ICTV; Listed as a type/strain on NCBI,NA,,Ground squirrel hepatitis virus
+,Ground squirrel hepatitis virus,,Ground squirrel hepatitis virus,Strain,"POSSIBLE DUPLICATE, but hosts differ (if sequences are similar – merge host data)",NA,,Ground squirrel hepatitis virus
+Groundnut bud necrosis virus,,,Groundnut bud necrosis orthotospovirus,,,NA,,Groundnut bud necrosis tospovirus
+,Guama virus,Guama orthobunyavirus,Guama orthobunyavirus,Automatic match,,NA,,Guama orthobunyavirus
+Guanarito virus,Guanarito virus,Guanarito mammarenavirus,Guanarito mammarenavirus,,,NA,,Guanarito mammarenavirus
+,Guaroa virus,Guaroa orthobunyavirus ,Guaroa orthobunyavirus,Automatic match,,NA,,Guaroa orthobunyavirus
+,Guinea pig type-C oncovirus,,Guinea pig type-C oncovirus,Automatic match,,NA,,Guinea pig type-C oncovirus
+Hantaan virus,Hantaan virus,Hantaan orthohantavirus ,Hantaan orthohantavirus,,,NA,,Hantaan orthohantavirus
+,Hare fibroma virus,,Hare fibroma virus,Automatic match,,NA,,Hare fibroma virus
+Falcovirus A1,,,Harkavirus A,,No match in ICTV taxonomy; Listed as a strain/isolate on NCBI,NA,,Harkavirus A
+Betacoronavirus Erinaceus,,,Hedgehog coronavirus 1,,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Hedgehog coronavirus 1
+Hendra virus,Hendra virus,Hendra henipavirus ,Hendra henipavirus,,,NA,,Hendra henipavirus
+Hepatitis C virus,Hepatitis C virus,Hepacivirus C,Hepacivirus C,,,NA,,Hepacivirus C
+,Hepatitis B virus,,Hepatitis B virus,Automatic match,,NA,,Hepatitis B virus
+,Hepatitis delta virus,Hepatitis delta virus ,Hepatitis delta virus,Automatic match,,NA,,Hepatitis delta virus
+,Hepatitis A virus,Hepatovirus A,Hepatovirus A,,,NA,,Hepatovirus A
+Phopivirus,,,Hepatovirus B,,No match in ICTV taxonomy; Listed as a strain/isolate on NCBI,NA,,Hepatovirus B
+Herbert virus,,,Herbert herbevirus,,,NA,,Herbert herbevirus
+Highlands J virus,Highlands J virus,Highlands J virus,Highlands J virus,,,NA,,Highlands J virus
+,Hippotragine herpesvirus 1,,Hippotragine gammaherpesvirus 1,,,NA,,Hippotragine gammaherpesvirus 1
+Hirame rhabdovirus,,,Hirame novirhabdovirus,,,NA,,Hirame novirhabdovirus
+Severe fever with thrombocytopenia syndrome virus,,SFTS phlebovirus,SFTS phlebovirus,,,NA,,Huaiyangshan banyangvirus
+,Human herpesvirus 1,,Human alphaherpesvirus 1,,,NA,,Human alphaherpesvirus 1
+,Human herpesvirus 2,,Human alphaherpesvirus 2,,,NA,,Human alphaherpesvirus 2
+,Human herpesvirus 3,,Human alphaherpesvirus 3,,,NA,,Human alphaherpesvirus 3
+,Human herpesvirus 5,,Human betaherpesvirus 5,,,NA,,Human betaherpesvirus 5
+,Human herpesvirus 7,,Human betaherpesvirus 7,,,NA,,Human betaherpesvirus 7
+Alpaca respiratory coronavirus,,,Human coronavirus 229E,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Human coronavirus 229E
+Camel alphacoronavirus,,,Human coronavirus 229E,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Human coronavirus 229E
+Human coronavirus 229E,Human coronavirus 229E,Human coronavirus 229E ,Human coronavirus 229E,,Checked for duplication – host differs (though sequences very similar),NA,,Human coronavirus 229E
+Human coronavirus HKU1,,Human coronavirus HKU1,Human coronavirus HKU1,,,NA,,Human coronavirus HKU1
+Human coronavirus NL63,,Human coronavirus NL63,Human coronavirus NL63,,,NA,,Human coronavirus NL63
+,Human herpesvirus 4,,Human gammaherpesvirus 4,,,NA,,Human gammaherpesvirus 4
+,Human herpesvirus 8,,Human gammaherpesvirus 8,,,NA,,Human gammaherpesvirus 8
+,Human immunodeficiency virus 1,Human immunodeficiency virus 1 ,Human immunodeficiency virus 1,Automatic match,,NA,,Human immunodeficiency virus 1
+,Human immunodeficiency virus 2,Human immunodeficiency virus 2 ,Human immunodeficiency virus 2,Automatic match,,NA,,Human immunodeficiency virus 2
+,Human adenovirus A,,Human mastadenovirus A,,,NA,,Human mastadenovirus A
+,Human adenovirus B,,Human mastadenovirus B,,,NA,,Human mastadenovirus B
+,Human adenovirus C,,Human mastadenovirus C,,,NA,,Human mastadenovirus C
+,Human adenovirus D,,Human mastadenovirus D,,,NA,,Human mastadenovirus D
+,Human adenovirus E,,Human mastadenovirus E,,,NA,,Human mastadenovirus E
+,Human adenovirus F,,Human mastadenovirus F,,,NA,,Human mastadenovirus F
+Human metapneumovirus,Human metapneumovirus,Human metapneumovirus,Human metapneumovirus,,,NA,,Human metapneumovirus
+Human respiratory syncytial virus,Human respiratory syncytial virus,Human orthopneumovirus ,Human orthopneumovirus,,,NA,,Human orthopneumovirus
+,Human picobirnavirus,Human picobirnavirus ,Human picobirnavirus,Automatic match,,NA,,Human picobirnavirus
+,BK polyomavirus,,Human polyomavirus 1,,,NA,,Human polyomavirus 1
+,JC polyomavirus,,Human polyomavirus 2,,,NA,,Human polyomavirus 2
+Human parainfluenza virus 1,Human parainfluenza virus 1,Human respirovirus 1 ,Human respirovirus 1,,,NA,,Human respirovirus 1
+Human parainfluenza virus 3,Human parainfluenza virus 3,Human respirovirus 3 ,Human respirovirus 3,,,NA,,Human respirovirus 3
+Ikoma lyssavirus,,,Ikoma lyssavirus,,,NA,,Ikoma lyssavirus
+Ilheus virus,Ilheus virus,Ilheus virus ,Ilheus virus,,,NA,,Ilheus virus
+Impatiens necrotic spot virus,,,Impatiens necrotic spot orthotospovirus,,,NA,,Impatiens necrotic spot tospovirus
+Vesicular stomatitis Indiana virus,Vesicular stomatitis Indiana virus,Indiana vesiculovirus ,Indiana vesiculovirus,,,NA,,Indiana vesiculovirus
+,Influenza A virus,Influenza A virus,Influenza A virus,Automatic match,,NA,,Influenza A virus
+,Influenza A virus,Influenza A virus,Influenza A virus,Automatic match,,NA,,Influenza A virus
+,Influenza A virus,Influenza A virus,Influenza A virus,Automatic match,,NA,,Influenza A virus
+,Influenza A virus,Influenza A virus,Influenza A virus,Automatic match,,NA,,Influenza A virus
+,Influenza B virus,Influenza B virus ,Influenza B virus,Automatic match,,NA,,Influenza B virus
+,Influenza C virus,Influenza C virus  ,Influenza C virus,Automatic match,,NA,,Influenza C virus
+,Mastomys natalensis papillomavirus,,Iotapapillomavirus 1,,,NA,,Iotapapillomavirus 1
+Ippy virus,Ippy virus,,Ippy mammarenavirus,,,NA,,Ippy mammarenavirus
+Irkut virus,Irkut virus,Irkut lyssavirus,Irkut lyssavirus,,,NA,,Irkut lyssavirus
+Isfahan virus,Isfahan virus,Isfahan vesiculovirus,Isfahan vesiculovirus,,,NA,,Isfahan vesiculovirus
+,Jaagsiekte sheep retrovirus,,Jaagsiekte sheep retrovirus,Automatic match,,NA,,Jaagsiekte sheep retrovirus
+Japanese encephalitis virus,Japanese encephalitis virus,Japanese encephalitis virus ,Japanese encephalitis virus,,,NA,,Japanese encephalitis virus
+Jonchet virus,,,Jonchet orthojonvirus,,,NA,,Jonchet jonvirus
+,Jugra virus,,Jugra virus,Automatic match,,NA,,Jugra virus
+Jurona virus,Jurona virus,,Jurona vesiculovirus,,,NA,,Jurona vesiculovirus
+Jutiapa virus,Jutiapa virus,,Jutiapa virus,,,NA,,Jutiapa virus
+,Kaeng Khoi virus,,Kaeng Khoi orthobunyavirus,Automatic match,,NA,,Kaeng Khoi orthobunyavirus
+,Kairi virus,Kairi orthobunyavirus,Kairi orthobunyavirus,Automatic match,,NA,,Kairi orthobunyavirus
+,Rabbit oral papillomavirus,,Kappapapillomavirus 1,,,NA,,Kappapapillomavirus 1
+,Cottontail rabbit papillomavirus,,Kappapapillomavirus 2,,,NA,,Kappapapillomavirus 2
+,Kasokero virus,,Kasokero orthonairovirus,Automatic match,,NA,,Kasokero orthonairovirus
+,Yogue virus,,Kasokero orthonairovirus,,"Unclassified on NCBI, but recent publication lists it as a strain of Kasokero orthonairovirus (https://doi.org/10.1007/s00705-018-04127-3)",NA,,Kasokero orthonairovirus
+Kedougou virus,,,Kedougou virus,,,NA,,Kedougou virus
+,Kern Canyon virus,,Kern Canyon ledantevirus,Automatic match,,NA,,Kern Canyon ledantevirus
+,Keuraliba virus,,Keuraliba ledantevirus,Automatic match,,NA,,Keuraliba ledantevirus
+,Topografov virus,,Khabarovsk orthohantavirus,Merged,"Listed as abolished in 2016 on ICTV taxonomy search, but linked document makes it a strain (see https://data.ictvonline.org/proposals/2016.023a-cM.A.v2.Hantavirus_sprev.pdf)",NA,,Khabarovsk orthohantavirus
+,Khabarovsk virus,,Khabarovsk orthohantavirus,Merged,Checked for duplication – host differs from Topografov virus,NA,,Khabarovsk orthohantavirus
+Khujand virus,Khujand virus,,Khujand lyssavirus,,,NA,,Khujand lyssavirus
+Kimberley virus,,,Kimberley ephemerovirus,,,NA,,Kimberley ephemerovirus
+Kokobera virus,Kokobera virus,Kokobera virus ,Kokobera virus,,,NA,,Kokobera virus
+Kolente virus,,,Kolente ledantevirus,,,NA,,Kolente ledantevirus
+,Koongol virus,,Koongol orthobunyavirus,Automatic match,,NA,,Koongol orthobunyavirus
+Kotonkan virus,Kotonkan virus,,Kotonkan ephemerovirus,,,NA,,Kotonkan ephemerovirus
+,Koutango virus,,Koutango virus,Automatic match,,NA,,Koutango virus
+Alkhumra hemorrhagic fever virus,,,Kyasanur Forest disease virus,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,TRUE,"Data identical to Kyasanur Forest disease virus, except that host is unknown (orphan); K80 distance is only 0.078",Kyasanur Forest disease virus
+Kyasanur forest disease virus,Kyasanur Forest disease virus,Kyasanur forest disease virus ,Kyasanur Forest disease virus,,,NA,,Kyasanur Forest disease virus
+Lagos bat virus,Lagos bat virus,,Lagos bat lyssavirus,,,NA,,Lagos bat lyssavirus
+,Rio Mamore virus,,Laguna Negra orthohantavirus,Merged,"Listed as abolished in 2016 on ICTV taxonomy search, but linked document makes it a strain (see https://data.ictvonline.org/proposals/2016.023a-cM.A.v2.Hantavirus_sprev.pdf)",NA,,Laguna Negra orthohantavirus
+,Laguna Negra virus,Laguna Negra orthohantavirus,Laguna Negra orthohantavirus,Merged,Checked for duplication – hosts only partially overlap with Rio Mamore virus,NA,,Laguna Negra orthohantavirus
+,Feline papillomavirus,,Lambdapapillomavirus 1,,,NA,,Lambdapapillomavirus 1
+,Canine oral papillomavirus,,Lambdapapillomavirus 2,,,NA,,Lambdapapillomavirus 2
+Langat virus,,Langat virus,Langat virus,,,NA,,Langat virus
+,Langur virus,,Langur virus,Automatic match,,NA,,Langur virus
+Lassa virus,Lassa virus,Lassa mammarenavirus,Lassa mammarenavirus,,,NA,,Lassa mammarenavirus
+Latino virus,Latino virus,,Latino mammarenavirus,,,NA,,Latino mammarenavirus
+,Lebombo virus,Lebombo virus ,Lebombo virus,Automatic match,,NA,,Lebombo virus
+Lettuce necrotic yellows virus,,,Lettuce necrotic yellows cytorhabdovirus,,,NA,,Lettuce necrotic yellows cytorhabdovirus
+Lettuce yellow mottle virus,,,Lettuce yellow mottle cytorhabdovirus,,,NA,,Lettuce yellow mottle cytorhabdovirus
+Fathead minnow picornavirus,,,Limnipivirus C,,No match in ICTV taxonomy; Listed as a strain/isolate on NCBI,NA,,Limnipivirus C
+Lloviu cuevavirus,,,Lloviu cuevavirus,,,NA,,Lloviu cuevavirus
+Loie River virus,,,Loei River mammarenavirus,,Loie/Loei River virus are synonyms according to NCBI taxonomy; only Loei river virus returns a result on ICTV,NA,,Loei River mammarenavirus
+Louping ill virus,Louping ill virus,Louping ill virus ,Louping ill virus,,,NA,,Louping ill virus
+Lujo virus,,Lujo mammarenavirus,Lujo mammarenavirus,,,NA,,Lujo mammarenavirus
+,Lumpy skin disease virus,,Lumpy skin disease virus,Automatic match,,NA,,Lumpy skin disease virus
+Luna virus,,,Luna mammarenavirus,,,NA,,Luna mammarenavirus
+Lunk virus NKS-1,,,Lunk mammarenavirus,,,NA,,Lunk mammarenavirus
+Lymphocytic choriomeningitis virus,Lymphocytic choriomeningitis virus,Lymphocytic choriomeningitis mammarenavirus,Lymphocytic choriomeningitis mammarenavirus,,,NA,,Lymphocytic choriomeningitis mammarenavirus
+,Simian virus 40,,Macaca mulatta polyomavirus 1,,,NA,,Macaca mulatta polyomavirus 1
+,Cercopithecine herpesvirus 1,,Macacine alphaherpesvirus 1,,,NA,,Macacine alphaherpesvirus 1
+,Cercopithecine herpesvirus 8,,Macacine betaherpesvirus 3,,,NA,,Macacine betaherpesvirus 3
+,Cercopithecine herpesvirus 15,,Macacine gammaherpesvirus 4,,,NA,,Macacine gammaherpesvirus 4
+,Cercopithecine herpesvirus 17,,Macacine gammaherpesvirus 5,,,NA,,Macacine gammaherpesvirus 5
+Machupo virus,Machupo virus,Machupo mammarenavirus,Machupo mammarenavirus,,,NA,,Machupo mammarenavirus
+,Macropodid herpesvirus 1,,Macropodid alphaherpesvirus 1,,,NA,,Macropodid alphaherpesvirus 1
+,Macropodid herpesvirus 2,,Macropodid alphaherpesvirus 2,,,NA,,Macropodid alphaherpesvirus 2
+Madariaga virus,,,Madariaga virus,,,NA,,Madariaga virus
+,Madrid virus,Madrid orthobunyavirus,Madrid orthobunyavirus,Automatic match,,NA,,Madrid orthobunyavirus
+,Main Drain virus,,Main Drain orthobunyavirus,Automatic match,,NA,,Main Drain orthobunyavirus
+Maize fine streak virus,,,Maize fine streak nucleorhabdovirus,,,NA,,Maize fine streak nucleorhabdovirus
+Maize Iranian mosaic virus,,,Maize Iranian mosaic nucleorhabdovirus,,,NA,,Maize Iranian mosaic nucleorhabdovirus
+Maize mosaic virus,,,Maize mosaic nucleorhabdovirus,,,NA,,Maize mosaic nucleorhabdovirus
+Malpais Spring virus,,,Malpais Spring vesiculovirus,,,NA,,Malpais Spring vesiculovirus
+Mamastrovirus 1,Human astrovirus,Mamastrovirus 1,Mamastrovirus 1,,,NA,,Mamastrovirus 1
+Mamastrovirus 10,Mink astrovirus,,Mamastrovirus 10,,,NA,,Mamastrovirus 10
+Mamastrovirus 13,Ovine astrovirus,,Mamastrovirus 13,,,NA,,Mamastrovirus 13
+Feline astrovirus D1,Feline astrovirus,,Mamastrovirus 2,Strain,"Feline astrovirus is now Mamastrovirus 2, 'Feline astrovirus D1' has no match in ICTV; Listed as a strain of Mamastrovirus 2 on NCBI",NA,,Mamastrovirus 2
+Mamastrovirus 2,,,Mamastrovirus 2,,"Checked for duplication – data identical to Feline astrovirus D1, but K80 distance is 0.688",NA,,Mamastrovirus 2
+Mamastrovirus 3,Porcine astrovirus,,Mamastrovirus 3,,,NA,,Mamastrovirus 3
+California sea lion astrovirus 2,,,Mamastrovirus 4,,,NA,,Mamastrovirus 4
+Astrovirus MLB1,,Mamastrovirus 6,Mamastrovirus 6,,"Astrovirus MLB1: Listed as a strain on NCBI taxonomy, confirmed for this specific accession (before it became a RefSeq) in https://data.ictvonline.org/proposals/2010.018a-cV.A.v4.Mamastrovirus.pdf",NA,,Mamastrovirus 6
+,,Mamastrovirus 8,Mamastrovirus 8,Automatic match,,NA,,Mamastrovirus 8
+Astrovirus VA1,,Mamastrovirus 9,Mamastrovirus 9,Strain,"Astrovirus VA1: Listed as a strain on NCBI taxonomy, confirmed for this specific accession (before it became a RefSeq) in https://data.ictvonline.org/proposals/2010.018a-cV.A.v4.Mamastrovirus.pdf",NA,,Mamastrovirus 9
+,Borna disease virus,Mammalian 1 bornavirus,Mammalian 1 bornavirus,,,NA,,Mammalian 1 orthobornavirus
+,,Mammalian 2 bornavirus ,Mammalian 2 bornavirus,Automatic match,,NA,,Mammalian 2 orthobornavirus
+,Mammalian orthoreovirus,Mammalian orthoreovirus,Mammalian orthoreovirus,Automatic match,,NA,,Mammalian orthoreovirus
+,Manzanilla virus,,Manzanilla orthobunyavirus,Automatic match,,NA,,Manzanilla orthobunyavirus
+Maraba virus,Maraba virus,Maraba vesiculovirus,Maraba vesiculovirus,,,NA,,Maraba vesiculovirus
+Marburg marburgvirus,Lake Victoria marburgvirus,Marburg marburgvirus,Marburg marburgvirus,,,NA,,Marburg marburgvirus
+,Marituba virus,Marituba orthobunyavirus,Marituba orthobunyavirus,Automatic match,,NA,,Marituba orthobunyavirus
+,Mason-Pfizer monkey virus,,Mason-Pfizer monkey virus,Automatic match,,NA,,Mason-Pfizer monkey virus
+Mayaro virus,Mayaro virus,Mayaro virus ,Mayaro virus,,,NA,,Mayaro virus
+Measles virus,Measles virus,Measles morbillivirus ,Measles morbillivirus,,,NA,,Measles morbillivirus
+Merino Walk virus,,,Merino Walk mammarenavirus,,,NA,,Merino Walk mammarenavirus
+,Hamster polyomavirus,,Mesocricetus auratus polyomavirus 1,,,NA,,Mesocricetus auratus polyomavirus 1
+Middelburg virus,Middelburg virus,,Middelburg virus,,,NA,,Middelburg virus
+Middle East respiratory syndrome coronavirus_camelL3,,,Middle East respiratory syndrome-related coronavirus,Strain,Added Nov2018,TRUE,Duplicate,Middle East respiratory syndrome-related coronavirus
+Middle East respiratory syndrome coronavirus_camelL5,,,Middle East respiratory syndrome-related coronavirus,Strain,Added Nov2018,TRUE,Duplicate,Middle East respiratory syndrome-related coronavirus
+Middle East respiratory syndrome coronavirus,,Middle East respiratory syndrome-related coronavirus,Middle East respiratory syndrome-related coronavirus,,,NA,,Middle East respiratory syndrome-related coronavirus
+Middle East respiratory syndrome coronavirus_2012,,,Middle East respiratory syndrome-related coronavirus,,Added Nov2018,NA,,Middle East respiratory syndrome-related coronavirus
+,Minatitlan virus,,Minatitlan orthobunyavirus,Automatic match,,NA,,Minatitlan orthobunyavirus
+Miniopterus bat coronavirus HKU8,,,Miniopterus bat coronavirus HKU8,,,NA,,Miniopterus bat coronavirus HKU8
+Miniopterus schreibersii picornavirus 1,,,Mischivirus A,,No match in ICTV taxonomy; Listed as a strain/isolate on NCBI,NA,,Mischivirus A
+African bat icavirus A,,,Mischivirus C,,No match in ICTV taxonomy; Listed as a strain on NCBI,NA,,Mischivirus C
+Mobala virus,Mobala virus,Mobala mammarenavirus,Mobala mammarenavirus,,,NA,,Mobala mammarenavirus
+Modoc virus,Modoc virus,,Modoc virus,,,NA,,Modoc virus
+Mojiang virus,,,Mojiang henipavirus,,,NA,,Mojiang henipavirus
+Mokola virus,Mokola virus,Mokola lyssavirus ,Mokola lyssavirus,,,NA,,Mokola lyssavirus
+,Molluscum contagiosum virus,,Molluscum contagiosum virus,Automatic match,,NA,,Molluscum contagiosum virus
+,Moloney murine sarcoma virus,,Moloney murine sarcoma virus,Automatic match,,NA,,Moloney murine sarcoma virus
+,Monkeypox virus,,Monkeypox virus,Automatic match,,NA,,Monkeypox virus
+Montana myotis leukoencephalitis virus,Montana myotis leukoencephalitis virus,,Montana myotis leukoencephalitis virus,,,NA,,Montana myotis leukoencephalitis virus
+Mopeia virus,Mopeia virus,,Mopeia mammarenavirus,,,NA,,Mopeia mammarenavirus
+,Mosso das Pedras virus 78V3531,Mosso das Pedras virus,Mosso das Pedras virus,,"""78V-3531"" appears to be a strain name for this virus in some NCBI databases",NA,,Mosso das Pedras virus
+,Mount Elgon bat virus,,Mount Elgon bat ledantevirus,Automatic match,,NA,,Mount Elgon bat ledantevirus
+,Mouse mammary tumor virus,,Mouse mammary tumor virus,Automatic match,,NA,,Mouse mammary tumor virus
+Moussa virus,,,Moussa virus,,,NA,,Moussa virus
+,Mucambo virus,Mucambo virus,Mucambo virus,Automatic match,,NA,,Mucambo virus
+Munia coronavirus HKU13,,,Munia coronavirus HKU13,,,NA,,Munia coronavirus HKU13
+,Human papillomavirus 1,,Mupapillomavirus 1,,See https://data.ictvonline.org/proposals/2010.001a-kkkV.A.v2.Papillomaviridae.pdf,NA,,Mupapillomavirus 1
+,Human papillomavirus 63,,Mupapillomavirus 2,,See https://data.ictvonline.org/proposals/2010.001a-kkkV.A.v2.Papillomaviridae.pdf,NA,,Mupapillomavirus 2
+,Murid herpesvirus 1,,Murid betaherpesvirus 1,,,NA,,Murid betaherpesvirus 1
+,Murid herpesvirus 2,,Murid betaherpesvirus 2,,,NA,,Murid betaherpesvirus 2
+,Murid herpesvirus 4,,Murid gammaherpesvirus 4,,,NA,,Murid gammaherpesvirus 4
+Murine hepatitis virus,Murine hepatitis virus,,Murine coronavirus,Merged,Several species merged into this name,NA,,Murine coronavirus
+Rat coronavirus,Rat coronavirus,,Murine coronavirus,Merged,Several species merged into this name,NA,,Murine coronavirus
+,Murine leukemia virus,,Murine leukemia virus,Automatic match,,NA,,Murine leukemia virus
+,Murine adenovirus A,,Murine mastadenovirus A,,,NA,,Murine mastadenovirus A
+,Murine adenovirus B,,Murine mastadenovirus B,,,NA,,Murine mastadenovirus B
+Murine pneumonia virus,Murine pneumonia virus,,Murine orthopneumovirus,,,NA,,Murine orthopneumovirus
+Sendai virus,Sendai virus,,Murine respirovirus,,,NA,,Murine respirovirus
+Murray Valley encephalitis virus,Murray Valley encephalitis virus,Murray Valley encephalitis virus ,Murray Valley encephalitis virus,,,NA,,Murray Valley encephalitis virus
+,Murine polyomavirus,,Mus musculus polyomavirus 1,,,NA,,Mus musculus polyomavirus 1
+,Murine pneumotropic virus,,Mus musculus polyomavirus 2,,,NA,,Mus musculus polyomavirus 2
+,Mustelid herpesvirus 1,,Mustelid gammaherpesvirus 1,,,NA,,Mustelid gammaherpesvirus 1
+,Myxoma virus,,Myxoma virus,Automatic match,,NA,,Myxoma virus
+,Human torovirus,Human torovirus,Human torovirus,Abolished in MSL2018a,,NA,,NA
+,,Mammalian rubulavirus 5,Mammalian rubulavirus 5,Automatic match,,NA,,Mammalian orthorubulavirus 5
+,Sathuperi virus,,Sathuperi orthobunyavirus,Merged,,NA,,Schmallenberg orthobunyavirus
+,Shamonda virus,,Shamonda orthobunyavirus,Merged,,NA,,Schmallenberg orthobunyavirus
+,Torque Teno virus,,NA,Split,Split into 47 new species in 9 different genera (https://data.ictvonline.org/proposals/2007.075a-xxV.v4.Anelloviridae.pdf),TRUE,See ‘Comments’ column,NA
+,Human herpesvirus 6,,NA,Split,Split into 6A and 6B; Strains associated with each listed in NCBI taxonomy,TRUE,See ‘Comments’ column,NA
+Aedes flavivirus,,,Aedes flavivirus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+,African green monkey polyomavirus,,African green monkey polyomavirus,Unclassified,Abolished in 2015; Listed as unclassified on NCBI,NA,,NA
+Aguacate virus,,,Aguacate virus,Unclassified,Abolished by ICTV in 1999; Listed as unclassified on NCBI,NA,,NA
+Alphacoronavirus 2,,,Alphacoronavirus 2,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+,Araguari virus,,Araguari virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Arenavirus H0030026,,,Arenavirus H0030026,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Arumowot virus,Arumowot virus,,Arumowot virus,Unclassified,Abolished by ICTV in 1999; Listed as unclassified on NCBI; Might be a strain of Salehebad phlebovirus?,NA,,NA
+Astrovirus Er/SZAL6/HUN/2011,,,Astrovirus Er/SZAL6/HUN/2011,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Astrovirus MLB2,,,Astrovirus MLB2,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Astrovirus MLB3,,,Astrovirus MLB3,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Astrovirus VA3,,,Astrovirus VA3,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Astrovirus VA4,,,Astrovirus VA4,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Astrovirus wild boar/WBAstV-1/2011/HUN,,,Astrovirus wild boar/WBAstV-1/2011/HUN,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Atlantic salmon calicivirus,,,Atlantic salmon calicivirus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Avisivirus Pf-CHK1/AsV,,,Avisivirus Pf-CHK1/AsV,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Bastrovirus 7,,,Bastrovirus BAS-1,Unclassified,"No match in ICTV taxonomy; Listed as a strain of 'Bastrovirus BAS-1', which in turn is listed as unclassified",NA,,NA
+Bastrovirus BAS-2,,,Bastrovirus BAS-2,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Bastrovirus BAS-3,,,Bastrovirus BAS-3,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Bastrovirus-like_virus/VietNam/Bat/17819_21,,,Bastrovirus-like_virus/VietNam/Bat/17819_21,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Bastrovirus/VietNam/Porcine/17489_85,,,Bastrovirus/VietNam/Porcine/17489_85,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Bat coronavirus BM48-31,,,Bat coronavirus BM48-31/BGR/2008,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Bat hepatovirus,,,Bat hepatovirus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Bat Hp-betacoronavirus,,,Bat Hp-betacoronavirus/Zhejiang2013,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Bat picornavirus 1,,,Bat picornavirus 1,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Bat picornavirus 2,,,Bat picornavirus 2,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Bat picornavirus 3,,,Bat picornavirus 3,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Bat sapovirus TLC58 HK,,,Bat sapovirus TLC58/HK,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Bean necrotic mosaic virus,,,Bean necrotic mosaic virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Beilong virus,,,Beilong virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Betacoronavirus HKU24,,,Betacoronavirus HKU24,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+,Bhanja virus,,Bhanja virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+,Bovine adenovirus E,,Bovine adenovirus E,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+,Bovine astrovirus,,Bovine astrovirus,Unclassified,"Abolished in 2011, listed as a potential species in https://data.ictvonline.org/proposals/2010.018a-cV.A.v4.Mamastrovirus.pdf)",NA,,NA
+Bovine astrovirus B170/HK,,,Bovine astrovirus B170/HK,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Bovine astrovirus B18/HK,,,Bovine astrovirus B18/HK,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Bovine astrovirus B76/HK,,,Bovine astrovirus B76/HK,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Bovine astrovirus CH13,,,Bovine astrovirus CH13,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Bovine hepacivirus,,,Bovine hepacivirus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Brazoran virus,,,Brazoran virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Burkina Faso astrovirus,,,Burkina Faso astrovirus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Calicivirus isolate TCG,,,Calicivirus isolate TCG,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Canine astrovirus,,,Canine astrovirus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Canine calicivirus,Canine calicivirus,,Canine calicivirus,Unclassified,Abolished in 1999; Listed as unclassified on NCBI,NA,,NA
+Canine pneumovirus,,,Canine pneumovirus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Capsicum chlorosis virus,,,Capsicum chlorosis virus,Unclassified,,NA,,Capsicum chlorosis orthotospovirus
+Cardamones virus,,,Cardamones virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Catarina virus,,,Catarina virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Cell fusing agent virus,,,Cell fusing agent virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+,Chagres virus,,Chagres virus,Unclassified,Abolished in 1999; Listed as unclassified on NCBI,NA,,NA
+Chaoyang virus,,,Chaoyang virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Chicken calicivirus,,,Chicken calicivirus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Chicken gallivirus 1,,,Chicken gallivirus 1,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Chicken megrivirus,,,Chicken megrivirus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Chicken orivirus 1,,,Chicken orivirus 1,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Chicken picornavirus 1,,,Chicken picornavirus 1,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Chicken picornavirus 4,,,Chicken picornavirus 4,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Chicken picornavirus 5,,,Chicken picornavirus 5,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Chicken proventriculitis virus,,,Chicken proventriculitis virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Chicken sicinivirus JSY,,,Chicken sicinivirus JSY,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Culex flavivirus,,,Culex flavivirus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Culex tritaeniorhynchus rhabdovirus,,,Culex tritaeniorhynchus rhabdovirus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Dandenong virus,,,Dandenong virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Dolphin rhabdovirus,,,Dolphin rhabdovirus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Donggang virus,,,Donggang virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Dromedary astrovirus,,,Dromedary astrovirus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Duck megrivirus,,,Duck megrivirus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Farmington virus,,,Farmington virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Feline astrovirus 2,,,Feline astrovirus 2,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Feline picornavirus,,,Feline picornavirus,Unclassified,"No match in ICTV taxonomy ('Feline picornavirus changed to Feline calicivirus in 1976, but the accession number for this record describes a new virus in 2002); Listed as unclassified on NCBI",NA,,NA
+Ferret kobuvirus,,,Ferret kobuvirus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Gallivirus Pf-CHK1/GV,,,Gallivirus Pf-CHK1/GV,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+,Gan Gan virus,,Gan Gan virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Gbagroube virus,,,Gbagroube virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Goose astrovirus,,,Goose astrovirus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Goose calicivirus,,,Goose calicivirus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Goose paramyxovirus SF02,,,Goose paramyxovirus SF02,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,TRUE,"Listed as unclassified on NCBI, but both the paper sequencing this strain and BLAST searches group it with Newcastle Disease Virus (Avian avulavirus 1)",NA
+,Guinea pig adenovirus,,Guinea pig adenovirus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Heartland virus,,,Heartland virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+,GB virus B,,Hepatitis GB virus B,Unclassified,Abolished in 2005 (but still listed as a species on NCBI),NA,,NA
+HMO Astrovirus A,,,HMO Astrovirus A,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+,Human norovirus-Alphatron,,Human norovirus - Alphatron,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,TRUE,Identical by BLAST to multiple Norwalk virus isolates,NA
+Ia io picornavirus 1,,,Ia io picornavirus 1,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+,Isla Vista virus,,Isla Vista virus,Unclassified,Abolished in 2016 (listed as a tentative species in https://data.ictvonline.org/proposals/2016.023a-cM.A.v2.Hantavirus_sprev.pdf),NA,,NA
+,Issyk-Kul virus,,Issyk-Kul virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+,Itaporanga virus,,Itaporanga virus,Unclassified,Abolished in 1999; Listed as unclassified on NCBI,NA,,NA
+J-virus,,,J-virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Kama virus,,,Kama virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Kamiti River virus,,,Kamiti River virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Leopards Hill virus,,,Leopards Hill virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Lesavirus 1,,,Lesavirus 1,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Lesavirus 2,,,Lesavirus 2,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Lone Star virus,,,Lone Star virus,Unclassified,"Abolished in 1982 (https://talk.ictvonline.org/taxonomy/p/taxonomy-history?taxnode_id=19810399), though sequence is newer; Listed as unclassified on NCBI",NA,,NA
+Long Island tick rhabdovirus,,,Long Island tick rhabdovirus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Lyssavirus Ozernoe,,,Lyssavirus Ozernoe,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Magpie-robin coronavirus HKU18,,,Magpie-robin coronavirus HKU18,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Malakal virus,,,Malakal virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Malsoor virus,,,Malsoor virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Maprik virus,,,Maprik virus,Unclassified,"Abolished in 1982 (https://talk.ictvonline.org/taxonomy/p/taxonomy-history?taxnode_id=19810401), though sequence is newer; Listed as unclassified on NCBI",NA,,NA
+Melon yellow spot virus,,,Melon yellow spot virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Menekre virus,,,Menekre virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Mercadeo virus,,,Mercadeo virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Mink calicivirus,Mink calicivirus,,Mink calicivirus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+,Mink enteric sapovirus,,Mink enteric sapovirus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Morogoro virus,,,Morogoro mammarenavirus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Mossman virus,,,Mossman virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Mouse astrovirus M-52/USA/2008,,,Mouse astrovirus M-52/USA/2008,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Mulberry vein banding virus,,,Mulberry vein banding virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+,Muleshoe virus,,Muleshoe virus,Unclassified,Abolished in 2016 (listed as a tentative species in https://data.ictvonline.org/proposals/2016.023a-cM.A.v2.Hantavirus_sprev.pdf),NA,,NA
+Murine astrovirus,,,Murine astrovirus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Murrumbidgee virus,,,Murrumbidgee virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Nariva virus,Nariva virus,,Nariva virus,Unclassified,Abolished in 1991; Listed as unclassified on NCBI,NA,,NA
+Norway rat hepacivirus 1,,,Norway rat hepacivirus 1,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Norway rat hepacivirus 2,,,Norway rat hepacivirus 2,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Norway rat pegivirus,,,Norway rat pegivirus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Norway rat pestivirus,,,Norway rat pestivirus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Paraiso Escondido virus,,,Paraiso Escondido virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Parramatta River virus,,,Parramatta River virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Persimmon virus A,,,Persimmon virus A,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Pestivirus Giraffe-1,,,Pestivirus Giraffe-1,Unclassified,No match in ICTV taxonomy,NA,,NA
+Phacovirus Pf-CHK1/PhV,,,Phacovirus Pf-CHK1/PhV,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Porcine astrovirus 2,,,Porcine astrovirus 2,Unclassified,"Porcine astrovirus (formerly Porcine astrovirus 1) is now Mamastrovirus 3, but no match for this name; Listed as unclassified on NCBI",NA,,NA
+Porcine astrovirus 3,,,Porcine astrovirus 3,Unclassified,"Porcine astrovirus (formerly Porcine astrovirus 1) is now Mamastrovirus 3, but no match for this name; Listed as unclassified on NCBI",NA,,NA
+Porcine astrovirus 4,,,Porcine astrovirus 4,Unclassified,"Porcine astrovirus (formerly Porcine astrovirus 1) is now Mamastrovirus 3, but no match for this name; Listed as unclassified on NCBI",NA,,NA
+Porcine astrovirus 5,,,Porcine astrovirus 5,Unclassified,"Porcine astrovirus (formerly Porcine astrovirus 1) is now Mamastrovirus 3, but no match for this name; Listed as unclassified on NCBI",NA,,NA
+Qinghai Himalayan marmot astrovirus 1,,,Qinghai Himalayan marmot astrovirus 1,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Qinghai Himalayan marmot astrovirus 2,,,Qinghai Himalayan marmot astrovirus 2,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Quang Binh virus,,,Quang Binh virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Rabbit astrovirus TN/2208/2010,,,Rabbit astrovirus TN/2208/2010,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Rabbit coronavirus HKU14,Rabbit coronavirus,,Rabbit coronavirus HKU14,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+,Rabbit kidney vacuolating virus,,Rabbit kidney vacuolating virus,Unclassified,Abolished in 2015; Unclassified on NCBI,NA,,NA
+Rabbit vesivirus,,,Rabbit vesivirus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+,Rio Segundo virus,,Rio Segundo virus,Unclassified,Abolished in 2016 (listed as a tentative species in https://data.ictvonline.org/proposals/2016.023a-cM.A.v2.Hantavirus_sprev.pdf),NA,,NA
+Rodent hepacivirus,,,Rodent hepacivirus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Rodent pegivirus,,,Rodent pegivirus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Salem virus,Salem virus,,Salem virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+San Miguel sea lion virus 8,,,San Miguel sea lion virus 8,Unclassified,"San Miguel sea lion virus is now merged with Vesicular exanthema of swine virus, but no match in taxonomy when including number; Listed as unclassified on NCBI",NA,,NA
+Sandfly fever Sicilian virus,Sandfly fever Sicilian virus,,Sandfly fever Sicilian virus,Unclassified,Abolished in 1999; Listed as unclassified on NCBI,NA,,NA
+Scophthalmus maximus rhabdovirus,,,Scophthalmus maximus rhabdovirus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+,Sealpox virus,,Seal parapoxvirus,Unclassified,"No match in ICTV taxonomy; Listed as a synonym for 'Seal parapoxvirus' on NCBI, which in turn is listed as unclassified",NA,,NA
+,Simian virus 12,,Simian virus 12,Unclassified,Abolished in 2015; Unclassified on NCBI,NA,,NA
+Siniperca chuatsi rhabdovirus,,,Siniperca chuatsi rhabdovirus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Skinner Tank virus,,,Skinner Tank virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Sokoluk virus,,,Sokoluk virus,Unclassified,Abolished in 1995 (https://talk.ictvonline.org/taxonomy/p/taxonomy-history?taxnode_id=19930868); Listed as unclassified on NCBI,NA,,NA
+Spanish goat encephalitis virus,,,Spanish goat encephalitis virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Sparrow coronavirus HKU17,,,Sparrow coronavirus HKU17,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Spodoptera frugiperda rhabdovirus,,,Spodoptera frugiperda rhabdovirus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Spondweni virus,,,Spondweni virus,Unclassified,Abolished in 1995 (https://talk.ictvonline.org/taxonomy/p/taxonomy-history?taxnode_id=19930869); Listed as unclassified on NCBI,NA,,NA
+Steller sea lion vesivirus,,,Steller sea lion vesivirus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Sunguru virus,,,Sunguru virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Tailam virus,,,Tailam virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Tamana bat virus,Tamana bat virus,,Tamana bat virus,Unclassified,Abolished in 1995 (https://talk.ictvonline.org/taxonomy/p/taxonomy-history?taxnode_id=19930872); Listed as unclassified on NCBI,NA,,NA
+,Tamdy virus,,Tamdy virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+,Tataguine virus,,Tataguine virus,Unclassified,Abolished in 1982; Listed as unclassified on NCBI,NA,,NA
+Tomato zonate spot virus,,,Tomato zonate spot virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+,Trubanaman virus,,Trubanaman virus,Unclassified,Abolished in 1982; Listed as unclassified on NCBI,NA,,NA
+Tulane virus,,,Tulane virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Tupaia hepatovirus A,,,Tupaia hepatovirus A,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Tupaia paramyxovirus,Tupaia paramyxovirus,,Tupaia paramyxovirus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Turkey calicivirus,,,Turkey calicivirus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+,Upolu virus,,Upolu virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Vesivirus ferret badger,,,Vesivirus ferret badger/JX12/China/2012,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+,Witwatersrand virus,,Witwatersrand virus,Unclassified,Abolished in 1982; Listed as unclassified on NCBI,NA,,NA
+Xiburema virus,,,Xiburema virus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Bat coronavirus 1A,,,Bat coronavirus 1A,Unclassified; Strain,No match in ICTV taxonomy; Listed as unclassified on NCBI. Checked for duplication – K80 distance from Bat Coronavirus 1B is 0.129,NA,,NA
+Bat coronavirus 1B,,,Bat coronavirus 1A,Unclassified; Strain,"No match in ICTV taxonomy; Listed as a strain of 'Bat coronavirus 1A' on NCBI, which in turn is listed as unclassified",NA,,NA
+Equine hepacivirus JPN3/JAPAN/2013,,,Equine hepacivirus,Unclassified; Strain,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,NA
+Mosquito flavivirus,,,Quang Binh virus,Unclassified; Strain,"No match in ICTV taxonomy; Listed as a strain of 'Quang Binh virus' on NCBI, which in turn is listed as unclassified",NA,,NA
+Hybrid snakehead virus,,,Siniperca chuatsi rhabdovirus,Unclassified; Strain,"No match in ICTV taxonomy; Listed as a strain of 'Siniperca chuatsi rhabdovirus' on NCBI, which in turn is unclassified",TRUE,Duplicate (K80 distance from Siniperca chuatsi rhabdovirusonly 0.053),NA
+Calicivirus pig AB90,,,St-Valerien swine virus,Unclassified; Strain,"No match in ICTV taxonomy; Listed as a strain of 'St-Valerien swine virus' on NCBI, which in turn is listed as unclassified",NA,,NA
+St. Valerien swine virus,,,St-Valerien swine virus,Unclassified; Strain,No match in ICTV taxonomy; Listed as unclassified on NCBI. Checked for duplication – K80 distance from Calcivirus pig AB90 is 0.121,NA,,NA
+,Deer adenovirus,,NA,Unknown,No match in ICTV taxonomy; No match in NCBI taxonomy; Raw data lists order as 'unassigned',TRUE,See ‘Comments’ column,NA
+,Caviid herpesvirus 1,,NA,Unknown,"Abolished in 1999; No match on NCBI (though there is a match for 'Gaviid herpesvirus 1', which is listed as unclassified)",TRUE,See ‘Comments’ column,NA
+,Caviid herpesvirus 3,,NA,Unknown,No match in ICTV taxonomy; No match in NCBI taxonomy,TRUE,See ‘Comments’ column,NA
+,Cricetid herpesvirus,,NA,Unknown,"Abolished in 1999; No match on NCBI (there is a 'Cricetid herpesvirus 2' on ICTV, created in 1999, but this is explicitly stated as distinct from the original, now abolished, virus - see https://data.ictvonline.org/proposals/2011.013aV.A.v1.Rhadinovirus-Sp.pdf)",TRUE,See ‘Comments’ column,NA
+,Murid herpesvirus 3,,NA,Unknown,No match in ICTV taxonomy; No match in NCBI taxonomy,TRUE,See ‘Comments’ column,NA
+,Murid herpesvirus 5,,NA,Unknown,No match in ICTV taxonomy; No match in NCBI taxonomy,TRUE,See ‘Comments’ column,NA
+,Sciurid herpesvirus 1,,NA,Unknown,No match in ICTV taxonomy; No match in NCBI taxonomy,TRUE,See ‘Comments’ column,NA
+,Sciurid herpesvirus 2,,NA,Unknown,No match in ICTV taxonomy; No match in NCBI taxonomy,TRUE,See ‘Comments’ column,NA
+,Goat adenovirus,,NA,Unknown,"No match in ICTV taxonomy; No match on NCBI - 'Goat adenovirus 1' listed as a type of Ovine Adenovirus D, but this is in a different genus and already listed below",TRUE,See ‘Comments’ column,NA
+,Simian adenovirus,,NA,Unknown,Very large number of species starting with 'Simian adenovirus X' (where X is a number or letter) on ICTV and NCBI; Order listed as unassigned in raw data,TRUE,See ‘Comments’ column,NA
+,Squirrel adenovirus,,NA,Unknown,No match in ICTV taxonomy; No match in NCBI -  'Squirrel adenovirus 1' listed as unclassified on NCBI; Order given as 'unassigned' in raw data,TRUE,See ‘Comments’ column,NA
+,Bovine norovirus-CH126,,NA,Unknown,"No match in ICTV taxonomy; No match on NCBI taxonomy, but a sequence contains 'CH126' as part of a longer isolate name (for an isolate of Norwalk virus); Order listed as unassigned in raw data",TRUE,See ‘Comments’ column,NA
+,Ife virus,,NA,Unknown,Abolished in 1991; No match on NCBI,TRUE,See ‘Comments’ column,NA
+,Japanaut virus,,NA,Unknown,No match on ICTV or NCBI; 'Japanant virus' abolished in 1991 on ICTV (and no match on NCBI),TRUE,See ‘Comments’ column,NA
+,Lapine parvovirus,,NA,Unknown,Abolished in 2013; No match on NCBI,TRUE,See ‘Comments’ column,NA
+,Baboon polyomavirus 2,,NA,Unknown,Abolished in 2015; No match on NCBI,TRUE,See ‘Comments’ column,NA
+,Human polyomavirus,,NA,Unknown,"Abolished in 2015 (reason: too vague, cannot be linked to a specific species); Several new 'Human polyomavirus X' (where X is a number) were created but these are definitively linked to other viruses in this list",TRUE,See ‘Comments’ column,NA
+,Simian virus 10,,NA,Unknown,Abolished in 2015; No match on NCBI,TRUE,See ‘Comments’ column,NA
+,Marmodid herpesvirus 1,,NA,Unknown,Abolished in 1999; No match on NCBI,TRUE,See ‘Comments’ column,NA
+,Bangui virus,,NA,Unknown,No match in ICTV taxonomy; No match on NCBI taxonomy,TRUE,See ‘Comments’ column,NA
+,Okola virus,,NA,Unknown,"No match in ICTV or NCBI; listed as a Bunyavirus in raw data, so it's not a typo for 'Mokola virus'",TRUE,See ‘Comments’ column,NA
+,Wanowrie virus,,NA,Unknown,No match on ICTV or NCBI,TRUE,See ‘Comments’ column,NA
+Achimota virus 1,,,Achimota rubulavirus 1,,,NA,,Achimota pararubulavirus 1
+Achimota virus 2,,,Achimota rubulavirus 2,,,NA,,Achimota pararubulavirus 2
+Amapari virus,Amapari virus,,Amaparí mammarenavirus,,,NA,,Serra do Navio mammarenavirus
+Newcastle disease virus,Newcastle disease virus,Avian avulavirus 1 ,Avian avulavirus 1,,,NA,,Avian orthoavulavirus 1
+Avian paramyxovirus penguin,,,Avian avulavirus 10,,No match in ICTV taxonomy; Listed as a strain on NCBI,NA,,Avian metaavulavirus 10
+Avian paramyxovirus 11,,,Avian avulavirus 11,,,NA,,Avian metaavulavirus 11
+Avian paramyxovirus 12,,,Avian avulavirus 12,,,NA,,Avian orthoavulavirus 12
+Avian paramyxovirus 3,,,Avian avulavirus 3,,,NA,,Avian paraavulavirus 3
+Avian paramyxovirus 4,,,Avian avulavirus 4,,,NA,,Avian paraavulavirus 4
+Avian paramyxovirus 5,,,Avian avulavirus 5,,,NA,,Avian metaavulavirus 5
+Avian paramyxovirus 6,,,Avian avulavirus 6,,,NA,,Avian metaavulavirus 6
+Avian paramyxovirus 7,,,Avian avulavirus 7,,,NA,,Avian metaavulavirus 7
+Avian paramyxovirus 8,,,Avian avulavirus 8,,,NA,,Avian metaavulavirus 8
+Avian paramyxovirus 9,,,Avian avulavirus 9,,,NA,,Avian orthoavulavirus 9
+Human parainfluenza virus 2,Human parainfluenza virus 2,Human rubulavirus 2 ,Human rubulavirus 2,,,NA,,Human orthorubulavirus 2
+,Human parainfluenza virus 4,Human rubulavirus 4,Human rubulavirus 4,,,NA,,Human orthorubulavirus 4
+Parainfluenza virus 5,Parainfluenza virus 5,,Mammalian rubulavirus 5,,Checked for duplication – data differs,NA,,Mammalian orthorubulavirus 5
+,Simian virus 5,,Mammalian rubulavirus 5,,Checked for duplication – data differs,NA,,Mammalian orthorubulavirus 5
+Mapuera virus,Mapuera virus,,Mapuera rubulavirus,,,NA,,Mapuera orthorubulavirus
+Menangle virus,Menangle virus,,Menangle rubulavirus,,,NA,,Menangle pararubulavirus
+Mumps virus,Mumps virus,Mumps rubulavirus ,Mumps rubulavirus,,,NA,,Mumps orthorubulavirus
+Porcine rubulavirus,Porcine rubulavirus,,Porcine rubulavirus,,,NA,,Porcine orthorubulavirus
+Simian virus 41,,Simian rubulavirus,Simian rubulavirus,,,NA,,Simian orthorubulavirus
+Sosuga virus,,Sosuga rubulavirus,Sosuga rubulavirus,,,NA,,Sosuga pararubulavirus
+Tioman virus,Tioman virus,Tioman rubulavirus,Tioman rubulavirus,,,NA,,Tioman pararubulavirus
+Tuhoko virus 1,,,Tuhoko rubulavirus 1,,,NA,,Tuhoko pararubulavirus 1
+Tuhoko virus 2,,,Tuhoko rubulavirus 2,,,NA,,Tuhoko pararubulavirus 2
+Tuhoko virus 3,,,Tuhoko rubulavirus 3,,,NA,,Tuhoko pararubulavirus 3
+Ndumu virus,Ndumu virus,Ndumu virus,Ndumu virus,,,NA,,Ndumu virus
+,Nelson Bay orthoreovirus,Nelson Bay orthoreovirus,Nelson Bay orthoreovirus,Automatic match,,NA,,Nelson Bay orthoreovirus
+Vesicular stomatitis New Jersey virus,Vesicular stomatitis New Jersey virus,New Jersey vesiculovirus ,New Jersey vesiculovirus,,,NA,,New Jersey vesiculovirus
+Newbury-1 virus,,,Newbury-1 virus,,,NA,,Newbury 1 virus
+Ngaingan virus,,,Ngaingan hapavirus,,,NA,,Ngaingan hapavirus
+Niakha virus,,,Niakha sripuvirus,,,NA,,Niakha sripuvirus
+Night-heron coronavirus HKU19,,,Night heron coronavirus HKU19,,,NA,,Night heron coronavirus HKU19
+Nipah virus,Nipah virus,Nipah henipavirus ,Nipah henipavirus,,,NA,,Nipah henipavirus
+Northern cereal mosaic virus,,,Northern cereal mosaic cytorhabdovirus,,,NA,,Northern cereal mosaic cytorhabdovirus
+Murine norovirus,,,Norwalk virus,Strain,"No match in ICTV taxonomy; Listed as a strain of Norovirus GV, which in turn is a strain/type of Norwalk virus",NA,,Norwalk virus
+Murine norovirus,,,Norwalk virus,Strain,"No match in ICTV taxonomy; Listed as a strain of Norovirus GV, which in turn is a strain/type of Norwalk virus",NA,,Norwalk virus
+Murine norovirus,,,Norwalk virus,Strain,"No match in ICTV taxonomy; Listed as a strain of Norovirus GV, which in turn is a strain/type of Norwalk virus",NA,,Norwalk virus
+Norovirus GI,,,Norwalk virus,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Norwalk virus
+Norovirus GI,,,Norwalk virus,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Norwalk virus
+Norovirus GI,,,Norwalk virus,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Norwalk virus
+Norovirus GII,Swine norovirus,,Norwalk virus,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy. Swine norovirus listed as a sub-strain of Norovirus GII on NCBI,NA,,Norwalk virus
+Norovirus GII,Swine norovirus,,Norwalk virus,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy. Swine norovirus listed as a sub-strain of Norovirus GII on NCBI,NA,,Norwalk virus
+Norovirus GII,Swine norovirus,,Norwalk virus,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy. Swine norovirus listed as a sub-strain of Norovirus GII on NCBI,NA,,Norwalk virus
+Norovirus GIV.1,,,Norwalk virus,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Norwalk virus
+Norovirus GIV.1,,,Norwalk virus,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Norwalk virus
+Norovirus GIV.1,,,Norwalk virus,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Norwalk virus
+Norovirus GIV.2,,,Norwalk virus,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Norwalk virus
+Norovirus GIV.2,,,Norwalk virus,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Norwalk virus
+Norovirus GIV.2,,,Norwalk virus,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Norwalk virus
+Norovirus GV,Murine norovirus 1,,Norwalk virus,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy. Murine norovirus 1listed as a sub-strain of Norovirus GV on NCBI,NA,,Norwalk virus
+Norovirus GV,Murine norovirus 1,,Norwalk virus,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy. Murine norovirus 1listed as a sub-strain of Norovirus GV on NCBI,NA,,Norwalk virus
+Norovirus GV,Murine norovirus 1,,Norwalk virus,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy. Murine norovirus 1listed as a sub-strain of Norovirus GV on NCBI,NA,,Norwalk virus
+Norovirus GIII,Bovine norovirus-Jena,,Norwalk virus,Strain; POSSIBLE DUPLICATE,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy. Bovine calcivirus jena listed a sub-strain/type of Norovirus GIII on NCBI,NA,,Norwalk virus
+Norovirus GIII,Bovine norovirus-Jena,,Norwalk virus,Strain; POSSIBLE DUPLICATE,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy. Bovine calcivirus jena listed a sub-strain/type of Norovirus GIII on NCBI,NA,,Norwalk virus
+Norovirus GIII,Bovine norovirus-Jena,,Norwalk virus,Strain; POSSIBLE DUPLICATE,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy. Bovine calcivirus jena listed a sub-strain/type of Norovirus GIII on NCBI,NA,,Norwalk virus
+,Bovine enteric calicivirus strain NB,,Norwalk virus,Strain; POSSIBLE DUPLICATE,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy. Bovine enteric calicivirus listed a sub-strain/type of Norovirus GIII on NCBI,NA,,Norwalk virus
+,Bovine enteric calicivirus strain NB,,Norwalk virus,Strain; POSSIBLE DUPLICATE,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy. Bovine enteric calicivirus listed a sub-strain/type of Norovirus GIII on NCBI,NA,,Norwalk virus
+,Bovine enteric calicivirus strain NB,,Norwalk virus,Strain; POSSIBLE DUPLICATE,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy. Bovine enteric calicivirus listed a sub-strain/type of Norovirus GIII on NCBI,NA,,Norwalk virus
+Norwalk virus,Norwalk virus,,Norwalk virus,,,TRUE,"Duplicate of strain Norovirus GII in Babayan data (Host group identical, K80 distance 0.0988) and Swine Norovirus in Olival data (only ‘Norwalk virus’ marked as infecting humans in Olival data, but this info will come from Woolhouse anyway)",Norwalk virus
+Norwalk virus,Norwalk virus,,Norwalk virus,,,TRUE,"Duplicate of strain Norovirus GII in Babayan data (Host group identical, K80 distance 0.0988) and Swine Norovirus in Olival data (only ‘Norwalk virus’ marked as infecting humans in Olival data, but this info will come from Woolhouse anyway)",Norwalk virus
+Norwalk virus,Norwalk virus,,Norwalk virus,,,TRUE,"Duplicate of strain Norovirus GII in Babayan data (Host group identical, K80 distance 0.0988) and Swine Norovirus in Olival data (only ‘Norwalk virus’ marked as infecting humans in Olival data, but this info will come from Woolhouse anyway)",Norwalk virus
+,,Norwalk virus ,Norwalk virus,,,NA,,Norwalk virus
+,,Norwalk virus ,Norwalk virus,,,NA,,Norwalk virus
+,,Norwalk virus ,Norwalk virus,,,NA,,Norwalk virus
+Ntaya virus,Ntaya virus,Ntaya virus,Ntaya virus,,,NA,,Ntaya virus
+,Human papillomavirus 41,,Nupapillomavirus 1,,See https://data.ictvonline.org/proposals/2010.001a-kkkV.A.v2.Papillomaviridae.pdf,NA,,Nupapillomavirus 1
+,Nyando virus,Nyando orthobunyavirus,Nyando orthobunyavirus,Automatic match,,NA,,Nyando orthobunyavirus
+Obodhiang virus,,,Obodhiang ephemerovirus,,,NA,,Obodhiang ephemerovirus
+,Oita virus,,Oita ledantevirus,Automatic match,,NA,,Oita ledantevirus
+,Pampa virus,,Oliveros mammarenavirus,"Listed as unclassified on NCBI, but very similar to Oliveros virus (https://doi-org.ezproxy.lib.gla.ac.uk/10.1016/j.mib.2008.06.001)",,NA,,Oliveros mammarenavirus
+Oliveros virus,Oliveros virus,,Oliveros mammarenavirus,,,NA,,Oliveros mammarenavirus
+,Phocoena spinipinnis papillomavirus,,Omikronpapillomavirus 1,,,NA,,Omikronpapillomavirus 1
+Omsk hemorrhagic fever virus,Omsk hemorrhagic fever virus,Omsk hemorrhagic fever virus ,Omsk hemorrhagic fever virus,,,NA,,Omsk hemorrhagic fever virus
+O'nyong-nyong virus,O'nyong-nyong virus,O'nyong-nyong virus ,O'nyong-nyong virus,,,NA,,Onyong-nyong virus
+,Orf virus,,Orf virus,Automatic match,,NA,,Orf virus
+,Oriboca virus,Oriboca orthobunyavirus ,Oriboca orthobunyavirus,Automatic match,,NA,,Oriboca orthobunyavirus
+Oropouche virus,Oropouche virus,Oropouche orthobunyavirus ,Oropouche orthobunyavirus,,,NA,,Oropouche orthobunyavirus
+,Hepatitis E virus,Orthohepevirus A,Orthohepevirus A,Automatic match,"Olival data cannot be linked to individual strains, but all associations are based on antibodies anyway, so likely to be excluded later",NA,,Orthohepevirus A
+,Hepatitis E virus,Orthohepevirus A,Orthohepevirus A,Automatic match,"Olival data cannot be linked to individual strains, but all associations are based on antibodies anyway, so likely to be excluded later",NA,,Orthohepevirus A
+Ferret hepatitis E virus,,,Orthohepevirus A,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Orthohepevirus A
+Ferret hepatitis E virus,,,Orthohepevirus A,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Orthohepevirus A
+Hepatitis E virus,,,Orthohepevirus A,Strain,"Checked for duplication – in Babayan data, minimum K80 distance is 0.274",NA,,Orthohepevirus A
+Hepatitis E virus,,,Orthohepevirus A,Strain,"Checked for duplication – in Babayan data, minimum K80 distance is 0.274",NA,,Orthohepevirus A
+"Hepatitis E virus, GT1",,,Orthohepevirus A,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Orthohepevirus A
+"Hepatitis E virus, GT1",,,Orthohepevirus A,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Orthohepevirus A
+"Hepatitis E virus, GT2",,,Orthohepevirus A,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Orthohepevirus A
+"Hepatitis E virus, GT2",,,Orthohepevirus A,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Orthohepevirus A
+"Hepatitis E virus, GT3",,,Orthohepevirus A,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Orthohepevirus A
+"Hepatitis E virus, GT3",,,Orthohepevirus A,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Orthohepevirus A
+"Hepatitis E virus, GT4",,,Orthohepevirus A,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Orthohepevirus A
+"Hepatitis E virus, GT4",,,Orthohepevirus A,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Orthohepevirus A
+Avian hepatitis E virus,,,Orthohepevirus B,,,NA,,Orthohepevirus B
+Hepatitis E virus rat,,,Orthohepevirus C,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Orthohepevirus C
+Bat hepevirus,,,Orthohepevirus D,,No match in ICTV taxonomy; Sequence links to Orthohepevirus D on NCBI,NA,,Orthohepevirus D
+,Orungo virus,Orungo virus ,Orungo virus,Automatic match,,NA,,Orungo virus
+Oscivirus A1,,,Oscivirus A,,,NA,,Oscivirus A
+,Ovine adenovirus D,,Ovine atadenovirus D,,,NA,,Ovine atadenovirus D
+,Ovine herpesvirus 2,,Ovine gammaherpesvirus 2,,,NA,,Ovine gammaherpesvirus 2
+,Ovine adenovirus A,,Ovine mastadenovirus A,,,NA,,Ovine mastadenovirus A
+,Palyam virus,,Palyam virus,Automatic match,,NA,,Palyam virus
+,Pongine herpesvirus 4,,Panine betaherpesvirus 2,,,NA,,Panine betaherpesvirus 2
+,Pongine herpesvirus 1,,Panine gammaherpesvirus 1,,,NA,,Panine gammaherpesvirus 1
+,Cercopithecine herpesvirus 16,,Papiine alphaherpesvirus 2,,,NA,,Papiine alphaherpesvirus 2
+,Cercopithecine herpesvirus 12,,Papiine gammaherpesvirus 1,,,NA,,Papiine gammaherpesvirus 1
+Parana virus,Parana virus,,Paraná mammarenavirus,,,NA,,Paraguayan mammarenavirus
+,Parapoxvirus of red deer in New Zealand,,Parapoxvirus of red deer in New Zealand,Automatic match,,NA,,Parapoxvirus of red deer in New Zealand
+,Human parechovirus,Parechovirus A,Parechovirus A,,,NA,,Parechovirus A
+,Ljungan virus,Parechovirus B,Parechovirus B,,,NA,,Parechovirus B
+,Patois virus,Patois orthobunyavirus,Patois orthobunyavirus,Automatic match,,NA,,Patois orthobunyavirus
+Simian pegivirus,,,Pegivirus A,Strain,Simian pegivirus: no match in ICTV taxonomy; listed as a strain on NCBI taxonomy.  ,NA,,Pegivirus A
+Simian pegivirus,,,Pegivirus A,Strain,Simian pegivirus: no match in ICTV taxonomy; listed as a strain on NCBI taxonomy.  ,NA,,Pegivirus A
+Pegivirus A,,,Pegivirus A,Strain,Checked for duplication – K80 distance from other strain is 0.667,NA,,Pegivirus A
+Pegivirus A,,,Pegivirus A,Strain,Checked for duplication – K80 distance from other strain is 0.667,NA,,Pegivirus A
+,GB virus A,Pegivirus A,Pegivirus A,,"GB virus A: listed as abolished in 2005 on ICTV, but as a type/strain of Pegivirus A (which is still recognized) on NCBI.",NA,,Pegivirus A
+,GB virus A,Pegivirus A,Pegivirus A,,"GB virus A: listed as abolished in 2005 on ICTV, but as a type/strain of Pegivirus A (which is still recognized) on NCBI.",NA,,Pegivirus A
+GB virus C,GB virus C,,Pegivirus C,,"Listed as abolished in 2005 on ICTV, but listed as a type/strain on NCBI; ICTV document in which Pegivirus C was created lists a GBV-C isolate as a representative isolate (https://data.ictvonline.org/proposals/2016.013aS.A.v1.Pegivirus_9sp.pdf)",NA,,Pegivirus C
+Equine pegivirus 1,,,Pegivirus E,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Pegivirus E
+Human pegivirus 2,,,Pegivirus H,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Pegivirus H
+Perch rhabdovirus,,,Perch perhabdovirus,,,NA,,Perch perhabdovirus
+Perinet virus,,,Perinet vesiculovirus,,,NA,,Perinet vesiculovirus
+,Peruvian horse sickness virus,,Peruvian horse sickness virus,Automatic match,,NA,,Peruvian horse sickness virus
+Bovine viral diarrhea virus 1,Bovine viral diarrhea virus 1,Bovine viral diarrhea virus 1,Bovine viral diarrhea virus 1,,,NA,,Pestivirus A
+Bovine viral diarrhea virus 2,Bovine viral diarrhea virus 2,,Bovine viral diarrhea virus 2,,,NA,,Pestivirus B
+Classical swine fever virus,Classical swine fever virus,,Classical swine fever virus,,,NA,,Pestivirus C
+Border disease virus,Border disease virus,,Border disease virus,,,NA,,Pestivirus D
+Pronghorn antelope pestivirus,,,Pronghorn antelope pestivirus,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,Pestivirus E
+Porcine pestivirus isolate Bungowannah,,,Porcine pestivirus isolate Bungowannah,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,Pestivirus F
+Bovine viral diarrhea virus 3,,,Bovine viral diarrhea virus 3,Unclassified,No match in ICTV taxonomy; Listed as unclassified on NCBI,NA,,Pestivirus H
+Pestivirus Burdur,,,Aydin virus,Unclassified; Strain,"No match in ICTV taxonomy; Listed as a strain of 'Aydin virus' on NCBI, which in turn is listed as unclassified",NA,,Pestivirus I
+Pestivirus strain Aydin/04-TR,,,Aydin virus,Unclassified; Strain,"No match in ICTV taxonomy; Listed as a strain of 'Aydin virus' on NCBI, which in turn is listed as unclassified",NA,,Pestivirus I
+,Phnom Penh bat virus,,Phnom Penh bat virus,Automatic match,,NA,,Phnom Penh bat virus
+,Phocid herpesvirus 1,,Phocid alphaherpesvirus 1,,,NA,,Phocid alphaherpesvirus 1
+Phocine distemper virus,Phocine distemper virus,,Phocine morbillivirus,,,NA,,Phocine morbillivirus
+Grass carp rhabdovirus V76,,,Pike fry sprivivirus,Strain,No match in ICTV taxonomy; Listed as strain/isolate on NCBI,NA,,Pike fry sprivivirus
+Tench rhabdovirus S64,,,Pike fry sprivivirus,Strain,No match in ICTV taxonomy; Listed as strain/isolate on NCBI,NA,,Pike fry sprivivirus
+Pike fry rhabdovirus,,,Pike fry sprivivirus,,,NA,,Pike fry sprivivirus
+,Hamster oral papillomavirus,,Pipapillomavirus 1,,,NA,,Pipapillomavirus 1
+Bat coronavirus HKU5,,,Pipistrellus bat coronavirus HKU5,,Source sp. verified in source data,NA,,Pipistrellus bat coronavirus HKU5
+Pirital virus,Pirital virus,,Pirital mammarenavirus,,,NA,,Pirital mammarenavirus
+,Piry virus,Piry vesiculovirus ,Piry vesiculovirus,Automatic match,,NA,,Piry vesiculovirus
+Cutthroat trout virus,,,Piscihepevirus A,,No match in ICTV taxonomy; Listed as a strain/isolate on NCBI,NA,,Piscihepevirus A
+Viral hemorrhagic septicemia virus,,,Piscine novirhabdovirus,,,NA,,Piscine novirhabdovirus
+,Pixuna virus,Pixuna virus ,Pixuna virus,Automatic match,,NA,,Pixuna virus
+,Pongine herpesvirus 2,,Pongine gammaherpesvirus 2,,,NA,,Pongine gammaherpesvirus 2
+,Porcine circovirus-1,,Porcine circovirus 1,,,NA,,Porcine circovirus 1
+,Porcine circovirus-2,,Porcine circovirus 2,,,NA,,Porcine circovirus 2
+Porcine epidemic diarrhea virus,Porcine epidemic diarrhea virus,,Porcine epidemic diarrhea virus,,,NA,,Porcine epidemic diarrhea virus
+,Porcine adenovirus A,,Porcine mastadenovirus A,,,NA,,Porcine mastadenovirus A
+,Porcine adenovirus B,,Porcine mastadenovirus B,,,NA,,Porcine mastadenovirus B
+,Porcine adenovirus C,,Porcine mastadenovirus C,,,NA,,Porcine mastadenovirus C
+Porcine parainfluenza virus 1,,,Porcine respirovirus 1,,,NA,,Porcine respirovirus 1
+Porcine torovirus,Porcine torovirus,,Porcine torovirus,,,NA,,Porcine torovirus
+,Porcine type-C oncovirus,,Porcine type-C oncovirus,Automatic match,,NA,,Porcine type-C oncovirus
+,Possum adenovirus,,Possum atadenovirus A,,,NA,,Possum atadenovirus A
+Potato yellow dwarf virus,,,Potato yellow dwarf nucleorhabdovirus,,,NA,,Potato yellow dwarf nucleorhabdovirus
+Powassan virus,Powassan virus,Powassan virus ,Powassan virus,,,NA,,Powassan virus
+,Human parvovirus B19,,Primate erythroparvovirus 1,,,NA,,Primate erythroparvovirus 1
+,Simian parvovirus,,Primate erythroparvovirus 2,,,NA,,Primate erythroparvovirus 2
+,Rhesus macaque parvovirus,,Primate erythroparvovirus 3,,,NA,,Primate erythroparvovirus 3
+,Pig-tailed macaque parvovirus,,Primate erythroparvovirus 4,,,NA,,Primate erythroparvovirus 4
+,Primate T-lymphotropic virus 1,Primate T-lymphotropic virus 1 ,Primate T-lymphotropic virus 1,Automatic match,,NA,,Primate T-lymphotropic virus 1
+,Primate T-lymphotropic virus 2,Primate T-lymphotropic virus 2 ,Primate T-lymphotropic virus 2,Automatic match,,NA,,Primate T-lymphotropic virus 2
+,Primate T-lymphotropic virus 3,Primate T-lymphotropic virus 3,Primate T-lymphotropic virus 3,Automatic match,,NA,,Primate T-lymphotropic virus 3
+,Prospect Hill virus,,Prospect Hill orthohantavirus,Automatic match,,NA,,Prospect Hill orthohantavirus
+,Pseudocowpox virus,,Pseudocowpox virus,Automatic match,,NA,,Pseudocowpox virus
+Puerto Almendras virus,,,Puerto Almendras almendravirus,,,NA,,Puerto Almendras almendravirus
+,Puma lentivirus,,Puma lentivirus,Automatic match,,NA,,Puma lentivirus
+,Punta Toro virus,Punta Toro phlebovirus ,Punta Toro phlebovirus,Automatic match,,NA,,Punta Toro phlebovirus
+Puumala virus,Puumala virus,Puumala orthohantavirus ,Puumala orthohantavirus,,,NA,,Puumala orthohantavirus
+,Qalyub virus,,Qalyub orthonairovirus,Automatic match,,NA,,Qalyub orthonairovirus
+,Quaranfil virus,,Quaranfil virus,Automatic match,,NA,,Quaranfil quaranjavirus
+,Rabbit fibroma virus,,Rabbit fibroma virus,Automatic match,,NA,,Rabbit fibroma virus
+Rabbit calicivirus,,,Rabbit hemorrhagic disease virus,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI,NA,,Rabbit hemorrhagic disease virus
+Rabbit hemorrhagic disease virus,,,Rabbit hemorrhagic disease virus,,Checked for duplication – K80 distance from Rabbit calcivirus is 0.259,NA,,Rabbit hemorrhagic disease virus
+,Rabbit hemorrhagic disease virus,,Rabbit hemorrhagic disease virus,,,NA,,Rabbit hemorrhagic disease virus
+,Rabies virus,Rabies lyssavirus,Rabies lyssavirus,Automatic match,,NA,,Rabies lyssavirus
+"Rabies virus isolate 13N0473AFX, complete genome.",,,Rabies lyssavirus,Strain,,NA,,Rabies lyssavirus
+"Rabies virus isolate A10-0512, complete genome.",,,Rabies lyssavirus,Strain,,NA,,Rabies lyssavirus
+"Rabies virus isolate CASK2, complete genome.",,,Rabies lyssavirus,Strain,,NA,,Rabies lyssavirus
+"Rabies virus isolate IP 7841/09, complete genome.",,,Rabies lyssavirus,Strain,,NA,,Rabies lyssavirus
+"Rabies virus isolate NC1234, complete genome.",,,Rabies lyssavirus,Strain,,NA,,Rabies lyssavirus
+"Rabies virus isolate R2013-01, complete genome.",,,Rabies lyssavirus,Strain,,NA,,Rabies lyssavirus
+"Rabies virus isolate RAC, complete genome.",,,Rabies lyssavirus,Strain,,NA,,Rabies lyssavirus
+"Rabies virus isolate RV2772, complete genome.",,,Rabies lyssavirus,Strain,,NA,,Rabies lyssavirus
+"Rabies virus isolate RV437, complete genome.",,,Rabies lyssavirus,Strain,,NA,,Rabies lyssavirus
+"Rabies virus strain 148/lib01041, complete genome",,,Rabies lyssavirus,Strain,,NA,,Rabies lyssavirus
+,Racoonpox virus,,Raccoonpox virus,,,NA,,Raccoonpox virus
+Sunshine virus,,,Reptile sunshinevirus 1,,No match in ICTV taxonomy; Listed as a type on NCBI,NA,,Reptile sunshinevirus 1
+Fer-de-Lance paramyxovirus,,,Reptilian ferlavirus,,,NA,,Reptilian ferlavirus
+Reston ebolavirus,Reston ebolavirus,Reston ebolavirus ,Reston ebolavirus,,,NA,,Reston ebolavirus
+,Macaque simian foamy virus,Macaque simian foamy virus,Macaque simian foamy virus,Automatic match,,NA,,Rhesus macaque simian foamy virus
+Rhinolophus bat coronavirus HKU2,,,Rhinolophus bat coronavirus HKU2,,,NA,,Rhinolophus bat coronavirus HKU2
+Rhinovirus A,Human rhinovirus A,Rhinovirus A,Rhinovirus A,,,NA,,Rhinovirus A
+Human rhinovirus B52,Human rhinovirus B,Rhinovirus B,Rhinovirus B,,Human rhinovirus B52: No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Rhinovirus B
+Rhinovirus C,,Rhinovirus C,Rhinovirus C,,,NA,,Rhinovirus C
+Rice yellow stunt virus,,,Rice yellow stunt nucleorhabdovirus,,,NA,,Rice yellow stunt nucleorhabdovirus
+Rift Valley fever virus,Rift Valley fever virus,Rift Valley fever phlebovirus ,Rift Valley fever phlebovirus,,,NA,,Rift Valley fever phlebovirus
+Rinderpest virus,Rinderpest virus,,Rinderpest morbillivirus,,,NA,,Rinderpest morbillivirus
+Rio Bravo virus,Rio Bravo virus,Rio Bravo virus ,Rio Bravo virus,,,NA,,Rio Bravo virus
+,Rio Negro virus,Rio Negro virus,Rio Negro virus,Automatic match,,NA,,Rio Negro virus
+,Chipmunk parvovirus,,Rodent erythroparvovirus 1,,No match on ICTV; Listed as a type/strain on NCBI,NA,,Rodent erythroparvovirus 1
+,Hamster parvovirus,,Rodent protoparvovirus 1,Duplicate,"No match in ICTV, and unclassified on NCBI. However, a recent study showed it to be nearly identical to Mouse parvovirus 3: https://dx.doi.org/10.1099/vir.0.81547-0",NA,,Rodent protoparvovirus 1
+,Rat minute virus 1,,Rodent protoparvovirus 1,Duplicate,"Unclassified on NCBI, but BLAST searches match it to Rodent protoparvovirus 1 (confirmed by https://doi.org/10.1007/s00705-013-1914-1)",NA,,Rodent protoparvovirus 1
+,H-1 parvovirus,,Rodent protoparvovirus 1,Merged,,NA,,Rodent protoparvovirus 1
+,Kilham rat virus,,Rodent protoparvovirus 1,Merged,,NA,,Rodent protoparvovirus 1
+,Minute virus of mice,,Rodent protoparvovirus 1,Merged,,NA,,Rodent protoparvovirus 1
+,Mouse parvovirus 1,,Rodent protoparvovirus 1,Merged,,NA,,Rodent protoparvovirus 1
+,Rat parvovirus 1,,Rodent protoparvovirus 2,,No match in ICTV taxonomy; Listed as a strain/isolate on NCBI,NA,,Rodent protoparvovirus 2
+Sagiyama virus,,,Ross River virus,Merged,Checked for duplication – data differs,NA,,Ross River virus
+Sagiyama virus,,,Ross River virus,Merged,Checked for duplication – data differs,NA,,Ross River virus
+Ross River virus,,,Ross River virus,Merged,Checked for duplication – data differs,NA,,Ross River virus
+Ross River virus,,,Ross River virus,Merged,Checked for duplication – data differs,NA,,Ross River virus
+,Ross River virus,Ross River virus ,Ross River virus,,,NA,,Ross River virus
+,Ross River virus,Ross River virus ,Ross River virus,,,NA,,Ross River virus
+,Rotavirus A,Rotavirus A ,Rotavirus A,Automatic match,,NA,,Rotavirus A
+,Rotavirus A,Rotavirus A ,Rotavirus A,Automatic match,,NA,,Rotavirus A
+,Rotavirus A,Rotavirus A ,Rotavirus A,Automatic match,,NA,,Rotavirus A
+,Rotavirus B,Rotavirus B ,Rotavirus B,Automatic match,,NA,,Rotavirus B
+,Rotavirus C,Rotavirus C ,Rotavirus C,Automatic match,,NA,,Rotavirus C
+,Rotavirus E,,Rotavirus E,Automatic match,,NA,,Rotavirus E
+,,Rotavirus H,Rotavirus H,Automatic match,,NA,,Rotavirus H
+CAS virus,,,Alethinophid 3 reptarenavirus,,No match in ICTV taxonomy; Strain of Alethinophid 3 reptarenavirus on NCBI taxonomy,NA,,Rotterdam reptarenavirus
+Bat coronavirus HKU9,,,Rousettus bat coronavirus HKU9,,Source sp. verified in source data,NA,,Rousettus bat coronavirus HKU9
+Karshi virus,,,Royal Farm virus,Merged,Merged with Royal Farm virus,NA,,Royal Farm virus
+Royal Farm virus,,,Royal Farm virus,Merged,,NA,,Royal Farm virus
+Rubella virus,Rubella virus,Rubella virus ,Rubella virus,,,NA,,Rubella virus
+,Saboya virus,,Saboya virus,Automatic match,,NA,,Saboya virus
+,Callitrichine herpesvirus 1,,Saguinine gammaherpesvirus 1,,,NA,,Saguinine gammaherpesvirus 1
+,Saimiriine herpesvirus 1,,Saimiriine alphaherpesvirus 1,,,NA,,Saimiriine alphaherpesvirus 1
+,Saimiriine herpesvirus 2,,Saimiriine gammaherpesvirus 2,,,NA,,Saimiriine gammaherpesvirus 2
+St. Louis encephalitis virus,St. Louis encephalitis virus,St. Louis encephalitis virus ,St. Louis encephalitis virus,,,NA,,Saint Louis encephalitis virus
+Feline sakobuvirus A,,,Sakobuvirus A,,No match in ICTV taxonomy; Listed as a strain/isolate on NCBI,NA,,Sakobuvirus A
+,Sal Vieja virus,,Sal Vieja virus,Automatic match,,NA,,Sal Vieja virus
+,Salehabad virus,,Salehabad phlebovirus,Automatic match,,NA,,Salehabad phlebovirus
+Salivirus CH,,Salivirus A,Salivirus A,,Salivirus CH: No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Salivirus A
+Atlantic salmon paramyxovirus,,,Salmon aquaparamyxovirus,,,NA,,Salmon aquaparamyxovirus
+Salmon pancreas disease virus,,,Salmon pancreas disease virus,,,NA,,Salmon pancreas disease virus
+Infectious hematopoietic necrosis virus,,,Salmonid novirhabdovirus,,,NA,,Salmonid novirhabdovirus
+,San Perlita virus,,San Perlita virus,Automatic match,,NA,,San Perlita virus
+Sandfly fever Naples virus,Sandfly fever Naples virus,Sandfly fever Naples phlebovirus ,Sandfly fever Naples phlebovirus,,,NA,,Sandfly fever Naples phlebovirus
+,,Sangassou orthohantavirus,Sangassou orthohantavirus,Automatic match,,NA,,Sangassou orthohantavirus
+,Porcine enterovirus A,,Sapelovirus A,,,NA,,Sapelovirus A
+,Sapporo virus,Sapporo virus,Sapporo virus,Automatic match; POSSIBLE DUPLICATE,,NA,,Sapporo virus
+Sapovirus GII,,,Sapporo virus,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Sapporo virus
+Sapovirus GIV,,,Sapporo virus,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Sapporo virus
+Sapovirus GV,,,Sapporo virus,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Sapporo virus
+Porcine enteric calicivirus,Porcine enteric sapovirus,,Sapporo virus,Strain; POSSIBLE DUPLICATE,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Sapporo virus
+Bat coronavirus 512,,,Scotophilus bat coronavirus 512,,Source sp. verified in source data,NA,,Scotophilus bat coronavirus 512
+Semliki Forest virus,Semliki Forest virus,Semliki Forest virus ,Semliki Forest virus,,,NA,,Semliki Forest virus
+Seoul virus,Seoul virus,Seoul orthohantavirus ,Seoul orthohantavirus,,,NA,,Seoul orthohantavirus
+Sepik virus,Sepik virus,,Sepik virus,,,NA,,Sepik virus
+Human SARS coronavirus,Severe acute respiratory syndrome-related coronavirus,Severe acute respiratory syndrome-related coronavirus,Severe acute respiratory syndrome-related coronavirus,Automatic match,,NA,,Severe acute respiratory syndrome-related coronavirus
+,Sheeppox virus,,Sheeppox virus,Automatic match,,NA,,Sheeppox virus
+Shimoni bat virus,,,Shimoni bat lyssavirus,,,NA,,Shimoni bat lyssavirus
+,Shuni virus,Shuni orthobunyavirus,Shuni orthobunyavirus,Automatic match,,NA,,Shuni orthobunyavirus
+Sicinivirus A,,,Sicinivirus A,,,NA,,Sicinivirus A
+,Simbu virus,,Simbu orthobunyavirus,Automatic match,,NA,,Simbu orthobunyavirus
+,Simian immunodeficiency virus,Simian immunodeficiency virus,Simian immunodeficiency virus,Automatic match,,NA,,Simian immunodeficiency virus
+,New York virus,,Sin Nombre orthohantavirus,Merged,"Listed as abolished in 2016 on ICTV taxonomy search, but linked document makes it a strain (see https://data.ictvonline.org/proposals/2016.023a-cM.A.v2.Hantavirus_sprev.pdf)",NA,,Sin Nombre orthohantavirus
+,Sin Nombre virus,,Sin Nombre orthohantavirus,Merged,,NA,,Sin Nombre orthohantavirus
+Sin Nombre virus,,Sin Nombre orthohantavirus ,Sin Nombre orthohantavirus,,,NA,,Sin Nombre orthohantavirus
+Babanki virus,,,Sindbis virus,Merged,Several species merged into this name,TRUE,"Duplicate (sequence highly similar to Ockelbo virus and Sindbis virus, data identical)",Sindbis virus
+Kyzylagach virus,,,Sindbis virus,Merged,Several species merged into this name,NA,,Sindbis virus
+Ockelbo virus,,,Sindbis virus,Merged,Several species merged into this name,TRUE,"Duplicate (sequence highly similar to Babanki virus and Sindbis virus, data identical)",Sindbis virus
+Sindbis virus,,,Sindbis virus,Merged,,TRUE,"Duplicate (sequence highly similar to Babanki virus and Ockelbo virus, data identical)",Sindbis virus
+,Sindbis virus,Sindbis virus ,Sindbis virus,,,NA,,Sindbis virus
+Peste-des-petits-ruminants virus,Peste-des-petits-ruminants virus,,Small ruminant morbillivirus,,,NA,,Small ruminant morbillivirus
+Snakehead virus,,,Snakehead novirhabdovirus,,,NA,,Snakehead novirhabdovirus
+Sonchus yellow net virus,,,Sonchus yellow net nucleorhabdovirus,,,NA,,Sonchus yellow net nucleorhabdovirus
+Southern elephant seal virus,Southern elephant seal virus,,Southern elephant seal virus,,,NA,,Southern elephant seal virus
+,Squirrel fibroma virus,,Squirrel fibroma virus,Automatic match,,NA,,Squirrel fibroma virus
+,Squirrel monkey retrovirus,,Squirrel monkey retrovirus,Automatic match,,NA,,Squirrel monkey retrovirus
+,Squirrel parapoxvirus,,Squirrelpox virus,,,NA,,Squirrelpox virus
+Sudan ebolavirus,Sudan ebolavirus,Sudan ebolavirus ,Sudan ebolavirus,,,NA,,Sudan ebolavirus
+,Suid herpesvirus 1,,Suid alphaherpesvirus 1,,,NA,,Suid alphaherpesvirus 1
+,Swinepox virus,,Swinepox virus,Automatic match,,NA,,Swinepox virus
+,Tacaiuma virus,Tacaiuma orthobunyavirus ,Tacaiuma orthobunyavirus,Automatic match,,NA,,Tacaiuma orthobunyavirus
+Ocozocoautla de Espinosa virus,,,Tacaribe mammarenavirus,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Tacaribe mammarenavirus
+Ocozocoautla de Espinosa virus,,,Tacaribe mammarenavirus,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Tacaribe mammarenavirus
+Tacaribe virus,Tacaribe virus,,Tacaribe mammarenavirus,Strain,Checked for duplication – data differs and sequences divergent,NA,,Tacaribe mammarenavirus
+Tacaribe virus,Tacaribe virus,,Tacaribe mammarenavirus,Strain,Checked for duplication – data differs and sequences divergent,NA,,Tacaribe mammarenavirus
+Tai Forest ebolavirus,Cote d'Ivoire ebolavirus,Tai forest ebolavirus,Taï Forest ebolavirus,,"Actually now 'Tai forest ebolavirus' (i.e. without the diacritical mark), but MSL not yet updated",NA,,Tai Forest ebolavirus
+Tamiami virus,Tamiami virus,,Tamiami mammarenavirus,,,NA,,Tamiami mammarenavirus
+,Tanapox virus,,Tanapox virus,Automatic match,,NA,,Tanapox virus
+Taro vein chlorosis virus,,,Taro vein chlorosis nucleorhabdovirus,,,NA,,Taro vein chlorosis nucleorhabdovirus
+,Taterapox virus,,Taterapox virus,Automatic match,,NA,,Taterapox virus
+Tembusu virus,Tembusu virus,Tembusu virus,Tembusu virus,,,NA,,Tembusu virus
+,Porcine teschovirus,,Teschovirus A,,,NA,,Teschovirus A
+,Thailand virus,Thailand orthohantavirus,Thailand orthohantavirus,Automatic match,,NA,,Thailand orthohantavirus
+,Thiafora virus,Thiafora orthonairovirus,Thiafora orthonairovirus,Automatic match,,NA,,Thiafora orthonairovirus
+,Thogoto virus,Thogoto virus ,Thogoto virus,Automatic match,,NA,,Thogoto thogotovirus
+Thottapalayam virus,Thottapalayam virus,Thottapalayam orthohantavirus,Thottapalayam orthohantavirus,,,NA,,Thottopalayam thottimvirus
+Tibrogargan virus,Bivens Arm virus,,Tibrogargan tibrovirus,,No match in ICTV taxonomy; Listed as a type/strain on NCBI,NA,,Tibrogargan tibrovirus
+Tick-borne encephalitis virus,Tick-borne encephalitis virus,Tick-borne encephalitis virus ,Tick-borne encephalitis virus,,,NA,,Tick-borne encephalitis virus
+Tomato spotted wilt virus,,,Tomato spotted wilt orthotospovirus,,,NA,,Tomato spotted wilt tospovirus
+,Tonate virus,Tonate virus,Tonate virus,Automatic match,,NA,,Tonate virus
+,Tree shrew adenovirus,,Tree shrew mastadenovirus A,,,NA,,Tree shrew mastadenovirus A
+Avian encephalomyelitis virus,,,Tremovirus A,,,NA,,Tremovirus A
+Tula virus,Tula virus,Tula orthohantavirus,Tula orthohantavirus,,,NA,,Tula orthohantavirus
+Tupaia virus,,,Tupaia tupavirus,,,NA,,Tupaia tupavirus
+,Tupaiid herpesvirus 1,,Tupaiid betaherpesvirus 1,,,NA,,Tupaiid betaherpesvirus 1
+,Turlock virus,,Turlock orthobunyavirus,Automatic match,,NA,,Turlock orthobunyavirus
+Bat coronavirus 133,,,Tylonycteris bat coronavirus HKU4,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,TRUE,"Duplicate (data identical to Bat Coronavirus HKU4, K80 distance only 0.041)",Tylonycteris bat coronavirus HKU4
+Bat coronavirus HKU4,,,Tylonycteris bat coronavirus HKU4,,"Renamed by ICTV, source sp. verified in source data",NA,,Tylonycteris bat coronavirus HKU4
+Tyuleniy virus,,,Tyuleniy virus,,,NA,,Tyuleniy virus
+,Uganda S virus,Uganda S virus,Uganda S virus,Automatic match,,NA,,Uganda S virus
+Una virus,Una virus,Una virus,Una virus,,,NA,,Una virus
+,Bovine parvovirus,,Ungulate bocaparvovirus 1,,,NA,,Ungulate bocaparvovirus 1
+,Porcine parvovirus,,Ungulate protoparvovirus 1,,,NA,,Ungulate protoparvovirus 1
+Usutu virus,Usutu virus,Usutu virus,Usutu virus,,,NA,,Usutu virus
+Uukuniemi virus,Uukuniemi virus,Uukuniemi phlebovirus,Uukuniemi phlebovirus,,,NA,,Uukuniemi phlebovirus
+,Vaccinia virus,,Vaccinia virus,Automatic match,,NA,,Vaccinia virus
+,Variola virus,,Variola virus,Automatic match,,NA,,Variola virus
+Venezuelan equine encephalitis virus,Venezuelan equine encephalitis virus,Venezuelan equine encephalitis virus ,Venezuelan equine encephalitis virus,,,NA,,Venezuelan equine encephalitis virus
+Venezuelan equine encephalitis virus,Venezuelan equine encephalitis virus,Venezuelan equine encephalitis virus ,Venezuelan equine encephalitis virus,,,NA,,Venezuelan equine encephalitis virus
+Reptile vesivirus,,,Vesicular exanthema of swine virus,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Vesicular exanthema of swine virus
+Reptile vesivirus,,,Vesicular exanthema of swine virus,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Vesicular exanthema of swine virus
+San Miguel sea lion virus 1,,,Vesicular exanthema of swine virus,Strain,"San Miguel sea lion virus is now merged with Vesicular exanthema of swine virus, but no match in taxonomy when including number; Listed as a strain on NCBI",NA,,Vesicular exanthema of swine virus
+San Miguel sea lion virus 1,,,Vesicular exanthema of swine virus,Strain,"San Miguel sea lion virus is now merged with Vesicular exanthema of swine virus, but no match in taxonomy when including number; Listed as a strain on NCBI",NA,,Vesicular exanthema of swine virus
+Walrus calicivirus,Walrus calicivirus,,Vesicular exanthema of swine virus,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Vesicular exanthema of swine virus
+Walrus calicivirus,Walrus calicivirus,,Vesicular exanthema of swine virus,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Vesicular exanthema of swine virus
+Vesicular exanthema of swine virus,Vesicular exanthema of swine virus,Vesicular exanthema of swine virus,Vesicular exanthema of swine virus,Strain,Checked for duplication – data differs,NA,,Vesicular exanthema of swine virus
+Vesicular exanthema of swine virus,Vesicular exanthema of swine virus,Vesicular exanthema of swine virus,Vesicular exanthema of swine virus,Strain,Checked for duplication – data differs,NA,,Vesicular exanthema of swine virus
+,Visna/maedi virus,,Visna/maedi virus,Automatic match,,NA,,Visna-maedi virus
+,Volepox virus,,Volepox virus,Automatic match,,NA,,Volepox virus
+,Wad Medani virus,,Wad Medani virus,Automatic match,,NA,,Wad Medani virus
+,Wallal virus,,Wallal virus,Automatic match,,NA,,Wallal virus
+,Warrego virus,,Warrego virus,Automatic match,,NA,,Warrego virus
+Watermelon silver mottle virus,,,Watermelon silver mottle orthotospovirus,,,NA,,Watermelon silver mottle tospovirus
+Wenzhou virus,,,Wenzhou mammarenavirus,,,NA,,Wenzhou mammarenavirus
+Wesselsbron virus,Wesselsbron virus,Wesselsbron virus ,Wesselsbron virus,,,NA,,Wesselsbron virus
+West Caucasian bat virus,West Caucasian bat virus,,West Caucasian bat lyssavirus,,,NA,,West Caucasian bat lyssavirus
+West Nile virus,West Nile virus,West Nile virus ,West Nile virus,,,NA,,West Nile virus
+,Simian foamy virus,Simian foamy virus,Simian foamy virus,Automatic match,,NA,,Western chimpanzee simian foamy virus
+Western equine encephalitis virus,Western equine encephalitis virus,Western equine encephalitis virus ,Western equine encephalitis virus,,,NA,,Western equine encephalitis virus
+Whataroa virus,,Whataroa virus ,Whataroa virus,,,NA,,Whataroa virus
+White bream virus,,,White bream virus,,,NA,,White bream virus
+White-eye coronavirus HKU16,,,White-eye coronavirus HKU16,,,NA,,White-eye coronavirus HKU16
+Big brushy tank virus,,,Whitewater Arroyo mammarenavirus,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Whitewater Arroyo mammarenavirus
+Tonto creek virus,,,Whitewater Arroyo mammarenavirus,Strain,No match in ICTV taxonomy; Listed as a strain on NCBI taxonomy,NA,,Whitewater Arroyo mammarenavirus
+Whitewater arroyo virus,Whitewater Arroyo virus,Whitewater Arroyo mammarenavirus,Whitewater Arroyo mammarenavirus,Strain,Checked for duplication – closest K80 distance is 0.313,NA,,Whitewater Arroyo mammarenavirus
+Wigeon coronavirus HKU20,,,Wigeon coronavirus HKU20,,,NA,,Wigeon coronavirus HKU20
+Wongabel virus,,,Wongabel hapavirus,,,NA,,Wongabel hapavirus
+,Wongorr virus,,Wongorr virus,Automatic match,,NA,,Wongorr virus
+,Woodchuck hepatitis virus,,Woodchuck hepatitis virus,Automatic match,,NA,,Woodchuck hepatitis virus
+,Woolly monkey sarcoma virus,,Woolly monkey sarcoma virus,Automatic match,,NA,,Woolly monkey sarcoma virus
+,Wyeomyia virus,Wyeomyia orthobunyavirus ,Wyeomyia orthobunyavirus,Automatic match,,NA,,Wyeomyia orthobunyavirus
+,Bovine papillomavirus 3,,Xipapillomavirus 1,,,NA,,Xipapillomavirus 1
+,Yaba monkey tumor virus,,Yaba monkey tumor virus,Automatic match,,NA,,Yaba monkey tumor virus
+Yellow fever virus,Yellow fever virus,Yellow fever virus ,Yellow fever virus,,,NA,,Yellow fever virus
+Yokose virus,Yokose virus,,Yokose virus,,,NA,,Yokose virus
+Yug Bogdanovac virus,,,Yug Bogdanovac vesiculovirus,,,NA,,Yug Bogdanovac vesiculovirus
+Zaire ebolavirus,Zaire ebolavirus,Zaire ebolavirus,Zaire ebolavirus,,,NA,,Zaire ebolavirus
+,Zegla virus,,Zegla orthobunyavirus,Automatic match,,NA,,Zegla orthobunyavirus
+,Equine papillomavirus 1,,Zetapapillomavirus 1,,,NA,,Zetapapillomavirus 1
+Zika virus,Zika virus,Zika virus ,Zika virus,,,NA,,Zika virus
+,,African pouched rat arterivirus,African pouched rat arterivirus,,,NA,,Lambdaarterivirus afriporav
+,,Amga orthohantavirus,Amga orthohantavirus,,,NA,,Seewis orhtohantavirus
+,,Avian avulavirus 13,Avian avulavirus 13,,,NA,,Avian orthoavulavirus 13
+,,Avian avulavirus 2,Avian avulavirus 2,,,NA,,Avian metaavulavirus 2
+,,Avian sapelovirus,Avian sapelovirus,,,NA,,Anativirus A
+,,Bat mumps rubulavirus,Bat mumps rubulavirus,,,,,Bat mumps orthorubulavirus
+,,Blueberry mosaic associated virus,Blueberry mosaic associated virus,,,,,Blueberry mosaic associated ophiovirus
+,,Burana orthonairovirus,Burana orthonairovirus,,,,,Tamdy orthonairovirus
+,,Chaetoceros socialis f. radians RNA virus 01,Chaetoceros socialis f. radians RNA virus 01,,,,,Chaetoceros socialis forma radians RNA virus 1
+,,Citrus psorosis virus,Citrus psorosis virus,,,,,Citrus psorosis ophiovirus
+,,DeBrazza’s monkey arterivirus,DeBrazza’s monkey arterivirus,,,,,Iotaarterivirus debrazmo
+,,Elapid 1 bornavirus,Elapid 1 bornavirus,,,,,Elapid 1 orthobornavirus
+,,Estero Real orthobunyavirus,Estero Real orthobunyavirus,,,,,Estero Real orthonairovirus
+,,Free State vervet virus,Free State vervet virus,,,,,Epsilonarterivirus safriver
+,,Freesia sneak virus,Freesia sneak virus,,,,,Freesia sneak ophiovirus
+,,Imjin orthohantavirus,Imjin orthohantavirus,,,,,Imjin thottimvirus
+,,Infectious salmon anemia virus,Infectious salmon anemia virus,,,,,Salmon isavirus
+,,Johnston Atoll virus,Johnston Atoll virus,,,,,Johnston Atoll quaranjavirus
+,,Kafue kinda chacma baboon virus,Kafue kinda chacma baboon virus,,,,,Thetaarterivirus kafuba
+,,Kibale red colobus virus 1,Kibale red colobus virus 1,,,,,Zetaarterivirus ugarco 1
+,,Kibale red colobus virus 2,Kibale red colobus virus 2,,,,,Etaarterivirus ugarco 1
+,,Kibale red-tailed guenon virus 1,Kibale red-tailed guenon virus 1,,,,,Iotaarterivirus kibreg 1
+,,Laibin orthohantavirus,Laibin orthohantavirus,,,,,Laibin mobatvirus
+,,Lettuce ring necrosis virus,Lettuce ring necrosis virus,,,,,Lettuce ring necrosis ophiovirus
+,,Longquan orthohantavirus,Longquan orthohantavirus,,,,,Longquan loanvirus
+,,Melegrivirus A,Melegrivirus A,,,,,Megrivirus A
+,,Mikumi yellow baboon virus 1,Mikumi yellow baboon virus 1,,,,,Thetaarterivirus mikelba 1
+,,Mirafiori lettuce big-vein virus,Mirafiori lettuce big-vein virus,,,,,Mirafiori lettuce big-vein ophiovirus
+,,Nova orthohantavirus,Nova orthohantavirus,,,,,Nova mobatvirus
+,,Passeriform 1 bornavirus,Passeriform 1 bornavirus,,,,,Passeriform 1 orthobornavirus
+,,Passeriform 2 bornavirus,Passeriform 2 bornavirus,,,,,Passeriform 2 orthobornavirus
+,,Pebjah virus,Pebjah virus,,,,,Deltaarterivirus pejah
+,,Porcine reproductive and respiratory syndrome virus 2,Porcine reproductive and respiratory syndrome virus 2,,,,,Betaarterivirus suid 2
+,,Psittaciform 1 bornavirus,Psittaciform 1 bornavirus,,,,,Psittaciform 1 orthobornavirus
+,,Psittaciform 2 bornavirus,Psittaciform 2 bornavirus,,,,,Psittaciform 2 orthobornavirus
+,,Quezon orthohantavirus,Quezon orthohantavirus,,,,,Quezon mobatvirus
+,,Ranunculus white mottle virus,Ranunculus white mottle virus,,,,,Ranunculus white mottle ophiovirus
+,,Rat arterivirus 1,Rat arterivirus 1,,,,,Betaarterivirus chinrav 1
+,,Sanxia wastrivirus,Sanxia wastrivirus,,,,,Gerrid arlivirus
+,,Shuangao insect herbevirus 1,Shuangao insect herbevirus 1,,,,,Insect shangavirus
+,,Simian hemorrhagic encephalitis virus,Simian hemorrhagic encephalitis virus,,,,,Epsilonarterivirus hemcep
+,,Tacheng chengtivirus,Tacheng chengtivirus,,,,,Tacheng arlivirus
+,,Teviot rubulavirus,Teviot rubulavirus,,,,,Teviot pararubulavirus
+,,Thrush coronavirus HKU12,Thrush coronavirus HKU12,Merged,"Listed as abolished ICTV taxonomy website, but the associated proposal document (https://talk.ictvonline.org/ictv/proposals/2017.012_015S.A.v1.Nidovirales.zip) says exemplar was assigned to Bulbul coronavirus HKU11, so interpreting this as a merge",,,Bulbul coronavirus HKU11
+,,Tulip mild mottle mosaic virus,Tulip mild mottle mosaic virus,,,,,Tulip mild mottle mosaic ophiovirus
+,,Waterbird 1 bornavirus,Waterbird 1 bornavirus,,,,,Waterbird 1 orthobornavirus
+,,Wobbly possum disease virus,Wobbly possum disease virus,,,,,Kappaarterivirus wobum
+,,Wuhan fly phasivirus,Wuhan fly phasivirus,,"Listed as deleted / abolished on ICTV website, but the associated proposal explains that it was actually moved to Fly wubeivirus (https://talk.ictvonline.org/ictv/proposals/2017.006G.A.v3.Riboviria.zip)",,,Fly wubeivirus
+,,Lishi arlivirus,Lishi arlivirus,,,,,Lishi arlivirus
+,,Wenzhou crustavirus,Wenzhou crustavirus,,,,,Wenzhou crustavirus
+,,Balsa almendravirus,Balsa almendravirus,,,,,Balsa almendravirus
+,,Coot Bay almendravirus,Coot Bay almendravirus,,,,,Coot Bay almendravirus
+,,Rio Chico almendravirus,Rio Chico almendravirus,,,,,Rio Chico almendravirus
+,,Iriri curiovirus,Iriri curiovirus,,,,,Iriri curiovirus
+,,Itacaiunas curiovirus,Itacaiunas curiovirus,,,,,Itacaiunas curiovirus
+,,Rochambeau curiovirus,Rochambeau curiovirus,,,,,Rochambeau curiovirus
+,,Alfalfa dwarf cytorhabdovirus,Alfalfa dwarf cytorhabdovirus,,,,,Alfalfa dwarf cytorhabdovirus
+,,Barley yellow striate mosaic cytorhabdovirus,Barley yellow striate mosaic cytorhabdovirus,,,,,Barley yellow striate mosaic cytorhabdovirus
+,,Broccoli necrotic yellows cytorhabdovirus,Broccoli necrotic yellows cytorhabdovirus,,,,,Broccoli necrotic yellows cytorhabdovirus
+,,Colocasia bobone disease-associated cytorhabdovirus,Colocasia bobone disease-associated cytorhabdovirus,,,,,Colocasia bobone disease-associated cytorhabdovirus
+,,Festuca leaf streak cytorhabdovirus,Festuca leaf streak cytorhabdovirus,,,,,Festuca leaf streak cytorhabdovirus
+,,Sonchus cytorhabdovirus 1,Sonchus cytorhabdovirus 1,,,,,Sonchus cytorhabdovirus 1
+,,Strawberry crinkle cytorhabdovirus,Strawberry crinkle cytorhabdovirus,,,,,Strawberry crinkle cytorhabdovirus
+,,Wheat American striate mosaic cytorhabdovirus,Wheat American striate mosaic cytorhabdovirus,,,,,Wheat American striate mosaic cytorhabdovirus
+,,Coffee ringspot dichorhavirus,Coffee ringspot dichorhavirus,,,,,Coffee ringspot dichorhavirus
+,,Orchid fleck dichorhavirus,Orchid fleck dichorhavirus,,,,,Orchid fleck dichorhavirus
+,,Koolpinyah ephemerovirus,Koolpinyah ephemerovirus,,,,,Koolpinyah ephemerovirus
+,,Yata ephemerovirus,Yata ephemerovirus,,,,,Yata ephemerovirus
+,,Flanders hapavirus,Flanders hapavirus,,,,,Flanders hapavirus
+,,Gray Lodge hapavirus,Gray Lodge hapavirus,,,,,Gray Lodge hapavirus
+,,Hart Park hapavirus,Hart Park hapavirus,,,,,Hart Park hapavirus
+,,Joinjakaka hapavirus,Joinjakaka hapavirus,,,,,Joinjakaka hapavirus
+,,Kamese hapavirus,Kamese hapavirus,,,,,Kamese hapavirus
+,,La Joya hapavirus,La Joya hapavirus,,,,,La Joya hapavirus
+,,Landjia hapavirus,Landjia hapavirus,,,,,Landjia hapavirus
+,,Manitoba hapavirus,Manitoba hapavirus,,,,,Manitoba hapavirus
+,,Marco hapavirus,Marco hapavirus,,,,,Marco hapavirus
+,,Mosqueiro hapavirus,Mosqueiro hapavirus,,,,,Mosqueiro hapavirus
+,,Mossuril hapavirus,Mossuril hapavirus,,,,,Mossuril hapavirus
+,,Ord River hapavirus,Ord River hapavirus,,,,,Ord River hapavirus
+,,Parry Creek hapavirus,Parry Creek hapavirus,,,,,Parry Creek hapavirus
+,,Fukuoka ledantevirus,Fukuoka ledantevirus,,,,,Fukuoka ledantevirus
+,,Kumasi ledantevirus,Kumasi ledantevirus,,,,,Kumasi ledantevirus
+,,Le Dantec ledantevirus,Le Dantec ledantevirus,,,,,Le Dantec ledantevirus
+,,Nishimuro ledantevirus,Nishimuro ledantevirus,,,,,Nishimuro ledantevirus
+,,Nkolbisson ledantevirus,Nkolbisson ledantevirus,,,,,Nkolbisson ledantevirus
+,,Wuhan ledantevirus,Wuhan ledantevirus,,,,,Wuhan ledantevirus
+,,Yongjia ledantevirus,Yongjia ledantevirus,,,,,Yongjia ledantevirus
+,,Datura yellow vein nucleorhabdovirus,Datura yellow vein nucleorhabdovirus,,,,,Datura yellow vein nucleorhabdovirus
+,,Sowthistle yellow vein nucleorhabdovirus,Sowthistle yellow vein nucleorhabdovirus,,,,,Sowthistle yellow vein nucleorhabdovirus
+,,Sea trout perhabdovirus,Sea trout perhabdovirus,,,,,Sea trout perhabdovirus
+,,Drosophila affinis sigmavirus,Drosophila affinis sigmavirus,,,,,Drosophila affinis sigmavirus
+,,Drosophila ananassae sigmavirus,Drosophila ananassae sigmavirus,,,,,Drosophila ananassae sigmavirus
+,,Drosophila immigrans sigmavirus,Drosophila immigrans sigmavirus,,,,,Drosophila immigrans sigmavirus
+,,Drosophila tristis sigmavirus,Drosophila tristis sigmavirus,,,,,Drosophila tristis sigmavirus
+,,Muscina stabulans sigmavirus,Muscina stabulans sigmavirus,,,,,Muscina stabulans sigmavirus
+,,Chaco sripuvirus,Chaco sripuvirus,,,,,Chaco sripuvirus
+,,Sena Madureira sripuvirus,Sena Madureira sripuvirus,,,,,Sena Madureira sripuvirus
+,,Sripur sripuvirus,Sripur sripuvirus,,,,,Sripur sripuvirus
+,,Sweetwater Branch tibrovirus,Sweetwater Branch tibrovirus,,,,,Sweetwater Branch tibrovirus
+,,Durham tupavirus,Durham tupavirus,,,,,Durham tupavirus
+,,Klamath tupavirus,Klamath tupavirus,,,,,Klamath tupavirus
+,,Lettuce big-vein associated varicosavirus,Lettuce big-vein associated varicosavirus,,,,,Lettuce big-vein associated varicosavirus
+,,Carajas vesiculovirus,Carajas vesiculovirus,,,,,Carajas vesiculovirus
+,,Morreton vesiculovirus,Morreton vesiculovirus,,,,,Morreton vesiculovirus
+,,Radi vesiculovirus,Radi vesiculovirus,,,,,Radi vesiculovirus
+,,Xincheng anphevirus,Xincheng anphevirus,,,,,Xincheng anphevirus
+,,Mariental mammarenavirus,Mariental mammarenavirus,,,,,Mariental mammarenavirus
+,,Okahandja mammarenavirus,Okahandja mammarenavirus,,,,,Okahandja mammarenavirus
+,,Solwezi mammarenavirus,Solwezi mammarenavirus,,,,,Solwezi mammarenavirus
+,,Asama orthohantavirus,Asama orthohantavirus,,,,,Asama orthohantavirus
+,,Asikkala orthohantavirus,Asikkala orthohantavirus,,,,,Asikkala orthohantavirus
+,,Bowe orthohantavirus,Bowe orthohantavirus,,,,,Bowe orthohantavirus
+,,Bruges orthohantavirus,Bruges orthohantavirus,,,,,Bruges orthohantavirus
+,,Cao Bang orthohantavirus,Cao Bang orthohantavirus,,,,,Cao Bang orthohantavirus
+,,Dabieshan orthohantavirus,Dabieshan orthohantavirus,,,,,Dabieshan orthohantavirus
+,,Fugong orthohantavirus,Fugong orthohantavirus,,,,,Fugong orthohantavirus
+,,Fusong orthohantavirus,Fusong orthohantavirus,,,,,Fusong orthohantavirus
+,,Jeju orthohantavirus,Jeju orthohantavirus,,,,,Jeju orthohantavirus
+,,Kenkeme orthohantavirus,Kenkeme orthohantavirus,,,,,Kenkeme orthohantavirus
+,,Luxi orthohantavirus,Luxi orthohantavirus,,,,,Luxi orthohantavirus
+,,Maporal orthohantavirus,Maporal orthohantavirus,,,,,Maporal orthohantavirus
+,,Montano orthohantavirus,Montano orthohantavirus,,,,,Montano orthohantavirus
+,,Necocli orthohantavirus,Necocli orthohantavirus,,,,,Necocli orthohantavirus
+,,Oxbow orthohantavirus,Oxbow orthohantavirus,,,,,Oxbow orthohantavirus
+,,Rockport orthohantavirus,Rockport orthohantavirus,,,,,Rockport orthohantavirus
+,,Yakeshi orthohantavirus,Yakeshi orthohantavirus,,,,,Yakeshi orthohantavirus
+,,Hazara orthonairovirus,Hazara orthonairovirus,,,,,Hazara orthonairovirus
+,,Hughes orthonairovirus,Hughes orthonairovirus,,,,,Hughes orthonairovirus
+,,Keterah orthonairovirus,Keterah orthonairovirus,,,,,Keterah orthonairovirus
+,,Nairobi sheep disease orthonairovirus,Nairobi sheep disease orthonairovirus,,,,,Nairobi sheep disease orthonairovirus
+,,Sakhalin orthonairovirus,Sakhalin orthonairovirus,,,,,Sakhalin orthonairovirus
+,,Kibale herbevirus,Kibale herbevirus,,,,,Kibale herbevirus
+,,Tai herbevirus,Tai herbevirus,,,,,Tai herbevirus
+,,Acara orthobunyavirus,Acara orthobunyavirus,,,,,Acara orthobunyavirus
+,,Alajuela orthobunyavirus,Alajuela orthobunyavirus,,,,,Alajuela orthobunyavirus
+,,Batama orthobunyavirus,Batama orthobunyavirus,,,,,Batama orthobunyavirus
+,,Benevides orthobunyavirus,Benevides orthobunyavirus,,,,,Benevides orthobunyavirus
+,,Bertioga orthobunyavirus,Bertioga orthobunyavirus,,,,,Bertioga orthobunyavirus
+,,Botambi orthobunyavirus,Botambi orthobunyavirus,,,,,Botambi orthobunyavirus
+,,Bushbush orthobunyavirus,Bushbush orthobunyavirus,,,,,Bushbush orthobunyavirus
+,,Capim orthobunyavirus,Capim orthobunyavirus,,,,,Capim orthobunyavirus
+,,Gamboa orthobunyavirus,Gamboa orthobunyavirus,,,,,Gamboa orthobunyavirus
+,,Guajara orthobunyavirus,Guajara orthobunyavirus,,,,,Guajara orthobunyavirus
+,,MPoko orthobunyavirus,MPoko orthobunyavirus,,,,,MPoko orthobunyavirus
+,,Olifantsvlei orthobunyavirus,Olifantsvlei orthobunyavirus,,,,,Olifantsvlei orthobunyavirus
+,,Tete orthobunyavirus,Tete orthobunyavirus,,,,,Tete orthobunyavirus
+,,Thimiri orthobunyavirus,Thimiri orthobunyavirus,,,,,Thimiri orthobunyavirus
+,,Timboteua orthobunyavirus,Timboteua orthobunyavirus,,,,,Timboteua orthobunyavirus
+,,Cumuto goukovirus,Cumuto goukovirus,,,,,Cumuto goukovirus
+,,Yichang insect goukovirus,Yichang insect goukovirus,,,,,Yichang insect goukovirus
+,,Badu phasivirus,Badu phasivirus,,,,,Badu phasivirus
+,,Phasi Charoen-like phasivirus,Phasi Charoen-like phasivirus,,,,,Phasi Charoen-like phasivirus
+,,Wutai mosquito phasivirus,Wutai mosquito phasivirus,,,,,Wutai mosquito phasivirus
+,,Chilibre phlebovirus,Chilibre phlebovirus,,,,,Chilibre phlebovirus
+,,Frijoles phlebovirus,Frijoles phlebovirus,,,,,Frijoles phlebovirus
+,,Echinochloa hoja blanca tenuivirus,Echinochloa hoja blanca tenuivirus,,,,,Echinochloa hoja blanca tenuivirus
+,,Iranian wheat stripe tenuivirus,Iranian wheat stripe tenuivirus,,,,,Iranian wheat stripe tenuivirus
+,,Maize stripe tenuivirus,Maize stripe tenuivirus,,,,,Maize stripe tenuivirus
+,,Rice grassy stunt tenuivirus,Rice grassy stunt tenuivirus,,,,,Rice grassy stunt tenuivirus
+,,Rice hoja blanca tenuivirus,Rice hoja blanca tenuivirus,,,,,Rice hoja blanca tenuivirus
+,,Rice stripe tenuivirus,Rice stripe tenuivirus,,,,,Rice stripe tenuivirus
+,,Urochloa hoja blanca tenuivirus,Urochloa hoja blanca tenuivirus,,,,,Urochloa hoja blanca tenuivirus
+,,Tilapia tilapinevirus,Tilapia tilapinevirus,,,,,Tilapia tilapinevirus
+,,Influenza D virus,Influenza D virus,,,,,Influenza D virus
+,,Mink coronavirus 1,Mink coronavirus 1,,,,,Mink coronavirus 1
+,,Miniopterus bat coronavirus 1,Miniopterus bat coronavirus 1,,,,,Miniopterus bat coronavirus 1
+,,Fathead minnow nidovirus 1,Fathead minnow nidovirus 1,,,,,Fathead minnow nidovirus 1
+,,Chinook salmon nidovirus 1,Chinook salmon nidovirus 1,,,,,Chinook salmon nidovirus 1
+,,Bovine nidovirus 1,Bovine nidovirus 1,,,,,Bovine nidovirus 1
+,,Ball python nidovirus 1,Ball python nidovirus 1,,,,,Ball python nidovirus 1
+,,Chaetoceros tenuissimus RNA virus 01,Chaetoceros tenuissimus RNA virus 01,,,,,Chaetoceros tenuissimus RNA virus 01
+,,Rhizosolenia setigera RNA virus 01,Rhizosolenia setigera RNA virus 01,,,,,Rhizosolenia setigera RNA virus 01
+,,Aurantiochytrium single-stranded RNA virus 01,Aurantiochytrium single-stranded RNA virus 01,,,,,Aurantiochytrium single-stranded RNA virus 01
+,,Ampivirus A,Ampivirus A,,,,,Ampivirus A
+,,Bovine rhinitis A virus,Bovine rhinitis A virus,,,,,Bovine rhinitis A virus
+,,Bovine rhinitis B virus,Bovine rhinitis B virus,,,,,Bovine rhinitis B virus
+,,Avisivirus A,Avisivirus A,,,,,Avisivirus A
+,,Cardiovirus C,Cardiovirus C,,,,,Cardiovirus C
+,,Cadicivirus A,Cadicivirus A,,,,,Cadicivirus A
+,,Enterovirus F,Enterovirus F,,,,,Enterovirus F
+,,Enterovirus J,Enterovirus J,,,,,Enterovirus J
+,,Gallivirus A,Gallivirus A,,,,,Gallivirus A
+,,Hepatovirus C,Hepatovirus C,,,,,Hepatovirus C
+,,Hepatovirus D,Hepatovirus D,,,,,Hepatovirus D
+,,Hepatovirus E,Hepatovirus E,,,,,Hepatovirus E
+,,Hepatovirus F,Hepatovirus F,,,,,Hepatovirus F
+,,Hepatovirus G,Hepatovirus G,,,,,Hepatovirus G
+,,Hepatovirus H,Hepatovirus H,,,,,Hepatovirus H
+,,Hepatovirus I,Hepatovirus I,,,,,Hepatovirus I
+,,Hunnivirus A,Hunnivirus A,,,,,Hunnivirus A
+,,Aichivirus B,Aichivirus B,,,,,Aichivirus B
+,,Aichivirus C,Aichivirus C,,,,,Aichivirus C
+,,Aichivirus D,Aichivirus D,,,,,Aichivirus D
+,,Aichivirus E,Aichivirus E,,,,,Aichivirus E
+,,Aichivirus F,Aichivirus F,,,,,Aichivirus F
+,,Kunsagivirus A,Kunsagivirus A,,,,,Kunsagivirus A
+,,Limnipivirus A,Limnipivirus A,,,,,Limnipivirus A
+,,Limnipivirus B,Limnipivirus B,,,,,Limnipivirus B
+,,Mischivirus B,Mischivirus B,,,,,Mischivirus B
+,,Mosavirus A,Mosavirus A,,,,,Mosavirus A
+,,Parechovirus C,Parechovirus C,,,,,Parechovirus C
+,,Parechovirus D,Parechovirus D,,,,,Parechovirus D
+,,Pasivirus A,Pasivirus A,,,,,Pasivirus A
+,,Passerivirus A,Passerivirus A,,,,,Passerivirus A
+,,Potamipivirus A,Potamipivirus A,,,,,Potamipivirus A
+,,Rabovirus A,Rabovirus A,,,,,Rabovirus A
+,,Rosavirus A,Rosavirus A,,,,,Rosavirus A
+,,Sapelovirus B,Sapelovirus B,,,,,Sapelovirus B
+,,Senecavirus A,Senecavirus A,,,,,Senecavirus A
+,,Torchivirus A,Torchivirus A,,,,,Torchivirus A
+,,Mamastrovirus 5,Mamastrovirus 5,,,,,Mamastrovirus 5
+,,Mamastrovirus 7,Mamastrovirus 7,,,,,Mamastrovirus 7
+,,Mamastrovirus 11,Mamastrovirus 11,,,,,Mamastrovirus 11
+,,Mamastrovirus 12,Mamastrovirus 12,,,,,Mamastrovirus 12
+,,Mamastrovirus 14,Mamastrovirus 14,,,,,Mamastrovirus 14
+,,Mamastrovirus 15,Mamastrovirus 15,,,,,Mamastrovirus 15
+,,Mamastrovirus 16,Mamastrovirus 16,,,,,Mamastrovirus 16
+,,Mamastrovirus 17,Mamastrovirus 17,,,,,Mamastrovirus 17
+,,Mamastrovirus 18,Mamastrovirus 18,,,,,Mamastrovirus 18
+,,Mamastrovirus 19,Mamastrovirus 19,,,,,Mamastrovirus 19
+,,Infectious pancreatic necrosis virus,Infectious pancreatic necrosis virus,,,,,Infectious pancreatic necrosis virus
+,,Tellina virus,Tellina virus,,,,,Tellina virus
+,,Yellowtail ascites virus,Yellowtail ascites virus,,,,,Yellowtail ascites virus
+,,Infectious bursal disease virus,Infectious bursal disease virus,,,,,Infectious bursal disease virus
+,,Blotched snakehead virus,Blotched snakehead virus,,,,,Blotched snakehead virus
+,,Drosophila X virus,Drosophila X virus,,,,,Drosophila X virus
+,,Cassava virus C,Cassava virus C,,,,,Cassava virus C
+,,Epirus cherry virus,Epirus cherry virus,,,,,Epirus cherry virus
+,,Ourmia melon virus,Ourmia melon virus,,,,,Ourmia melon virus
+,,Israel turkey meningoencephalomyelitis virus,Israel turkey meningoencephalomyelitis virus,,,,,Israel turkey meningoencephalomyelitis virus
+,,Kadam virus,Kadam virus,,,,,Kadam virus
+,,Meaban virus,Meaban virus,,,,,Meaban virus
+,,Saumarez Reef virus,Saumarez Reef virus,,,,,Saumarez Reef virus
+,,Yaounde virus,Yaounde virus,,,,,Yaounde virus
+,,Hepacivirus A,Hepacivirus A,,,,,Hepacivirus A
+,,Hepacivirus B,Hepacivirus B,,,,,Hepacivirus B
+,,Hepacivirus D,Hepacivirus D,,,,,Hepacivirus D
+,,Hepacivirus E,Hepacivirus E,,,,,Hepacivirus E
+,,Hepacivirus F,Hepacivirus F,,,,,Hepacivirus F
+,,Hepacivirus G,Hepacivirus G,,,,,Hepacivirus G
+,,Hepacivirus H,Hepacivirus H,,,,,Hepacivirus H
+,,Hepacivirus I,Hepacivirus I,,,,,Hepacivirus I
+,,Hepacivirus J,Hepacivirus J,,,,,Hepacivirus J
+,,Hepacivirus K,Hepacivirus K,,,,,Hepacivirus K
+,,Hepacivirus L,Hepacivirus L,,,,,Hepacivirus L
+,,Hepacivirus M,Hepacivirus M,,,,,Hepacivirus M
+,,Hepacivirus N,Hepacivirus N,,,,,Hepacivirus N
+,,Pegivirus B,Pegivirus B,,,,,Pegivirus B
+,,Pegivirus D,Pegivirus D,,,,,Pegivirus D
+,,Pegivirus F,Pegivirus F,,,,,Pegivirus F
+,,Pegivirus G,Pegivirus G,,,,,Pegivirus G
+,,Pegivirus I,Pegivirus I,,,,,Pegivirus I
+,,Pegivirus J,Pegivirus J,,,,,Pegivirus J
+,,Pegivirus K,Pegivirus K,,,,,Pegivirus K
+,,Blueberry necrotic ring blotch virus,Blueberry necrotic ring blotch virus,,,,,Blueberry necrotic ring blotch virus
+,,Citrus leprosis virus C,Citrus leprosis virus C,,,,,Citrus leprosis virus C
+,,Citrus leprosis virus C2,Citrus leprosis virus C2,,,,,Citrus leprosis virus C2
+,,Hibiscus green spot virus 2,Hibiscus green spot virus 2,,,,,Hibiscus green spot virus 2
+,,Rabbit picobirnavirus,Rabbit picobirnavirus,,,,,Rabbit picobirnavirus
+,,Eriocheir sinensis reovirus,Eriocheir sinensis reovirus,,,,,Eriocheir sinensis reovirus
+,,Micromonas pusilla reovirus,Micromonas pusilla reovirus,,,,,Micromonas pusilla reovirus
+,,Chenuda virus,Chenuda virus,,,,,Chenuda virus
+,,Ieri virus,Ieri virus,,,,,Ieri virus
+,,St Croix River virus,St Croix River virus,,,,,St Croix River virus
+,,Umatilla virus,Umatilla virus,,,,,Umatilla virus
+,,Yunnan orbivirus,Yunnan orbivirus,,,,,Yunnan orbivirus
+,,Rice dwarf virus,Rice dwarf virus,,,,,Rice dwarf virus
+,,Rice gall dwarf virus,Rice gall dwarf virus,,,,,Rice gall dwarf virus
+,,Wound tumor virus,Wound tumor virus,,,,,Wound tumor virus
+,,Rotavirus D,Rotavirus D,,,,,Rotavirus D
+,,Rotavirus F,Rotavirus F,,,,,Rotavirus F
+,,Rotavirus G,Rotavirus G,,,,,Rotavirus G
+,,Rotavirus I,Rotavirus I,,,,,Rotavirus I
+,,Kadipiro virus,Kadipiro virus,,,,,Kadipiro virus
+,,Liao ning virus,Liao ning virus,,,,,Liao ning virus
+,,Aquareovirus A,Aquareovirus A,,,,,Aquareovirus A
+,,Aquareovirus B,Aquareovirus B,,,,,Aquareovirus B
+,,Aquareovirus C,Aquareovirus C,,,,,Aquareovirus C
+,,Aquareovirus D,Aquareovirus D,,,,,Aquareovirus D
+,,Aquareovirus E,Aquareovirus E,,,,,Aquareovirus E
+,,Aquareovirus F,Aquareovirus F,,,,,Aquareovirus F
+,,Aquareovirus G,Aquareovirus G,,,,,Aquareovirus G
+,,Cypovirus 1,Cypovirus 1,,,,,Cypovirus 1
+,,Cypovirus 2,Cypovirus 2,,,,,Cypovirus 2
+,,Cypovirus 3,Cypovirus 3,,,,,Cypovirus 3
+,,Cypovirus 4,Cypovirus 4,,,,,Cypovirus 4
+,,Cypovirus 5,Cypovirus 5,,,,,Cypovirus 5
+,,Cypovirus 6,Cypovirus 6,,,,,Cypovirus 6
+,,Cypovirus 7,Cypovirus 7,,,,,Cypovirus 7
+,,Cypovirus 8,Cypovirus 8,,,,,Cypovirus 8
+,,Cypovirus 9,Cypovirus 9,,,,,Cypovirus 9
+,,Cypovirus 10,Cypovirus 10,,,,,Cypovirus 10
+,,Cypovirus 11,Cypovirus 11,,,,,Cypovirus 11
+,,Cypovirus 12,Cypovirus 12,,,,,Cypovirus 12
+,,Cypovirus 13,Cypovirus 13,,,,,Cypovirus 13
+,,Cypovirus 14,Cypovirus 14,,,,,Cypovirus 14
+,,Cypovirus 15,Cypovirus 15,,,,,Cypovirus 15
+,,Cypovirus 16,Cypovirus 16,,,,,Cypovirus 16
+,,Aedes pseudoscutellaris reovirus,Aedes pseudoscutellaris reovirus,,,,,Aedes pseudoscutellaris reovirus
+,,Fiji disease virus,Fiji disease virus,,,,,Fiji disease virus
+,,Garlic dwarf virus,Garlic dwarf virus,,,,,Garlic dwarf virus
+,,Maize rough dwarf virus,Maize rough dwarf virus,,,,,Maize rough dwarf virus
+,,Mal de Rio Cuarto virus,Mal de Rio Cuarto virus,,,,,Mal de Rio Cuarto virus
+,,Nilaparvata lugens reovirus,Nilaparvata lugens reovirus,,,,,Nilaparvata lugens reovirus
+,,Oat sterile dwarf virus,Oat sterile dwarf virus,,,,,Oat sterile dwarf virus
+,,Pangola stunt virus,Pangola stunt virus,,,,,Pangola stunt virus
+,,Rice black streaked dwarf virus,Rice black streaked dwarf virus,,,,,Rice black streaked dwarf virus
+,,Southern rice black-streaked dwarf virus,Southern rice black-streaked dwarf virus,,,,,Southern rice black-streaked dwarf virus
+,,Idnoreovirus 1,Idnoreovirus 1,,,,,Idnoreovirus 1
+,,Idnoreovirus 2,Idnoreovirus 2,,,,,Idnoreovirus 2
+,,Idnoreovirus 3,Idnoreovirus 3,,,,,Idnoreovirus 3
+,,Idnoreovirus 4,Idnoreovirus 4,,,,,Idnoreovirus 4
+,,Idnoreovirus 5,Idnoreovirus 5,,,,,Idnoreovirus 5
+,,Mycoreovirus 1,Mycoreovirus 1,,,,,Mycoreovirus 1
+,,Mycoreovirus 2,Mycoreovirus 2,,,,,Mycoreovirus 2
+,,Mycoreovirus 3,Mycoreovirus 3,,,,,Mycoreovirus 3
+,,Avian orthoreovirus,Avian orthoreovirus,,,,,Avian orthoreovirus
+,,Piscine orthoreovirus,Piscine orthoreovirus,,,,,Piscine orthoreovirus
+,,Reptilian orthoreovirus,Reptilian orthoreovirus,,,,,Reptilian orthoreovirus
+,,Echinochloa ragged stunt virus,Echinochloa ragged stunt virus,,,,,Echinochloa ragged stunt virus
+,,Rice ragged stunt virus,Rice ragged stunt virus,,,,,Rice ragged stunt virus
+,,Poinsettia latent virus,Poinsettia latent virus,,,,,Poinsettia latent virus
+,,Artemisia virus A,Artemisia virus A,,,,,Artemisia virus A
+,,Blueberry shoestring virus,Blueberry shoestring virus,,,,,Blueberry shoestring virus
+,,Cocksfoot mottle virus,Cocksfoot mottle virus,,,,,Cocksfoot mottle virus
+,,Cymbidium chlorotic mosaic virus,Cymbidium chlorotic mosaic virus,,,,,Cymbidium chlorotic mosaic virus
+,,Imperata yellow mottle virus,Imperata yellow mottle virus,,,,,Imperata yellow mottle virus
+,,Lucerne transient streak virus,Lucerne transient streak virus,,,,,Lucerne transient streak virus
+,,Papaya lethal yellowing virus,Papaya lethal yellowing virus,,,,,Papaya lethal yellowing virus
+,,Rice yellow mottle virus,Rice yellow mottle virus,,,,,Rice yellow mottle virus
+,,Rottboellia yellow mottle virus,Rottboellia yellow mottle virus,,,,,Rottboellia yellow mottle virus
+,,Ryegrass mottle virus,Ryegrass mottle virus,,,,,Ryegrass mottle virus
+,,Sesbania mosaic virus,Sesbania mosaic virus,,,,,Sesbania mosaic virus
+,,Solanum nodiflorum mottle virus,Solanum nodiflorum mottle virus,,,,,Solanum nodiflorum mottle virus
+,,Southern bean mosaic virus,Southern bean mosaic virus,,,,,Southern bean mosaic virus
+,,Southern cowpea mosaic virus,Southern cowpea mosaic virus,,,,,Southern cowpea mosaic virus
+,,Sowbane mosaic virus,Sowbane mosaic virus,,,,,Sowbane mosaic virus
+,,Soybean yellow common mosaic virus,Soybean yellow common mosaic virus,,,,,Soybean yellow common mosaic virus
+,,Subterranean clover mottle virus,Subterranean clover mottle virus,,,,,Subterranean clover mottle virus
+,,Turnip rosette virus,Turnip rosette virus,,,,,Turnip rosette virus
+,,Velvet tobacco mottle virus,Velvet tobacco mottle virus,,,,,Velvet tobacco mottle virus
+,,Trocara virus,Trocara virus,,,,,Trocara virus
+,,Tobacco albetovirus 1,Tobacco albetovirus 1,,,,,Tobacco albetovirus 1
+,,Tobacco albetovirus 2,Tobacco albetovirus 2,,,,,Tobacco albetovirus 2
+,,Tobacco albetovirus 3,Tobacco albetovirus 3,,,,,Tobacco albetovirus 3
+,,Maize aumaivirus 1,Maize aumaivirus 1,,,,,Maize aumaivirus 1
+,,Botrytis porri botybirnavirus 1,Botrytis porri botybirnavirus 1,,,,,Botrytis porri botybirnavirus 1
+,,Raspberry bushy dwarf virus,Raspberry bushy dwarf virus,,,,,Raspberry bushy dwarf virus
+,,Panicum papanivirus 1,Panicum papanivirus 1,,,,,Panicum papanivirus 1
+,,Lake Sinai virus 1,Lake Sinai virus 1,,,,,Lake Sinai virus 1
+,,Lake Sinai virus 2,Lake Sinai virus 2,,,,,Lake Sinai virus 2
+,,Tobacco virtovirus 1,Tobacco virtovirus 1,,,,,Tobacco virtovirus 1
+,,Avian carcinoma Mill Hill virus 2,Avian carcinoma Mill Hill virus 2,,,,,Avian carcinoma Mill Hill virus 2
+,,Avian leukosis virus,Avian leukosis virus,,,,,Avian leukosis virus
+,,Avian myeloblastosis virus,Avian myeloblastosis virus,,,,,Avian myeloblastosis virus
+,,Avian myelocytomatosis virus 29,Avian myelocytomatosis virus 29,,,,,Avian myelocytomatosis virus 29
+,,Avian sarcoma virus CT10,Avian sarcoma virus CT10,,,,,Avian sarcoma virus CT10
+,,Fujinami sarcoma virus,Fujinami sarcoma virus,,,,,Fujinami sarcoma virus
+,,Rous sarcoma virus,Rous sarcoma virus,,,,,Rous sarcoma virus
+,,UR2 sarcoma virus,UR2 sarcoma virus,,,,,UR2 sarcoma virus
+,,Y73 sarcoma virus,Y73 sarcoma virus,,,,,Y73 sarcoma virus
+,,Walleye dermal sarcoma virus,Walleye dermal sarcoma virus,,,,,Walleye dermal sarcoma virus
+,,Walleye epidermal hyperplasia virus 1,Walleye epidermal hyperplasia virus 1,,,,,Walleye epidermal hyperplasia virus 1
+,,Walleye epidermal hyperplasia virus 2,Walleye epidermal hyperplasia virus 2,,,,,Walleye epidermal hyperplasia virus 2
+,,Chick syncytial virus,Chick syncytial virus,,,,,Chick syncytial virus
+,,Finkel-Biskis-Jinkins murine sarcoma virus,Finkel-Biskis-Jinkins murine sarcoma virus,,,,,Finkel-Biskis-Jinkins murine sarcoma virus
+,,Gardner-Arnstein feline sarcoma virus,Gardner-Arnstein feline sarcoma virus,,,,,Gardner-Arnstein feline sarcoma virus
+,,Hardy-Zuckerman feline sarcoma virus,Hardy-Zuckerman feline sarcoma virus,,,,,Hardy-Zuckerman feline sarcoma virus
+,,Harvey murine sarcoma virus,Harvey murine sarcoma virus,,,,,Harvey murine sarcoma virus
+,,Kirsten murine sarcoma virus,Kirsten murine sarcoma virus,,,,,Kirsten murine sarcoma virus
+,,Koala retrovirus,Koala retrovirus,,,,,Koala retrovirus
+,,Reticuloendotheliosis virus,Reticuloendotheliosis virus,,,,,Reticuloendotheliosis virus
+,,Snyder-Theilen feline sarcoma virus,Snyder-Theilen feline sarcoma virus,,,,,Snyder-Theilen feline sarcoma virus
+,,Trager duck spleen necrosis virus,Trager duck spleen necrosis virus,,,,,Trager duck spleen necrosis virus
+,,Viper retrovirus,Viper retrovirus,,,,,Viper retrovirus
+,,Jembrana disease virus,Jembrana disease virus,,,,,Jembrana disease virus
+,,Kigluaik phantom orthophasmavirus,Kigluaik phantom orthophasmavirus,,,,,Kigluaik phantom orthophasmavirus
+,,Nome phantom orthophasmavirus,Nome phantom orthophasmavirus,,,,,Nome phantom orthophasmavirus
+,,Shuangao insect orthophasmavirus 2,Shuangao insect orthophasmavirus 2,,,,,Insect inshuvirus
+,,Wuchang cockroach orthophasmavirus 1,Wuchang cockroach orthophasmavirus 1,,,,,Wuchang cockroach orthophasmavirus 1
+,,Wuhan mosquito orthophasmavirus 1,Wuhan mosquito orthophasmavirus 1,,,,,Wuhan mosquito orthophasmavirus 1
+,,Wuhan mosquito orthophasmavirus 2,Wuhan mosquito orthophasmavirus 2,,,,,Wuhan mosquito orthophasmavirus 2

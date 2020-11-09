@@ -1,0 +1,914 @@
+"UniversalName","Strain","VectorBorne","Vector","OtherTaxonomicInfo","Reference_Reservoir","Reference_Vector","LatestSppName","HumanOnly","IndirectDetectionOnly","Reference","DataSource","Reservoir","Accessions","WholeGenome","InfectsHumans"
+"Achimota rubulavirus 1","Achimota virus 1",0,NA,NA,NA,NA,"Achimota pararubulavirus 1",FALSE,FALSE,"NA","Woolhouse2018; Internal","Pterobat","NC_025403.1",1,FALSE
+"Achimota rubulavirus 2","Achimota virus 2",0,NA,NA,NA,NA,"Achimota pararubulavirus 2",FALSE,FALSE,"NA","Woolhouse2018; Internal","Pterobat","NC_025404.1",1,FALSE
+"Adelaide River ephemerovirus","Adelaide River ephemerovirus",NA,NA,"Automatic match",NA,NA,"Adelaide River ephemerovirus",FALSE,NA,"","Olival2017; Woolhouse2018",NA,"NC_028246.1",1,FALSE
+"Adeno-associated dependoparvovirus A","Adeno-associated virus-1",0,NA,"Merged",NA,NA,"Adeno-associated dependoparvovirus A",TRUE,FALSE,"Xiao et al. 1999; Gao et al. 2003","Olival2017","Human","NC_002077.1",1,TRUE
+"Adeno-associated dependoparvovirus B","Adeno-associated virus-5",0,NA,NA,NA,NA,"Adeno-associated dependoparvovirus B",FALSE,FALSE,"Bantel-Schaal & zur Hausen 1984","Olival2017","Human","NC_006152.1",1,TRUE
+"African green monkey simian foamy virus","African green monkey simian foamy virus",0,NA,"Automatic match",NA,NA,"Grivet simian foamy virus",FALSE,FALSE,"; 9151878; 10516034","Woolhouse2018","NonHumanPrimate","NC_010820.1",1,TRUE
+"African horse sickness virus","African horse sickness virus",1,"Midge","Automatic match",NA,NA,"African horse sickness virus",FALSE,NA,"","Olival2017; Woolhouse2018","Perissodactyla","NC_006021.1; NC_005996.1; NC_006017.1; NC_006012.1; NC_006020.1; NC_006018.1; NC_006011.1; NC_006019.1; NC_006016.1; NC_006009.1",1,FALSE
+"African swine fever virus","African swine fever virus",1,"Tick","Automatic match",NA,NA,"African swine fever virus",FALSE,NA,"","Olival2017","Artiodactyl","NC_001659.2",1,FALSE
+"Aichivirus A","Aichi virus 1",0,NA,"Added Nov 2018","﻿Khamrin2014",NA,"Aichivirus A",FALSE,FALSE,"NA; 1658159; 25996404; Yamashita et al. 1995","Olival2017","Human","AY747174.1",1,TRUE
+"Akabane orthobunyavirus","Akabane virus",1,"Midge",NA,NA,NA,"Akabane orthobunyavirus",FALSE,FALSE,"NA","Olival2017; Woolhouse2018; Internal","Artiodactyl","NC_009894.1; NC_009895.1; NC_009896.1",1,FALSE
+"Alagoas vesiculovirus","Vesicular stomatitis Alagoas virus",1,"Sandfly",NA,NA,NA,"Alagoas vesiculovirus",FALSE,FALSE,"Tesh et al. 1987; 4291620; 3034087; 23034141; http://www.sciencedirect.com/science/article/pii/S1567134809000380","Olival2017; Woolhouse2018; Internal","Artiodactyl","NC_025353.1",1,TRUE
+"Alcelaphine gammaherpesvirus 1","Alcelaphine gammaherpesvirus 1",0,NA,NA,NA,NA,"Alcelaphine gammaherpesvirus 1",FALSE,NA,"","Olival2017","Artiodactyl","NC_002531.1",1,FALSE
+"Alcelaphine gammaherpesvirus 2","Alcelaphine gammaherpesvirus 2",0,NA,NA,NA,NA,"Alcelaphine gammaherpesvirus 2",FALSE,NA,"","Olival2017","Artiodactyl","NC_024382.1",1,FALSE
+"Allpahuayo mammarenavirus","Allpahuayo virus",0,NA,NA,NA,NA,"Allpahuayo mammarenavirus",FALSE,FALSE,"NA","Olival2017; Woolhouse2018; Internal","Rodent","NC_010249.1; NC_010253.1",1,FALSE
+"Almpiwar sripuvirus","Almpiwar virus",NA,NA,"Strain",NA,NA,"Almpiwar sripuvirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Reptile","NC_025391.1",1,FALSE
+"Alphacoronavirus 1","Feline coronavirus",0,NA,"Strain",NA,NA,"Alphacoronavirus 1",FALSE,TRUE,"NA; 17447647; 22320357","Woolhouse2018","Carnivore","NC_002306.3",1,FALSE
+"Alphapapillomavirus 1","Alphapapillomavirus 1",0,NA,NA,NA,NA,"Alphapapillomavirus 1",FALSE,FALSE,"Beaudenon et al. 1987","Olival2017","Human","NC_001586.1",1,TRUE
+"Alphapapillomavirus 10","Alphapapillomavirus 10",0,NA,NA,NA,NA,"Alphapapillomavirus 10",FALSE,FALSE,"Gissman & Zar Hausen 1980","Olival2017","Human","NC_001355.1",1,TRUE
+"Alphapapillomavirus 11","Alphapapillomavirus 11",0,NA,NA,NA,NA,"Alphapapillomavirus 11",FALSE,FALSE,"Kawashima et al. 1986","Olival2017","Human","NC_001587.1",1,TRUE
+"Alphapapillomavirus 12","Alphapapillomavirus 12",0,NA,NA,NA,NA,"Alphapapillomavirus 12",FALSE,NA,"","Olival2017","NonHumanPrimate","NC_001678.1",1,FALSE
+"Alphapapillomavirus 13","Alphapapillomavirus 13",0,NA,NA,NA,NA,"Alphapapillomavirus 13",FALSE,FALSE,"Favre et al. 1990","Olival2017","Human","NC_001676.1",1,TRUE
+"Alphapapillomavirus 14","Alphapapillomavirus 14",0,NA,"Merged",NA,NA,"Alphapapillomavirus 14",FALSE,FALSE,"ICTV","Olival2017","Human","NC_004104.1",1,TRUE
+"Alphapapillomavirus 2","Alphapapillomavirus 2",0,NA,NA,NA,NA,"Alphapapillomavirus 2",FALSE,FALSE,"Kremsdorf et al. 1983","Olival2017","Human","NC_001576.1",1,TRUE
+"Alphapapillomavirus 3","Alphapapillomavirus 3",0,NA,NA,NA,NA,"Alphapapillomavirus 3",FALSE,FALSE,"Tachezy et al. 1994","Olival2017","Human","NC_001694.1",1,TRUE
+"Alphapapillomavirus 4","Alphapapillomavirus 4",0,NA,NA,NA,NA,"Alphapapillomavirus 4",FALSE,FALSE,"Orth et al. 1997","Olival2017","Human","NC_001352.1",1,TRUE
+"Alphapapillomavirus 5","Alphapapillomavirus 5",0,NA,NA,NA,NA,"Alphapapillomavirus 5",FALSE,FALSE,"Ostrow et al. 1984","Olival2017","Human","NC_001583.1",1,TRUE
+"Alphapapillomavirus 6","Alphapapillomavirus 6",0,NA,NA,NA,NA,"Alphapapillomavirus 6",FALSE,FALSE,"Gallahan et al. 1989","Olival2017","Human","NC_001593.1",1,TRUE
+"Alphapapillomavirus 7","Alphapapillomavirus 7",0,NA,NA,NA,NA,"Alphapapillomavirus 7",FALSE,FALSE,"Boshart et al. 1984","Olival2017","Human","NC_001357.1",1,TRUE
+"Alphapapillomavirus 8","Alphapapillomavirus 8",0,NA,NA,NA,NA,"Alphapapillomavirus 8",FALSE,TRUE,"Orth et al. 1981","Olival2017","Human","NC_001595.1",1,TRUE
+"Alphapapillomavirus 9","Alphapapillomavirus 9",0,NA,NA,NA,NA,"Alphapapillomavirus 9",FALSE,FALSE,"Durst et al. 1983","Olival2017","Human","NC_001526.4",1,TRUE
+"Amaparí mammarenavirus","Amapari virus",0,NA,NA,NA,NA,"Serra do Navio mammarenavirus",FALSE,FALSE,"NA","Olival2017; Woolhouse2018; Internal","Rodent","NC_010251.1; NC_010247.1",1,FALSE
+"American bat vesiculovirus","American bat vesiculovirus TFFN-2013",NA,NA,NA,NA,NA,"American bat vesiculovirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Vespbat","NC_022755.1",1,FALSE
+"Andes orthohantavirus","Andes virus",0,NA,NA,NA,NA,"Andes orthohantavirus",FALSE,FALSE,"Medina et al. 2009; 8659118; 15479837; ","Olival2017; Woolhouse2018; Internal","Rodent","NC_003468.2; NC_003467.2; NC_003466.1",1,TRUE
+"Anguillid perhabdovirus","Eel virus European X",0,NA,NA,NA,NA,"Anguillid perhabdovirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Fish","NC_022581.1",1,FALSE
+"Anopheles A orthobunyavirus","Anopheles A virus isolate original",1,"Mosquito","Automatic match",NA,NA,"Anopheles A orthobunyavirus",FALSE,FALSE,"; ","Olival2017",NA,"KY793537.1; KY793538.1; KY793539.1",1,TRUE
+"Anopheles B orthobunyavirus","Anopheles B orthobunyavirus",1,"Mosquito","Automatic match",NA,NA,"Anopheles B orthobunyavirus",FALSE,NA,"","Olival2017; Woolhouse2018",NA,"FJ660417.1",0,FALSE
+"Apoi virus","Apoi virus",0,NA,NA,NA,NA,"Apoi virus",FALSE,NA,"","Olival2017; Woolhouse2018","Rodent","NC_003676.1",1,FALSE
+"Aquamavirus A","Seal picornavirus type 1",0,NA,NA,NA,NA,"Aquamavirus A",FALSE,FALSE,"NA","Woolhouse2018; Internal","Carnivore","NC_009891.1",1,FALSE
+"Aravan lyssavirus","Aravan virus",0,NA,NA,NA,NA,"Aravan lyssavirus",FALSE,FALSE,"; http://www.sciencedirect.com/science/article/pii/S016817020300217X","Internal","Vespbat","NC_020808.1",1,TRUE
+"Arboretum almendravirus","Arboretum virus",1,"Mosquito",NA,NA,NA,"Arboretum almendravirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Orphan","NC_025393.1",1,FALSE
+"Aroa virus","Aroa virus",1,NA,NA,NA,NA,"Aroa virus",FALSE,FALSE,"Shrihongse and Johnson 1971; 5107116; 6293325; http://jgv.microbiologyresearch.org/content/journal/jgv/10.1099/0022-1317-82-8-1867#tab2, Woolhouse 2013","Olival2017; Woolhouse2018; Internal","Rodent","NC_009026.2",1,TRUE
+"Ateline alphaherpesvirus 1","Ateline alphaherpesvirus 1",0,NA,NA,NA,NA,"Ateline alphaherpesvirus 1",FALSE,NA,"","Olival2017","NonHumanPrimate","NC_034446.1",1,FALSE
+"Aura virus","Aura virus",1,"Mosquito",NA,NA,NA,"Aura virus",FALSE,TRUE,"NA; Sabattini et al. 1965","Olival2017","Orphan","NC_003900.1",1,FALSE
+"Australian bat lyssavirus","Australian bat lyssavirus",0,NA,NA,NA,NA,"Australian bat lyssavirus",FALSE,FALSE,"Allworth et al. 2006; 9775399; 28033365; ","Olival2017; Woolhouse2018; Internal",NA,"NC_003243.1",1,TRUE
+"Avastrovirus 1","Avastrovirus 1",0,NA,NA,NA,NA,"Avastrovirus 1",FALSE,NA,"","Woolhouse2018","Galliformes","NC_002470.1",1,FALSE
+"Avastrovirus 2","Chicken astrovirus",0,NA,NA,NA,NA,"Avastrovirus 2",FALSE,NA,"","Woolhouse2018","Galliformes","NC_003790.1",1,FALSE
+"Avastrovirus 3","Avastrovirus 3",0,NA,NA,NA,NA,"Avastrovirus 3",FALSE,NA,"","Woolhouse2018","Anseriformes","NC_005790.1",1,FALSE
+"Avian avulavirus 1","Newcastle disease virus",0,NA,NA,"gogoi2017",NA,"Avian orthoavulavirus 1",FALSE,FALSE,"Ingalls & Mahoney 1949; Available from external site; 22135263; http://onlinelibrary.wiley.com/doi/10.1111/tbed.12355/full","Olival2017; Woolhouse2018; Internal","Galliformes","NC_039223.1",1,TRUE
+"Avian avulavirus 10","Avian paramyxovirus penguin",0,NA,NA,"gogoi2017",NA,"Avian metaavulavirus 10",FALSE,FALSE,"NA","Woolhouse2018; Internal","Sphenisciformes","NC_025349.3",1,FALSE
+"Avian avulavirus 11","Avian paramyxovirus 11",0,NA,NA,"gogoi2017",NA,"Avian metaavulavirus 11",FALSE,FALSE,"NA","Woolhouse2018; Internal","Orphan","NC_025407.1",1,FALSE
+"Avian avulavirus 12","Avian paramyxovirus 12",0,NA,NA,"gogoi2017",NA,"Avian orthoavulavirus 12",FALSE,FALSE,"NA","Woolhouse2018; Internal","Orphan","NC_025363.1",1,FALSE
+"Avian avulavirus 3","Avian paramyxovirus 3",0,NA,NA,"gogoi2017",NA,"Avian paraavulavirus 3",FALSE,FALSE,"NA","Woolhouse2018; Internal","Galliformes","NC_025373.1",1,FALSE
+"Avian avulavirus 4","Avian paramyxovirus 4",0,NA,NA,"gogoi2017",NA,"Avian paraavulavirus 4",FALSE,FALSE,"NA","Woolhouse2018; Internal","Anseriformes","NC_019531.1",1,FALSE
+"Avian avulavirus 5","Avian paramyxovirus 5",0,NA,NA,"gogoi2017",NA,"Avian metaavulavirus 5",FALSE,FALSE,"NA","Woolhouse2018; Internal","Psittaciformes","NC_025361.1",1,FALSE
+"Avian avulavirus 6","Avian paramyxovirus 6",0,NA,NA,"gogoi2017",NA,"Avian metaavulavirus 6",FALSE,FALSE,"NA","Woolhouse2018; Internal","Anseriformes","NC_039194.1",1,FALSE
+"Avian avulavirus 7","Avian paramyxovirus 7",0,NA,NA,"gogoi2017",NA,"Avian metaavulavirus 7",FALSE,FALSE,"NA","Woolhouse2018; Internal","Galliformes","NC_025347.1",1,FALSE
+"Avian avulavirus 8","Avian paramyxovirus 8",0,NA,NA,"gogoi2017",NA,"Avian metaavulavirus 8",FALSE,FALSE,"NA","Woolhouse2018; Internal","Anseriformes","NC_039195.1",1,FALSE
+"Avian avulavirus 9","Avian paramyxovirus 9",0,NA,NA,"capua2004",NA,"Avian orthoavulavirus 9",FALSE,FALSE,"NA","Woolhouse2018; Internal","Orphan","NC_025390.1",1,FALSE
+"Avian coronavirus","Infectious bronchitis virus",0,NA,"Strain","cavanagh2007",NA,"Avian coronavirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Galliformes","NC_001451.1",1,FALSE
+"Avian metapneumovirus","Avian metapneumovirus",0,NA,NA,"njenga2003",NA,"Avian metapneumovirus",FALSE,TRUE,"NA; 21736487; 24637582; 22874773","Woolhouse2018","Galliformes","NC_007652.1",1,FALSE
+"Avihepatovirus A","Duck hepatitis A virus",0,NA,NA,"pattison2007",NA,"Avihepatovirus A",FALSE,FALSE,"NA","Woolhouse2018; Internal","Anseriformes","NC_008250.2",1,FALSE
+"Avisivirus B","Chicken picornavirus 2",0,NA,NA,"woo2014",NA,"Avisivirus B",FALSE,FALSE,"NA","Woolhouse2018; Internal","Galliformes","NC_024766.1",1,FALSE
+"Avisivirus C","Chicken picornavirus 3",0,NA,NA,"woo2014",NA,"Avisivirus C",FALSE,FALSE,"NA","Woolhouse2018; Internal","Galliformes","NC_024767.1",1,FALSE
+"Aydin virus","Pestivirus strain Aydin/04-TR",0,NA,"Unclassified; Strain",NA,NA,"Pestivirus I",FALSE,FALSE,"NA","Internal","Artiodactyl","NC_018713.1",1,FALSE
+"Baboon orthoreovirus","Baboon orthoreovirus",0,NA,"Automatic match",NA,NA,"Baboon orthoreovirus",FALSE,NA,"","Olival2017; Woolhouse2018","NonHumanPrimate","NC_015877.1; NC_015878.1; NC_015879.1; NC_015880.1; NC_015881.1; NC_015882.1; NC_015883.1; NC_015884.1; NC_015886.1; NC_015885.1",1,FALSE
+"Bagaza virus","Bagaza virus",1,"Mosquito",NA,"llorente2015",NA,"Bagaza virus",FALSE,FALSE,"19570951; 24056604; http://jgv.microbiologyresearch.org/content/journal/jgv/10.1099/0022-1317-82-8-1867#tab2, Woolhouse 2013","Woolhouse2018; Internal","Galliformes","NC_012534.1",1,TRUE
+"Bakau orthobunyavirus","Bakau orthobunyavirus",1,"Mosquito","Automatic match",NA,NA,"Bakau orthobunyavirus",FALSE,NA,"","Olival2017; Woolhouse2018",NA,"AM711134.1",0,FALSE
+"Banna virus","Banna virus strain JKT-6423",1,"Mosquito","Automatic match",NA,NA,"Banna virus",FALSE,FALSE,"Attoui et al. 2005; Available from external site; 18680655","Olival2017; Woolhouse2018","Artiodactyl","NC_004211.1; NC_004217.1; NC_004218.1; NC_004219.1; NC_004220.1; NC_004221.1; NC_004204.1; NC_004203.1; NC_004202.1; NC_004201.1; NC_004200.1; NC_004198.1",1,TRUE
+"Banzi virus","Banzi virus",1,"Mosquito","Automatic match",NA,NA,"Banzi virus",FALSE,FALSE,"Smithburn et al. 1959; 13832180; 6261449","Olival2017; Woolhouse2018","Orphan","DQ859056.1",1,TRUE
+"Barmah Forest virus","Barmah Forest virus",1,"Mosquito",NA,NA,NA,"Barmah Forest virus",FALSE,FALSE,"Attoui et al. 2007; 3767767; 21752915; http://online.liebertpub.com/doi/pdf/10.1089/vbz.2007.0152","Olival2017; Woolhouse2018; Internal","Orphan","NC_001786.1",1,TRUE
+"Barur ledantevirus","Barur ledantevirus",NA,NA,"Automatic match",NA,NA,"Barur ledantevirus",FALSE,NA,"","Olival2017; Woolhouse2018","Orphan","NC_034535.1",1,FALSE
+"Bas-Congo tibrovirus","Bas-Congo virus",NA,NA,NA,NA,NA,"Bas-Congo tibrovirus",FALSE,FALSE,"23028323; 23028323; http://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1002924#ppat-1002924-g008","Woolhouse2018; Internal","Orphan","JX297815.1",0,TRUE
+"Bat coronavirus CDPHE15","Bat coronavirus CDPHE15",0,NA,NA,NA,NA,"Bat coronavirus CDPHE15",FALSE,FALSE,"NA","Woolhouse2018; Internal","Vespbat","NC_022103.1",1,FALSE
+"Bat coronavirus HKU10","Bat coronavirus HKU10",0,NA,NA,NA,NA,"Bat coronavirus HKU10",FALSE,FALSE,"NA","Woolhouse2018; Internal","Pterobat","NC_018871.1",1,FALSE
+"Bayou orthohantavirus","Bayou orthohantavirus",0,NA,"Automatic match",NA,NA,"Bayou orthohantavirus",FALSE,FALSE,"Morzunov et al. 1995; 7853545; 20836801","Olival2017; Woolhouse2018","Rodent","NC_038299.1; NC_038300.1; NC_038298.1",1,TRUE
+"Bear Canyon mammarenavirus","Bear canyon virus",0,NA,NA,NA,NA,"Bear Canyon mammarenavirus",FALSE,FALSE,"NA","Olival2017; Woolhouse2018; Internal","Rodent","NC_010255.1; NC_010256.1",1,FALSE
+"Bebaru virus","Bebaru virus",1,"Mosquito",NA,NA,NA,"Bebaru virus",FALSE,FALSE,"NA; Attoui et al. 2007","Olival2017","Orphan","NC_016962.1",1,TRUE
+"Beluga whale coronavirus SW1","Beluga Whale coronavirus SW1",0,NA,NA,NA,NA,"Beluga whale coronavirus SW1",FALSE,FALSE,"NA","Woolhouse2018; Internal","Orphan","NC_010646.1",1,FALSE
+"Berrimah ephemerovirus","Berrimah virus",1,NA,NA,NA,NA,"Berrimah ephemerovirus",FALSE,FALSE,"NA","Olival2017; Woolhouse2018; Internal","Artiodactyl","NC_025358.1",1,FALSE
+"Betacoronavirus 1","Human coronavirus OC43",0,NA,"Strain",NA,NA,"Betacoronavirus 1",FALSE,FALSE,"Risku et al. 2010; 5231356; 28549438; ","Olival2017; Woolhouse2018; Internal","Human","NC_006213.1",1,TRUE
+"Betapapillomavirus 1","Betapapillomavirus 1",0,NA,NA,NA,NA,"Betapapillomavirus 1",FALSE,FALSE,"Orth et al. 1978","Olival2017","Human","NC_001531.1",1,TRUE
+"Betapapillomavirus 2","Betapapillomavirus 2",0,NA,NA,NA,NA,"Betapapillomavirus 2",FALSE,FALSE,"Orth et al. 1978","Olival2017","Human","NC_001596.1",1,TRUE
+"Betapapillomavirus 3","Betapapillomavirus 3",0,NA,NA,NA,NA,"Betapapillomavirus 3",FALSE,FALSE,"Favre et al. 1989","Olival2017","Human","NC_001591.1",1,TRUE
+"Betapapillomavirus 4","Betapapillomavirus 4",0,NA,NA,NA,NA,"Betapapillomavirus 4",FALSE,FALSE,"ICTV","Olival2017","Human","NC_004500.1",1,TRUE
+"Betapapillomavirus 5","Betapapillomavirus 5",0,NA,NA,NA,NA,"Betapapillomavirus 5",FALSE,FALSE,"ICTV","Olival2017","Human","NC_005134.2",1,TRUE
+"Bimiti orthobunyavirus","Bimiti orthobunyavirus",1,"Mosquito","Automatic match",NA,NA,"Bimiti orthobunyavirus",FALSE,NA,"","Olival2017; Woolhouse2018","Rodent","KP792657.1; KP792656.1; KP792655.1",1,FALSE
+"Black Creek Canal orthohantavirus","Black Creek Canal orthohantavirus",0,NA,"Automatic match",NA,NA,"Black Creek Canal orthohantavirus",FALSE,FALSE,"Ravkov et al. 1995; 7618284; 20455779","Olival2017; Woolhouse2018","Rodent","GU997097.1",0,TRUE
+"Bluetongue virus","Bluetongue virus",1,"Midge","Automatic match",NA,NA,"Bluetongue virus",FALSE,NA,"","Olival2017; Woolhouse2018","Artiodactyl","NC_006023.1; NC_006013.2; NC_006014.1; NC_006024.2; NC_006025.1; NC_006010.1; NC_006022.1; NC_006007.1; NC_006008.1; NC_006015.1",1,FALSE
+"Bokeloh bat lyssavirus","Bokeloh bat lyssavirus",0,NA,NA,NA,NA,"Bokeloh bat lyssavirus",FALSE,FALSE,"; http://www.ncbi.nlm.nih.gov/pubmed/23760600","Internal","Vespbat","NC_025251.1",1,TRUE
+"Border disease virus","Border disease virus",0,NA,NA,NA,NA,"Pestivirus D",FALSE,FALSE,"NA","Olival2017; Woolhouse2018; Internal","Artiodactyl","NC_003679.1",1,FALSE
+"Bos taurus polyomavirus 1","Bos taurus polyomavirus 1",0,NA,NA,NA,NA,"Bos taurus polyomavirus 1",FALSE,NA,"","Olival2017","Artiodactyl","NC_001442.1",1,FALSE
+"Bouboui virus","Bouboui virus",1,"Mosquito","Automatic match",NA,NA,"Bouboui virus",FALSE,FALSE,"; Digoutte JP et al 1971","Olival2017","Orphan","NC_033693.1",1,TRUE
+"Bovine alphaherpesvirus 1","Bovine alphaherpesvirus 1",0,NA,NA,NA,NA,"Bovine alphaherpesvirus 1",FALSE,NA,"","Olival2017","Artiodactyl","NC_001847.1",1,FALSE
+"Bovine alphaherpesvirus 2","Bovine alphaherpesvirus 2",0,NA,NA,NA,NA,"Bovine alphaherpesvirus 2",FALSE,NA,"","Olival2017","Artiodactyl","M21628.1",0,FALSE
+"Bovine alphaherpesvirus 5","Bovine alphaherpesvirus 5",0,NA,NA,NA,NA,"Bovine alphaherpesvirus 5",FALSE,NA,"","Olival2017","Artiodactyl","NC_005261.2",1,FALSE
+"Bovine atadenovirus D","Bovine atadenovirus D",0,NA,NA,NA,NA,"Bovine atadenovirus D",FALSE,NA,"","Olival2017","Artiodactyl","NC_002685.2",1,FALSE
+"Bovine fever ephemerovirus","Bovine ephemeral fever virus",1,NA,NA,NA,NA,"Bovine fever ephemerovirus",FALSE,FALSE,"NA","Olival2017; Woolhouse2018; Internal","Artiodactyl","NC_002526.1",1,FALSE
+"Bovine foamy virus","Bovine foamy virus",0,NA,"Automatic match",NA,NA,"Bovine foamy virus",FALSE,NA,"","Olival2017; Woolhouse2018","Artiodactyl","NC_001831.1",1,FALSE
+"Bovine gammaherpesvirus 4","Bovine gammaherpesvirus 4",0,NA,NA,NA,NA,"Bovine gammaherpesvirus 4",FALSE,NA,"","Olival2017","Artiodactyl","NC_002665.1",1,FALSE
+"Bovine immunodeficiency virus","Bovine immunodeficiency virus",0,NA,"Automatic match",NA,NA,"Bovine immunodeficiency virus",FALSE,NA,"","Olival2017; Woolhouse2018","Artiodactyl","NC_001413.1",1,FALSE
+"Bovine leukemia virus","Bovine leukemia virus",0,NA,"Automatic match",NA,NA,"Bovine leukemia virus",FALSE,TRUE,"; Buehring et al. 2003","Olival2017","Artiodactyl","NC_001414.1",1,FALSE
+"Bovine mastadenovirus A","Bovine mastadenovirus A",0,NA,NA,NA,NA,"Bovine mastadenovirus A",FALSE,NA,"","Olival2017","Artiodactyl","AC_000191.1",1,FALSE
+"Bovine mastadenovirus B","Bovine mastadenovirus B",0,NA,NA,NA,NA,"Bovine mastadenovirus B",FALSE,NA,"","Olival2017","Artiodactyl","AC_000002.1",1,FALSE
+"Bovine mastadenovirus C","Bovine mastadenovirus C",0,NA,NA,NA,NA,"Bovine mastadenovirus C",FALSE,NA,"","Olival2017","Artiodactyl","AF027599.2",1,FALSE
+"Bovine orthopneumovirus","Bovine respiratory syncytial virus",0,NA,NA,NA,NA,"Bovine orthopneumovirus",FALSE,FALSE,"NA","Olival2017; Woolhouse2018; Internal","Artiodactyl","NC_001989.1",1,FALSE
+"Bovine papular stomatitis virus","Bovine papular stomatitis virus",0,NA,"Automatic match",NA,NA,"Bovine papular stomatitis virus",FALSE,FALSE,"McEvoy 1972","Olival2017","Artiodactyl","NC_005337.1",1,TRUE
+"Bovine respirovirus 3","Bovine parainfluenza virus 3",0,NA,NA,NA,NA,"Bovine respirovirus 3",FALSE,FALSE,"NA","Olival2017; Woolhouse2018; Internal","Artiodactyl","NC_002161.1",1,FALSE
+"Bovine torovirus","Breda virus",0,NA,NA,NA,NA,"Bovine torovirus",FALSE,FALSE,"NA","Olival2017; Woolhouse2018; Internal","Artiodactyl","NC_007447.1",1,FALSE
+"Bovine viral diarrhea virus 1","Bovine viral diarrhea virus 1",0,NA,NA,NA,NA,"Pestivirus A",FALSE,FALSE,"NA; 2898685; 19833455","Woolhouse2018","Artiodactyl","NC_001461.1",1,TRUE
+"Bovine viral diarrhea virus 2","Bovine viral diarrhea virus 2",0,NA,NA,NA,NA,"Pestivirus B",FALSE,FALSE,"NA","Olival2017; Woolhouse2018; Internal","Artiodactyl","NC_002032.1",1,FALSE
+"Bovine viral diarrhea virus 3","Bovine viral diarrhea virus 3",0,NA,"Unclassified",NA,NA,"Pestivirus H",FALSE,FALSE,"NA","Internal","Artiodactyl","NC_012812.1",1,FALSE
+"Bubaline alphaherpesvirus 1","Bubaline alphaherpesvirus 1",0,NA,NA,NA,NA,"Bubaline alphaherpesvirus 1",FALSE,NA,"","Olival2017","Artiodactyl","KU936049.1",1,FALSE
+"Bujaru phlebovirus","Bujaru phlebovirus",NA,NA,"Automatic match",NA,NA,"Bujaru phlebovirus",FALSE,NA,"","Olival2017; Woolhouse2018","Orphan","NC_033830.1; NC_033847.1; NC_033831.1",1,FALSE
+"Bundibugyo ebolavirus","Bundibugyo virus",0,NA,NA,NA,NA,"Bundibugyo ebolavirus",FALSE,FALSE,"19023410; 27489269; http://www.sciencedirect.com/science/article/pii/S0042682213002237","Woolhouse2018; Internal","Orphan","NC_014373.1",1,TRUE
+"Bunyamwera orthobunyavirus","Bunyamwera virus",1,"Mosquito",NA,NA,NA,"Bunyamwera orthobunyavirus",FALSE,FALSE,"Tauro et al. 2009; 21020339; 19501478; ","Olival2017; Woolhouse2018; Internal","Orphan","NC_001925.1; NC_001926.1; NC_001927.1",1,TRUE
+"Bwamba orthobunyavirus","Bwamba orthobunyavirus",1,"Mosquito","Automatic match",NA,NA,"Bwamba orthobunyavirus",FALSE,FALSE,"Bowen et al. 1973; Available from external site; 12789111","Olival2017; Woolhouse2018",NA,"NC_034479.1; NC_034490.1; NC_034480.1",1,TRUE
+"Cabassou virus","Cabassou virus",1,"Mosquito","Automatic match",NA,NA,"Cabassou virus",FALSE,NA,"","Olival2017; Woolhouse2018","Orphan","AF075259.1",1,FALSE
+"Cacipacore virus","Cacipacore virus",NA,NA,NA,NA,NA,"Cacipacore virus",FALSE,FALSE,"Batista et al. 2011; 21860907; 28220327; http://www.ncbi.nlm.nih.gov/pubmed/21860907, http://www.scielo.br/scielo.php?pid=S0037-86822011000400028&script=sci_arttext","Olival2017; Woolhouse2018; Internal","Orphan","NC_026623.1",1,TRUE
+"California encephalitis orthobunyavirus","La Crosse Virus",1,"Mosquito","Strain",NA,NA,"California encephalitis orthobunyavirus",FALSE,FALSE,"Taylor et al. 1985; 13009479; 21435229; ","Olival2017; Woolhouse2018; Internal","Rodent","NC_004108.1; NC_004109.1; NC_004110.1",1,TRUE
+"Alethinophid 2 reptarenavirus","Boa arenavirus",0,NA,"Strain",NA,NA,"California reptarenavirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Reptile","NC_023762.1; NC_023761.1",1,FALSE
+"Mamastrovirus 4","California sea lion astrovirus 2",0,NA,NA,NA,NA,"Mamastrovirus 4",FALSE,NA,"","Woolhouse2018","Carnivore","NC_034975.1",0,FALSE
+"Callitrichine gammaherpesvirus 3","Callitrichine gammaherpesvirus 3",0,NA,NA,NA,NA,"Callitrichine gammaherpesvirus 3",FALSE,NA,"","Olival2017","NonHumanPrimate","NC_004367.1",1,FALSE
+"Camelpox virus","Camelpox virus",0,NA,"Automatic match",NA,NA,"Camelpox virus",FALSE,TRUE,"Bera et al. 2011","Olival2017","Artiodactyl","NC_003391.1",1,FALSE
+"Candiru phlebovirus","Candiru virus",1,NA,NA,NA,NA,"Candiru phlebovirus",FALSE,FALSE,"da Rosa 1983; 6312820; 21289119; http://jvi.asm.org/content/85/8/3811.short","Olival2017; Woolhouse2018; Internal","Orphan","NC_015374.1; NC_015373.1; NC_015375.1",1,TRUE
+"Canid alphaherpesvirus 1","Canid alphaherpesvirus 1",0,NA,NA,NA,NA,"Canid alphaherpesvirus 1",FALSE,NA,"","Olival2017","Carnivore","NC_030117.1",1,FALSE
+"Canine mastadenovirus A","Canine mastadenovirus A",0,NA,NA,NA,NA,"Canine mastadenovirus A",FALSE,NA,"","Olival2017","Carnivore","NC_001734.1",1,FALSE
+"Canine morbillivirus","Canine distemper virus",0,NA,NA,NA,NA,"Canine morbillivirus",FALSE,FALSE,"NA; Mee et al. 1998; 13273120; 22214864","Olival2017; Woolhouse2018","Carnivore","NC_001921.1",1,TRUE
+"Cano Delgadito orthohantavirus","Cano Delgadito orthohantavirus",0,NA,"Automatic match",NA,NA,"Cano Delgadito orthohantavirus",FALSE,NA,"","Olival2017; Woolhouse2018","Rodent","NC_034515.1; NC_034525.1; NC_034528.1",1,FALSE
+"Caprine alphaherpesvirus 1","Caprine alphaherpesvirus 1",0,NA,NA,NA,NA,"Caprine alphaherpesvirus 1",FALSE,NA,"","Olival2017","Artiodactyl","AF078728.2",0,FALSE
+"Caprine arthritis encephalitis virus","Caprine arthritis encephalitis virus",0,NA,"Automatic match",NA,NA,"Caprine arthritis encephalitis virus",FALSE,NA,"","Olival2017; Woolhouse2018","Artiodactyl","NC_001463.1",1,FALSE
+"Caraparu orthobunyavirus","Caraparu orthobunyavirus",1,"Mosquito","Automatic match",NA,NA,"Caraparu orthobunyavirus",FALSE,FALSE,"de Brito Magalhaes et al. 2007; 13691675; 27074162","Olival2017; Woolhouse2018","NonHumanPrimate","NC_034489.1; NC_034477.1; NC_034478.1",1,TRUE
+"Cardiovirus A","Cardiovirus A",0,NA,NA,NA,NA,"Cardiovirus A",FALSE,FALSE,"Oberste et al. 2009; 20340975; 15099508","Olival2017; Woolhouse2018","Rodent","NC_001479.1",1,TRUE
+"Cardiovirus B","Cardiovirus B",0,NA,NA,NA,NA,"Cardiovirus B",FALSE,FALSE,"; 14087883; 20410900","Woolhouse2018","Rodent","NC_001366.1",1,TRUE
+"Carnivore amdoparvovirus 1","Carnivore amdoparvovirus 1",0,NA,NA,NA,NA,"Carnivore amdoparvovirus 1",FALSE,TRUE,"Jepsen et al. 2009","Olival2017","Carnivore","MF285607.1",1,FALSE
+"Carnivore bocaparvovirus 1","Carnivore bocaparvovirus 1",0,NA,NA,NA,NA,"Carnivore bocaparvovirus 1",FALSE,NA,"","Olival2017","Carnivore","NC_004442.1",1,FALSE
+"Carnivore protoparvovirus 1","Carnivore protoparvovirus 1",0,NA,NA,NA,NA,"Carnivore protoparvovirus 1",FALSE,NA,"","Olival2017","Carnivore","NC_001539.1",1,FALSE
+"Carp sprivivirus","Spring viraemia of carp virus",0,NA,NA,NA,NA,"Carp sprivivirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Fish","NC_002803.1",1,FALSE
+"Catu orthobunyavirus","Catu orthobunyavirus",1,"Mosquito","Automatic match",NA,NA,"Catu orthobunyavirus",FALSE,FALSE,"Zuckerman et al. 2009; 13691675; 204207","Olival2017; Woolhouse2018",NA,"KP792660.1; KP792659.1; KP792658.1",1,TRUE
+"Caviid betaherpesvirus 2","Caviid betaherpesvirus 2",0,NA,NA,NA,NA,"Caviid betaherpesvirus 2",FALSE,NA,"","Olival2017","Rodent","NC_020231.1",1,FALSE
+"Cedar henipavirus","Cedar virus",0,NA,NA,NA,NA,"Cedar henipavirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Pterobat","NC_025351.1",1,FALSE
+"Cercopithecine alphaherpesvirus 2","Cercopithecine alphaherpesvirus 2",0,NA,NA,NA,NA,"Cercopithecine alphaherpesvirus 2",FALSE,NA,"","Olival2017","NonHumanPrimate","NC_006560.1",1,FALSE
+"Cercopithecine alphaherpesvirus 9","Cercopithecine alphaherpesvirus 9",0,NA,NA,NA,NA,"Cercopithecine alphaherpesvirus 9",FALSE,NA,"","Olival2017","NonHumanPrimate","NC_002686.2",1,FALSE
+"Cercopithecine betaherpesvirus 5","Cercopithecine betaherpesvirus 5",0,NA,NA,NA,NA,"Cercopithecine betaherpesvirus 5",FALSE,NA,"","Olival2017","NonHumanPrimate","NC_012783.2",1,FALSE
+"Cervid alphaherpesvirus 1","Cervid alphaherpesvirus 1",0,NA,NA,NA,NA,"Cervid alphaherpesvirus 1",FALSE,NA,"","Olival2017","Artiodactyl","MH036942.1",1,FALSE
+"Cervid alphaherpesvirus 2","Cervid alphaherpesvirus 2",0,NA,NA,NA,NA,"Cervid alphaherpesvirus 2",FALSE,NA,"","Olival2017","Artiodactyl","MH036943.1",1,FALSE
+"Cetacean morbillivirus","Dolphin morbillivirus",0,NA,NA,NA,NA,"Cetacean morbillivirus",FALSE,FALSE,"NA","Olival2017; Woolhouse2018; Internal","Cetacean","NC_005283.1",1,FALSE
+"Chandipura vesiculovirus","Chandipura virus",1,"Sandfly",NA,NA,NA,"Chandipura vesiculovirus",FALSE,FALSE,"Bhatt and Rodriguez 1967; 4970067; 22721825; http://www.sciencedirect.com/science/article/pii/S1567134809000380","Olival2017; Woolhouse2018; Internal","Orphan","NC_020805.1",1,TRUE
+"Changuinola virus","Changuinola virus",1,"Sandfly","Automatic match",NA,NA,"Changuinola virus",FALSE,FALSE,"; da Rosa et al. 1984","Olival2017","Pilosa","NC_022639.1; NC_022633.1; NC_022634.1; NC_022640.1; NC_022635.1; NC_022641.1; NC_022636.1; NC_022637.1; NC_022642.1; NC_022638.1",1,TRUE
+"Chapare mammarenavirus","Chapare virus",0,NA,NA,NA,NA,"Chapare mammarenavirus",FALSE,FALSE,"18421377; 12615305; ","Woolhouse2018; Internal","Rodent","NC_010563.1; NC_010562.1",1,TRUE
+"Chikungunya virus","Chikungunya epidemic strain (SE Asia) Human",1,"Mosquito",NA,NA,NA,"Chikungunya virus",FALSE,FALSE,"Calisher et al. 1994; 13346078; 20519386; ","Olival2017; Woolhouse2018; Internal","Human","HM045787.1",1,TRUE
+"Chobar Gorge virus","Chobar Gorge virus",1,"Tick","Automatic match",NA,NA,"Chobar Gorge virus",FALSE,NA,"","Olival2017; Woolhouse2018","Orphan","NC_027553.1; NC_027554.1; NC_027555.1; NC_027556.1; NC_027557.1; NC_027558.1; NC_027559.1; NC_027560.1; NC_027561.1; NC_027562.1",1,FALSE
+"Classical swine fever virus","Classical swine fever virus",0,NA,NA,NA,NA,"Pestivirus C",FALSE,FALSE,"NA","Olival2017; Woolhouse2018; Internal","Artiodactyl","NC_002657.1",1,FALSE
+"Coastal Plains tibrovirus","Coastal Plains virus",1,"Midge",NA,NA,NA,"Coastal Plains tibrovirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Artiodactyl","NC_025397.1",1,FALSE
+"Cocal vesiculovirus","Cocal vesiculovirus",NA,NA,"Automatic match",NA,NA,"Cocal vesiculovirus",FALSE,FALSE,"; 14103231; 21830071","Woolhouse2018",NA,"NC_028255.1",1,TRUE
+"Colorado tick fever virus","Colorado tick fever virus",1,"Tick","Automatic match",NA,NA,"Colorado tick fever virus",FALSE,FALSE,"Lambert et al. 2007; 19871512; 17126919","Olival2017; Woolhouse2018","Rodent","NC_004181.1; NC_004182.1; NC_004183.1; NC_004184.1; NC_004185.1; NC_004186.1; NC_004187.1; NC_004188.1; NC_004180.1; NC_004189.1; NC_004191.1; NC_004190.1",1,TRUE
+"Common moorhen coronavirus HKU21","Common-moorhen coronavirus HKU21",0,NA,NA,"woo2012",NA,"Common moorhen coronavirus HKU21",FALSE,FALSE,"NA","Woolhouse2018; Internal","Orphan","NC_016996.1",1,FALSE
+"Coronavirus HKU15","Porcine coronavirus HKU15",0,NA,NA,NA,NA,"Coronavirus HKU15",FALSE,FALSE,"NA","Woolhouse2018; Internal","Artiodactyl","NC_016990.2",1,FALSE
+"Corriparta virus","Corriparta virus",1,"Mosquito","Automatic match",NA,NA,"Corriparta virus",FALSE,TRUE,"Doherty et al. 1970; Available from external site; 19766284; 27213426","Olival2017; Woolhouse2018",NA,"KC853042.1; KC853043.1; KC853044.1; KC853045.1; KC853046.1; KC853047.1; KC853048.1; KC853049.1; KC853050.1; KC853051.1",1,FALSE
+"Cowpox virus","Cowpox virus",0,NA,"Automatic match",NA,NA,"Cowpox virus",FALSE,FALSE,"Davies et al. 1938","Olival2017","Rodent","NC_003663.2",1,TRUE
+"Crimean-Congo hemorrhagic fever orthonairovirus","Crimean-Congo hemorrhagic fever virus",1,"Tick",NA,NA,NA,"Crimean-Congo hemorrhagic fever orthonairovirus",FALSE,FALSE,"Mourya et al. 2012; 6040759; 22300969; 10747269; ","Olival2017; Woolhouse2018; Internal","Orphan","NC_005301.3; NC_005300.2; NC_005302.1",1,TRUE
+"Cupixi mammarenavirus","Cupixi virus",0,NA,NA,NA,NA,"Cupixi mammarenavirus",FALSE,FALSE,"NA","Olival2017; Woolhouse2018; Internal","Rodent","NC_010252.1; NC_010254.1",1,FALSE
+"Curionopolis curiovirus","Curionopolis virus",1,"Midge",NA,NA,NA,"Curionopolis curiovirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Orphan","NC_025354.1",1,FALSE
+"Deltapapillomavirus 1","Deltapapillomavirus 1",0,NA,NA,NA,NA,"Deltapapillomavirus 1",FALSE,NA,"","Olival2017","Artiodactyl","NC_001524.1",1,FALSE
+"Deltapapillomavirus 2","Deltapapillomavirus 2",0,NA,NA,NA,NA,"Deltapapillomavirus 2",FALSE,NA,"","Olival2017","Artiodactyl","NC_001523.1",1,FALSE
+"Deltapapillomavirus 3","Deltapapillomavirus 3",0,NA,NA,NA,NA,"Deltapapillomavirus 3",FALSE,NA,"","Olival2017","Artiodactyl","NC_001789.1",1,FALSE
+"Deltapapillomavirus 4","Deltapapillomavirus 4",0,NA,NA,NA,NA,"Deltapapillomavirus 4",FALSE,NA,"","Olival2017","Artiodactyl","NC_001522.1",1,FALSE
+"Dengue virus","Dengue virus 1",1,"Mosquito","Merged",NA,NA,"Dengue virus",FALSE,FALSE,"CDC Arbocat Report 1985; Available from external site; 25052008; http://jgv.microbiologyresearch.org/content/journal/jgv/10.1099/0022-1317-82-8-1867#tab2","Olival2017; Woolhouse2018; Internal","Human","NC_001477.1",1,TRUE
+"Dera Ghazi Khan orthonairovirus","Dera Ghazi Khan orthonairovirus",1,"Tick","Automatic match",NA,NA,"Dera Ghazi Khan orthonairovirus",FALSE,TRUE,"; Darwish et al. 1983","Olival2017","Orphan","KU925437.1; KU925438.1; KU925439.1",1,FALSE
+"Dhori virus","Dhori virus",1,"Tick","Automatic match",NA,NA,"Dhori thogotovirus",FALSE,TRUE,"Darwish et al. 1983; 2864836; 22526290","Olival2017; Woolhouse2018",NA,"NC_034261.1; NC_034263.1; NC_034254.1; NC_034255.1; NC_034262.1; NC_034256.1",1,FALSE
+"Dobrava-Belgrade orthohantavirus","Dobrava-Belgrade virus",0,NA,NA,NA,NA,"Dobrava-Belgrade orthohantavirus",FALSE,FALSE,"Gligic et al. 1992; 1351508; 22877560; ","Olival2017; Woolhouse2018; Internal","Rodent","NC_005235.1; NC_005234.1; NC_005233.1",1,TRUE
+"Drosophila melanogaster sigmavirus","Drosophila melanogaster sigmavirus",0,"Fruit Fly",NA,NA,NA,"Drosophila melanogaster sigmavirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Insect","NC_013135.1",1,FALSE
+"Drosophila obscura sigmavirus","Drosophila obscura sigmavirus",0,"Fruit Fly",NA,NA,NA,"Drosophila obscura sigmavirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Insect","NC_022580.1",1,FALSE
+"Duck picornavirus GL/12","Duck picornavirus GL/12",0,NA,"Unclassified","wang2014",NA,"Aalivirus A",FALSE,FALSE,"NA","Internal","Orphan","NC_023985.1",1,FALSE
+"Dugbe orthonairovirus","Dugbe virus",1,"Tick",NA,NA,NA,"Dugbe orthonairovirus",FALSE,FALSE,"Burt et al. 1996; 5409104; 28479064; ","Olival2017; Woolhouse2018; Internal","Artiodactyl","NC_004159.1; NC_004158.1; NC_004157.1",1,TRUE
+"Duvenhage lyssavirus","Duvenhage virus",0,NA,NA,NA,NA,"Duvenhage lyssavirus",FALSE,FALSE,"Paweska et al. 2006; 5106834; 19636367; ","Olival2017; Woolhouse2018; Internal","Vespbat","NC_020810.1",1,TRUE
+"Eastern equine encephalitis virus","Eastern equine encephalitis virus",1,"Mosquito",NA,"arrigo2010",NA,"Eastern equine encephalitis virus",FALSE,FALSE,"Harvala et al. 2009; 17843373; 10466964; http://www.sciencedirect.com/science/article/pii/S0042682214004814","Olival2017; Woolhouse2018; Internal","Passeriformes","NC_003899.1",1,TRUE
+"Ectromelia virus","Ectromelia virus",0,NA,"Automatic match",NA,NA,"Ectromelia virus",FALSE,NA,"","Olival2017","Rodent","NC_004105.1",1,FALSE
+"Eggplant mottled dwarf nucleorhabdovirus","Eggplant mottled dwarf virus",1,"Leafhopper",NA,NA,NA,"Eggplant mottled dwarf nucleorhabdovirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Plant","NC_025389.1",1,FALSE
+"Eilat virus","Eilat virus",0,"Mosquito",NA,NA,NA,"Eilat virus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Insect","NC_018615.1",1,FALSE
+"El Moro Canyon orthohantavirus","El Moro Canyon orthohantavirus",0,NA,"Automatic match",NA,NA,"El Moro Canyon orthohantavirus",FALSE,NA,"","Olival2017; Woolhouse2018","Rodent","U26828.1; U11427.1",0,FALSE
+"Entebbe bat virus","Entebbe bat virus",NA,NA,NA,NA,NA,"Entebbe bat virus",FALSE,FALSE,"NA","Olival2017; Woolhouse2018; Internal","Vespbat","NC_008718.1",1,FALSE
+"Enterovirus A","Enterovirus A71",0,NA,NA,NA,NA,"Enterovirus A",FALSE,FALSE,"http://jech.bmj.com/content/68/6/500.full?ijkey=2cfaa29957c214e92eb7a5594bdff7b4c0865b7e&keytype2=tf_ipsecsha; Oberste 2004; 15391667; 5415578","Olival2017; Woolhouse2018","Human","KU254596.1",1,TRUE
+"Enterovirus B","Human enterovirus 107",0,NA,NA,NA,NA,"Enterovirus B",FALSE,FALSE,"http://www.sciencedirect.com/science/article/pii/S0168170207001190; Gomes et al. 2009; 15391667; 26053872","Olival2017; Woolhouse2018","Human","AB426609.1",1,TRUE
+"Enterovirus C","Human poliovirus 2",0,NA,"Merged",NA,NA,"Enterovirus C",FALSE,FALSE,"http://www.sciencedirect.com/science/article/pii/S0168170207001190; Romanenkova et al. 2011; Available from external site; 9203732","Olival2017; Woolhouse2018","Human","KJ170575.1",1,TRUE
+"Enterovirus D","Enterovirus D",0,NA,NA,NA,NA,"Enterovirus D",FALSE,FALSE,"Schieble et al. 1967; 4960233; 28367789","Olival2017; Woolhouse2018","Human","NC_001430.1",1,TRUE
+"Enterovirus G","Enterovirus G",0,NA,NA,NA,NA,"Enterovirus G",FALSE,NA,"","Olival2017; Woolhouse2018","Artiodactyl","NC_004441.1",1,FALSE
+"Enterovirus H","Enterovirus H",0,NA,NA,NA,NA,"Enterovirus H",FALSE,NA,"","Olival2017; Woolhouse2018","NonHumanPrimate","NC_003988.1",1,FALSE
+"Enterovirus I","Dromedary camel enterovirus",0,NA,"Strain",NA,NA,"Enterovirus I",FALSE,NA,"","Woolhouse2018","Artiodactyl","KP345887.1",1,FALSE
+"Epizootic hemorrhagic disease virus","Epizootic hemorrhagic disease virus",1,"Midge","Automatic match",NA,NA,"Epizootic hemorrhagic disease virus",FALSE,NA,"","Olival2017; Woolhouse2018","Artiodactyl","NC_013396.1; NC_013397.1; NC_013398.1; NC_013399.1; NC_013400.1; NC_013401.1; NC_013403.1; NC_013402.1; NC_013404.1; NC_013405.1",1,FALSE
+"Epsilonpapillomavirus 1","Epsilonpapillomavirus 1",0,NA,NA,NA,NA,"Epsilonpapillomavirus 1",FALSE,NA,"","Olival2017","Artiodactyl","NC_004195.1",1,FALSE
+"Equid alphaherpesvirus 1","Equid alphaherpesvirus 1",0,NA,NA,NA,NA,"Equid alphaherpesvirus 1",FALSE,NA,"","Olival2017","Perissodactyla","NC_001491.2",1,FALSE
+"Equid alphaherpesvirus 3","Equid alphaherpesvirus 3",0,NA,NA,NA,NA,"Equid alphaherpesvirus 3",FALSE,NA,"","Olival2017","Perissodactyla","NC_024771.1",1,FALSE
+"Equid alphaherpesvirus 4","Equid alphaherpesvirus 4",0,NA,NA,NA,NA,"Equid alphaherpesvirus 4",FALSE,NA,"","Olival2017","Perissodactyla","NC_001844.1",1,FALSE
+"Equid alphaherpesvirus 8","Equid alphaherpesvirus 8",0,NA,NA,NA,NA,"Equid alphaherpesvirus 8",FALSE,NA,"","Olival2017","Perissodactyla","NC_017826.1",1,FALSE
+"Equid alphaherpesvirus 9","Equid alphaherpesvirus 9",0,NA,NA,NA,NA,"Equid alphaherpesvirus 9",FALSE,NA,"","Olival2017","Perissodactyla","NC_011644.1",1,FALSE
+"Equid gammaherpesvirus 2","Equid gammaherpesvirus 2",0,NA,NA,NA,NA,"Equid gammaherpesvirus 2",FALSE,NA,"","Olival2017","Perissodactyla","NC_001650.2",1,FALSE
+"Equid gammaherpesvirus 5","Equid gammaherpesvirus 5",0,NA,NA,NA,NA,"Equid gammaherpesvirus 5",FALSE,NA,"","Olival2017","Perissodactyla","NC_026421.1",1,FALSE
+"Equine arteritis virus","Equine arteritis virus",0,NA,"Automatic match",NA,NA,"Alphaarterivirus equid",FALSE,NA,"","Olival2017; Woolhouse2018","Perissodactyla","NC_002532.2",1,FALSE
+"Equine encephalosis virus","Equine encephalosis virus",1,"Midge","Automatic match",NA,NA,"Equine encephalosis virus",FALSE,NA,"","Olival2017; Woolhouse2018","Perissodactyla","FJ183384.1; FJ183385.1; FJ183386.1; FJ183387.1; FJ183388.1; FJ183389.1; FJ183390.1; FJ183391.1; FJ183392.1; FJ183393.1",1,FALSE
+"Equine foamy virus","Equine foamy virus",0,NA,"Automatic match",NA,NA,"Equine foamy virus",FALSE,NA,"","Olival2017; Woolhouse2018","Perissodactyla","NC_002201.1",1,FALSE
+"Equine infectious anemia virus","Equine infectious anemia virus",1,"Diptera","Automatic match",NA,NA,"Equine infectious anemia virus",FALSE,NA,"","Olival2017; Woolhouse2018","Perissodactyla","NC_001450.1",1,FALSE
+"Equine mastadenovirus A","Equine mastadenovirus A",0,NA,NA,NA,NA,"Equine mastadenovirus A",FALSE,NA,"","Olival2017","Perissodactyla","NC_030792.1",1,FALSE
+"Equine mastadenovirus B","Equine mastadenovirus B",0,NA,NA,NA,NA,"Equine mastadenovirus B",FALSE,NA,"","Olival2017","Perissodactyla","NC_027705.1",1,FALSE
+"Equine rhinitis A virus","Equine rhinitis A virus",0,NA,"Automatic match",NA,NA,"Equine rhinitis A virus",FALSE,TRUE,"; 14487261; 15778036","Woolhouse2018","Perissodactyla","NC_003982.1",1,FALSE
+"Equine torovirus","Equine torovirus",0,NA,"Automatic match",NA,NA,"Equine torovirus",FALSE,NA,"","Olival2017; Woolhouse2018","Perissodactyla","MG996765.1",1,FALSE
+"Erbovirus A","Erbovirus A",0,NA,NA,NA,NA,"Erbovirus A",FALSE,TRUE,"; 15778036; 15778036","Woolhouse2018","Perissodactyla","NC_003983.1",1,FALSE
+"Eubenangee virus","Eubenangee virus",1,"Midge","Automatic match",NA,NA,"Eubenangee virus",FALSE,NA,"","Olival2017; Woolhouse2018",NA,"JQ070376.1; JQ070377.1; JQ070378.1; JQ070379.1; JQ070380.1; JQ070381.1; JQ070382.1; JQ070383.1; JQ070384.1; JQ070385.1",1,FALSE
+"European bat 1 lyssavirus","European bat lyssavirus 1",0,NA,NA,NA,NA,"European bat 1 lyssavirus",FALSE,FALSE,"Fooks et al. 2003; 2576595; 18205973; ","Olival2017; Woolhouse2018; Internal","Vespbat","NC_009527.1",1,TRUE
+"European bat 2 lyssavirus","European bat lyssavirus 2",0,NA,NA,NA,NA,"European bat 2 lyssavirus",FALSE,FALSE,"Fooks et al. 2003; 2868310; 18205973; ","Olival2017; Woolhouse2018; Internal","Vespbat","NC_009528.2",1,TRUE
+"European brown hare syndrome virus","European brown hare syndrome virus",0,NA,NA,NA,NA,"European brown hare syndrome virus",FALSE,FALSE,"NA","Olival2017; Woolhouse2018; Internal","Lagomorph","NC_002615.1",1,FALSE
+"Everglades virus","Everglades virus",1,"Mosquito","Automatic match",NA,NA,"Everglades virus",FALSE,FALSE,"Calisher et al. 1980; 5410814; 17326938","Olival2017; Woolhouse2018","Rodent","AF075251.1",1,TRUE
+"Eyach virus","Eyach virus",1,"Tick","Automatic match",NA,NA,"Eyach virus",FALSE,TRUE,"; 6106383; 6508529; 22526290","Woolhouse2018","Orphan","NC_003696.1; NC_003697.1; NC_003698.1; NC_003699.1; NC_003700.1; NC_003701.1; NC_003702.1; NC_003703.1; NC_003704.1; NC_003705.1; NC_003706.1; NC_003707.1",1,FALSE
+"Felid alphaherpesvirus 1","Felid alphaherpesvirus 1",0,NA,NA,NA,NA,"Felid alphaherpesvirus 1",FALSE,NA,"","Olival2017","Carnivore","NC_013590.2",1,FALSE
+"Feline calicivirus","Feline calicivirus",0,NA,NA,NA,NA,"Feline calicivirus",FALSE,FALSE,"NA","Olival2017; Woolhouse2018; Internal","Carnivore","NC_001481.2",1,FALSE
+"Feline foamy virus","Feline foamy virus",0,NA,"Automatic match",NA,NA,"Feline foamy virus",FALSE,NA,"","Olival2017; Woolhouse2018","Carnivore","NC_001871.1",1,FALSE
+"Feline immunodeficiency virus","Feline immunodeficiency virus",0,NA,"Automatic match",NA,NA,"Feline immunodeficiency virus",FALSE,NA,"","Olival2017; Woolhouse2018","Carnivore","NC_001482.1",1,FALSE
+"Feline leukemia virus","Feline leukemia virus",0,NA,"Automatic match",NA,NA,"Feline leukemia virus",FALSE,NA,"","Olival2017; Woolhouse2018","Carnivore","NC_001940.1",1,FALSE
+"Feline morbillivirus","Feline morbillivirus",0,NA,NA,NA,NA,"Feline morbillivirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Carnivore","NC_025264.1",1,FALSE
+"Ferak orthoferavirus","Ferak virus",0,"Mosquito",NA,NA,NA,"Ferak feravirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Insect","KP710246.1; KP710264.1; KP710267.1",1,FALSE
+"Fikirini ledantevirus","Fikirini bat rhabdovirus",0,NA,NA,NA,NA,"Fikirini ledantevirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Pterobat","NC_025341.1",1,FALSE
+"Flexal mammarenavirus","Flexal virus",0,NA,NA,NA,NA,"Flexal mammarenavirus",FALSE,FALSE,"; CDC ArboCat; ","Olival2017; Internal","Rodent","NC_010759.1; NC_010757.1",1,TRUE
+"Foot-and-mouth disease virus","Foot-and-mouth disease virus - type O",0,NA,NA,NA,NA,"Foot-and-mouth disease virus",FALSE,FALSE,"NA; Ghoneim et al. 2010; 4290196; 18834510","Olival2017; Woolhouse2018","Artiodactyl","NC_004004.1",1,TRUE
+"Fort Morgan virus","Fort Morgan virus",1,"Cimicid","Merged","allison2015",NA,"Fort Morgan virus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Passeriformes","NC_013528.1",1,FALSE
+"Gairo mammarenavirus","Gairo virus",0,NA,NA,NA,NA,"Gairo mammarenavirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Rodent","NC_026247.1; NC_026246.1",1,FALSE
+"Gammapapillomavirus 1","Human papillomavirus 4",0,NA,NA,NA,NA,"Gammapapillomavirus 1",FALSE,FALSE,"Gissman et al. 1977","Olival2017","Human","NC_001457.1",1,TRUE
+"Gammapapillomavirus 2","Gammapapillomavirus 2",0,NA,NA,NA,NA,"Gammapapillomavirus 2",FALSE,FALSE,"Muller et al. 1989","Olival2017","Human","NC_001690.1",1,TRUE
+"Gammapapillomavirus 3","Gammapapillomavirus 3",0,NA,NA,NA,NA,"Gammapapillomavirus 3",FALSE,FALSE,"Favre et al. 1989","Olival2017","Human","NC_001691.1",1,TRUE
+"Gammapapillomavirus 4","Gammapapillomavirus 4",0,NA,NA,NA,NA,"Gammapapillomavirus 4",FALSE,FALSE,"Matsukura et al. 1992","Olival2017","Human","NC_001693.1",1,TRUE
+"Gammapapillomavirus 5","Gammapapillomavirus 5",0,NA,NA,NA,NA,"Gammapapillomavirus 5",FALSE,FALSE,"Kullander et al. 2008","Olival2017","Human","NC_010329.1",1,TRUE
+"Getah virus","Getah virus",1,"Mosquito",NA,NA,NA,"Getah virus",FALSE,FALSE,"NA; Attoui et al. 2007; 4214338; 23268691","Olival2017; Woolhouse2018","Orphan","NC_006558.1",1,TRUE
+"Ghanaian bat henipavirus","Bat Paramyxovirus Eid_hel",0,NA,NA,NA,NA,"Ghanaian bat henipavirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Pterobat","NC_025256.1",1,FALSE
+"Gibbon ape leukemia virus","Gibbon ape leukemia virus",0,NA,"Automatic match",NA,NA,"Gibbon ape leukemia virus",FALSE,TRUE,"; Aoki et al. 1976","Olival2017","NonHumanPrimate","KT724048.1",1,FALSE
+"Goatpox virus","Goatpox virus",0,NA,"Automatic match",NA,NA,"Goatpox virus",FALSE,NA,"","Olival2017","Artiodactyl","NC_004003.1",1,FALSE
+"Alethinophid 1 reptarenavirus","Golden Gate virus",0,NA,NA,NA,NA,"Golden reptarenavirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Reptile","NC_018482.1; NC_018483.1",1,FALSE
+"Gorilline gammaherpesvirus 1","Gorilline gammaherpesvirus 1",0,NA,NA,NA,NA,"Gorilline gammaherpesvirus 1",FALSE,NA,"","Olival2017","NonHumanPrimate","AJ581752.1",0,FALSE
+"Gouleako goukovirus","Gouleako virus",0,"Mosquito",NA,NA,NA,"Gouleako goukovirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Insect","HQ541738.1; HQ541737.1; HQ541736.1",1,FALSE
+"Great Island virus","Great Island virus",1,"Tick","Automatic match","nunn2005",NA,"Great Island virus",FALSE,FALSE,"Belhouchet et al. 2010; 14071281; 26350980; 16216136","Olival2017; Woolhouse2018","Charadriiformes","NC_014522.1; NC_014523.1; NC_014524.1; NC_014525.1; NC_014526.1; NC_014527.1; NC_014528.1; NC_014529.1; NC_014530.1; NC_014531.1",1,TRUE
+"Ground squirrel hepatitis virus","Ground squirrel hepatitis virus",0,NA,"Strain",NA,NA,"Ground squirrel hepatitis virus",FALSE,NA,"","Olival2017","Rodent","NC_001484.1",1,FALSE
+"Guama orthobunyavirus","Guama orthobunyavirus",1,"Mosquito","Automatic match",NA,NA,"Guama orthobunyavirus",FALSE,FALSE,"Zuckerman et al. 2009; 13691675; 234206","Olival2017; Woolhouse2018",NA,"KP792666.1; KP792665.1; KP792664.1",1,TRUE
+"Guanarito mammarenavirus","Guanarito virus",0,NA,NA,NA,NA,"Guanarito mammarenavirus",FALSE,FALSE,"Abraham et al. 2009; 1681354; 8166352; 12615305; ","Olival2017; Woolhouse2018; Internal","Rodent","NC_005082.1; NC_005077.1",1,TRUE
+"Guaroa orthobunyavirus","Guaroa orthobunyavirus",1,"Mosquito","Automatic match",NA,NA,"Guaroa orthobunyavirus",FALSE,FALSE,"Groot et al. 1959; 13851794; 20810845","Olival2017; Woolhouse2018","Orphan","NC_034487.1; NC_034506.1; NC_034486.1",1,TRUE
+"Hantaan orthohantavirus","Hantaan virus",0,NA,NA,NA,NA,"Hantaan orthohantavirus",FALSE,FALSE,"Grygorczuk et al. 2008; 24670; 18305044; ","Olival2017; Woolhouse2018; Internal","Rodent","NC_005218.1",1,TRUE
+"Harkavirus A","Falcovirus A1",0,NA,NA,"boros2015",NA,"Harkavirus A",FALSE,FALSE,"NA","Woolhouse2018; Internal","Orphan","NC_026921.1",1,FALSE
+"Hedgehog coronavirus 1","Betacoronavirus Erinaceus",0,NA,NA,NA,NA,"Hedgehog coronavirus 1",FALSE,FALSE,"NA","Woolhouse2018; Internal","Erinaceidae","NC_022643.1",1,FALSE
+"Hendra henipavirus","Hendra virus",0,NA,NA,NA,NA,"Hendra henipavirus",FALSE,FALSE,"Tulsiani et al. 2011; 9815409; 23302882; ","Olival2017; Woolhouse2018; Internal","Pterobat","NC_001906.3",1,TRUE
+"Hepacivirus C","Hepatitis C virus",0,NA,NA,NA,NA,"Hepacivirus C",FALSE,FALSE,"2523562; 26212868; Fields virology; Abreha et al. 2011","Olival2017","Human","NC_004102.1",1,TRUE
+"Hepatitis B virus","Hepatitis B virus genotype A",0,NA,"Automatic match",NA,NA,"Hepatitis B virus",FALSE,FALSE,"Ghosh et al. 2010","Olival2017","Human","AJ344115.1",1,TRUE
+"Hepatovirus A","Hepatitis A virus (wild type)",0,NA,NA,NA,NA,"Hepatovirus A",FALSE,FALSE,"Braga et al. 2009; 4356028; 25050760","Olival2017; Woolhouse2018","Human","NC_001489",1,TRUE
+"Hepatovirus B","Phopivirus",0,NA,NA,NA,NA,"Hepatovirus B",FALSE,FALSE,"NA","Woolhouse2018; Internal","Carnivore","NC_027818.1",1,FALSE
+"Herbert herbevirus","Herbert virus",0,"Mosquito",NA,NA,NA,"Herbert herbevirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Insect","JQ659256.1; JQ659257.1; JQ659258.1",1,FALSE
+"Highlands J virus","Highlands J virus",1,"Mosquito",NA,"allison2015",NA,"Highlands J virus",FALSE,TRUE,"NA; 11057975; 19651164","Woolhouse2018","Passeriformes","NC_012561.1",1,FALSE
+"Hirame novirhabdovirus","Hirame rhabdovirus",0,NA,NA,NA,NA,"Hirame novirhabdovirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Fish","NC_005093.1",1,FALSE
+"Human alphaherpesvirus 1","Human alphaherpesvirus 1",0,NA,NA,NA,NA,"Human alphaherpesvirus 1",FALSE,FALSE,"Mackay et al. 2003","Olival2017","Human","NC_001806.2",1,TRUE
+"Human alphaherpesvirus 2","Human alphaherpesvirus 2",0,NA,NA,NA,NA,"Human alphaherpesvirus 2",FALSE,FALSE,"Nahmias & Dowdle 1968","Olival2017","Human","NC_001798.2",1,TRUE
+"Human alphaherpesvirus 3","Human alphaherpesvirus 3",0,NA,NA,NA,NA,"Human alphaherpesvirus 3",FALSE,FALSE,"Mackay et al. 2003","Olival2017","Human","NC_001348.1",1,TRUE
+"Human betaherpesvirus 5","Human betaherpesvirus 5",0,NA,NA,NA,NA,"Human betaherpesvirus 5",FALSE,FALSE,"Mackay et al. 2003","Olival2017","Human","NC_006273.2",1,TRUE
+"Human betaherpesvirus 7","Human betaherpesvirus 7",0,NA,NA,NA,NA,"Human betaherpesvirus 7",FALSE,FALSE,"Astegiano et al. 2010","Olival2017","Human","NC_001716.2",1,TRUE
+"Human coronavirus 229E","Camel alphacoronavirus",0,NA,"Strain",NA,NA,"Human coronavirus 229E",FALSE,FALSE,"4285768; 26556276; ; Hamre & Procknow 1966","Olival2017","Human","NC_002645.1",1,TRUE
+"Human coronavirus HKU1","Human coronavirus HKU1",0,NA,NA,NA,NA,"Human coronavirus HKU1",TRUE,FALSE,"15613317; 23161446; ","Woolhouse2018; Internal","Human","NC_006577.2",1,TRUE
+"Human coronavirus NL63","Human coronavirus NL63",0,NA,NA,NA,NA,"Human coronavirus NL63",TRUE,FALSE,"15073334; 21366416; ","Woolhouse2018; Internal","Human","NC_005831.2",1,TRUE
+"Human gammaherpesvirus 4","Human gammaherpesvirus 4",0,NA,NA,NA,NA,"Human gammaherpesvirus 4",TRUE,FALSE,"Mackay et al. 2003","Olival2017","Human","NC_007605.1",1,TRUE
+"Human gammaherpesvirus 8","Human gammaherpesvirus 8",0,NA,NA,NA,NA,"Human gammaherpesvirus 8",FALSE,TRUE,"Butler et al. 1996","Olival2017","Human","NC_009333.1",1,TRUE
+"Human immunodeficiency virus 1","Human immunodeficiency virus 1",0,NA,"Automatic match",NA,NA,"Human immunodeficiency virus 1",FALSE,FALSE,"6189183; 7962552; Dwyer et al. 2010","Olival2017","Human","NC_001802.1",1,TRUE
+"Human immunodeficiency virus 2","Human immunodeficiency virus 2",0,NA,"Automatic match",NA,NA,"Human immunodeficiency virus 2",FALSE,FALSE,"3006256; 27530215; Dwyer et al. 2010","Olival2017","Human","NC_001722.1",1,TRUE
+"Human mastadenovirus A","Human mastadenovirus A",0,NA,NA,NA,NA,"Human mastadenovirus A",FALSE,FALSE,"Roy et al. 2009","Olival2017","Human","AC_000005.1",1,TRUE
+"Human mastadenovirus B","Human adenovirus 35",0,NA,NA,NA,NA,"Human mastadenovirus B",FALSE,FALSE,"Roy et al. 2009","Olival2017","Human","AC_000019.1",1,TRUE
+"Human mastadenovirus C","Human adenovirus 1",0,NA,NA,NA,NA,"Human mastadenovirus C",FALSE,FALSE,"Roy et al. 2009","Olival2017","Human","AC_000017.1",1,TRUE
+"Human mastadenovirus D","Human mastadenovirus D",0,NA,NA,NA,NA,"Human mastadenovirus D",TRUE,FALSE,"Roy et al. 2009","Olival2017","Human","NC_010956.1",1,TRUE
+"Human mastadenovirus E","Human adenovirus 4",0,NA,NA,NA,NA,"Human mastadenovirus E",FALSE,FALSE,"Roy et al. 2009","Olival2017","Human","NC_003266.2",1,TRUE
+"Human mastadenovirus F","Human mastadenovirus F",0,NA,NA,NA,NA,"Human mastadenovirus F",FALSE,FALSE,"Roy et al. 2009","Olival2017","Human","NC_001454.1",1,TRUE
+"Human metapneumovirus","Human metapneumovirus",0,NA,NA,NA,NA,"Human metapneumovirus",FALSE,FALSE,"van de Hoogen et al. 2001; ; 11385510; 22874773","Woolhouse2018","Human","NC_004148.2",1,TRUE
+"Human orthopneumovirus","Human respiratory syncytial virus",0,NA,NA,NA,NA,"Human orthopneumovirus",FALSE,FALSE,"Lu et al. 2011; ; 13478578; 28458916","Woolhouse2018","Human","NC_001781.1",1,TRUE
+"Human picobirnavirus","Human picobirnavirus",0,NA,"Automatic match",NA,NA,"Human picobirnavirus",FALSE,FALSE,"2898672; 17245535; Bhattacharya et al. 2006","Olival2017","Orphan","NC_007026.1; NC_007027.1",1,TRUE
+"Human polyomavirus 1","Human polyomavirus 1",0,NA,NA,NA,NA,"Human polyomavirus 1",FALSE,FALSE,"Gardner et al. 1971","Olival2017","Human","NC_001538.1",1,TRUE
+"Human polyomavirus 2","Human polyomavirus 2",0,NA,NA,NA,NA,"Human polyomavirus 2",FALSE,FALSE,"Padgett et al. 1971","Olival2017","Human","NC_001699.1",1,TRUE
+"Human respirovirus 1","Human parainfluenza virus 1",0,NA,NA,NA,NA,"Human respirovirus 1",FALSE,FALSE,"; Terlizzi et al. 2009; 13504446; 23343342","Olival2017; Woolhouse2018","Human","NC_003461.1",1,TRUE
+"Human respirovirus 3","Human parainfluenza virus 3",0,NA,NA,NA,NA,"Human respirovirus 3",FALSE,FALSE,"; Nichols et al. 2004; 13504446; 21466639","Olival2017; Woolhouse2018","Human","NC_001796.2",1,TRUE
+"Human rubulavirus 2","Human parainfluenza virus 2",0,NA,NA,NA,NA,"Human orthorubulavirus 2",FALSE,FALSE,"; Gerna et al. 2011; 13367330; 19386708; 28095926","Olival2017; Woolhouse2018","Human","NC_003443.1",1,TRUE
+"Human rubulavirus 4","Human rubulavirus 4",0,NA,NA,NA,NA,"Human orthorubulavirus 4",FALSE,FALSE,"14407482; 19386708; 28095926; Johnson et al. 1960","Olival2017","Human","NC_021928.1",1,TRUE
+"Ikoma lyssavirus","Ikoma lyssavirus",0,NA,NA,NA,NA,"Ikoma lyssavirus",FALSE,FALSE,"; http://www.ncbi.nlm.nih.gov/pubmed/24496827","Internal","Orphan","NC_018629.1",1,TRUE
+"Ilheus virus","Ilheus virus",1,"Mosquito",NA,"shope2003",NA,"Ilheus virus",FALSE,FALSE,"Causey et al. 1961; 20285157; 23875051; http://jgv.microbiologyresearch.org/content/journal/jgv/10.1099/0022-1317-82-8-1867#tab2, Woolhouse 2013","Olival2017; Woolhouse2018; Internal","Orphan","NC_009028.2",1,TRUE
+"Indiana vesiculovirus","Vesicular stomatitis Indiana virus",1,"Sandfly",NA,NA,NA,"Indiana vesiculovirus",FALSE,FALSE,"Fields & Hawkins 1967; 13549332; 4335268; http://www.sciencedirect.com/science/article/pii/S1567134809000380","Olival2017; Woolhouse2018; Internal","Artiodactyl","NC_038236.1",1,TRUE
+"Influenza A virus","A/Alabama/01/2017(H3N2)",0,NA,"Automatic match",NA,NA,"Influenza A virus",FALSE,FALSE,"Zhang et al. 2011; Available from external site; 23746799; 28302313","Olival2017; Woolhouse2018","Human","CY216614.1; CY216615.1; CY216616.1; CY216617.1; CY216618.1; CY216619.1; CY216620.1; CY216621.1",1,TRUE
+"Influenza B virus","B/Alaska/06/2018",0,NA,"Automatic match",NA,NA,"Influenza B virus",FALSE,FALSE,"Do et al. 2011; Available from external site; 25268241; 28302313","Olival2017; Woolhouse2018","Human","MH245265.1; MH245264.1; MH245263.1; MH245262.1; MH245261.1; MH245260.1; MH245259.1; MH245258.1",1,TRUE
+"Influenza C virus","C/Victoria/2/2012",0,NA,"Automatic match",NA,NA,"Influenza C virus",FALSE,FALSE,"Gouarin et al. 2008; 14787444; 23408893; 28302313","Olival2017; Woolhouse2018","Human","KM504277.1; KM504278.1; KM504279.1; KM504280.1; KM504281.1; KM504282.1; KM504283.1",1,TRUE
+"Iotapapillomavirus 1","Iotapapillomavirus 1",0,NA,NA,NA,NA,"Iotapapillomavirus 1",FALSE,NA,"","Olival2017","Rodent","NC_001605.1",1,FALSE
+"Ippy mammarenavirus","Ippy virus",0,NA,NA,NA,NA,"Ippy mammarenavirus",FALSE,FALSE,"NA","Olival2017; Woolhouse2018; Internal","Rodent","NC_007906.1; NC_007905.1",1,FALSE
+"Irkut lyssavirus","Irkut virus",0,NA,NA,NA,NA,"Irkut lyssavirus",FALSE,FALSE,"; 23505588; 16705370; ","Woolhouse2018; Internal","Vespbat","NC_020809.1",1,TRUE
+"Isfahan vesiculovirus","Isfahan virus",1,"Sandfly",NA,NA,NA,"Isfahan vesiculovirus",FALSE,FALSE,"Tesh et al. 1977; 192094; 192094; http://europepmc.org/abstract/med/192094","Olival2017; Woolhouse2018; Internal","Rodent","NC_020806.1",1,TRUE
+"Jaagsiekte sheep retrovirus","Jaagsiekte sheep retrovirus",0,NA,"Automatic match",NA,NA,"Jaagsiekte sheep retrovirus",FALSE,NA,"","Olival2017; Woolhouse2018","Artiodactyl","NC_001494.1",1,FALSE
+"Japanese encephalitis virus","Japanese encephalitis virus",1,"Mosquito",NA,"lord2015",NA,"Japanese encephalitis virus",FALSE,FALSE,"Wolfe et al. 2001; Available from external site; 19786116; http://jgv.microbiologyresearch.org/content/journal/jgv/10.1099/0022-1317-82-8-1867#tab2","Olival2017; Woolhouse2018; Internal","Artiodactyl","GQ902058.1",1,TRUE
+"Jonchet orthojonvirus","Jonchet virus",0,"Mosquito",NA,NA,NA,"Jonchet jonvirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Insect","KP710232.1; KP710240.1; KP710243.1",1,FALSE
+"Jugra virus","Jugra virus",1,"Mosquito","Automatic match",NA,NA,"Jugra virus",FALSE,NA,"","Olival2017; Woolhouse2018","Orphan","NC_033699.1",1,FALSE
+"Junín mammarenavirus","Junin arenavirus",0,NA,NA,NA,NA,"Argentinian mammarenavirus",FALSE,FALSE,"Simpson et al. 1978; 13586110; 24901990; 12615305; ","Olival2017; Woolhouse2018; Internal","Rodent","NC_005080.1; NC_005081.1",1,TRUE
+"Jurona vesiculovirus","Jurona virus",1,"Mosquito",NA,NA,NA,"Jurona vesiculovirus",FALSE,FALSE,"; Vasconcelos PFC, Travassos da Rosa APA, Pinheiro FP, Shope RE, Travassos da Rosa JFS, Rodrigues SG, et al. Arboviruses pathogenic for man in Brazil. In: Travassos da Rosa APA, Vasconcelos PFC, Travassos da Rosa JFS, editors. An overview of arbovirology in Brazil and neighboring countries. Belem (Brazil); Instituto Evandro Chagas; 1998. p. 72_99.","Internal","Orphan","NC_025392.1",1,TRUE
+"Jutiapa virus","Jutiapa virus",0,NA,NA,NA,NA,"Jutiapa virus",FALSE,NA,"","Olival2017; Woolhouse2018","Rodent","NC_026620.1",1,FALSE
+"Kaeng Khoi orthobunyavirus","Kaeng Khoi orthobunyavirus",NA,NA,"Automatic match",NA,NA,"Kaeng Khoi orthobunyavirus",FALSE,NA,"","Olival2017; Woolhouse2018","Orphan","NC_034499.1; NC_034500.1; NC_034501.1",1,FALSE
+"Kairi orthobunyavirus","Kairi orthobunyavirus",1,"Mosquito","Automatic match",NA,NA,"Kairi orthobunyavirus",FALSE,TRUE,"Tauro et al. 2009; 5585978; 13793361","Olival2017; Woolhouse2018","Orphan","KR260738.1; KR260739.1; KR260740.1",1,FALSE
+"Kappapapillomavirus 1","Kappapapillomavirus 1",0,NA,NA,NA,NA,"Kappapapillomavirus 1",FALSE,NA,"","Olival2017","Lagomorph","NC_002232.1",1,FALSE
+"Kappapapillomavirus 2","Kappapapillomavirus 2",0,NA,NA,NA,NA,"Kappapapillomavirus 2",FALSE,NA,"","Olival2017","Lagomorph","NC_001541.1",1,FALSE
+"Kasokero orthonairovirus","Kasokero orthonairovirus",NA,NA,"Automatic match",NA,NA,"Kasokero orthonairovirus",FALSE,FALSE,"; Kalunda et al. 1986","Olival2017","Pterobat","NC_036636.1; NC_029933.1; NC_029932.1",1,TRUE
+"Kedougou virus","Kedougou virus",1,"Mosquito",NA,NA,NA,"Kedougou virus",FALSE,NA,"","Woolhouse2018","Orphan","NC_012533.1",1,FALSE
+"Kern Canyon ledantevirus","Kern Canyon ledantevirus",NA,NA,"Automatic match",NA,NA,"Kern Canyon ledantevirus",FALSE,NA,"","Olival2017; Woolhouse2018","Vespbat","NC_034451.1",1,FALSE
+"Keuraliba ledantevirus","Keuraliba ledantevirus",NA,NA,"Automatic match",NA,NA,"Keuraliba ledantevirus",FALSE,NA,"","Olival2017; Woolhouse2018","Rodent","NC_034540.1",1,FALSE
+"Khabarovsk orthohantavirus","Khabarovsk orthohantavirus",0,NA,"Merged",NA,NA,"Khabarovsk orthohantavirus",FALSE,NA,"","Olival2017; Woolhouse2018","Rodent","NC_034519.1; NC_034518.1; NC_034527.1",1,FALSE
+"Khujand lyssavirus","Khujand virus",0,NA,NA,NA,NA,"Khujand lyssavirus",FALSE,FALSE,"; ","Internal","Vespbat","NC_025385.1",1,TRUE
+"Kimberley ephemerovirus","Kimberley virus",1,NA,NA,NA,NA,"Kimberley ephemerovirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Artiodactyl","NC_025396.1",1,FALSE
+"Kokobera virus","Kokobera virus",1,"Mosquito",NA,NA,NA,"Kokobera virus",FALSE,FALSE,"Boughton et al. 1986; 3007952; 10930658; http://www.sciencedirect.com/science/article/pii/S016817020000143X","Olival2017; Woolhouse2018; Internal","Diprotodontia","NC_032088.1",1,TRUE
+"Kolente ledantevirus","Kolente virus",1,"Tick",NA,NA,NA,"Kolente ledantevirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Orphan","NC_025342.1",1,FALSE
+"Koongol orthobunyavirus","Koongol orthobunyavirus",1,"Mosquito","Automatic match",NA,NA,"Koongol orthobunyavirus",FALSE,NA,"","Olival2017; Woolhouse2018",NA,"KP792669.1; KP792668.1; KP792667.1",1,FALSE
+"Kotonkan ephemerovirus","Kotonkan virus",1,"Midge",NA,NA,NA,"Kotonkan ephemerovirus",FALSE,TRUE,"NA; Kemp et al. 1973","Olival2017","Orphan","NC_017714.1",1,FALSE
+"Koutango virus","Koutango virus",1,"Mosquito","Automatic match",NA,NA,"Koutango virus",FALSE,FALSE,"; Karabatsos 1985","Olival2017","Rodent","EU082200.2",1,TRUE
+"Kyasanur Forest disease virus","Kyasanur forest disease virus",1,"Tick",NA,NA,NA,"Kyasanur Forest disease virus",FALSE,FALSE,"Wang et al. 2009; 13448774; 19788811; Calisher, Charles H., and Ernest A. Gould. \Taxonomy of the virus family Flaviviridae.\ï_ê‘_ï_ê‘__Advances in virus researchï_ê‘_ï_ê‘__59 (2003): 1-20.","Olival2017; Woolhouse2018; Internal","NonHumanPrimate","JF416960.1",1,TRUE
+"Lactate dehydrogenase-elevating virus","Lactate dehydrogenase-elevating virus",0,NA,"Automatic match",NA,NA,"Gammaarterivirus lacdeh",FALSE,NA,"","Olival2017; Woolhouse2018","Rodent","NC_001639.1",1,FALSE
+"Lagos bat lyssavirus","Lagos bat virus",0,NA,NA,NA,NA,"Lagos bat lyssavirus",FALSE,FALSE,"; ","Internal","Pterobat","NC_020807.1",1,TRUE
+"Laguna Negra orthohantavirus","Laguna Negra orthohantavirus",0,NA,"Merged",NA,NA,"Laguna Negra orthohantavirus",FALSE,FALSE,"Levis et al. 1999; de Oliveira et al. 2014; 9375015; 11791973","Olival2017; Woolhouse2018","Rodent","AF005728.1; AF005727.1",0,TRUE
+"Lambdapapillomavirus 1","Lambdapapillomavirus 1",0,NA,NA,NA,NA,"Lambdapapillomavirus 1",FALSE,NA,"","Olival2017","Carnivore","NC_004765.1",1,FALSE
+"Lambdapapillomavirus 2","Lambdapapillomavirus 2",0,NA,NA,NA,NA,"Lambdapapillomavirus 2",FALSE,NA,"","Olival2017","Carnivore","NC_001619.1",1,FALSE
+"Langat virus","Langat virus",1,"Tick",NA,NA,NA,"Langat virus",FALSE,FALSE,"13369466; 22984545; 19486319; http://jgv.microbiologyresearch.org/content/journal/jgv/10.1099/0022-1317-82-8-1867#tab2","Woolhouse2018; Internal","Orphan","NC_003690.1",1,TRUE
+"Lassa mammarenavirus","Lassa virus",0,NA,NA,NA,NA,"Lassa mammarenavirus",FALSE,FALSE,"Panning et al. 2010; 4987547; 26276630; 15487592; ","Olival2017; Woolhouse2018; Internal","Rodent","NC_004297.1; NC_004296.1",1,TRUE
+"Latino mammarenavirus","Latino virus",0,NA,NA,NA,NA,"Latino mammarenavirus",FALSE,FALSE,"NA","Olival2017; Woolhouse2018; Internal","Rodent","NC_010760.1; NC_010758.1",1,FALSE
+"Lebombo virus","Lebombo virus",1,"Midge","Automatic match",NA,NA,"Lebombo virus",FALSE,FALSE,"Moore et al. 1975; 1124969; 24475112","Olival2017; Woolhouse2018","Orphan","JQ610665.1; JQ610666.1; JQ610667.1; JQ610668.1; JQ610669.1; JQ610670.1; JQ610671.1; JQ610672.1; JQ610673.1; JQ610674.1",1,TRUE
+"Lettuce necrotic yellows cytorhabdovirus","Lettuce necrotic yellows virus",1,"Aphid",NA,NA,NA,"Lettuce necrotic yellows cytorhabdovirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Plant","NC_007642.1",1,FALSE
+"Lettuce yellow mottle cytorhabdovirus","Lettuce yellow mottle virus",1,NA,NA,NA,NA,"Lettuce yellow mottle cytorhabdovirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Plant","NC_011532.1",1,FALSE
+"Limnipivirus C","Fathead minnow picornavirus",0,NA,NA,NA,NA,"Limnipivirus C",FALSE,FALSE,"NA","Woolhouse2018; Internal","Fish","NC_023437.1",1,FALSE
+"Lloviu cuevavirus","Lloviu cuevavirus",0,NA,NA,NA,NA,"Lloviu cuevavirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Vespbat","NC_016144.1",1,FALSE
+"Loei River mammarenavirus","Loie River virus",0,NA,NA,NA,NA,"Loei River mammarenavirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Rodent","KC669693.1; KC669698.1",1,FALSE
+"Louping ill virus","Louping ill virus",1,"Tick",NA,NA,NA,"Louping ill virus",FALSE,FALSE,"Leonova et al. 2015; 19870271; 24552787; 10726271; Calisher, Charles H., and Ernest A. Gould. \Taxonomy of the virus family Flaviviridae.\ï_ê‘_ï_ê‘__Advances in virus researchï_ê‘_ï_ê‘__59 (2003): 1-20.","Olival2017; Woolhouse2018; Internal","Artiodactyl","NC_001809.1",1,TRUE
+"Lujo mammarenavirus","Lujo virus",0,NA,NA,NA,NA,"Lujo mammarenavirus",FALSE,FALSE,"19478873; 25393244; ","Woolhouse2018; Internal","Rodent","NC_012777.1; NC_012776.1",1,TRUE
+"Lumpy skin disease virus","Lumpy skin disease virus",0,NA,"Automatic match",NA,NA,"Lumpy skin disease virus",FALSE,NA,"","Olival2017","Artiodactyl","NC_003027.1",1,FALSE
+"Luna mammarenavirus","Luna virus",0,NA,NA,NA,NA,"Luna mammarenavirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Rodent","NC_016153.1; NC_016152.1",1,FALSE
+"Lunk mammarenavirus","Lunk virus NKS-1",0,NA,NA,NA,NA,"Lunk mammarenavirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Rodent","NC_018711.1; NC_018710.1",1,FALSE
+"Lymphocytic choriomeningitis mammarenavirus","Lymphocytic choriomeningitis virus",0,NA,NA,NA,NA,"Lymphocytic choriomeningitis mammarenavirus",FALSE,FALSE,"Gonzalez et al. 2007; Available from external site; 26631809; 23666045; ","Olival2017; Woolhouse2018; Internal","Rodent","NC_004291.1; NC_004294.1",1,TRUE
+"Macaca mulatta polyomavirus 1","Macaca mulatta polyomavirus 1",0,NA,NA,NA,NA,"Macaca mulatta polyomavirus 1",FALSE,FALSE,"Campello et al. 2010","Olival2017","NonHumanPrimate","NC_001669.1",1,TRUE
+"Macacine alphaherpesvirus 1","Macacine alphaherpesvirus 1",0,NA,NA,NA,NA,"Macacine alphaherpesvirus 1",FALSE,FALSE,"Huff et al. 2003","Olival2017","NonHumanPrimate","NC_004812.1",1,TRUE
+"Macacine betaherpesvirus 3","Macacine betaherpesvirus 3",0,NA,NA,NA,NA,"Macacine betaherpesvirus 3",FALSE,NA,"","Olival2017","NonHumanPrimate","NC_006150.1",1,FALSE
+"Macacine gammaherpesvirus 4","Macacine gammaherpesvirus 4",0,NA,NA,NA,NA,"Macacine gammaherpesvirus 4",FALSE,NA,"","Olival2017","NonHumanPrimate","NC_006146.1",1,FALSE
+"Macacine gammaherpesvirus 5","Macacine gammaherpesvirus 5",0,NA,NA,NA,NA,"Macacine gammaherpesvirus 5",FALSE,NA,"","Olival2017","NonHumanPrimate","NC_003401.1",1,FALSE
+"Macaque simian foamy virus","Macaque simian foamy virus",0,NA,"Automatic match",NA,NA,"Rhesus macaque simian foamy virus",FALSE,FALSE,"; 12241782; 24109214","Woolhouse2018","NonHumanPrimate","NC_010819.1",1,TRUE
+"Machupo mammarenavirus","Machupo virus",0,NA,NA,NA,NA,"Machupo mammarenavirus",FALSE,FALSE,"Huaman A et al 2010; 14196061; 25031335; ","Olival2017; Woolhouse2018; Internal","Rodent","NC_005079.1; NC_005078.1",1,TRUE
+"Macropodid alphaherpesvirus 1","Macropodid alphaherpesvirus 1",0,NA,NA,NA,NA,"Macropodid alphaherpesvirus 1",FALSE,NA,"","Olival2017","Macropod","NC_029132.1",1,FALSE
+"Macropodid alphaherpesvirus 2","Macropodid alphaherpesvirus 2",0,NA,NA,NA,NA,"Macropodid alphaherpesvirus 2",FALSE,NA,"","Olival2017","Macropod","AF061755.1",0,FALSE
+"Madariaga virus","Madariaga virus",1,NA,NA,"arrigo2010; avittor2016",NA,"Madariaga virus",FALSE,FALSE,"; http://www.ajtmh.org/content/early/2015/04/09/ajtmh.14-0845.abstract, http://www.nejm.org/doi/full/10.1056/NEJMoa1212628#t=articleBackground","Internal","Rodent","NC_023812.1",1,TRUE
+"Madrid orthobunyavirus","Madrid orthobunyavirus",1,"Mosquito","Automatic match",NA,NA,"Madrid orthobunyavirus",FALSE,FALSE,"; 14222439; 24633174","Woolhouse2018",NA,"NC_034497.1; NC_034505.1; NC_034498.1",1,TRUE
+"Main Drain orthobunyavirus","Main Drain orthobunyavirus",1,"Midge","Automatic match",NA,NA,"Main Drain orthobunyavirus",FALSE,NA,"","Olival2017; Woolhouse2018","Lagomorph","MH484309.1; MH484310.1; MH484311.1",1,FALSE
+"Maize fine streak nucleorhabdovirus","Maize fine streak virus",1,"Leafhopper",NA,NA,NA,"Maize fine streak nucleorhabdovirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Plant","NC_005974.1",1,FALSE
+"Maize Iranian mosaic nucleorhabdovirus","Maize Iranian mosaic virus",1,"Planthopper",NA,NA,NA,"Maize Iranian mosaic nucleorhabdovirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Plant","NC_036390.1",1,FALSE
+"Maize mosaic nucleorhabdovirus","Maize mosaic virus",1,"Planthopper",NA,NA,NA,"Maize mosaic nucleorhabdovirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Plant","NC_005975.1",1,FALSE
+"Malpais Spring vesiculovirus","Malpais Spring virus",1,"Mosquito",NA,NA,NA,"Malpais Spring vesiculovirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Orphan","NC_025364.1",1,FALSE
+"Mamastrovirus 1","Mamastrovirus 1",0,NA,NA,NA,NA,"Mamastrovirus 1",FALSE,FALSE,"48925; 16546454; Dai et al. 2010","Olival2017","Human","NC_030922.1",1,TRUE
+"Mamastrovirus 10","Mamastrovirus 10",0,NA,NA,NA,NA,"Mamastrovirus 10",FALSE,NA,"","Olival2017; Woolhouse2018","Carnivore","NC_004579.1",1,FALSE
+"Mamastrovirus 13","Mamastrovirus 13",0,NA,NA,NA,NA,"Mamastrovirus 13",FALSE,NA,"","Olival2017; Woolhouse2018","Artiodactyl","NC_002469.1",1,FALSE
+"Mamastrovirus 2","Mamastrovirus 2",0,NA,NA,NA,NA,"Mamastrovirus 2",FALSE,NA,"","Olival2017; Woolhouse2018","Carnivore","NC_024701.1",1,FALSE
+"Mamastrovirus 3","Mamastrovirus 3",0,NA,NA,NA,NA,"Mamastrovirus 3",FALSE,NA,"","Olival2017; Woolhouse2018","Artiodactyl","NC_025379.1",1,FALSE
+"Mamastrovirus 6","Astrovirus MLB1",0,NA,NA,NA,NA,"Mamastrovirus 6",TRUE,FALSE,"18398449; 26212039; 24789796","Woolhouse2018","Human","NC_011400.1",1,TRUE
+"Mamastrovirus 9","Astrovirus VA1",0,NA,"Strain",NA,NA,"Mamastrovirus 9",TRUE,FALSE,"19706703; 19706703","Woolhouse2018","Human","NC_013060.1",1,TRUE
+"Mammalian 1 bornavirus","Mammalian 1 bornavirus",0,NA,NA,NA,NA,"Mammalian 1 orthobornavirus",FALSE,FALSE,"Kinnunen et al. 2007; 3922055; 23223618","Olival2017; Woolhouse2018","Soricomorph","NC_001607.1",1,TRUE
+"Mammalian rubulavirus 5","Parainfluenza virus 5",0,NA,NA,NA,NA,"Mammalian orthorubulavirus 5",FALSE,FALSE,"NA; http://www.ncf-net.org/library/PIV5HostChallenge-0606.htm; 13631261; 4291701; 26583313","Olival2017; Woolhouse2018","Carnivore","NC_006430.1",1,TRUE
+"Manzanilla orthobunyavirus","Manzanilla orthobunyavirus",1,"Mosquito","Automatic match",NA,NA,"Manzanilla orthobunyavirus",FALSE,NA,"","Olival2017; Woolhouse2018",NA,"NC_024076.1; NC_024074.1; NC_024075.1",1,FALSE
+"Mapuera rubulavirus","Mapuera virus",0,NA,NA,NA,NA,"Mapuera orthorubulavirus",FALSE,FALSE,"NA","Olival2017; Woolhouse2018; Internal","Vespbat","NC_009489.1",1,FALSE
+"Maraba vesiculovirus","Maraba virus",1,"Sandfly",NA,NA,NA,"Maraba vesiculovirus",FALSE,TRUE,"NA; 6091472; 6091472","Woolhouse2018","Orphan","NC_025255.1",1,FALSE
+"Marburg marburgvirus","Marburg marburgvirus",0,NA,NA,NA,NA,"Marburg marburgvirus",FALSE,FALSE,"Kuzmin et al. 2010; 4974179; 10024977; http://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1000536","Olival2017; Woolhouse2018; Internal","Pterobat","NC_001608.3",1,TRUE
+"Marituba orthobunyavirus","Marituba orthobunyavirus",1,"Mosquito","Automatic match",NA,NA,"Marituba orthobunyavirus",FALSE,FALSE,"Causey et al. 1961; 13691675; 24633174","Olival2017; Woolhouse2018","Orphan","NC_034495.1; NC_034504.1; NC_034496.1",1,TRUE
+"Mason-Pfizer monkey virus","Mason-Pfizer monkey virus",0,NA,"Automatic match",NA,NA,"Mason-Pfizer monkey virus",FALSE,NA,"","Olival2017; Woolhouse2018","NonHumanPrimate","NC_001550.1",1,FALSE
+"Mayaro virus","Mayaro virus",1,"Mosquito",NA,NA,NA,"Mayaro virus",FALSE,FALSE,"Anderson et al. 1957; 13487973; 9037738; http://cid.oxfordjournals.org/content/28/1/67.short","Olival2017; Woolhouse2018; Internal","Orphan","NC_003417.1",1,TRUE
+"Measles morbillivirus","Measles virus",0,NA,NA,NA,NA,"Measles morbillivirus",FALSE,FALSE,"Ito et al. 2010; ; Available from external site; 18568081; 24929750","Woolhouse2018","Human","NC_001498.1",1,TRUE
+"Menangle rubulavirus","Menangle virus",0,NA,NA,NA,NA,"Menangle pararubulavirus",FALSE,FALSE,"; Philbey et al. 1998; ","Olival2017; Internal","Pterobat","NC_007620.1",1,TRUE
+"Merino Walk mammarenavirus","Merino Walk virus",0,NA,NA,NA,NA,"Merino Walk mammarenavirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Rodent","NC_023763.1; NC_023764.1",1,FALSE
+"Mesocricetus auratus polyomavirus 1","Mesocricetus auratus polyomavirus 1",0,NA,NA,NA,NA,"Mesocricetus auratus polyomavirus 1",FALSE,NA,"","Olival2017","Rodent","NC_001663.2",1,FALSE
+"Middelburg virus","Middelburg virus",1,"Mosquito",NA,NA,NA,"Middelburg virus",FALSE,FALSE,"NA","Olival2017; Woolhouse2018; Internal","Orphan","NC_024887.1",1,FALSE
+"Middle East respiratory syndrome-related coronavirus","Middle East respiratory syndrome coronavirus",0,NA,NA,NA,NA,"Middle East respiratory syndrome-related coronavirus",FALSE,FALSE,"23075143; 28653496; ","Woolhouse2018; Internal","Orphan","NC_019843.3",1,TRUE
+"Miniopterus bat coronavirus HKU8","Miniopterus bat coronavirus HKU8",0,NA,NA,NA,NA,"Miniopterus bat coronavirus HKU8",FALSE,FALSE,"NA","Woolhouse2018; Internal","Vespbat","NC_010438.1",1,FALSE
+"Mischivirus A","Miniopterus schreibersii picornavirus 1",0,NA,NA,NA,NA,"Mischivirus A",FALSE,FALSE,"NA","Woolhouse2018; Internal","Vespbat","NC_034381.1",1,FALSE
+"Mischivirus C","African bat icavirus A",0,NA,NA,NA,NA,"Mischivirus C",FALSE,FALSE,"NA","Woolhouse2018; Internal","Pterobat","NC_026470.1",1,FALSE
+"Mobala mammarenavirus","Mobala virus",0,NA,NA,NA,NA,"Mobala mammarenavirus",FALSE,TRUE,"NA; 2986324; 26982388","Woolhouse2018","Rodent","NC_007904.1; NC_007903.1",1,FALSE
+"Modoc virus","Modoc virus",0,NA,NA,NA,NA,"Modoc virus",FALSE,TRUE,"NA; Zarnke & Yuill 1985","Olival2017","Rodent","NC_003635.1",1,FALSE
+"Mojiang henipavirus","Mojiang virus",0,NA,NA,NA,NA,"Mojiang henipavirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Rodent","NC_025352.1",1,FALSE
+"Mokola lyssavirus","Mokola virus",0,NA,NA,NA,NA,"Mokola lyssavirus",FALSE,FALSE,"Familusi et al. 1972; 4635777; 4772939; ","Olival2017; Woolhouse2018; Internal","Orphan","NC_006429.1",1,TRUE
+"Molluscum contagiosum virus","Molluscum contagiosum virus",0,NA,"Automatic match",NA,NA,"Molluscum contagiosum virus",FALSE,FALSE,"Trama et al. 2007","Olival2017","Human","NC_001731.1",1,TRUE
+"Moloney murine sarcoma virus","Moloney murine sarcoma virus",0,NA,"Automatic match",NA,NA,"Moloney murine sarcoma virus",FALSE,NA,"","Olival2017; Woolhouse2018","Rodent","NC_001502.1",1,FALSE
+"Monkeypox virus","Monkeypox virus",0,NA,"Automatic match",NA,NA,"Monkeypox virus",FALSE,FALSE,"Hutson et al. 2007","Olival2017","Rodent","NC_003310.1",1,TRUE
+"Montana myotis leukoencephalitis virus","Montana myotis leukoencephalitis virus",0,NA,NA,NA,NA,"Montana myotis leukoencephalitis virus",FALSE,FALSE,"NA","Olival2017; Woolhouse2018; Internal","Vespbat","NC_004119.1",1,FALSE
+"Mopeia mammarenavirus","Mopeia virus",0,NA,NA,NA,NA,"Mopeia mammarenavirus",FALSE,FALSE,"NA","Olival2017; Woolhouse2018; Internal","Rodent","NC_006574.1; NC_006575.1",1,FALSE
+"Mosso das Pedras virus","Mosso das Pedras virus",1,"Mosquito",NA,NA,NA,"Mosso das Pedras virus",FALSE,FALSE,"Attoui et al. 2007; 24349588; 17947533","Olival2017; Woolhouse2018","Orphan","AF075257.1",1,TRUE
+"Mount Elgon bat ledantevirus","Mount Elgon bat ledantevirus",NA,NA,"Automatic match",NA,NA,"Mount Elgon bat ledantevirus",FALSE,NA,"","Olival2017; Woolhouse2018","Orphan","NC_034545.1",1,FALSE
+"Mouse mammary tumor virus","Mouse mammary tumor virus",0,NA,"Automatic match",NA,NA,"Mouse mammary tumor virus",FALSE,NA,"","Olival2017; Woolhouse2018","Rodent","NC_001503.1",1,FALSE
+"Moussa virus","Moussa virus",1,"Mosquito",NA,NA,NA,"Moussa virus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Orphan","NC_025359.1",1,FALSE
+"Mucambo virus","Mucambo virus",1,"Mosquito","Automatic match",NA,NA,"Mucambo virus",FALSE,FALSE,"; 14292756; 17947533","Woolhouse2018","Rodent","AF075253.1",1,TRUE
+"Mumps rubulavirus","Mumps virus",0,NA,NA,NA,NA,"Mumps orthorubulavirus",TRUE,FALSE,"Krajden et al. 2011; 19870227; 28068914; ","Olival2017; Woolhouse2018; Internal","Human","NC_002200.1",1,TRUE
+"Munia coronavirus HKU13","Munia coronavirus HKU13",0,NA,NA,"woo2009",NA,"Munia coronavirus HKU13",FALSE,FALSE,"NA","Woolhouse2018; Internal","Orphan","NC_011550.1",1,FALSE
+"Mupapillomavirus 1","Mupapillomavirus 1",0,NA,NA,NA,NA,"Mupapillomavirus 1",FALSE,FALSE,"Gissman et al. 1977","Olival2017","Human","NC_001356.1",1,TRUE
+"Mupapillomavirus 2","Mupapillomavirus 2",0,NA,NA,NA,NA,"Mupapillomavirus 2",FALSE,FALSE,"Egawa et al. 1993","Olival2017","Human","NC_001458.1",1,TRUE
+"Murid betaherpesvirus 1","Murid betaherpesvirus 1",0,NA,NA,NA,NA,"Murid betaherpesvirus 1",FALSE,NA,"","Olival2017","Rodent","NC_004065.1",1,FALSE
+"Murid betaherpesvirus 2","Murid betaherpesvirus 2",0,NA,NA,NA,NA,"Murid betaherpesvirus 2",FALSE,NA,"","Olival2017","Rodent","NC_002512.2",1,FALSE
+"Murid gammaherpesvirus 4","Murid gammaherpesvirus 4",0,NA,NA,NA,NA,"Murid gammaherpesvirus 4",FALSE,NA,"","Olival2017","Rodent","NC_001826.2",1,FALSE
+"Murine coronavirus","Rat coronavirus",0,NA,"Merged",NA,NA,"Murine coronavirus",FALSE,FALSE,"NA","Olival2017; Woolhouse2018; Internal","Rodent","NC_012936.1",1,FALSE
+"Murine leukemia virus","Murine leukemia virus",0,NA,"Automatic match",NA,NA,"Murine leukemia virus",FALSE,NA,"","Olival2017; Woolhouse2018","Rodent","NC_001501.1",1,FALSE
+"Murine mastadenovirus A","Murine mastadenovirus A",0,NA,NA,NA,NA,"Murine mastadenovirus A",FALSE,NA,"","Olival2017","Rodent","NC_000942.1",1,FALSE
+"Murine mastadenovirus B","Murine mastadenovirus B",0,NA,NA,NA,NA,"Murine mastadenovirus B",FALSE,NA,"","Olival2017","Rodent","NC_014899.1",1,FALSE
+"Murine orthopneumovirus","Murine pneumonia virus",0,NA,NA,NA,NA,"Murine orthopneumovirus",FALSE,TRUE,"NA; Pringle & Eglin 1986","Olival2017","Rodent","NC_006579.1",1,FALSE
+"Murine respirovirus","Sendai virus",0,NA,NA,NA,NA,"Murine respirovirus",FALSE,FALSE,"NA","Olival2017; Woolhouse2018; Internal","Rodent","NC_001552.1",1,FALSE
+"Murray Valley encephalitis virus","Murray Valley encephalitis virus",1,"Mosquito",NA,"mackenzie1994",NA,"Murray Valley encephalitis virus",FALSE,FALSE,"Broom et al. 2000; 14909902; 6299259; http://jgv.microbiologyresearch.org/content/journal/jgv/10.1099/0022-1317-82-8-1867#tab2","Olival2017; Woolhouse2018; Internal","Pelecaniformes","NC_000943.1",1,TRUE
+"Mus musculus polyomavirus 1","Mus musculus polyomavirus 1",0,NA,NA,NA,NA,"Mus musculus polyomavirus 1",FALSE,NA,"","Olival2017","Rodent","NC_001515.2",1,FALSE
+"Mus musculus polyomavirus 2","Mus musculus polyomavirus 2",0,NA,NA,NA,NA,"Mus musculus polyomavirus 2",FALSE,NA,"","Olival2017","Rodent","NC_001505.2",1,FALSE
+"Mustelid gammaherpesvirus 1","Mustelid gammaherpesvirus 1",0,NA,NA,NA,NA,"Mustelid gammaherpesvirus 1",FALSE,NA,"","Olival2017","Carnivore","AF376034.1",0,FALSE
+"Myxoma virus","Myxoma virus",0,NA,"Automatic match",NA,NA,"Myxoma virus",FALSE,NA,"","Olival2017","Lagomorph","NC_001132.2",1,FALSE
+"Ndumu virus","Ndumu virus",1,"Mosquito",NA,NA,NA,"Ndumu virus",FALSE,TRUE,"NA; Kokernot et al. 1961; 13757662; 23006778","Olival2017; Woolhouse2018","Orphan","NC_016959.1",1,FALSE
+"Nelson Bay orthoreovirus","Pulau reovirus",0,NA,"Automatic match",NA,NA,"Nelson Bay orthoreovirus",FALSE,FALSE,"; 17592121; 22905211","Woolhouse2018","Pterobat","JF342668.1; JF342666.1; JF342667.1; JF342669.1; JF342670.1; JF342671.1; AY357730.1; AY357731.1; AY357732.1; AY357733.1",1,TRUE
+"New Jersey vesiculovirus","Vesicular stomatitis New Jersey virus",1,"Sandfly",NA,NA,NA,"New Jersey vesiculovirus",FALSE,FALSE,"Rodriguez et al. 2000; 14784641; 23034141; http://www.sciencedirect.com/science/article/pii/S1567134809000380","Olival2017; Woolhouse2018; Internal","Artiodactyl","NC_024473.1",1,TRUE
+"Newbury-1 virus","Newbury-1 virus",0,NA,NA,NA,NA,"Newbury 1 virus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Artiodactyl","NC_007916.1",1,FALSE
+"Ngaingan hapavirus","Ngaingan virus",1,"Midge",NA,NA,NA,"Ngaingan hapavirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Macropod","NC_013955.1",1,FALSE
+"Niakha sripuvirus","Niakha virus",1,"Sandfly",NA,NA,NA,"Niakha sripuvirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Orphan","NC_025405.1",1,FALSE
+"Night heron coronavirus HKU19","Night-heron coronavirus HKU19",0,NA,NA,"woo2012a",NA,"Night heron coronavirus HKU19",FALSE,FALSE,"NA","Woolhouse2018; Internal","Orphan","NC_016994.1",1,FALSE
+"Nipah henipavirus","Nipah virus",0,NA,NA,NA,NA,"Nipah henipavirus",FALSE,FALSE,"Calisher et al. 2006; 10482278; 11243752; 23302882; ","Olival2017; Woolhouse2018; Internal","Pterobat","NC_002728.1",1,TRUE
+"Northern cereal mosaic cytorhabdovirus","Northern cereal mosaic virus",1,"Planthopper",NA,NA,NA,"Northern cereal mosaic cytorhabdovirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Plant","NC_002251.1",1,FALSE
+"Norwalk virus","Norovirus GI",0,NA,"Strain",NA,NA,"Norwalk virus",FALSE,FALSE,"; 4117963; 19796107; 22317811; ","Woolhouse2018; Internal","Human","NC_001959.2",1,TRUE
+"Ntaya virus","Ntaya virus",1,"Mosquito",NA,NA,NA,"Ntaya virus",FALSE,FALSE,"Woodruff et al. 1978; 14946416; 28606155; http://jgv.microbiologyresearch.org/content/journal/jgv/10.1099/0022-1317-82-8-1867#tab2, Woolhouse 2013","Olival2017; Woolhouse2018; Internal","Orphan","NC_018705.3",1,TRUE
+"Nupapillomavirus 1","Nupapillomavirus 1",0,NA,NA,NA,NA,"Nupapillomavirus 1",FALSE,FALSE,"Grimmel et al. 2006","Olival2017","Human","NC_001354.1",1,TRUE
+"Nyando orthobunyavirus","Nyando orthobunyavirus",1,"Mosquito","Automatic match",NA,NA,"Nyando orthobunyavirus",FALSE,FALSE,"Digoutte et al. 1972; 14292787; 28488954","Olival2017; Woolhouse2018",NA,"NC_034492.1; NC_034491.1; NC_034481.1",1,TRUE
+"O'nyong-nyong virus","O'nyong-nyong virus",1,"Mosquito",NA,NA,NA,"Onyong-nyong virus",FALSE,FALSE,"Kiwanuka et al. 1999; 13785469; 10466973; http://www.sciencedirect.com/science/article/pii/S0042682298994375","Olival2017; Woolhouse2018; Internal","Orphan","NC_001512.1",1,TRUE
+"Obodhiang ephemerovirus","Obodhiang virus",1,"Mosquito",NA,NA,NA,"Obodhiang ephemerovirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Orphan","NC_017685.1",1,FALSE
+"Oita ledantevirus","Oita ledantevirus",NA,NA,"Automatic match",NA,NA,"Oita ledantevirus",FALSE,NA,"","Olival2017; Woolhouse2018","Orphan","NC_034548.1",1,FALSE
+"Oliveros mammarenavirus","Oliveros virus",0,NA,NA,NA,NA,"Oliveros mammarenavirus",FALSE,FALSE,"NA","Olival2017; Woolhouse2018; Internal","Rodent","NC_010250.1; NC_010248.1",1,FALSE
+"Omikronpapillomavirus 1","Omikronpapillomavirus 1",0,NA,NA,NA,NA,"Omikronpapillomavirus 1",FALSE,NA,"","Olival2017","Cetacean","JN709471.1",1,FALSE
+"Omsk hemorrhagic fever virus","Omsk hemorrhagic fever virus",1,"Tick",NA,NA,NA,"Omsk hemorrhagic fever virus",FALSE,FALSE,"Dobler 2010; 18910918; 20850178; http://jgv.microbiologyresearch.org/content/journal/jgv/10.1099/0022-1317-82-8-1867#tab2","Olival2017; Woolhouse2018; Internal","Rodent","NC_005062.1",1,TRUE
+"Orf virus","Orf virus",0,NA,"Automatic match",NA,NA,"Orf virus",FALSE,FALSE,"Peterkin 1937","Olival2017","Artiodactyl","NC_005336.1",1,TRUE
+"Oriboca orthobunyavirus","Oriboca orthobunyavirus",1,"Mosquito","Automatic match",NA,NA,"Oriboca orthobunyavirus",FALSE,FALSE,"Causey et al. 1961; 13691675; 16051848","Olival2017; Woolhouse2018",NA,"NC_034475.1; NC_034488.1; NC_034476.1",1,TRUE
+"Oropouche orthobunyavirus","Oropouche virus",1,"Midge",NA,NA,NA,"Oropouche orthobunyavirus",FALSE,FALSE,"Nunes et al. 2005; 13683183; 20727376; http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2230091/pdf/molmed00033-0010.pdf","Olival2017; Woolhouse2018; Internal","Orphan","NC_005776.1; NC_005775.1; NC_005777.1",1,TRUE
+"Orthohepevirus A","Hepatitis E virus, GT1",0,NA,"Strain",NA,NA,"Orthohepevirus A",FALSE,FALSE,"Al-Nasrawi et al. 2010; 6409836; 19697413; http://onlinelibrary.wiley.com/doi/10.1002/rmv.482/full","Olival2017; Woolhouse2018; Internal","Human","M73218.1",1,TRUE
+"Orthohepevirus B","Avian hepatitis E virus",0,NA,NA,"purcell2008",NA,"Orthohepevirus B",FALSE,FALSE,"NA","Woolhouse2018; Internal","Galliformes","NC_023425.1",1,FALSE
+"Orthohepevirus C","Hepatitis E virus rat",0,NA,"Strain",NA,NA,"Orthohepevirus C",FALSE,NA,"","Woolhouse2018","Rodent","GU345042.1",1,FALSE
+"Orthohepevirus D","Bat hepevirus",0,NA,NA,NA,NA,"Orthohepevirus D",FALSE,FALSE,"NA","Woolhouse2018; Internal","Vespbat","NC_018382.1",1,FALSE
+"Orungo virus","Orungo virus",1,"Midge","Automatic match",NA,NA,"Orungo virus",FALSE,FALSE,"Brown et al. 1991; 973798; 24475112","Olival2017; Woolhouse2018","Orphan","JQ610675.1; JQ610676.1; JQ610677.1; JQ610678.1; JQ610679.1; JQ610680.1; JQ610681.1; JQ610682.1; JQ610683.1; JQ610684.1",1,TRUE
+"Oscivirus A","Oscivirus A1",0,NA,NA,"woo2010",NA,"Oscivirus A",FALSE,NA,"","Woolhouse2018","Passeriformes","NC_014412.1",1,FALSE
+"Ovine atadenovirus D","Ovine atadenovirus D",0,NA,NA,NA,NA,"Ovine atadenovirus D",FALSE,NA,"","Olival2017","Artiodactyl","NC_004037.2",1,FALSE
+"Ovine gammaherpesvirus 2","Ovine gammaherpesvirus 2",0,NA,NA,NA,NA,"Ovine gammaherpesvirus 2",FALSE,NA,"","Olival2017","Artiodactyl","NC_007646.1",1,FALSE
+"Ovine mastadenovirus A","Ovine mastadenovirus A",0,NA,NA,NA,NA,"Ovine mastadenovirus A",FALSE,NA,"","Olival2017","Artiodactyl","NC_002513.1",1,FALSE
+"Palyam virus","Palyam virus",NA,NA,"Automatic match",NA,NA,"Palyam virus",FALSE,FALSE,"; Aradaib et al. 2009","Olival2017","Artiodactyl","NC_005990.1; NC_005986.1; NC_005989.1; NC_005991.1; NC_005993.1; NC_005987.1; NC_005988.1; NC_005994.1; NC_005992.1; NC_005995.1",1,TRUE
+"Panine betaherpesvirus 2","Panine betaherpesvirus 2",0,NA,NA,NA,NA,"Panine betaherpesvirus 2",FALSE,NA,"","Olival2017","NonHumanPrimate","NC_003521.1",1,FALSE
+"Panine gammaherpesvirus 1","Panine gammaherpesvirus 1",0,NA,NA,NA,NA,"Panine gammaherpesvirus 1",FALSE,NA,"","Olival2017","NonHumanPrimate","AJ581751.1",0,FALSE
+"Papiine alphaherpesvirus 2","Papiine alphaherpesvirus 2",0,NA,NA,NA,NA,"Papiine alphaherpesvirus 2",FALSE,NA,"","Olival2017","NonHumanPrimate","NC_007653.1",1,FALSE
+"Papiine gammaherpesvirus 1","Papiine gammaherpesvirus 1",0,NA,NA,NA,NA,"Papiine gammaherpesvirus 1",FALSE,NA,"","Olival2017","NonHumanPrimate","AJ581750.1",0,FALSE
+"Paraná mammarenavirus","Parana virus",0,NA,NA,NA,NA,"Paraguayan mammarenavirus",FALSE,FALSE,"NA","Olival2017; Woolhouse2018; Internal","Rodent","NC_010761.1; NC_010756.1",1,FALSE
+"Parapoxvirus of red deer in New Zealand","Parapoxvirus of red deer in New Zealand",0,NA,"Automatic match",NA,NA,"Parapoxvirus of red deer in New Zealand",FALSE,NA,"","Olival2017","Artiodactyl","NC_025963.1",1,FALSE
+"Parechovirus A","Parechovirus A",0,NA,NA,NA,NA,"Parechovirus A",FALSE,FALSE,"Ljubin-Sternak et al. 2011; 13538681; 11438028; 16220089","Olival2017; Woolhouse2018","Human","NC_001897.1",1,TRUE
+"Parechovirus B","Parechovirus B",0,NA,NA,NA,NA,"Parechovirus B",FALSE,FALSE,"Niklasson et al. 2009; 12745669; 26489898","Olival2017; Woolhouse2018","Rodent","NC_003976.2",1,TRUE
+"Patois orthobunyavirus","Patois orthobunyavirus",1,"Mosquito","Automatic match",NA,NA,"Patois orthobunyavirus",FALSE,TRUE,"Scherer et al. 1972; 4400811; 3981","Olival2017; Woolhouse2018","Orphan","NC_043690.1; NC_043691.1; NC_043689.1",1,FALSE
+"Pegivirus A","GB virus A",0,NA,"Strain",NA,NA,"Pegivirus A",TRUE,FALSE,"NA; 7475605; 22752515","Woolhouse2018","NonHumanPrimate","NC_001837.1",1,TRUE
+"Pegivirus C","GB virus C",0,NA,NA,NA,NA,"Pegivirus C",FALSE,FALSE,"; http://www.ncbi.nlm.nih.gov/pubmed/21084497; Kao et al. 1999","Olival2017","Human","NC_001710.1",1,TRUE
+"Pegivirus E","Equine pegivirus 1",0,NA,"Strain",NA,NA,"Pegivirus E",FALSE,FALSE,"NA","Woolhouse2018; Internal","Perissodactyla","NC_020902.1",1,FALSE
+"Pegivirus H","Human pegivirus 2",0,NA,"Strain",NA,NA,"Pegivirus H",TRUE,FALSE,"; http://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1005325","Internal","Human","NC_027998.2",1,TRUE
+"Perch perhabdovirus","Perch rhabdovirus",0,NA,NA,NA,NA,"Perch perhabdovirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Fish","NC_020803.1",1,FALSE
+"Perinet vesiculovirus","Perinet virus",1,"Mosquito",NA,NA,NA,"Perinet vesiculovirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Orphan","NC_025394.1",1,FALSE
+"Peruvian horse sickness virus","Peruvian horse sickness virus",1,"Mosquito","Automatic match",NA,NA,"Peruvian horse sickness virus",FALSE,NA,"","Olival2017; Woolhouse2018","Artiodactyl","NC_007748.1; NC_007749.1; NC_007750.1; NC_007751.1; NC_007755.1; NC_007752.1; NC_007756.1; NC_007754.1; NC_007753.1; NC_007757.1",1,FALSE
+"Phnom Penh bat virus","Phnom Penh bat virus",0,NA,"Automatic match",NA,NA,"Phnom Penh bat virus",FALSE,NA,"","Olival2017; Woolhouse2018","Pterobat","NC_034007.1",1,FALSE
+"Phocid alphaherpesvirus 1","Phocid alphaherpesvirus 1",0,NA,NA,NA,NA,"Phocid alphaherpesvirus 1",FALSE,NA,"","Olival2017","Carnivore","MH509440.2",1,FALSE
+"Phocine morbillivirus","Phocine distemper virus",0,NA,NA,NA,NA,"Phocine morbillivirus",FALSE,FALSE,"NA","Olival2017; Woolhouse2018; Internal","Carnivore","NC_028249.1",1,FALSE
+"Pichindé mammarenavirus","Pichinde arenavirus",0,NA,NA,NA,NA,"Cali mammarenavirus",FALSE,TRUE,"NA; Buchmeier et al. 1974; 4856825; 23552411","Olival2017; Woolhouse2018","Rodent","NC_006439.1; NC_006447.1",1,FALSE
+"Pipapillomavirus 1","Pipapillomavirus 1",0,NA,NA,NA,NA,"Pipapillomavirus 1",FALSE,NA,"","Olival2017","Rodent","NC_022647.1",1,FALSE
+"Pipistrellus bat coronavirus HKU5","Bat coronavirus HKU5",0,NA,NA,NA,NA,"Pipistrellus bat coronavirus HKU5",FALSE,FALSE,"NA","Woolhouse2018; Internal","Vespbat","NC_009020.1",1,FALSE
+"Pirital mammarenavirus","Pirital virus",0,NA,NA,NA,NA,"Pirital mammarenavirus",FALSE,FALSE,"NA","Olival2017; Woolhouse2018; Internal","Rodent","NC_005897.1; NC_005894.1",1,FALSE
+"Piry vesiculovirus","Piry vesiculovirus",NA,NA,"Automatic match",NA,NA,"Piry vesiculovirus",FALSE,FALSE,"Bergold & Munz 1970; 4604602; 4097557","Olival2017; Woolhouse2018",NA,"KU178986.1",1,TRUE
+"Piscihepevirus A","Cutthroat trout virus",0,NA,NA,NA,NA,"Piscihepevirus A",FALSE,FALSE,"NA","Woolhouse2018; Internal","Fish","NC_015521.1",1,FALSE
+"Piscine novirhabdovirus","Viral hemorrhagic septicemia virus",0,NA,NA,NA,NA,"Piscine novirhabdovirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Fish","NC_000855.1",1,FALSE
+"Pixuna virus","Pixuna virus",1,"Mosquito","Automatic match",NA,NA,"Pixuna virus",FALSE,FALSE,"Pisano et al. 2013; 1844977; 19402767","Olival2017; Woolhouse2018","Rodent","AF075256.1",1,TRUE
+"Pongine gammaherpesvirus 2","Pongine gammaherpesvirus 2",0,NA,NA,NA,NA,"Pongine gammaherpesvirus 2",FALSE,NA,"","Olival2017","NonHumanPrimate","AJ581753.1",0,FALSE
+"Porcine circovirus 1","Porcine circovirus 1",0,NA,NA,NA,NA,"Porcine circovirus 1",FALSE,NA,"","Olival2017","Artiodactyl","NC_001792.2",1,FALSE
+"Porcine circovirus 2","Porcine circovirus 2",0,NA,NA,NA,NA,"Porcine circovirus 2",FALSE,NA,"","Olival2017","Artiodactyl","NC_005148.1",1,FALSE
+"Porcine epidemic diarrhea virus","Porcine epidemic diarrhea virus",0,NA,NA,NA,NA,"Porcine epidemic diarrhea virus",FALSE,FALSE,"NA","Olival2017; Woolhouse2018; Internal","Artiodactyl","NC_003436.1",1,FALSE
+"Porcine mastadenovirus A","Porcine mastadenovirus A",0,NA,NA,NA,NA,"Porcine mastadenovirus A",FALSE,NA,"","Olival2017","Artiodactyl","AC_000189.1",1,FALSE
+"Porcine mastadenovirus B","Porcine mastadenovirus B",0,NA,NA,NA,NA,"Porcine mastadenovirus B",FALSE,NA,"","Olival2017","Artiodactyl","U25120.1",0,FALSE
+"Porcine mastadenovirus C","Porcine mastadenovirus C",0,NA,NA,NA,NA,"Porcine mastadenovirus C",FALSE,NA,"","Olival2017","Artiodactyl","NC_002702.1",1,FALSE
+"Porcine reproductive and respiratory syndrome virus 1","Porcine reproductive and respiratory syndrome virus 1",0,NA,NA,NA,NA,"Betaarterivirus suid 1",FALSE,NA,"","Olival2017; Woolhouse2018","Artiodactyl","AF046869.1",1,FALSE
+"Porcine respirovirus 1","Porcine parainfluenza virus 1",0,NA,NA,NA,NA,"Porcine respirovirus 1",FALSE,FALSE,"NA","Woolhouse2018; Internal","Artiodactyl","NC_025402.1",1,FALSE
+"Porcine rubulavirus","Porcine rubulavirus",0,NA,NA,NA,NA,"Porcine orthorubulavirus",FALSE,FALSE,"NA","Olival2017; Woolhouse2018; Internal","Artiodactyl","NC_009640.1",1,FALSE
+"Porcine torovirus","Porcine torovirus",0,NA,NA,NA,NA,"Porcine torovirus",FALSE,FALSE,"NA","Olival2017; Woolhouse2018; Internal","Artiodactyl","NC_022787.1",1,FALSE
+"Porcine type-C oncovirus","Porcine type-C oncovirus",0,NA,"Automatic match",NA,NA,"Porcine type-C oncovirus",FALSE,NA,"","Olival2017; Woolhouse2018","Artiodactyl","GU980187.1",1,FALSE
+"Potato yellow dwarf nucleorhabdovirus","Potato yellow dwarf virus",1,"Leafhopper",NA,NA,NA,"Potato yellow dwarf nucleorhabdovirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Plant","NC_016136.1",1,FALSE
+"Powassan virus","Powassan virus",1,"Tick",NA,NA,NA,"Powassan virus",FALSE,FALSE,"McLean & Donohue 1959; 13652010; 20434750; Calisher, Charles H., and Ernest A. Gould. \Taxonomy of the virus family Flaviviridae.\ï_ê‘_ï_ê‘__Advances in virus researchï_ê‘_ï_ê‘__59 (2003): 1-20.","Olival2017; Woolhouse2018; Internal","Rodent","NC_003687.1",1,TRUE
+"Primate erythroparvovirus 1","Primate erythroparvovirus 1",0,NA,NA,NA,NA,"Primate erythroparvovirus 1",FALSE,TRUE,"Opaleye et al. 2011","Olival2017","Human","NC_000883.2",1,TRUE
+"Primate erythroparvovirus 2","Primate erythroparvovirus 2",0,NA,NA,NA,NA,"Primate erythroparvovirus 2",FALSE,TRUE,"Brown et al. 2004","Olival2017","NonHumanPrimate","U26342.1",0,FALSE
+"Primate erythroparvovirus 3","Primate erythroparvovirus 3",0,NA,NA,NA,NA,"Primate erythroparvovirus 3",FALSE,NA,"","Olival2017","NonHumanPrimate","AF221122.1",0,FALSE
+"Primate erythroparvovirus 4","Primate erythroparvovirus 4",0,NA,NA,NA,NA,"Primate erythroparvovirus 4",FALSE,NA,"","Olival2017","NonHumanPrimate","AF221123.1",0,FALSE
+"Primate T-lymphotropic virus 1","Human T-lymphotropic virus 1",0,NA,"Automatic match",NA,NA,"Primate T-lymphotropic virus 1",FALSE,FALSE,"Wolfe et al. 2005; 6261256; 15911757","Olival2017; Woolhouse2018","Human","NC_001436.1",1,TRUE
+"Primate T-lymphotropic virus 2","Human T-lymphotropic virus 2",0,NA,"Automatic match",NA,NA,"Primate T-lymphotropic virus 2",FALSE,FALSE,"Kalyanaraman et al. 1982; 6981847; 15911757","Olival2017; Woolhouse2018","Human","Y13051.1",1,TRUE
+"Primate T-lymphotropic virus 3","Human T-lymphotropic virus 3",0,NA,"Automatic match",NA,NA,"Primate T-lymphotropic virus 3",FALSE,FALSE,"Wolfe et al. 2005; 15882466; 15911757","Olival2017; Woolhouse2018","Human","EU649782.1",1,TRUE
+"Pronghorn antelope pestivirus","Pronghorn antelope pestivirus",0,NA,"Unclassified",NA,NA,"Pestivirus E",FALSE,FALSE,"NA","Internal","Artiodactyl","NC_024018.2",1,FALSE
+"Prospect Hill orthohantavirus","Prospect Hill orthohantavirus",0,NA,"Automatic match",NA,NA,"Prospect Hill orthohantavirus",FALSE,NA,"","Olival2017; Woolhouse2018","Rodent","X55129.1",0,FALSE
+"Pseudocowpox virus","Pseudocowpox virus",0,NA,"Automatic match",NA,NA,"Pseudocowpox virus",FALSE,FALSE,"Friedman-Kien et al. 1963","Olival2017","Artiodactyl","NC_013804.1",1,TRUE
+"Puerto Almendras almendravirus","Puerto Almendras virus",1,"Mosquito",NA,NA,NA,"Puerto Almendras almendravirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Orphan","NC_025395.1",1,FALSE
+"Puma lentivirus","Puma lentivirus",0,NA,"Automatic match",NA,NA,"Puma lentivirus",FALSE,NA,"","Olival2017; Woolhouse2018","Carnivore","U03982.1",1,FALSE
+"Punta Toro phlebovirus","Punta Toro phlebovirus",1,"Sandfly","Automatic match",NA,NA,"Punta Toro phlebovirus",FALSE,FALSE,"Perrone et al. 2007; 5491847; 4206329","Olival2017; Woolhouse2018","Orphan","NC_027203.1; NC_027201.1; NC_027202.1",1,TRUE
+"Puumala orthohantavirus","Puumala virus",0,NA,NA,NA,NA,"Puumala orthohantavirus",FALSE,FALSE,"Juto et al. 1997; 6102587; 22877560; ","Olival2017; Woolhouse2018; Internal","Rodent","NC_005225.1; NC_005223.1; NC_005224.1",1,TRUE
+"Qalyub orthonairovirus","Qalyub orthonairovirus",1,"Tick","Automatic match",NA,NA,"Qalyub orthonairovirus",FALSE,NA,"","Olival2017; Woolhouse2018","Rodent","KU925446.1; KU925447.1; KU925448.1",0,FALSE
+"Quaranfil virus","Quaranfil virus",1,"Tick","Automatic match",NA,NA,"Quaranfil quaranjavirus",FALSE,FALSE,"; Taylor et al. 1966","Olival2017",NA,"GQ499302.1; GQ499303.1; FJ861695.1; JN412853.1; FJ861694.1; GQ499304.1",1,TRUE
+"Rabbit fibroma virus","Rabbit fibroma virus",0,NA,"Automatic match",NA,NA,"Rabbit fibroma virus",FALSE,NA,"","Olival2017","Lagomorph","NC_001266.1",1,FALSE
+"Rabbit hemorrhagic disease virus","Rabbit hemorrhagic disease virus",0,NA,NA,NA,NA,"Rabbit hemorrhagic disease virus",FALSE,FALSE,"NA","Olival2017; Woolhouse2018; Internal","Lagomorph","NC_001543.1",1,FALSE
+"Rabies lyssavirus","Rabies virus isolate RV2772, complete genome.",0,NA,"Strain",NA,NA,"Rabies lyssavirus",FALSE,FALSE,"Carnieli et al. 2009; Available from external site; 23597620; ","Olival2017; Woolhouse2018; Internal","Carnivore","KF155002.1",1,TRUE
+"Raccoonpox virus","Raccoonpox virus",0,NA,NA,NA,NA,"Raccoonpox virus",FALSE,NA,"","Olival2017","Carnivore","NC_027213.1",1,FALSE
+"Reptile sunshinevirus 1","Sunshine virus",0,NA,NA,NA,NA,"Reptile sunshinevirus 1",FALSE,FALSE,"NA","Woolhouse2018; Internal","Reptile","NC_025345.1",1,FALSE
+"Reptilian ferlavirus","Fer-de-Lance paramyxovirus",0,NA,NA,NA,NA,"Reptilian ferlavirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Reptile","NC_005084.2",1,FALSE
+"Reston ebolavirus","Reston ebolavirus",0,NA,NA,NA,NA,"Reston ebolavirus",FALSE,FALSE,"NA; Miranda & Miranda 2011; 1671441; 10024977","Olival2017; Woolhouse2018","Orphan","NC_004161.1",1,TRUE
+"Rhinolophus bat coronavirus HKU2","Rhinolophus bat coronavirus HKU2",0,NA,NA,NA,NA,"Rhinolophus bat coronavirus HKU2",FALSE,FALSE,"NA","Woolhouse2018; Internal","Pterobat","NC_009988.1",1,FALSE
+"Rhinovirus A","Rhinovirus A",0,NA,NA,NA,NA,"Rhinovirus A",FALSE,FALSE,"13097995; 6261689; 205151; http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3167658/; Kim et al. 2009","Olival2017","Human","NC_001617.1",1,TRUE
+"Rhinovirus B","Human rhinovirus B52",0,NA,NA,NA,NA,"Rhinovirus B",FALSE,FALSE,"13840115; 6261689; 205151; http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3167658/; Savolainen et al. 2004","Olival2017","Human","FJ445188.1",1,TRUE
+"Rhinovirus C","Rhinovirus C",0,NA,NA,NA,NA,"Rhinovirus C",TRUE,FALSE,"17804649; 6261689; 205151; http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3167658/","Woolhouse2018; Internal","Human","NC_009996.1",1,TRUE
+"Rice yellow stunt nucleorhabdovirus","Rice yellow stunt virus",1,"Leafhopper",NA,NA,NA,"Rice yellow stunt nucleorhabdovirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Plant","NC_003746.1",1,FALSE
+"Rift Valley fever phlebovirus","Rift Valley fever virus",1,"Mosquito",NA,NA,NA,"Rift Valley fever phlebovirus",FALSE,FALSE,"Andriamandimby et al. 2010; Available from external site; 25569474; ","Olival2017; Woolhouse2018; Internal","Artiodactyl","NC_014397.1; NC_014396.1; NC_014395.1",1,TRUE
+"Rinderpest morbillivirus","Rinderpest virus",0,NA,NA,NA,NA,"Rinderpest morbillivirus",FALSE,FALSE,"NA","Olival2017; Woolhouse2018; Internal","Artiodactyl","NC_006296.2",1,FALSE
+"Rio Bravo virus","Rio Bravo virus",0,NA,NA,NA,NA,"Rio Bravo virus",FALSE,FALSE,"Price 1978; 13918297; 22457530; http://jgv.microbiologyresearch.org/content/journal/jgv/10.1099/0022-1317-82-8-1867#tab2","Olival2017; Woolhouse2018; Internal","Vespbat","JQ582840.1",1,TRUE
+"Rio Negro virus","Rio Negro virus",1,"Mosquito","Automatic match",NA,NA,"Rio Negro virus",FALSE,TRUE,"Pisano et al. 2010; 8153352; 19402767","Olival2017; Woolhouse2018","Rodent","AF075258.1",1,FALSE
+"Rodent erythroparvovirus 1","Rodent erythroparvovirus 1",0,NA,NA,NA,NA,"Rodent erythroparvovirus 1",FALSE,NA,"","Olival2017","Orphan","GQ200736.1",1,FALSE
+"Rodent protoparvovirus 1","Rodent protoparvovirus 1",0,NA,"Merged",NA,NA,"Rodent protoparvovirus 1",FALSE,NA,"","Olival2017","Rodent","NC_001510.1",1,FALSE
+"Rodent protoparvovirus 2","Rodent protoparvovirus 2",0,NA,NA,NA,NA,"Rodent protoparvovirus 2",FALSE,NA,"","Olival2017","Rodent","AF036710.1",1,FALSE
+"Ross River virus","Ross River virus",1,"Mosquito","Merged",NA,NA,"Ross River virus",FALSE,FALSE,"Sellner et al. 1995; 5040017; 24799374; http://online.liebertpub.com/doi/pdf/10.1089/vbz.2007.0152","Olival2017; Woolhouse2018; Internal","Diprotodontia","GQ433354.1",1,TRUE
+"Rotavirus A","RVA/Human-wt/ITA/111-05-27/2005/G6P[14]",0,NA,NA,NA,NA,"Rotavirus A",FALSE,FALSE,"Rigotto et al. 2010; 4127639; 21575246; 18712810","Olival2017; Woolhouse2018","Human","EF554137.1; EF554138.1; EF554139.1; EF554140.1; EF554143.1; EF554141.1; EF554145.1; EF554142.1; EF554144.1; EF554146.1; EF554147.1",1,TRUE
+"Rotavirus B","Rotavirus B",0,NA,"Automatic match",NA,NA,"Rotavirus B",FALSE,FALSE,"Barman et al. 2006; 6144874; 9230391","Olival2017; Woolhouse2018","Human","NC_021541.1; NC_021545.1; NC_021551.1; NC_021543.1; NC_021546.1; NC_021544.1; NC_021547.1; NC_021548.1; NC_021542.1; NC_021550.1; NC_021549.1",1,TRUE
+"Rotavirus C","Rotavirus C",0,NA,"Automatic match",NA,NA,"Rotavirus C",FALSE,FALSE,"Wu et al. 1998; 3009541; 28558823","Olival2017; Woolhouse2018","Human","NC_007547.1; NC_007546.1; NC_007572.1; NC_007574.1; NC_007570.1; NC_007543.1; NC_007544.1; NC_007571.1; NC_007545.1; NC_007569.1; NC_007573.1",1,TRUE
+"Alethinophid 3 reptarenavirus","CAS virus",0,NA,NA,NA,NA,"Rotterdam reptarenavirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Reptile","NC_018484.1; NC_018481.1",1,FALSE
+"Rousettus bat coronavirus HKU9","Bat coronavirus HKU9",0,NA,NA,NA,NA,"Rousettus bat coronavirus HKU9",FALSE,FALSE,"NA","Woolhouse2018; Internal","Pterobat","NC_009021.1",1,FALSE
+"Royal Farm virus","Karshi virus",1,"Tick","Merged",NA,NA,"Royal Farm virus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Orphan","NC_006947.1",1,FALSE
+"Rubella virus","Rubella virus",0,NA,NA,NA,NA,"Rubella virus",FALSE,FALSE,"Available from external site; 22855483; ; Adam et al. 2010","Olival2017","Human","NC_001545.2",1,TRUE
+"Sabiá mammarenavirus","Sabia virus",0,NA,NA,NA,NA,"Brazilian mammarenavirus",FALSE,FALSE,"Coimbra et al. 1994; 7905555; 7905555; ","Olival2017; Woolhouse2018; Internal","Rodent","NC_006313.1; NC_006317.1",1,TRUE
+"Saboya virus","Saboya virus",1,"Mosquito","Automatic match",NA,NA,"Saboya virus",FALSE,NA,"","Olival2017; Woolhouse2018",NA,"NC_033697.1",1,FALSE
+"Saimiriine alphaherpesvirus 1","Saimiriine alphaherpesvirus 1",0,NA,NA,NA,NA,"Saimiriine alphaherpesvirus 1",FALSE,NA,"","Olival2017","NonHumanPrimate","NC_014567.1",1,FALSE
+"Saimiriine gammaherpesvirus 2","Saimiriine gammaherpesvirus 2",0,NA,NA,NA,NA,"Saimiriine gammaherpesvirus 2",FALSE,NA,"","Olival2017","NonHumanPrimate","NC_001350.1",1,FALSE
+"Sakobuvirus A","Feline sakobuvirus A",0,NA,NA,NA,NA,"Sakobuvirus A",FALSE,FALSE,"NA","Woolhouse2018; Internal","Carnivore","NC_022802.1",1,FALSE
+"Salehabad phlebovirus","Salehabad phlebovirus",1,"Sandfly","Automatic match",NA,NA,"Salehabad phlebovirus",FALSE,NA,"","Olival2017; Woolhouse2018","Orphan","NC_029127.1; NC_029128.1; NC_029129.1",1,FALSE
+"Salivirus A","Salivirus CH",0,NA,NA,NA,NA,"Salivirus A",FALSE,FALSE,"http://www.sciencedirect.com/science/article/pii/S1386653215006484; 19538752; 26193371","Woolhouse2018","Human","NC_012986.1",1,TRUE
+"Salmon aquaparamyxovirus","Atlantic salmon paramyxovirus",0,NA,NA,NA,NA,"Salmon aquaparamyxovirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Fish","NC_025360.1",1,FALSE
+"Salmon pancreas disease virus","Salmon pancreas disease virus",1,"Louse",NA,NA,NA,"Salmon pancreas disease virus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Fish","NC_003930.1",1,FALSE
+"Salmonid novirhabdovirus","Infectious hematopoietic necrosis virus",0,NA,NA,NA,NA,"Salmonid novirhabdovirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Fish","NC_001652.1",1,FALSE
+"Sandfly fever Naples phlebovirus","Sandfly fever Naples virus",1,"Sandfly",NA,NA,NA,"Sandfly fever Naples phlebovirus",FALSE,FALSE,"Nicoletti et al. 1996; Available from external site; 4206329; ","Olival2017; Woolhouse2018; Internal","Orphan","NC_006319.1; NC_006320.1; NC_006318.1",1,TRUE
+"Sapelovirus A","Sapelovirus A",0,NA,NA,NA,NA,"Sapelovirus A",FALSE,NA,"","Olival2017; Woolhouse2018","Artiodactyl","NC_003987.1",1,FALSE
+"Sapporo virus","Sapovirus GII",0,NA,"Strain",NA,NA,"Sapporo virus",FALSE,FALSE,"NA; Chiba et al. 2001; 7410899; 27120472","Olival2017; Woolhouse2018","Human","NC_006554.1",1,TRUE
+"Scotophilus bat coronavirus 512","Bat coronavirus 512",0,NA,NA,NA,NA,"Scotophilus bat coronavirus 512",FALSE,FALSE,"NA","Woolhouse2018; Internal","Vespbat","NC_009657.1",1,FALSE
+"Semliki Forest virus","Semliki Forest virus",1,"Mosquito",NA,"schlesinge2012",NA,"Semliki Forest virus",FALSE,FALSE,"http://www.uniprot.org/uniprot/P03305; 424742; 12491154; http://www.sciencedirect.com/science/article/pii/S0042682214004814","Olival2017; Woolhouse2018; Internal","Orphan","NC_003215.1",1,TRUE
+"Seoul orthohantavirus","Seoul virus",0,NA,NA,NA,NA,"Seoul orthohantavirus",FALSE,FALSE,"Weissenbacher et al. 1996; 6128079; 23305714; ","Olival2017; Woolhouse2018; Internal","Rodent","NC_005238.1; NC_005237.1; NC_005236.1",1,TRUE
+"Sepik virus","Sepik virus",1,"Mosquito",NA,NA,NA,"Sepik virus",FALSE,FALSE,"; Calisher, Charles H., and Ernest A. Gould. \Taxonomy of the virus family Flaviviridae.\ï_ê‘_ï_ê‘__Advances in virus researchï_ê‘_ï_ê‘__59 (2003): 1-20.","Internal","Artiodactyl","NC_008719.1",1,TRUE
+"Severe acute respiratory syndrome-related coronavirus","Human SARS coronavirus",0,NA,"Automatic match",NA,NA,"Severe acute respiratory syndrome-related coronavirus",FALSE,FALSE,"Tu et al. 2004; 12711465; 15018126; ","Olival2017; Woolhouse2018; Internal","Pterobat","NC_004718.3",1,TRUE
+"SFTS phlebovirus","Severe fever with thrombocytopenia syndrome virus",1,"Tick",NA,NA,NA,"Huaiyangshan banyangvirus",FALSE,FALSE,"21457654; 25061851; ","Woolhouse2018; Internal","Orphan","NC_018136.1; NC_018138.1; NC_018137.1",1,TRUE
+"Shamonda orthobunyavirus","Shamonda orthobunyavirus",1,"Midge","Automatic match",NA,NA,"Schmallenberg orthobunyavirus",FALSE,FALSE,"; ; Yanase et al. 2005","Olival2017","Artiodactyl","NC_018463.1; NC_018467.1; NC_018464.1",1,TRUE
+"Sheeppox virus","Sheeppox virus",0,NA,"Automatic match",NA,NA,"Sheeppox virus",FALSE,NA,"","Olival2017","Artiodactyl","NC_004002.1",1,FALSE
+"Shimoni bat lyssavirus","Shimoni bat virus",0,NA,NA,NA,NA,"Shimoni bat lyssavirus",FALSE,FALSE,"; ","Internal","Pterobat","NC_025365.1",1,TRUE
+"Shuni orthobunyavirus","Shuni orthobunyavirus",1,"Midge","Automatic match",NA,NA,"Shuni orthobunyavirus",FALSE,FALSE,"Moore et al. 1975; 1124969; 24134941","Olival2017; Woolhouse2018","Artiodactyl","NC_018465.1; NC_018459.1; NC_018460.1",1,TRUE
+"Sicinivirus A","Sicinivirus A",0,NA,NA,"bullman2014",NA,"Sicinivirus A",FALSE,FALSE,"NA","Woolhouse2018; Internal","Galliformes","NC_023861.1",1,FALSE
+"Simbu orthobunyavirus","Simbu orthobunyavirus",NA,NA,"Automatic match",NA,NA,"Simbu orthobunyavirus",FALSE,NA,"","Olival2017; Woolhouse2018",NA,"NC_018476.1; NC_018478.1; NC_018477.1",1,FALSE
+"Simian foamy virus","Simian foamy virus",0,NA,"Automatic match",NA,NA,"Western chimpanzee simian foamy virus",FALSE,FALSE,"Wolfe et al. 2004; 4998605; 16608518","Olival2017; Woolhouse2018","NonHumanPrimate","NC_001364.1",1,TRUE
+"Simian hemorrhagic fever virus","Simian hemorrhagic fever virus",0,NA,"Automatic match",NA,NA,"Deltaarterivirus hemfev",FALSE,NA,"","Olival2017; Woolhouse2018","NonHumanPrimate","NC_003092.2",1,FALSE
+"Simian immunodeficiency virus","Simian immunodeficiency virus",0,NA,"Automatic match",NA,NA,"Simian immunodeficiency virus",FALSE,FALSE,"; 1353193; 22673358","Woolhouse2018","NonHumanPrimate","NC_001549.1",1,TRUE
+"Simian rubulavirus","Simian virus 41",0,NA,NA,NA,NA,"Simian orthorubulavirus",FALSE,TRUE,"NA; Available from external site; 2212992","Woolhouse2018","Orphan","NC_006428.1",1,FALSE
+"Sin Nombre orthohantavirus","Sin Nombre virus",0,NA,NA,NA,NA,"Sin Nombre orthohantavirus",FALSE,FALSE,"Hjelle et al. 1995; Schwarz et al. 2004; 8235615; 23110096; ","Olival2017; Woolhouse2018; Internal","Rodent","NC_005217.1; NC_005215.1; NC_005216.1",1,TRUE
+"Sindbis virus","Kyzylagach virus",1,"Mosquito","Merged",NA,NA,"Sindbis virus",FALSE,FALSE,"NA; Attoui et al. 2007; 13259009; 15554947","Olival2017; Woolhouse2018","Orphan","KF981618.1",1,TRUE
+"Small ruminant morbillivirus","Peste-des-petits-ruminants virus",0,NA,NA,NA,NA,"Small ruminant morbillivirus",FALSE,FALSE,"NA","Olival2017; Woolhouse2018; Internal","Artiodactyl","NC_006383.2",1,FALSE
+"Snakehead novirhabdovirus","Snakehead virus",0,NA,NA,NA,NA,"Snakehead novirhabdovirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Fish","NC_000903.1",1,FALSE
+"Sonchus yellow net nucleorhabdovirus","Sonchus yellow net virus",1,"Aphid",NA,NA,NA,"Sonchus yellow net nucleorhabdovirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Plant","NC_001615.3",1,FALSE
+"Sosuga rubulavirus","Sosuga virus",0,NA,NA,NA,NA,"Sosuga pararubulavirus",FALSE,FALSE,"24447466; 24447466; ","Woolhouse2018; Internal","Pterobat","NC_025343.1",1,TRUE
+"Southern elephant seal virus","Southern elephant seal virus",1,"Louse",NA,NA,NA,"Southern elephant seal virus",FALSE,FALSE,"NA","Olival2017; Woolhouse2018; Internal","Carnivore","NC_016960.1",1,FALSE
+"Squirrel monkey retrovirus","Squirrel monkey retrovirus",0,NA,"Automatic match",NA,NA,"Squirrel monkey retrovirus",FALSE,NA,"","Olival2017; Woolhouse2018","NonHumanPrimate","NC_001514.1",1,FALSE
+"Squirrelpox virus","Squirrelpox virus",0,NA,NA,NA,NA,"Squirrelpox virus",FALSE,NA,"","Olival2017","Rodent","NC_022563.1",1,FALSE
+"St. Louis encephalitis virus","St. Louis encephalitis virus",1,"Mosquito",NA,"reisen2003",NA,"Saint Louis encephalitis virus",FALSE,FALSE,"Monath et al. 1985; 17752093; 23474474; 11113383; http://jgv.microbiologyresearch.org/content/journal/jgv/10.1099/0022-1317-82-8-1867#tab2","Olival2017; Woolhouse2018; Internal","Passeriformes","NC_007580.2",1,TRUE
+"Sudan ebolavirus","Sudan ebolavirus",0,NA,NA,NA,NA,"Sudan ebolavirus",FALSE,FALSE,"Bowen et al. 1977; 65662; 10024977; http://www.sciencedirect.com/science/article/pii/S0966842X07001503","Olival2017; Woolhouse2018; Internal","Orphan","NC_006432.1",1,TRUE
+"Suid alphaherpesvirus 1","Suid alphaherpesvirus 1",0,NA,NA,NA,NA,"Suid alphaherpesvirus 1",FALSE,TRUE,"Mravak et al. 1987","Olival2017","Artiodactyl","NC_006151.1",1,FALSE
+"Swinepox virus","Swinepox virus",0,NA,"Automatic match",NA,NA,"Swinepox virus",FALSE,NA,"","Olival2017","Artiodactyl","NC_003389.1",1,FALSE
+"Tacaiuma orthobunyavirus","Tacaiuma orthobunyavirus",1,"Mosquito","Automatic match",NA,NA,"Tacaiuma orthobunyavirus",FALSE,FALSE,"Van Tongeren et al. 1967; 5585978; 19439468","Olival2017; Woolhouse2018",NA,"MF497779.1; MF497777.1; MF497772.1",1,TRUE
+"Tacaribe mammarenavirus","Tacaribe virus",0,NA,"Strain",NA,NA,"Tacaribe mammarenavirus",FALSE,FALSE,"; Price 1978; ","Olival2017; Internal","Vespbat","NC_004292.1; NC_004293.1",1,TRUE
+"Taï Forest ebolavirus","Tai Forest ebolavirus",0,NA,NA,NA,NA,"Tai Forest ebolavirus",FALSE,FALSE,"Formenty et al. 1999; 7746057; 10024977; http://www.mdpi.com/1999-4915/6/4/1759/htm","Olival2017; Woolhouse2018; Internal","Orphan","NC_014372.1",1,TRUE
+"Tamiami mammarenavirus","Tamiami virus",0,NA,NA,NA,NA,"Tamiami mammarenavirus",FALSE,FALSE,"NA","Olival2017; Woolhouse2018; Internal","Rodent","NC_010702.1; NC_010701.1",1,FALSE
+"Tanapox virus","Tanapox virus",NA,NA,"Automatic match",NA,NA,"Tanapox virus",FALSE,FALSE,"Downie et al. 1971","Olival2017","NonHumanPrimate","NC_002642.1",1,TRUE
+"Taro vein chlorosis nucleorhabdovirus","Taro vein chlorosis virus",1,NA,NA,NA,NA,"Taro vein chlorosis nucleorhabdovirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Plant","NC_006942.1",1,FALSE
+"Taterapox virus","Taterapox virus",0,NA,"Automatic match",NA,NA,"Taterapox virus",FALSE,NA,"","Olival2017","Rodent","NC_008291.1",1,FALSE
+"Tembusu virus","Tembusu virus",1,"Mosquito",NA,NA,NA,"Tembusu virus",FALSE,FALSE,"Wallace et al. 1977; 809868; 22000358; http://jgv.microbiologyresearch.org/content/journal/jgv/10.1099/0022-1317-82-8-1867#tab2, Woolhouse 2013","Olival2017; Woolhouse2018; Internal","Orphan","NC_015843.2",1,TRUE
+"Pike fry sprivivirus","Tench rhabdovirus S64",0,NA,"Unclassified",NA,NA,"Pike fry sprivivirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Fish","NC_025371.1",1,FALSE
+"Teschovirus A","Teschovirus A",0,NA,NA,NA,NA,"Teschovirus A",FALSE,NA,"","Olival2017; Woolhouse2018","Artiodactyl","NC_003985.1",1,FALSE
+"Thailand orthohantavirus","Thailand orthohantavirus",0,NA,"Automatic match",NA,NA,"Thailand orthohantavirus",FALSE,TRUE,"Gamage et al. 2011; 17124002; 24575755","Olival2017; Woolhouse2018","Rodent","NC_034556.1; NC_034563.1; NC_034555.1",1,FALSE
+"Thiafora orthonairovirus","Thiafora orthonairovirus",NA,NA,"Automatic match",NA,NA,"Thiafora orthonairovirus",FALSE,FALSE,"Woessner et al. 2000; 2570514; 22864548","Olival2017; Woolhouse2018",NA,"NC_029909.1; NC_029934.1; NC_029910.1",1,TRUE
+"Thogoto virus","Thogoto virus",1,"Tick","Automatic match",NA,NA,"Thogoto thogotovirus",FALSE,FALSE,"Jones et al. 1987; 5409104; 22526290","Olival2017; Woolhouse2018","Orphan","NC_006508.1; NC_006495.1; NC_006496.1; NC_006506.1; NC_006507.1; NC_006504.1",1,TRUE
+"Thottapalayam orthohantavirus","Thottapalayam virus",0,NA,NA,NA,NA,"Thottopalayam thottimvirus",FALSE,FALSE,"NA; 17182762; 17182762","Woolhouse2018","Soricomorph","NC_010707.1; NC_010708.1; NC_010704.1",1,TRUE
+"Tibrogargan tibrovirus","Tibrogargan virus",1,"Midge",NA,NA,NA,"Tibrogargan tibrovirus",FALSE,FALSE,"NA","Olival2017; Woolhouse2018; Internal","Artiodactyl","NC_020804.1",1,FALSE
+"Tick-borne encephalitis virus","Tick-borne encephalitis virus",1,"Tick",NA,NA,NA,"Tick-borne encephalitis virus",FALSE,FALSE,"Grzeszczuk et al. 2006; Available from external site; 18240970; http://jgv.microbiologyresearch.org/content/journal/jgv/10.1099/0022-1317-82-8-1867#tab2","Olival2017; Woolhouse2018; Internal","Rodent","NC_001672.1",1,TRUE
+"Tioman rubulavirus","Tioman virus",0,NA,NA,NA,NA,"Tioman pararubulavirus",FALSE,TRUE,"NA; Yaiw KC et al. 2007; 17703419; 17703419","Olival2017; Woolhouse2018","Pterobat","NC_004074.1",1,FALSE
+"Tonate virus","Tonate virus",1,"Bedbug","Automatic match","Monath1980","Monath1980","Tonate virus",FALSE,FALSE,"Hommel et al. 2000; 1020877; 11463116","Olival2017; Woolhouse2018","Passeriformes","AF075254.1",1,TRUE
+"Tree shrew mastadenovirus A","Tree shrew mastadenovirus A",0,NA,NA,NA,NA,"Tree shrew mastadenovirus A",FALSE,NA,"","Olival2017","Scandentia","AC_000190.1",1,FALSE
+"Tremovirus A","Avian encephalomyelitis virus",0,NA,NA,"﻿Knipe2013",NA,"Tremovirus A",FALSE,FALSE,"NA","Woolhouse2018; Internal","Galliformes","NC_003990.1",1,FALSE
+"Tuhoko rubulavirus 1","Tuhoko virus 1",0,NA,NA,NA,NA,"Tuhoko pararubulavirus 1",FALSE,FALSE,"NA","Woolhouse2018; Internal","Pterobat","NC_025410.1",1,FALSE
+"Tuhoko rubulavirus 2","Tuhoko virus 2",0,NA,NA,NA,NA,"Tuhoko pararubulavirus 2",FALSE,FALSE,"NA","Woolhouse2018; Internal","Pterobat","NC_025348.1",1,FALSE
+"Tuhoko rubulavirus 3","Tuhoko virus 3",0,NA,NA,NA,NA,"Tuhoko pararubulavirus 3",FALSE,FALSE,"NA","Woolhouse2018; Internal","Pterobat","NC_025350.1",1,FALSE
+"Tula orthohantavirus","Tula virus",0,NA,NA,NA,NA,"Tula orthohantavirus",FALSE,FALSE,"Reynes et al. 2015; 9000098; 19889769; ","Olival2017; Woolhouse2018; Internal","Rodent","NC_005226.1; NC_005228.1; NC_005227.2",1,TRUE
+"Tupaia tupavirus","Tupaia virus",0,NA,NA,NA,NA,"Tupaia tupavirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Scandentia","NC_007020.1",1,FALSE
+"Tupaiid betaherpesvirus 1","Tupaiid betaherpesvirus 1",0,NA,NA,NA,NA,"Tupaiid betaherpesvirus 1",FALSE,NA,"","Olival2017","Scandentia","NC_002794.1",1,FALSE
+"Turlock orthobunyavirus","Turlock orthobunyavirus",1,"Mosquito","Automatic match","Scott1983",NA,"Turlock orthobunyavirus",FALSE,NA,"","Olival2017; Woolhouse2018","Passeriformes","MK514125.1; MK514122.1; MK514119.1",1,FALSE
+"Tylonycteris bat coronavirus HKU4","Bat coronavirus HKU4",0,NA,NA,NA,NA,"Tylonycteris bat coronavirus HKU4",FALSE,FALSE,"NA","Woolhouse2018; Internal","Vespbat","NC_009019.1",1,FALSE
+"Tyuleniy virus","Tyuleniy virus",1,"Tick",NA,"nuttall1984",NA,"Tyuleniy virus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Charadriiformes","NC_023424.1",1,FALSE
+"Uganda S virus","Uganda S virus",1,"Mosquito","Automatic match",NA,NA,"Uganda S virus",FALSE,TRUE,"; 13005679; 1659238","Woolhouse2018","Rodent","NC_033698.1",1,FALSE
+"Una virus","Una virus",1,"Mosquito",NA,NA,NA,"Una virus",FALSE,TRUE,"NA; Diaz et al. 2003; 14070772; 23085307","Olival2017; Woolhouse2018","NonHumanPrimate","HM147992.1",1,FALSE
+"Ungulate bocaparvovirus 1","Ungulate bocaparvovirus 1",0,NA,NA,NA,NA,"Ungulate bocaparvovirus 1",FALSE,NA,"","Olival2017","Artiodactyl","NC_001540.1",1,FALSE
+"Ungulate protoparvovirus 1","Ungulate protoparvovirus 1",0,NA,NA,NA,NA,"Ungulate protoparvovirus 1",FALSE,NA,"","Olival2017","Artiodactyl","NC_001718.1",1,FALSE
+"Uukuniemi phlebovirus","Uukuniemi virus",1,"Tick",NA,NA,NA,"Uukuniemi phlebovirus",FALSE,FALSE,"Traavik et al. 1977; Available from external site; 23239568; Elliott, Richard M., ed. The bunyaviridae. Springer Science & Business Media, 2013.","Olival2017; Woolhouse2018; Internal","Orphan","NC_005214.1; NC_005220.1; NC_005221.1",1,TRUE
+"Variola virus","Variola virus",0,NA,"Automatic match",NA,NA,"Variola virus",FALSE,FALSE,"Dumbell et al. 1999","Olival2017","Human","NC_001611.1",1,TRUE
+"Venezuelan equine encephalitis virus","Subtype IE (enzootic)",1,"Mosquito",NA,"weaver2004",NA,"Venezuelan equine encephalitis virus",FALSE,FALSE,"Mangiafico et al. 2002; 19871301; 22989182; http://www.sciencedirect.com/science/article/pii/S0042682214004814","Olival2017; Woolhouse2018; Internal","Rodent","KC344449.1",1,TRUE
+"Vesicular exanthema of swine virus","Vesicular exanthema of swine virus",0,NA,"Strain",NA,NA,"Vesicular exanthema of swine virus",FALSE,FALSE,"NA; 9502467; 6283714","Woolhouse2018","Artiodactyl","NC_002551.1",1,TRUE
+"Visna/maedi virus","Visna/maedi virus",0,NA,"Automatic match",NA,NA,"Visna-maedi virus",FALSE,NA,"","Olival2017; Woolhouse2018","Artiodactyl","NC_001452.1",1,FALSE
+"Volepox virus","Volepox virus",0,NA,"Automatic match",NA,NA,"Volepox virus",FALSE,NA,"","Olival2017","Rodent","NC_031033.1",1,FALSE
+"Wad Medani virus","Wad Medani virus",1,"Tick","Automatic match",NA,NA,"Wad Medani virus",FALSE,NA,"","Olival2017; Woolhouse2018",NA,"NC_027533.1; NC_027539.1; NC_027540.1; NC_027541.1; NC_027542.1; NC_027543.1; NC_027544.1; NC_027545.1; NC_027546.1; NC_027547.1",1,FALSE
+"Wallal virus","Wallal virus",1,"Midge","Automatic match",NA,NA,"Wallal virus",FALSE,NA,"","Olival2017; Woolhouse2018","Macropod","NC_022553.1; NC_022554.1; NC_022555.1; NC_022560.1; NC_022556.1; NC_022561.1; NC_022562.1; NC_022557.1; NC_022558.1; NC_022559.1",1,FALSE
+"Warrego virus","Warrego virus",1,"Midge","Automatic match",NA,NA,"Warrego virus",FALSE,NA,"","Olival2017; Woolhouse2018","Macropod","KJ495755.1; KJ495756.1; KJ495757.1; KJ495758.1; KJ495759.1; KJ495760.1; KJ495762.1; KJ495761.1; KJ495763.1; KJ495764.1",1,FALSE
+"Wenzhou mammarenavirus","Wenzhou virus",0,NA,NA,NA,NA,"Wenzhou mammarenavirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Rodent","NC_026019.1; NC_026018.1",1,FALSE
+"Wesselsbron virus","Wesselsbron virus",1,"Mosquito",NA,NA,NA,"Wesselsbron virus",FALSE,FALSE,"Smithburn et al. 1957; 13506709; 15958020; Calisher, Charles H., and Ernest A. Gould. \Taxonomy of the virus family Flaviviridae.\ï_ê‘_ï_ê‘__Advances in virus researchï_ê‘_ï_ê‘__59 (2003): 1-20.","Olival2017; Woolhouse2018; Internal","Orphan","NC_012735.1",1,TRUE
+"West Caucasian bat lyssavirus","West Caucasian bat virus",0,NA,NA,NA,NA,"West Caucasian bat lyssavirus",FALSE,FALSE,"; ","Internal","Vespbat","NC_025377.1",1,TRUE
+"West Nile virus","West Nile virus",1,"Mosquito",NA,"Knipe2013",NA,"West Nile virus",FALSE,FALSE,"Angelini et al. 2010; Available from external site; 17332186; http://jgv.microbiologyresearch.org/content/journal/jgv/10.1099/0022-1317-82-8-1867#tab2","Olival2017; Woolhouse2018; Internal","Passeriformes","NC_001563.2",1,TRUE
+"Western equine encephalitis virus","Western equine encephalitis virus",1,"Mosquito",NA,"Knipe2013","Knipe2013","Western equine encephalitis virus",FALSE,FALSE,"Calisher et al. 1994; 17736946; 22989182; http://www.pnas.org/content/85/16/5997.full.pdf","Olival2017; Woolhouse2018; Internal","Passeriformes","NC_003908.1",1,TRUE
+"Whataroa virus","Whataroa virus",1,"Mosquito",NA,"miles1971",NA,"Whataroa virus",FALSE,TRUE,"NA; 14244706; 15381803","Woolhouse2018","Passeriformes","NC_016961.1",1,FALSE
+"White bream virus","White bream virus",0,NA,NA,NA,NA,"White bream virus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Fish","NC_008516.1",1,FALSE
+"White-eye coronavirus HKU16","White-eye coronavirus HKU16",0,NA,NA,"woo2012a",NA,"White-eye coronavirus HKU16",FALSE,FALSE,"NA","Woolhouse2018; Internal","Orphan","NC_016991.1",1,FALSE
+"Whitewater Arroyo mammarenavirus","Whitewater arroyo virus",0,NA,"Strain",NA,NA,"Whitewater Arroyo mammarenavirus",FALSE,FALSE,"CDC Report; 10960307; 11508391; ","Olival2017; Woolhouse2018; Internal","Rodent","NC_010703.1; NC_010700.1",1,TRUE
+"Wigeon coronavirus HKU20","Wigeon coronavirus HKU20",0,NA,NA,"woo2012a",NA,"Wigeon coronavirus HKU20",FALSE,FALSE,"NA","Woolhouse2018; Internal","Orphan","NC_016995.1",1,FALSE
+"Wongabel hapavirus","Wongabel virus",1,"Midge",NA,NA,NA,"Wongabel hapavirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Orphan","NC_011639.1",1,FALSE
+"Woodchuck hepatitis virus","Woodchuck hepatitis virus",0,NA,"Automatic match",NA,NA,"Woodchuck hepatitis virus",FALSE,NA,"","Olival2017","Rodent","NC_004107.1",1,FALSE
+"Woolly monkey sarcoma virus","Woolly monkey sarcoma virus",0,NA,"Automatic match",NA,NA,"Woolly monkey sarcoma virus",FALSE,TRUE,"; Aoki et al. 1976","Olival2017","NonHumanPrimate","NC_009424.5",1,FALSE
+"Wyeomyia orthobunyavirus","Wyeomyia orthobunyavirus",1,"Mosquito","Automatic match",NA,NA,"Wyeomyia orthobunyavirus",FALSE,FALSE,"Sirhongse & Johnson 1965; 14332846; 22278828","Olival2017; Woolhouse2018","Orphan","NC_034212.1; NC_034213.1; NC_034211.1",1,TRUE
+"Xipapillomavirus 1","Xipapillomavirus 1",0,NA,NA,NA,NA,"Xipapillomavirus 1",FALSE,NA,"","Olival2017","Artiodactyl","NC_004197.1",1,FALSE
+"Yaba monkey tumor virus","Yaba monkey tumor virus",0,NA,"Automatic match",NA,NA,"Yaba monkey tumor virus",FALSE,TRUE,"Grace & Mirand 1965","Olival2017","NonHumanPrimate","NC_005179.1",1,FALSE
+"Yellow fever virus","Yellow fever virus – African urban cycle",1,"Mosquito",NA,"Knipe2013","Knipe2013","Yellow fever virus",FALSE,FALSE,"Pisano et al. 1997; Available from external site; 25672346; 11113383; http://jgv.microbiologyresearch.org/content/journal/jgv/10.1099/0022-1317-82-8-1867#tab2","Olival2017; Woolhouse2018; Internal","Human","JX898871.1",1,TRUE
+"Yokose virus","Yokose virus",NA,NA,NA,NA,NA,"Yokose virus",FALSE,FALSE,"NA","Olival2017; Woolhouse2018; Internal","Vespbat","NC_005039.1",1,FALSE
+"Yug Bogdanovac vesiculovirus","Yug Bogdanovac virus",1,"Sandfly",NA,NA,NA,"Yug Bogdanovac vesiculovirus",FALSE,FALSE,"NA","Woolhouse2018; Internal","Orphan","NC_025378.1",1,FALSE
+"Zaire ebolavirus","Zaire ebolavirus",0,NA,NA,NA,NA,"Zaire ebolavirus",FALSE,FALSE,"Georges et al. 1999; 65661; 10024977; http://www.nature.com/nature/journal/v438/n7068/abs/438575a.html","Olival2017; Woolhouse2018; Internal","Pterobat","NC_002549.1",1,TRUE
+"Zegla orthobunyavirus","Zegla orthobunyavirus",NA,NA,"Automatic match",NA,NA,"Zegla orthobunyavirus",FALSE,NA,"","Olival2017; Woolhouse2018","Orphan","NC_043687.1; NC_043688.1; NC_043686.1",1,FALSE
+"Zetapapillomavirus 1","Zetapapillomavirus 1",0,NA,NA,NA,NA,"Zetapapillomavirus 1",FALSE,NA,"","Olival2017","Perissodactyla","NC_003748.1",1,FALSE
+"Zika virus","Zika virus",1,"Mosquito",NA,NA,NA,"Zika virus",FALSE,FALSE,"Duffy et al. 2010; 13157159; 21529401; http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4593454/","Olival2017; Woolhouse2018; Internal","Orphan","NC_012532.1",1,TRUE
+"Choclo orthohantavirus","Choclo orthohantavirus",0,NA,"Added Nov 2018","﻿Vincent2000",NA,"Choclo orthohantavirus",FALSE,FALSE,"11062031; 19556568","Woolhouse2018","Rodent","NC_038374.1; NC_038373.1",1,TRUE
+"Ekpoma 1 tibrovirus","Ekpoma 1 tibrovirus",NA,NA,"Added Nov 2018","﻿Stremlau2015",NA,"Ekpoma 1 tibrovirus",FALSE,FALSE,"25781465; 23028323","Woolhouse2018","Orphan","NC_038282.1",1,TRUE
+"Ekpoma 2 tibrovirus","Ekpoma 2 tibrovirus",NA,NA,"Added Nov 2018","﻿Stremlau2015",NA,"Ekpoma 2 tibrovirus",FALSE,FALSE,"25781465; 23028323","Woolhouse2018","Orphan","NC_038283.1",1,TRUE
+"Mammalian 2 bornavirus","Mammalian 2 bornavirus",NA,NA,"Added Nov 2018","﻿Hoffmann2015",NA,"Mammalian 2 orthobornavirus",FALSE,FALSE,"26154788; 26154788","Woolhouse2018","Orphan","NC_030701.1",1,TRUE
+"Rotavirus H","Rotavirus H",0,NA,"Added Nov 2018","﻿Yinda2018",NA,"Rotavirus H",FALSE,FALSE,"10921117; 26658066","Woolhouse2018","Orphan","NC_007548.1; NC_007549.1; NC_007550.1; NC_007551.1; NC_007552.1; NC_007553.1; NC_007554.1; NC_007555.1; NC_007556.1; NC_007557.1; NC_007558.1",1,TRUE
+"Aedes pseudoscutellaris reovirus","Aedes pseudoscutellaris reovirus",0,"Mosquito","Added Nov 2018","﻿Attoui2005",NA,"Aedes pseudoscutellaris reovirus",FALSE,NA,"","Woolhouse2018","Insect","NC_007666.1; NC_007667.1; NC_007668.1; NC_007669.1; NC_007670.1; NC_007671.1; NC_007672.1; NC_007673.1; NC_007674.1",1,FALSE
+"African pouched rat arterivirus","African pouched rat arterivirus",NA,NA,"Added Nov 2018",NA,NA,"Lambdaarterivirus afriporav",FALSE,NA,"","Woolhouse2018","Orphan","NC_026439.1",1,FALSE
+"Aichivirus B","Aichivirus B",0,NA,"Added Nov 2018","﻿Jeoung2011; ﻿Khamrin2014",NA,"Aichivirus B",FALSE,NA,"","Woolhouse2018","Artiodactyl","NC_004421.1",1,FALSE
+"Aichivirus C","Aichivirus C",0,NA,"Added Nov 2018","﻿Khamrin2014",NA,"Aichivirus C",FALSE,NA,"","Woolhouse2018","Artiodactyl","NC_011829.1",1,FALSE
+"Aichivirus D","Aichivirus D",0,NA,"Added Nov 2018","﻿Otomaru2016",NA,"Aichivirus D",FALSE,NA,"","Woolhouse2018","Orphan","NC_027919.1",1,FALSE
+"Aichivirus E","Aichivirus E",0,NA,"Added Nov 2018","﻿Pankovics2016",NA,"Aichivirus E",FALSE,NA,"","Woolhouse2018","Orphan","KT325852.1",1,FALSE
+"Aichivirus F","Aichivirus F",0,NA,"Added Nov 2018","﻿Li2010a",NA,"Aichivirus F",FALSE,NA,"","Woolhouse2018","Orphan","KJ641694.1",1,FALSE
+"Alajuela orthobunyavirus","Alajuela orthobunyavirus",1,"Mosquito","Added Nov 2018",NA,"﻿Plyusnin2011","Alajuela orthobunyavirus",FALSE,NA,"","Woolhouse2018",NA,"NC_038717.1; NC_038715.1; NC_038716.1",1,FALSE
+"Alfalfa dwarf cytorhabdovirus","Alfalfa dwarf cytorhabdovirus",NA,NA,"Added Nov 2018",NA,NA,"Alfalfa dwarf cytorhabdovirus",FALSE,NA,"","Woolhouse2018","Plant","NC_028237.2",1,FALSE
+"Amga orthohantavirus","Amga orthohantavirus",NA,NA,"Added Nov 2018","﻿Yanagihara2015",NA,"Seewis orhtohantavirus",FALSE,NA,"","Woolhouse2018","Orphan","KF974359.1; KF974360.1",0,FALSE
+"Ampivirus A","Ampivirus A",NA,NA,"Added Nov 2018","﻿Reuter2015",NA,"Ampivirus A",FALSE,NA,"","Woolhouse2018","Orphan","NC_027214.1",1,FALSE
+"Aquareovirus A","Aquareovirus A",0,NA,"Added Nov 2018","﻿Lupiani1995",NA,"Aquareovirus A",FALSE,NA,"","Woolhouse2018","Fish","NC_007582.1; NC_007583.1; NC_007584.1; NC_007586.1; NC_007592.1; NC_007585.1; NC_007587.1; NC_007588.1; NC_007589.1; NC_007590.1; NC_007591.1",1,FALSE
+"Aquareovirus B","Aquareovirus B",0,NA,"Added Nov 2018","﻿Lupiani1995",NA,"Aquareovirus B",FALSE,NA,"","Woolhouse2018","Fish","NC_038630.1; NC_038629.1; NC_038624.1; NC_038625.1; NC_038631.1; NC_038626.1; NC_038627.1; NC_038632.1; NC_038628.1; NC_038633.1",1,FALSE
+"Aquareovirus C","Aquareovirus C",0,NA,"Added Nov 2018","﻿Lupiani1995",NA,"Aquareovirus C",FALSE,NA,"","Woolhouse2018","Fish","NC_005166.1; NC_005167.1; NC_005168.1; NC_005169.1; NC_005170.1; NC_005171.1; NC_005172.1; NC_005173.1; NC_005174.1; NC_005175.1; NC_005176.1",1,FALSE
+"Aquareovirus E","Aquareovirus E",0,NA,"Added Nov 2018","﻿Lupiani1995",NA,"Aquareovirus E",FALSE,NA,"","Woolhouse2018","Fish","NC_038640.1; NC_038634.1; NC_038635.1; NC_038641.1; NC_038636.1; NC_038637.1; NC_038643.1; NC_038639.1; NC_038638.1; NC_038642.1; NC_038644.1",1,FALSE
+"Aquareovirus G","Aquareovirus G",0,NA,"Added Nov 2018","﻿Lupiani1995",NA,"Aquareovirus G",FALSE,NA,"","Woolhouse2018","Fish","NC_010584.1; NC_010585.1; NC_010586.1; NC_010587.1; NC_010588.1; NC_010589.1; NC_010590.1; NC_010591.1; NC_010592.1; NC_010593.1; NC_010594.1",1,FALSE
+"Asama orthohantavirus","Asama orthohantavirus",NA,NA,"Added Nov 2018","﻿Arai2008",NA,"Asama orthohantavirus",FALSE,NA,"","Woolhouse2018","Orphan","NC_038274.1; NC_038273.1",0,FALSE
+"Asikkala orthohantavirus","Asikkala orthohantavirus",NA,NA,"Added Nov 2018","﻿Radosa2013",NA,"Asikkala orthohantavirus",FALSE,NA,"","Woolhouse2018","Orphan","KC880348.1; KC880345.1; KC880342.1",0,FALSE
+"Avian avulavirus 13","Avian avulavirus 13",NA,NA,"Added Nov 2018",NA,NA,"Avian orthoavulavirus 13",FALSE,NA,"","Woolhouse2018",NA,"NC_030231.1",1,FALSE
+"Avian avulavirus 2","APMV-2/Chicken/California/Yucaipa/56",0,NA,"Added Nov 2018","gogoi2017",NA,"Avian metaavulavirus 2",FALSE,NA,"","Woolhouse2018","Galliformes","NC_039230.1",1,FALSE
+"Avian leukosis virus","Avian leukosis virus",0,NA,"Added Nov 2018","﻿Gao2010; Knipe2013",NA,"Avian leukosis virus",FALSE,NA,"","Woolhouse2018","Galliformes","KY235336.1",1,FALSE
+"Avian orthoreovirus","Avian orthoreovirus",0,NA,"Added Nov 2018","﻿Jones2000",NA,"Avian orthoreovirus",FALSE,NA,"","Woolhouse2018","Galliformes","NC_015126.1; NC_015128.1; NC_015127.1; NC_015129.1; NC_015130.1; NC_015131.1; NC_015132.1; NC_015133.1; NC_015134.1; NC_015135.1",1,FALSE
+"Avian sapelovirus","Avian sapelovirus",NA,NA,"Added Nov 2018",NA,NA,"Anativirus A",FALSE,NA,"","Woolhouse2018",NA,"NC_006553.1",1,FALSE
+"Avisivirus A","Avisivirus A",NA,NA,"Added Nov 2018","﻿Boros2013",NA,"Avisivirus A",FALSE,NA,"","Woolhouse2018","Orphan","NC_038304.1",1,FALSE
+"Badu phasivirus","Badu phasivirus",0,"Mosquito","Added Nov 2018","﻿Hobson-peters2016","﻿Hobson-peters2016","Badu phasivirus",FALSE,NA,"","Woolhouse2018","Insect","NC_038257.1; NC_038258.1; NC_038259.1",1,FALSE
+"Ball python nidovirus 1","Ball python nidovirus 1",NA,NA,"Added Nov 2018","﻿Stenglein2014",NA,"Ball python nidovirus 1",FALSE,NA,"","Woolhouse2018","Reptile","NC_024709.1",1,FALSE
+"Barley yellow striate mosaic cytorhabdovirus","Barley yellow striate mosaic cytorhabdovirus",NA,NA,"Added Nov 2018",NA,NA,"Barley yellow striate mosaic cytorhabdovirus",FALSE,NA,"","Woolhouse2018","Plant","NC_028244.1",1,FALSE
+"Bat mumps rubulavirus","Bat mumps rubulavirus",NA,NA,"Added Nov 2018","﻿Drexler2012",NA,"Bat mumps orthorubulavirus",FALSE,NA,"","Woolhouse2018","Orphan","NC_038271.1",1,FALSE
+"Batama orthobunyavirus","Batama orthobunyavirus",NA,NA,"Added Nov 2018",NA,"Knipe2013","Batama orthobunyavirus",FALSE,NA,"","Woolhouse2018",NA,"NC_038722.1",1,FALSE
+"Bertioga orthobunyavirus","Bertioga orthobunyavirus",NA,NA,"Added Nov 2018",NA,"Knipe2013","Bertioga orthobunyavirus",FALSE,NA,"","Woolhouse2018",NA,"KY013487.1; KY013488.1; KY013489.1",1,FALSE
+"Blotched snakehead virus","Blotched snakehead virus",NA,NA,"Added Nov 2018",NA,NA,"Blotched snakehead virus",FALSE,NA,"","Woolhouse2018","Fish","NC_005983.1",0,FALSE
+"Bovine nidovirus 1","Bovine nidovirus 1",NA,NA,"Added Nov 2018","﻿Tokarz2018",NA,"Bovine nidovirus 1",FALSE,NA,"","Woolhouse2018","Orphan","NC_027199.1",1,FALSE
+"Bovine rhinitis A virus","Bovine rhinitis A virus",0,NA,"Added Nov 2018","﻿Murray2016",NA,"Bovine rhinitis A virus",FALSE,NA,"","Woolhouse2018","Artiodactyl","NC_038303.1",1,FALSE
+"Bovine rhinitis B virus","Bovine rhinitis B virus",NA,NA,"Added Nov 2018",NA,NA,"Bovine rhinitis B virus",FALSE,NA,"","Woolhouse2018",NA,"NC_010354.1",1,FALSE
+"Bowe orthohantavirus","Bowe orthohantavirus",NA,NA,"Added Nov 2018","﻿Gu2013",NA,"Bowe orthohantavirus",FALSE,NA,"","Woolhouse2018","Orphan","NC_034407.1; NC_034406.1; NC_034405.1",1,FALSE
+"Bruges orthohantavirus","Bruges orthohantavirus",0,NA,"Added Nov 2018","﻿Laenen2018",NA,"Bruges orthohantavirus",FALSE,NA,"","Woolhouse2018","Eulipotyphla","NC_034402.1; NC_034395.1; NC_034394.1",1,FALSE
+"Bulbul coronavirus HKU11","Bulbul coronavirus HKU11",0,NA,"Added Nov 2018","﻿Woo2009",NA,"Bulbul coronavirus HKU11",FALSE,FALSE,"NA; ","Woolhouse2018; Internal; Woolhouse2018","Orphan","NC_011547.1",1,FALSE
+"Burana orthonairovirus","Burana orthonairovirus",1,"Tick","Added Nov 2018",NA,"﻿Kuhn2016","Tamdy orthonairovirus",FALSE,NA,"","Woolhouse2018",NA,"NC_031284.1; NC_031285.1; NC_031286.1",1,FALSE
+"Cadicivirus A","Cadicivirus A",0,NA,"Added Nov 2018","﻿Woo2012",NA,"Cadicivirus A",FALSE,NA,"","Woolhouse2018","Carnivore","NC_021178.1",1,FALSE
+"Cao Bang orthohantavirus","Cao Bang orthohantavirus",0,NA,"Added Nov 2018","﻿Gu2016",NA,"Cao Bang orthohantavirus",FALSE,NA,"","Woolhouse2018","Eulipotyphla","NC_034485.1; NC_034474.1; NC_034484.1",1,FALSE
+"Capim orthobunyavirus","Capim orthobunyavirus",1,"Mosquito","Added Nov 2018",NA,"Knipe2013","Capim orthobunyavirus",FALSE,NA,"","Woolhouse2018",NA,"NC_034482.1; NC_034493.1; NC_034483.1",1,FALSE
+"Carajas vesiculovirus","Carajas vesiculovirus",1,"Sandfly","Added Nov 2018",NA,"﻿TravassosdaRosa1984","Carajas vesiculovirus",FALSE,NA,"","Woolhouse2018",NA,"NC_038285.1",1,FALSE
+"Cardiovirus C","Cardiovirus C",NA,NA,"Added Nov 2018",NA,NA,"Cardiovirus C",FALSE,NA,"","Woolhouse2018","Orphan","NC_038305.1",1,FALSE
+"Chaco sripuvirus","Chaco sripuvirus",NA,NA,"Added Nov 2018","causey1966",NA,"Chaco sripuvirus",FALSE,NA,"","Woolhouse2018","Reptile","NC_034550.1",1,FALSE
+"Chenuda virus","Chenuda virus",1,"Tick","Added Nov 2018",NA,"﻿Labuda2004; ﻿Attoui2015","Chenuda virus",FALSE,NA,"","Woolhouse2018",NA,"KP268794.1; KP268795.1; KP268796.1; KP268797.1; KP268798.1; KP268799.1; KP268800.1; KP268801.1; KP268802.1; KP268803.1",1,FALSE
+"Chilibre phlebovirus","Chilibre phlebovirus",1,"Sandfly","Added Nov 2018",NA,"﻿Knipe2013; Elliott2014","Chilibre phlebovirus",FALSE,NA,"","Woolhouse2018",NA,"MK330756.1; MK330757.1; MK330758.1",1,FALSE
+"Chinook salmon nidovirus 1","Chinook salmon nidovirus 1",NA,NA,"Added Nov 2018","﻿Schutze2016",NA,"Chinook salmon nidovirus 1",FALSE,NA,"","Woolhouse2018","Fish","NC_026812.1",1,FALSE
+"Coffee ringspot dichorhavirus","Coffee ringspot dichorhavirus",NA,NA,"Added Nov 2018",NA,NA,"Coffee ringspot dichorhavirus",FALSE,NA,"","Woolhouse2018","Plant","NC_038756.1; NC_038755.1",1,FALSE
+"Colocasia bobone disease-associated cytorhabdovirus","Colocasia bobone disease-associated cytorhabdovirus",NA,NA,"Added Nov 2018",NA,NA,"Colocasia bobone disease-associated cytorhabdovirus",FALSE,NA,"","Woolhouse2018","Plant","NC_034551.1",1,FALSE
+"Cosavirus A","Cosavirus A",NA,NA,"Added Nov 2018","﻿Kapoor2008",NA,"Cosavirus A",TRUE,FALSE,"19033469; 27631733; 19033469","Woolhouse2018","Human","NC_012800.1",1,TRUE
+"Cosavirus B","Cosavirus B",NA,NA,"Added Nov 2018","﻿Kapoor2008",NA,"Cosavirus B",TRUE,FALSE,"19033469; 27631733; 19033469","Woolhouse2018","Orphan","NC_012801.1",1,TRUE
+"Cosavirus D","Cosavirus D",NA,NA,"Added Nov 2018","﻿Kapoor2008",NA,"Cosavirus D",TRUE,FALSE,"19033469; 27631733; 19033469","Woolhouse2018","Orphan","NC_012802.1",1,TRUE
+"Cosavirus E","Cosavirus E",NA,NA,"Added Nov 2018","﻿Holtz2008",NA,"Cosavirus E",TRUE,FALSE,"19102772; 27631733; 19033469","Woolhouse2018","Orphan","NC_012798.1",1,TRUE
+"Cosavirus F","Cosavirus F",NA,NA,"Added Nov 2018","﻿Kapusinszky2012",NA,"Cosavirus F",TRUE,FALSE,"22615791; 27631733; 19033469","Woolhouse2018","Orphan","NC_034385.1",1,TRUE
+"Cumuto goukovirus","Cumuto goukovirus",0,"Mosquito","Added Nov 2018","﻿Auguste2014","﻿Auguste2014","Cumuto goukovirus",FALSE,NA,"","Woolhouse2018","Insect","KF543244.1; KF543245.1; KF543246.1",1,FALSE
+"Cypovirus 1","Cypovirus 1",0,NA,"Added Nov 2018","Knipe2013",NA,"Cypovirus 1",FALSE,NA,"","Woolhouse2018","Insect","NC_003016.1; NC_003017.1; NC_003018.1; NC_003019.1; NC_003020.1; NC_003021.1; NC_003022.1; NC_003023.1; NC_003024.1; NC_003025.1",1,FALSE
+"Cypovirus 14","Cypovirus 14",0,NA,"Added Nov 2018","Knipe2013",NA,"Cypovirus 14",FALSE,NA,"","Woolhouse2018","Insect","NC_003006.1; NC_003007.1; NC_003008.1; NC_003009.1; NC_003010.1; NC_003011.1; NC_003012.1; NC_003013.1; NC_003014.1; NC_003015.1",1,FALSE
+"Cypovirus 15","Cypovirus 15",0,NA,"Added Nov 2018","Knipe2013",NA,"Cypovirus 15",FALSE,NA,"","Woolhouse2018","Insect","NC_002557.1; NC_002558.1; NC_002559.1; NC_002567.1; NC_002560.1; NC_002561.1; NC_002562.1; NC_002563.1; NC_002564.1; NC_002565.1; NC_002566.1",1,FALSE
+"Cypovirus 16","Cypovirus 16",0,NA,"Added Nov 2018","Knipe2013",NA,"Cypovirus 16",FALSE,NA,"","Woolhouse2018","Insect","NC_038648.1; NC_038649.1; NC_038652.1; NC_038645.1; NC_038651.1; NC_038646.1; NC_038647.1; NC_038650.1",0,FALSE
+"Cypovirus 2","Cypovirus 2",0,NA,"Added Nov 2018","Knipe2013",NA,"Cypovirus 2",FALSE,NA,"","Woolhouse2018","Insect","NC_023491.1; NC_023486.1; NC_023492.1; NC_023487.1; NC_023488.1; NC_023493.1; NC_023489.1; NC_023494.1; NC_023490.1; NC_023495.1",1,FALSE
+"Cypovirus 5","Cypovirus 5",0,NA,"Added Nov 2018","Knipe2013",NA,"Cypovirus 5",FALSE,NA,"","Woolhouse2018","Insect","NC_010670.1; NC_010669.1; NC_010668.1; NC_010667.1; NC_010666.1; NC_010665.1; NC_010662.1; NC_010664.1; NC_010663.1; NC_010661.1",1,FALSE
+"Dabieshan orthohantavirus","Dabieshan orthohantavirus",0,NA,"Added Nov 2018","﻿Lin2012",NA,"Dabieshan orthohantavirus",FALSE,NA,"","Woolhouse2018","Rodent","NC_038383.1; NC_038384.1",1,FALSE
+"Datura yellow vein nucleorhabdovirus","Datura yellow vein nucleorhabdovirus",NA,NA,"Added Nov 2018",NA,NA,"Datura yellow vein nucleorhabdovirus",FALSE,NA,"","Woolhouse2018","Plant","NC_028231.1",1,FALSE
+"DeBrazza’s monkey arterivirus","DeBrazza’s monkey arterivirus",NA,NA,"Added Nov 2018",NA,NA,"Iotaarterivirus debrazmo",FALSE,NA,"","Woolhouse2018",NA,"NC_026509.1",1,FALSE
+"Drosophila affinis sigmavirus","Drosophila affinis sigmavirus",0,NA,"Added Nov 2018",NA,NA,"Drosophila affinis sigmavirus",FALSE,NA,"","Woolhouse2018","Insect","NC_038278.1",1,FALSE
+"Drosophila ananassae sigmavirus","Drosophila ananassae sigmavirus",0,NA,"Added Nov 2018",NA,NA,"Drosophila ananassae sigmavirus",FALSE,NA,"","Woolhouse2018","Insect","NC_038279.1",1,FALSE
+"Drosophila immigrans sigmavirus","Drosophila immigrans sigmavirus",0,NA,"Added Nov 2018",NA,NA,"Drosophila immigrans sigmavirus",FALSE,NA,"","Woolhouse2018","Insect","NC_038280.1",1,FALSE
+"Drosophila X virus","Drosophila X virus",0,NA,"Added Nov 2018",NA,NA,"Drosophila X virus",FALSE,NA,"","Woolhouse2018","Insect","NC_004177.1; NC_004169.1",1,FALSE
+"Durham tupavirus","Durham tupavirus",NA,NA,"Added Nov 2018","﻿Allison2011",NA,"Durham tupavirus",FALSE,NA,"","Woolhouse2018","Orphan","NC_038284.1",1,FALSE
+"Echinochloa hoja blanca tenuivirus","Echinochloa hoja blanca tenuivirus",NA,NA,"Added Nov 2018",NA,NA,"Echinochloa hoja blanca tenuivirus",FALSE,NA,"","Woolhouse2018","Plant","NC_038934.1; NC_038935.1; NC_038936.1",0,FALSE
+"Edge Hill virus","Edge Hill virus",NA,"Mosquito","Added Nov 2018","﻿Weissenbock2010","﻿Weissenbock2010","Edge Hill virus",FALSE,TRUE,"3007952; 19486319","Woolhouse2018","Orphan","NC_030289.1",1,FALSE
+"Elapid 1 bornavirus","Elapid 1 bornavirus",NA,NA,"Added Nov 2018","﻿Kuhn2014",NA,"Elapid 1 orthobornavirus",FALSE,NA,"","Woolhouse2018","Reptile","NC_024778.1",1,FALSE
+"Enterovirus E","Enterovirus E",0,NA,"Added Nov 2018","﻿Zhu2014",NA,"Enterovirus E",FALSE,TRUE,"13773015; 28367789","Woolhouse2018","Artiodactyl","NC_001859.1",1,FALSE
+"Enterovirus F","Enterovirus F",0,NA,"Added Nov 2018","﻿Zell2018",NA,"Enterovirus F",FALSE,NA,"","Woolhouse2018","Artiodactyl","NC_021220.1",1,FALSE
+"Enterovirus J","Enterovirus J",0,NA,"Added Nov 2018","﻿Mombo2017",NA,"Enterovirus J",FALSE,NA,"","Woolhouse2018","NonHumanPrimate","NC_013695.1",1,FALSE
+"Eriocheir sinensis reovirus","Eriocheir sinensis reovirus",NA,NA,"Added Nov 2018",NA,NA,"Eriocheir sinensis reovirus",FALSE,NA,"","Woolhouse2018","Crustacean","NC_043180.1; NC_043185.1; NC_043183.1; NC_043184.1; NC_043182.1; NC_043190.1; NC_043186.1; NC_043181.1; NC_043187.1; NC_043191.1; NC_043189.1; NC_043188.1",1,FALSE
+"Estero Real orthobunyavirus","Estero Real orthobunyavirus",NA,"Tick","Added Nov 2018",NA,"Knipe2013","Estero Real orthonairovirus",FALSE,NA,"","Woolhouse2018",NA,"MH017280.1; MH017286.1; MH017274.1",1,FALSE
+"Fathead minnow nidovirus 1","Fathead minnow nidovirus 1",NA,NA,"Added Nov 2018",NA,NA,"Fathead minnow nidovirus 1",FALSE,NA,"","Woolhouse2018","Fish","NC_038295.1",1,FALSE
+"Fiji disease virus","Fiji disease virus",NA,NA,"Added Nov 2018",NA,NA,"Fiji disease virus",FALSE,NA,"","Woolhouse2018","Plant","NC_007159.1; NC_007154.1; NC_007158.1; NC_007155.1; NC_007160.1; NC_007157.1; NC_007163.1; NC_007161.1; NC_007156.1; NC_007162.1",1,FALSE
+"Flanders hapavirus","Flanders hapavirus",1,"Mosquito","Added Nov 2018","﻿Golnar2018","﻿Golnar2018","Flanders hapavirus",FALSE,NA,"","Woolhouse2018","Passeriformes","NC_039202.1",1,FALSE
+"Free State vervet virus","Free State vervet virus",NA,NA,"Added Nov 2018",NA,NA,"Epsilonarterivirus safriver",FALSE,NA,"","Woolhouse2018",NA,"KT166441.1",1,FALSE
+"Frijoles phlebovirus","Frijoles phlebovirus",NA,"Sandfly","Added Nov 2018",NA,"Knipe2013","Frijoles phlebovirus",FALSE,NA,"","Woolhouse2018",NA,"KX611391.1; KX611392.1; KX611393.1",1,FALSE
+"Fugong orthohantavirus","Fugong orthohantavirus",NA,NA,"Added Nov 2018","﻿Ge2016",NA,"Fugong orthohantavirus",FALSE,NA,"","Woolhouse2018","Orphan","NC_034467.1; NC_034466.1; NC_034473.1",1,FALSE
+"Fukuoka ledantevirus","Fukuoka ledantevirus",NA,NA,"Added Nov 2018",NA,NA,"Fukuoka ledantevirus",FALSE,NA,"","Woolhouse2018",NA,"NC_034454.1",1,FALSE
+"Fusong orthohantavirus","Fusong orthohantavirus",0,NA,"Added Nov 2018","﻿Zou2008",NA,"Fusong orthohantavirus",FALSE,NA,"","Woolhouse2018","Rodent","NC_038447.1; NC_038446.1",1,FALSE
+"Gadgets Gully virus","Gadgets Gully virus",1,"Tick","Added Nov 2018","﻿Major2009","﻿Labuda2004","Gadgets Gully virus",FALSE,TRUE,"1657626; 19486319","Woolhouse2018","Orphan","NC_033723.1",1,FALSE
+"Gallivirus A","Gallivirus A",0,NA,"Added Nov 2018","﻿Boros2012",NA,"Gallivirus A",FALSE,NA,"","Woolhouse2018","Orphan","NC_018400.1",1,FALSE
+"Gamboa orthobunyavirus","Gamboa orthobunyavirus",1,"Mosquito","Added Nov 2018","﻿Eastwood2016","Knipe2013","Gamboa orthobunyavirus",FALSE,NA,"","Woolhouse2018","Orphan","NC_038729.1; NC_038730.1; NC_038731.1",1,FALSE
+"Gray Lodge hapavirus","Gray Lodge hapavirus",NA,NA,"Added Nov 2018",NA,NA,"Gray Lodge hapavirus",FALSE,NA,"","Woolhouse2018",NA,"NC_034541.1",1,FALSE
+"Guajara orthobunyavirus","Guajara orthobunyavirus",NA,NA,"Added Nov 2018",NA,NA,"Guajara orthobunyavirus",FALSE,NA,"","Woolhouse2018",NA,"NC_038734.1; NC_038733.1; NC_038732.1",1,FALSE
+"Hart Park hapavirus","Hart Park hapavirus",1,"Mosquito","Added Nov 2018",NA,"﻿Boyd1972","Hart Park hapavirus",FALSE,NA,"","Woolhouse2018",NA,"NC_034447.1",1,FALSE
+"Hazara orthonairovirus","Hazara orthonairovirus",1,"Tick","Added Nov 2018","﻿Shimada2016","Knipe2013","Hazara orthonairovirus",FALSE,NA,"","Woolhouse2018","Orphan","NC_038709.1; NC_038710.1; NC_038711.1",1,FALSE
+"Hepacivirus A","Hepacivirus A",0,NA,"Added Nov 2018","﻿Smith2016a",NA,"Hepacivirus A",FALSE,NA,"","Woolhouse2018","Perissodactyla","NC_038425.1",1,FALSE
+"Hepacivirus B","Hepacivirus B",0,NA,"Added Nov 2018","﻿Smith2016a",NA,"Hepacivirus B",FALSE,NA,"","Woolhouse2018","Orphan","NC_038426.1",1,FALSE
+"Hepacivirus D","Hepacivirus D",0,NA,"Added Nov 2018","﻿Smith2016a",NA,"Hepacivirus D",FALSE,NA,"","Woolhouse2018","Orphan","NC_031950.1",1,FALSE
+"Hepacivirus E","Hepacivirus E",0,NA,"Added Nov 2018","﻿Smith2016a",NA,"Hepacivirus E",FALSE,NA,"","Woolhouse2018","Orphan","KC815310.1",1,FALSE
+"Hepacivirus F","Hepacivirus F",0,NA,"Added Nov 2018","﻿Smith2016a",NA,"Hepacivirus F",FALSE,NA,"","Woolhouse2018","Orphan","NC_038427.1",1,FALSE
+"Hepacivirus G","Hepacivirus G",0,NA,"Added Nov 2018","﻿Smith2016a",NA,"Hepacivirus G",FALSE,NA,"","Woolhouse2018","Orphan","KJ950938.1",1,FALSE
+"Hepacivirus H","Hepacivirus H",0,NA,"Added Nov 2018","﻿Smith2016a",NA,"Hepacivirus H",FALSE,NA,"","Woolhouse2018","Orphan","KJ950939.1",1,FALSE
+"Hepacivirus I","Hepacivirus I",0,NA,"Added Nov 2018","﻿Smith2016a",NA,"Hepacivirus I",FALSE,NA,"","Woolhouse2018","Orphan","NC_038428.1",1,FALSE
+"Hepacivirus J","Hepacivirus J",0,NA,"Added Nov 2018","﻿Smith2016a",NA,"Hepacivirus J",FALSE,NA,"","Woolhouse2018","Orphan","NC_038429.1",1,FALSE
+"Hepacivirus K","Hepacivirus K",NA,NA,"Added Nov 2018","﻿Smith2016a",NA,"Hepacivirus K",FALSE,NA,"","Woolhouse2018","Orphan","NC_038430.1",1,FALSE
+"Hepacivirus L","Hepacivirus L",NA,NA,"Added Nov 2018","﻿Smith2016a",NA,"Hepacivirus L",FALSE,NA,"","Woolhouse2018","Orphan","NC_031916.1",1,FALSE
+"Hepacivirus M","Hepacivirus M",NA,NA,"Added Nov 2018","﻿Smith2016a",NA,"Hepacivirus M",FALSE,NA,"","Woolhouse2018","Orphan","NC_038431.1",1,FALSE
+"Hepacivirus N","Hepacivirus N",0,NA,"Added Nov 2018","﻿Smith2016a",NA,"Hepacivirus N",FALSE,NA,"","Woolhouse2018","Artiodactyl","NC_038432.1",1,FALSE
+"Hepatovirus C","Hepatovirus C",0,NA,"Added Nov 2018","﻿Drexler2015",NA,"Hepatovirus C",FALSE,NA,"","Woolhouse2018","Orphan","NC_038313.1",1,FALSE
+"Hepatovirus D","Hepatovirus D",0,NA,"Added Nov 2018","﻿Drexler2015",NA,"Hepatovirus D",FALSE,NA,"","Woolhouse2018","Orphan","NC_028363.1",1,FALSE
+"Hepatovirus E","Hepatovirus E",0,NA,"Added Nov 2018","﻿Drexler2015",NA,"Hepatovirus E",FALSE,NA,"","Woolhouse2018","Orphan","NC_038314.1",1,FALSE
+"Hepatovirus F","Hepatovirus F",0,NA,"Added Nov 2018","﻿Drexler2015",NA,"Hepatovirus F",FALSE,NA,"","Woolhouse2018","Orphan","NC_038315.1",1,FALSE
+"Hepatovirus G","Hepatovirus G",0,NA,"Added Nov 2018","﻿Drexler2015",NA,"Hepatovirus G",FALSE,NA,"","Woolhouse2018","Orphan","NC_038316.1",1,FALSE
+"Hepatovirus H","Hepatovirus H",0,NA,"Added Nov 2018","﻿Drexler2015",NA,"Hepatovirus H",FALSE,NA,"","Woolhouse2018","Orphan","NC_028365.1",1,FALSE
+"Hepatovirus I","Hepatovirus I",0,NA,"Added Nov 2018","﻿Drexler2015",NA,"Hepatovirus I",FALSE,NA,"","Woolhouse2018","Orphan","NC_028364.1",1,FALSE
+"Hughes orthonairovirus","Hughes orthonairovirus",1,"Tick","Added Nov 2018","Knipe2013","Labuda2004","Hughes orthonairovirus",FALSE,NA,"","Woolhouse2018","Charadriiformes","KU925479.1; KU925480.1; KU925481.1",1,FALSE
+"Hunnivirus A","Hunnivirus A",NA,NA,"Added Nov 2018","﻿Reuter2012",NA,"Hunnivirus A",FALSE,NA,"","Woolhouse2018","Orphan","NC_018668.1",1,FALSE
+"Idnoreovirus 1","Idnoreovirus 1",0,NA,"Added Nov 2018","Knipe2013",NA,"Idnoreovirus 1",FALSE,NA,"","Woolhouse2018","Insect","NC_043368.1; NC_043369.1; NC_043370.1; NC_043373.1; NC_043367.1; NC_043371.1; NC_043372.1",0,FALSE
+"Imjin orthohantavirus","Imjin orthohantavirus",0,NA,"Added Nov 2018","﻿Gu2011",NA,"Imjin thottimvirus",FALSE,NA,"","Woolhouse2018","Eulipotyphla","NC_034564.1; NC_034557.1; NC_034558.1",1,FALSE
+"Infectious bursal disease virus","Infectious bursal disease virus",0,NA,"Added Nov 2018","﻿Berg2010",NA,"Infectious bursal disease virus",FALSE,NA,"","Woolhouse2018","Galliformes","NC_004178.1; NC_004179.1",1,FALSE
+"Infectious pancreatic necrosis virus","Infectious pancreatic necrosis virus",NA,NA,"Added Nov 2018",NA,NA,"Infectious pancreatic necrosis virus",FALSE,NA,"","Woolhouse2018","Fish","NC_001915.1; NC_001916.1",1,FALSE
+"Infectious salmon anemia virus","Infectious salmon anemia virus",NA,NA,"Added Nov 2018",NA,NA,"Salmon isavirus",FALSE,NA,"","Woolhouse2018","Fish","NC_006503.1; NC_006505.1; NC_006502.1; NC_006501.1; NC_006500.2; NC_006499.1; NC_006498.1; NC_006497.1",1,FALSE
+"Influenza D virus","Influenza D virus",0,NA,"Added Nov 2018","﻿Su2017",NA,"Influenza D virus",FALSE,NA,"","Woolhouse2018","Artiodactyl","NC_036616.1; NC_036615.1; NC_036619.1; NC_036618.1; NC_036617.1; NC_036620.1; NC_036621.1",1,FALSE
+"Iranian wheat stripe tenuivirus","Iranian wheat stripe tenuivirus",NA,NA,"Added Nov 2018",NA,NA,"Iranian wheat stripe tenuivirus",FALSE,NA,"","Woolhouse2018","Plant","NC_038748.1; NC_038750.1; NC_038749.1",1,FALSE
+"Iriri curiovirus","Iriri curiovirus",NA,NA,"Added Nov 2018",NA,NA,"Iriri curiovirus",FALSE,NA,"","Woolhouse2018",NA,"NC_034544.1",1,FALSE
+"Israel turkey meningoencephalomyelitis virus","Israel turkey meningoencephalomyelitis virus",NA,NA,"Added Nov 2018","﻿Barnard1980",NA,"Israel turkey meningoencephalomyelitis virus",FALSE,NA,"","Woolhouse2018","Galliformes","KC734551.1",1,FALSE
+"Itacaiunas curiovirus","Itacaiunas curiovirus",NA,NA,"Added Nov 2018",NA,NA,"Itacaiunas curiovirus",FALSE,NA,"","Woolhouse2018",NA,"NC_034536.1",1,FALSE
+"Jeju orthohantavirus","Jeju orthohantavirus",0,NA,"Added Nov 2018","﻿Arai2012",NA,"Jeju orthohantavirus",FALSE,NA,"","Woolhouse2018","Eulipotyphla","NC_034399.1; NC_034404.1; NC_034398.1",1,FALSE
+"Jembrana disease virus","Jembrana disease virus",0,NA,"Added Nov 2018","Knipe2013",NA,"Jembrana disease virus",FALSE,NA,"","Woolhouse2018","Artiodactyl","U21603.1",1,FALSE
+"Johnston Atoll virus","Johnston Atoll virus",1,"Tick","Added Nov 2018",NA,"﻿Labuda2004","Johnston Atoll quaranjavirus",FALSE,NA,"","Woolhouse2018",NA,"NC_043229.1; NC_043230.1",0,FALSE
+"Joinjakaka hapavirus","Joinjakaka hapavirus",NA,NA,"Added Nov 2018",NA,NA,"Joinjakaka hapavirus",FALSE,NA,"","Woolhouse2018",NA,"NC_034538.1",1,FALSE
+"Kadam virus","Kadam virus",1,"Tick","Added Nov 2018","﻿Calisher2003","﻿Labuda2004","Kadam virus",FALSE,NA,"","Woolhouse2018",NA,"NC_033724.1",1,FALSE
+"Kadipiro virus","Kadipiro virus",NA,NA,"Added Nov 2018",NA,NA,"Kadipiro virus",FALSE,NA,"","Woolhouse2018",NA,"NC_004210.1; NC_004212.1; NC_004213.1; NC_004214.1; NC_004215.1; NC_004216.1; NC_004209.1; NC_004208.1; NC_004207.1; NC_004206.1; NC_004205.1; NC_004199.1",1,FALSE
+"Kafue kinda chacma baboon virus","Kafue kinda chacma baboon virus",NA,NA,"Added Nov 2018","bailey2016",NA,"Thetaarterivirus kafuba",FALSE,NA,"","Woolhouse2018","NonHumanPrimate","NC_029053.1",1,FALSE
+"Kamese hapavirus","Kamese hapavirus",NA,NA,"Added Nov 2018","simotchetgna2017",NA,"Kamese hapavirus",FALSE,NA,"","Woolhouse2018","Orphan","NC_034450.1",1,FALSE
+"Kenkeme orthohantavirus","Kenkeme orthohantavirus",NA,NA,"Added Nov 2018",NA,NA,"Kenkeme orthohantavirus",FALSE,NA,"","Woolhouse2018",NA,"NC_034560.1; NC_034565.1; NC_034559.1",1,FALSE
+"Keterah orthonairovirus","Keterah orthonairovirus",NA,"Tick","Added Nov 2018",NA,"varma1976","Keterah orthonairovirus",FALSE,NA,"","Woolhouse2018",NA,"NC_034392.1; NC_034388.1; NC_034389.1",1,FALSE
+"Kibale herbevirus","Kibale herbevirus",0,"Mosquito","Added Nov 2018",NA,"marklewitz2013","Kibale herbevirus",FALSE,NA,"","Woolhouse2018","Insect","NC_034460.1; NC_034468.1; NC_034458.1",1,FALSE
+"Kibale red colobus virus 1","Kibale red colobus virus 1",0,NA,"Added Nov 2018","bailey2014",NA,"Zetaarterivirus ugarco 1",FALSE,NA,"","Woolhouse2018","NonHumanPrimate","NC_033553.1",1,FALSE
+"Kibale red colobus virus 2","Kibale red colobus virus 2",0,NA,"Added Nov 2018","bailey2014",NA,"Etaarterivirus ugarco 1",FALSE,NA,"","Woolhouse2018","NonHumanPrimate","NC_034455.1",1,FALSE
+"Kibale red-tailed guenon virus 1","Kibale red-tailed guenon virus 1",0,NA,"Added Nov 2018","bailey2016",NA,"Iotaarterivirus kibreg 1",FALSE,NA,"","Woolhouse2018","NonHumanPrimate","NC_038292.1",1,FALSE
+"Klamath tupavirus","Klamath tupavirus",NA,NA,"Added Nov 2018",NA,NA,"Klamath tupavirus",FALSE,NA,"","Woolhouse2018",NA,"NC_034549.1",1,FALSE
+"Koala retrovirus","Koala retrovirus",0,NA,"Added Nov 2018","simmons2012",NA,"Koala retrovirus",FALSE,NA,"","Woolhouse2018","Diprotodontia","NC_039228.1",1,FALSE
+"Koolpinyah ephemerovirus","Koolpinyah ephemerovirus",NA,NA,"Added Nov 2018",NA,NA,"Koolpinyah ephemerovirus",FALSE,NA,"","Woolhouse2018",NA,"NC_028239.1",1,FALSE
+"Kumasi ledantevirus","Kumasi ledantevirus",NA,NA,"Added Nov 2018","binger2015",NA,"Kumasi ledantevirus",FALSE,NA,"","Woolhouse2018","Pterobat","NC_028236.1",1,FALSE
+"Kunsagivirus A","Kunsagivirus A",NA,NA,"Added Nov 2018","boros2014",NA,"Kunsagivirus A",FALSE,NA,"","Woolhouse2018","Orphan","NC_038317.1",1,FALSE
+"La Joya hapavirus","La Joya hapavirus",NA,NA,"Added Nov 2018",NA,NA,"La Joya hapavirus",FALSE,NA,"","Woolhouse2018",NA,"NC_034537.1",1,FALSE
+"Laibin orthohantavirus","Laibin orthohantavirus",NA,NA,"Added Nov 2018","xu2015",NA,"Laibin mobatvirus",FALSE,NA,"","Woolhouse2018","Orphan","NC_038515.1; NC_038513.1; NC_038514.1",1,FALSE
+"Landjia hapavirus","Landjia hapavirus",NA,NA,"Added Nov 2018",NA,NA,"Landjia hapavirus",FALSE,NA,"","Woolhouse2018",NA,"NC_034533.1",1,FALSE
+"Le Dantec ledantevirus","Le Dantec ledantevirus",NA,NA,"Added Nov 2018","Blasdell2015",NA,"Le Dantec ledantevirus",FALSE,NA,"","Woolhouse2018","Orphan","NC_034443.1",1,FALSE
+"Lettuce big-vein associated varicosavirus","Lettuce big-vein associated varicosavirus",NA,NA,"Added Nov 2018",NA,NA,"Lettuce big-vein associated varicosavirus",FALSE,NA,"","Woolhouse2018","Plant","NC_011558.1; NC_011568.1",1,FALSE
+"Liao ning virus","Liao ning virus",0,"Mosquito","Added Nov 2018","prow2018","prow2018","Liao ning virus",FALSE,NA,"","Woolhouse2018","Insect","NC_007736.1; NC_007737.1; NC_007738.1; NC_007739.1; NC_007740.1; NC_007741.1; NC_007742.1; NC_007743.1; NC_007744.1; NC_007745.1; NC_007746.1; NC_007747.1",1,FALSE
+"Limnipivirus A","Limnipivirus A",0,NA,"Added Nov 2018","mor2016",NA,"Limnipivirus A",FALSE,NA,"","Woolhouse2018","Fish","NC_018506.1",1,FALSE
+"Limnipivirus B","Limnipivirus B",0,NA,"Added Nov 2018","mor2016",NA,"Limnipivirus B",FALSE,NA,"","Woolhouse2018","Fish","NC_023162.1",1,FALSE
+"Longquan orthohantavirus","Longquan orthohantavirus",0,NA,"Added Nov 2018","guo2013",NA,"Longquan loanvirus",FALSE,NA,"","Woolhouse2018","Orphan","JX465401.1; JX465421.1",0,FALSE
+"Luxi orthohantavirus","Luxi orthohantavirus",0,NA,"Added Nov 2018","zhang2011",NA,"Luxi orthohantavirus",FALSE,NA,"","Woolhouse2018","Orphan","NC_038529.1; NC_038528.1; NC_038530.1",1,FALSE
+"Maize rough dwarf virus","Maize rough dwarf virus",NA,NA,"Added Nov 2018",NA,NA,"Maize rough dwarf virus",FALSE,NA,"","Woolhouse2018","Plant","NC_037570.1; NC_037578.1; NC_037572.1; NC_037571.1; NC_028465.1; NC_037573.1; NC_037574.1; NC_037575.1; NC_037576.1; NC_037577.1",1,FALSE
+"Maize stripe tenuivirus","Maize stripe tenuivirus",NA,NA,"Added Nov 2018",NA,NA,"Maize stripe tenuivirus",FALSE,NA,"","Woolhouse2018","Plant","NC_038751.1; NC_038754.1; NC_038752.1; NC_038753.1",1,FALSE
+"Mal de Rio Cuarto virus","Mal de Rio Cuarto virus",NA,NA,"Added Nov 2018",NA,NA,"Mal de Rio Cuarto virus",FALSE,NA,"","Woolhouse2018","Plant","NC_008733.1; NC_008732.1; NC_008730.1; NC_008729.1; NC_008735.1; NC_008731.1; NC_008736.1; NC_008728.1; NC_008737.1; NC_008734.1",1,FALSE
+"Mamastrovirus 11","Mamastrovirus 11",0,NA,"Added Nov 2018","rivera2010",NA,"Mamastrovirus 11",FALSE,NA,"","Woolhouse2018","Orphan","FJ890351.1",0,FALSE
+"Mamastrovirus 12","Mamastrovirus 12",0,NA,"Added Nov 2018","zhu2009",NA,"Mamastrovirus 12",FALSE,NA,"","Woolhouse2018","Orphan","FJ571067.1",0,FALSE
+"Mamastrovirus 14","Mamastrovirus 14",0,NA,"Added Nov 2018","chu2008",NA,"Mamastrovirus 14",FALSE,NA,"","Woolhouse2018","Orphan","EU847144.2",0,FALSE
+"Mamastrovirus 15","Mamastrovirus 15",0,NA,"Added Nov 2018","zhu2009",NA,"Mamastrovirus 15",FALSE,NA,"","Woolhouse2018","Orphan","FJ571066.1",0,FALSE
+"Mamastrovirus 16","Mamastrovirus 16",0,NA,"Added Nov 2018","chu2008",NA,"Mamastrovirus 16",FALSE,NA,"","Woolhouse2018","Orphan","EU847145.2",0,FALSE
+"Mamastrovirus 17","Mamastrovirus 17",0,NA,"Added Nov 2018","zhu2009",NA,"Mamastrovirus 17",FALSE,NA,"","Woolhouse2018","Orphan","NC_038368.1",0,FALSE
+"Mamastrovirus 18","Mamastrovirus 18",0,NA,"Added Nov 2018","chu2008",NA,"Mamastrovirus 18",FALSE,NA,"","Woolhouse2018","Orphan","EU847155.1",0,FALSE
+"Mamastrovirus 19","Mamastrovirus 19",0,NA,"Added Nov 2018","zhu2009",NA,"Mamastrovirus 19",FALSE,NA,"","Woolhouse2018","Orphan","FJ571065.1",0,FALSE
+"Mamastrovirus 5","Mamastrovirus 5",0,NA,"Added Nov 2018","alves2018",NA,"Mamastrovirus 5",FALSE,NA,"","Woolhouse2018","Carnivore","KY765684.1",1,FALSE
+"Mamastrovirus 7","Mamastrovirus 7",0,NA,"Added Nov 2018","rivera2010",NA,"Mamastrovirus 7",FALSE,NA,"","Woolhouse2018","Orphan","FJ890355.1",0,FALSE
+"Mamastrovirus 8","Mamastrovirus 8",0,NA,"Added Nov 2018","vu2017",NA,"Mamastrovirus 8",TRUE,FALSE,"19814825; 25975198","Woolhouse2018","Human","GQ415660.1",1,TRUE
+"Manitoba hapavirus","Manitoba hapavirus",NA,NA,"Added Nov 2018","artsob1991","artsob1991","Manitoba hapavirus",FALSE,NA,"","Woolhouse2018","Orphan","NC_034531.1",1,FALSE
+"Maporal orthohantavirus","Maporal orthohantavirus",0,NA,"Added Nov 2018","milazzo2010",NA,"Maporal orthohantavirus",FALSE,NA,"","Woolhouse2018","Orphan","NC_034553.1; NC_034552.1; NC_034566.1",1,FALSE
+"Marco hapavirus","Marco hapavirus",NA,NA,"Added Nov 2018","causey1966",NA,"Marco hapavirus",FALSE,NA,"","Woolhouse2018","Reptile","NC_034530.1",1,FALSE
+"Mariental mammarenavirus","Mariental mammarenavirus",0,NA,"Added Nov 2018","witkowski2015",NA,"Mariental mammarenavirus",FALSE,NA,"","Woolhouse2018","Orphan","NC_027136.1; NC_027134.1",0,FALSE
+"Meaban virus","Meaban virus",1,"Tick","Added Nov 2018","arnal2014","chambers2003","Meaban virus",FALSE,NA,"","Woolhouse2018","Charadriiformes","NC_033721.1",1,FALSE
+"Melegrivirus A","Melegrivirus A",0,NA,"Added Nov 2018","honkavuori2011",NA,"Megrivirus A",FALSE,NA,"","Woolhouse2018","Orphan","NC_023858.1",1,FALSE
+"Micromonas pusilla reovirus","Micromonas pusilla reovirus",NA,NA,"Added Nov 2018",NA,NA,"Micromonas pusilla reovirus",FALSE,NA,"","Woolhouse2018","Protist","NC_008171.1; NC_008172.1; NC_008173.1; NC_008174.1; NC_008175.1; NC_008176.1; NC_008177.1; NC_008178.1; NC_008179.1; NC_008180.1; NC_008181.1",1,FALSE
+"Mikumi yellow baboon virus 1","Mikumi yellow baboon virus 1",0,NA,"Added Nov 2018","kuhn2016",NA,"Thetaarterivirus mikelba 1",FALSE,NA,"","Woolhouse2018","NonHumanPrimate","NC_025112.1",1,FALSE
+"Miniopterus bat coronavirus 1","Miniopterus bat coronavirus 1",0,NA,"Added Nov 2018","chu2006",NA,"Miniopterus bat coronavirus 1",FALSE,NA,"","Woolhouse2018","Vespbat","EU420138.1",1,FALSE
+"Mink coronavirus 1","Mink coronavirus 1",0,NA,"Added Nov 2018","vlasova2011",NA,"Mink coronavirus 1",FALSE,NA,"","Woolhouse2018","Carnivore","NC_023760.1",1,FALSE
+"Montano orthohantavirus","Montano orthohantavirus",0,NA,"Added Nov 2018","saasa2012",NA,"Montano orthohantavirus",FALSE,NA,"","Woolhouse2018","Rodent","NC_034403.1; NC_034397.1; NC_034396.1",1,FALSE
+"Morreton vesiculovirus","Morreton vesiculovirus",NA,NA,"Added Nov 2018",NA,NA,"Morreton vesiculovirus",FALSE,NA,"","Woolhouse2018",NA,"NC_034508.1",1,FALSE
+"Mosavirus A","Mosavirus A",0,NA,"Added Nov 2018","reuter2014",NA,"Mosavirus A",FALSE,NA,"","Woolhouse2018","Orphan","NC_023987.1",1,FALSE
+"Mosqueiro hapavirus","Mosqueiro hapavirus",NA,NA,"Added Nov 2018",NA,NA,"Mosqueiro hapavirus",FALSE,NA,"","Woolhouse2018",NA,"NC_034448.1",1,FALSE
+"Mossuril hapavirus","Mossuril hapavirus",1,"Mosquito","Added Nov 2018",NA,"Vasilakis2016","Mossuril hapavirus",FALSE,NA,"","Woolhouse2018",NA,"NC_038275.1",1,FALSE
+"MPoko orthobunyavirus","MPoko orthobunyavirus",1,"Mosquito","Added Nov 2018","hubalek2008","hubalek2008","MPoko orthobunyavirus",FALSE,NA,"","Woolhouse2018","Anseriformes","AM711133.1",0,FALSE
+"Mycoreovirus 1","Mycoreovirus 1",NA,NA,"Added Nov 2018",NA,NA,"Mycoreovirus 1",FALSE,NA,"","Woolhouse2018","Fungi","NC_010743.1; NC_010744.1; NC_010745.1; NC_038657.1; NC_010746.1; NC_010747.1; NC_010748.1; NC_010749.1; NC_010750.1; NC_010751.1; NC_010752.1; NC_010753.1",1,FALSE
+"Mycoreovirus 3","Mycoreovirus 3",NA,NA,"Added Nov 2018",NA,NA,"Mycoreovirus 3",FALSE,NA,"","Woolhouse2018","Fungi","NC_007535.1; NC_007533.1; NC_007536.1; NC_007524.1; NC_007534.1; NC_007525.1; NC_007526.1; NC_007527.1; NC_007528.1; NC_007529.1; NC_007531.1; NC_007532.1",1,FALSE
+"Nairobi sheep disease orthonairovirus","Nairobi sheep disease orthonairovirus",1,"Tick","Added Nov 2018","baron2015","baron2015","Nairobi sheep disease orthonairovirus",FALSE,NA,"","Woolhouse2018","Artiodactyl","NC_034387.1; NC_034391.1; NC_034386.1",1,FALSE
+"Necocli orthohantavirus","Necocli orthohantavirus",0,NA,"Added Nov 2018","montoya-ruiz2015",NA,"Necocli orthohantavirus",FALSE,NA,"","Woolhouse2018","Orphan","KF494345.1; KF481954.1",0,FALSE
+"Nilaparvata lugens reovirus","Nilaparvata lugens reovirus",1,"Planthopper","Added Nov 2018","nakashima1995","nakashima1995","Nilaparvata lugens reovirus",FALSE,NA,"","Woolhouse2018","Insect","NC_003654.1; NC_003655.1; NC_003656.1; NC_003657.1; NC_003658.1; NC_003659.1; NC_003660.1; NC_003653.1; NC_003661.1; NC_003652.1",1,FALSE
+"Nishimuro ledantevirus","Nishimuro ledantevirus",NA,NA,"Added Nov 2018","sakai2015",NA,"Nishimuro ledantevirus",FALSE,NA,"","Woolhouse2018","Orphan","NC_038276.1",1,FALSE
+"Nkolbisson ledantevirus","Nkolbisson ledantevirus",NA,NA,"Added Nov 2018",NA,NA,"Nkolbisson ledantevirus",FALSE,NA,"","Woolhouse2018",NA,"NC_034539.1",1,FALSE
+"Nova orthohantavirus","Nova orthohantavirus",0,NA,"Added Nov 2018","﻿Gu2014",NA,"Nova mobatvirus",FALSE,NA,"","Woolhouse2018","Eulipotyphla","NC_034465.1; NC_034470.1; NC_034464.1",1,FALSE
+"Oat sterile dwarf virus","Oat sterile dwarf virus",NA,NA,"Added Nov 2018",NA,NA,"Oat sterile dwarf virus",FALSE,NA,"","Woolhouse2018","Plant","NC_038655.1; NC_038653.1; NC_038656.1; NC_038654.1",0,FALSE
+"Okahandja mammarenavirus","Okahandja mammarenavirus",0,NA,"Added Nov 2018","witkowski2015",NA,"Okahandja mammarenavirus",FALSE,NA,"","Woolhouse2018","Orphan","NC_027137.1; NC_027135.1",1,FALSE
+"Orchid fleck dichorhavirus","Orchid fleck dichorhavirus",NA,NA,"Added Nov 2018",NA,NA,"Orchid fleck dichorhavirus",FALSE,NA,"","Woolhouse2018","Plant","NC_009608.1; NC_009609.1",1,FALSE
+"Ord River hapavirus","Ord River hapavirus",NA,NA,"Added Nov 2018",NA,NA,"Ord River hapavirus",FALSE,NA,"","Woolhouse2018",NA,"NC_034543.1",1,FALSE
+"Oxbow orthohantavirus","Oxbow orthohantavirus",0,NA,"Added Nov 2018","kang2009",NA,"Oxbow orthohantavirus",FALSE,NA,"","Woolhouse2018","Orphan","FJ539167.1; FJ539166.1",0,FALSE
+"Parechovirus C","Parechovirus C",0,NA,"Added Nov 2018","joffret2013",NA,"Parechovirus C",FALSE,NA,"","Woolhouse2018","Orphan","NC_021482.1",1,FALSE
+"Parechovirus D","Parechovirus D",0,NA,"Added Nov 2018","smits2013",NA,"Parechovirus D",FALSE,NA,"","Woolhouse2018","Orphan","NC_034453.1",1,FALSE
+"Parry Creek hapavirus","Parry Creek hapavirus",NA,NA,"Added Nov 2018","liehne1981","liehne1981","Parry Creek hapavirus",FALSE,NA,"","Woolhouse2018","Orphan","NC_034449.1",1,FALSE
+"Pasivirus A","Pasivirus A",0,NA,"Added Nov 2018","sauvage2012",NA,"Pasivirus A",FALSE,NA,"","Woolhouse2018","Artiodactyl","NC_018226.1",1,FALSE
+"Passeriform 1 bornavirus","Passeriform 1 bornavirus",0,NA,"Added Nov 2018","rubbenstroth2016",NA,"Passeriform 1 orthobornavirus",FALSE,NA,"","Woolhouse2018","Passeriformes","NC_030690.1",1,FALSE
+"Passeriform 2 bornavirus","Passeriform 2 bornavirus",0,NA,"Added Nov 2018","rubbenstroth2014",NA,"Passeriform 2 orthobornavirus",FALSE,NA,"","Woolhouse2018","Orphan","NC_038268.1",0,FALSE
+"Passerivirus A","Passerivirus A",NA,NA,"Added Nov 2018","woo2010",NA,"Passerivirus A",FALSE,NA,"","Woolhouse2018","Passeriformes","NC_014411.1",1,FALSE
+"Pebjah virus","Pebjah virus",0,NA,"Added Nov 2018","kuhn2016",NA,"Deltaarterivirus pejah",FALSE,NA,"","Woolhouse2018","Orphan","NC_027124.1",1,FALSE
+"Pegivirus B","Pegivirus B",NA,NA,"Added Nov 2018","epstein2010; quan2013",NA,"Pegivirus B",FALSE,NA,"","Woolhouse2018","Orphan","NC_030291.1",1,FALSE
+"Pegivirus D","Pegivirus D",NA,NA,"Added Nov 2018","postel2016",NA,"Pegivirus D",FALSE,NA,"","Woolhouse2018","Orphan","NC_038433.1",1,FALSE
+"Pegivirus F","Pegivirus F",NA,NA,"Added Nov 2018","quan2013",NA,"Pegivirus F",FALSE,NA,"","Woolhouse2018","Orphan","NC_038434.1",1,FALSE
+"Pegivirus G","Pegivirus G",NA,NA,"Added Nov 2018","quan2013",NA,"Pegivirus G",FALSE,NA,"","Woolhouse2018","Orphan","NC_038435.1",1,FALSE
+"Pegivirus I","Pegivirus I",NA,NA,"Added Nov 2018","quan2013",NA,"Pegivirus I",FALSE,NA,"","Woolhouse2018","Orphan","NC_038437.1",1,FALSE
+"Pegivirus J","Pegivirus J",NA,NA,"Added Nov 2018","kapoor2013",NA,"Pegivirus J",FALSE,NA,"","Woolhouse2018","Orphan","KC815311.1",1,FALSE
+"Pegivirus K","Pegivirus K",NA,NA,"Added Nov 2018","baechlein2016",NA,"Pegivirus K",FALSE,NA,"","Woolhouse2018","Orphan","NC_034442.1",1,FALSE
+"Phasi Charoen-like phasivirus","Phasi Charoen-like phasivirus",1,"Mosquito","Added Nov 2018","chandler2014","chandler2014","Phasi Charoen-like phasivirus",FALSE,NA,"","Woolhouse2018","Insect","NC_038262.1; NC_038261.1; NC_038263.1",1,FALSE
+"Piscine orthoreovirus","Piscine orthoreovirus",NA,NA,"Added Nov 2018",NA,NA,"Piscine orthoreovirus",FALSE,NA,"","Woolhouse2018","Fish","NC_036468.1; NC_036477.1; NC_036476.1; NC_036471.1; NC_036469.1; NC_036470.1; NC_036473.1; NC_036474.1; NC_036472.1; NC_036475.1",1,FALSE
+"Porcine reproductive and respiratory syndrome virus 2","Porcine reproductive and respiratory syndrome virus 2",0,NA,"Added Nov 2018","Knipe2013",NA,"Betaarterivirus suid 2",FALSE,NA,"","Woolhouse2018","Artiodactyl","NC_038291.1",1,FALSE
+"Potamipivirus A","Potamipivirus A",NA,NA,"Added Nov 2018",NA,NA,"Potamipivirus A",FALSE,NA,"","Woolhouse2018","Fish","NC_022332.1",1,FALSE
+"Psittaciform 1 bornavirus","Psittaciform 1 bornavirus",0,NA,"Added Nov 2018","rubbenstroth2016",NA,"Psittaciform 1 orthobornavirus",FALSE,NA,"","Woolhouse2018","Psittaciformes","NC_030688.1",1,FALSE
+"Psittaciform 2 bornavirus","Psittaciform 2 bornavirus",0,NA,"Added Nov 2018","marton2015",NA,"Psittaciform 2 orthobornavirus",FALSE,NA,"","Woolhouse2018","Orphan","NC_039190.1",1,FALSE
+"Quezon orthohantavirus","Quezon orthohantavirus",0,NA,"Added Nov 2018","arai2016",NA,"Quezon mobatvirus",FALSE,NA,"","Woolhouse2018","Orphan","NC_034401.1; NC_034393.1; NC_034400.1",1,FALSE
+"Rabbit picobirnavirus","Rabbit picobirnavirus",0,NA,"Added Nov 2018","krishnamurthy2018",NA,"Rabbit picobirnavirus",FALSE,NA,"","Woolhouse2018","Orphan","NC_038919.1",1,FALSE
+"Rabovirus A","Rabovirus A",0,NA,"Added Nov 2018","ng2015",NA,"Rabovirus A",FALSE,NA,"","Woolhouse2018","Rodent","NC_026314.1",1,FALSE
+"Radi vesiculovirus","Radi vesiculovirus",NA,NA,"Added Nov 2018",NA,NA,"Radi vesiculovirus",FALSE,NA,"","Woolhouse2018",NA,"NC_038287.1",1,FALSE
+"Rat arterivirus 1","Rat arterivirus 1",NA,NA,"Added Nov 2018","wu2018",NA,"Betaarterivirus chinrav 1",FALSE,NA,"","Woolhouse2018","Orphan","NC_028963.1",1,FALSE
+"Reptilian orthoreovirus","Reptilian orthoreovirus",NA,NA,"Added Nov 2018",NA,NA,"Reptilian orthoreovirus",FALSE,NA,"","Woolhouse2018","Reptile","NC_023813.1; NC_023814.1; NC_023819.1; NC_023816.1; NC_023815.1; NC_023820.1; NC_023822.1; NC_023821.1; NC_023817.1; NC_023818.1",1,FALSE
+"Reticuloendotheliosis virus","Reticuloendotheliosis virus",0,NA,"Added Nov 2018","pattison2007",NA,"Reticuloendotheliosis virus",FALSE,NA,"","Woolhouse2018","Galliformes","NC_006934.1",1,FALSE
+"Rice black streaked dwarf virus","Rice black streaked dwarf virus",NA,NA,"Added Nov 2018",NA,NA,"Rice black streaked dwarf virus",FALSE,NA,"","Woolhouse2018","Plant","NC_003728.1; NC_003729.1; NC_003730.1; NC_003731.1; NC_003732.1; NC_003733.1; NC_003734.1; NC_003735.1; NC_003736.1; NC_003737.1",1,FALSE
+"Rice dwarf virus","Rice dwarf virus",NA,NA,"Added Nov 2018",NA,NA,"Rice dwarf virus",FALSE,NA,"","Woolhouse2018","Plant","NC_003760.1; NC_003761.1; NC_003762.1; NC_003763.1; NC_003764.1; NC_003765.1; NC_003766.1; NC_003767.1; NC_003768.1; NC_003772.1; NC_003773.1; NC_003774.1",1,FALSE
+"Rice gall dwarf virus","Rice gall dwarf virus",NA,NA,"Added Nov 2018",NA,NA,"Rice gall dwarf virus",FALSE,NA,"","Woolhouse2018","Plant","NC_009245.1; NC_009241.1; NC_009248.1; NC_009242.1; NC_009249.1; NC_009243.1; NC_009250.1; NC_009244.1; NC_009251.1; NC_009252.1; NC_009246.1; NC_009247.1",1,FALSE
+"Rice grassy stunt tenuivirus","Rice grassy stunt tenuivirus",NA,NA,"Added Nov 2018",NA,NA,"Rice grassy stunt tenuivirus",FALSE,NA,"","Woolhouse2018","Plant","NC_002327.1; NC_002323.1; NC_002328.1; NC_002324.1; NC_002325.1; NC_002326.1",1,FALSE
+"Rice hoja blanca tenuivirus","Rice hoja blanca tenuivirus",NA,NA,"Added Nov 2018",NA,NA,"Rice hoja blanca tenuivirus",FALSE,NA,"","Woolhouse2018","Plant","NC_036597.1; NC_036598.1; NC_036602.1; NC_036599.1",1,FALSE
+"Rice ragged stunt virus","Rice ragged stunt virus",NA,NA,"Added Nov 2018",NA,NA,"Rice ragged stunt virus",FALSE,NA,"","Woolhouse2018","Plant","NC_003759.1; NC_003757.1; NC_003749.1; NC_003769.1; NC_003750.1; NC_003751.1; NC_003771.1; NC_003752.1; NC_003770.1; NC_003758.1",1,FALSE
+"Rice stripe tenuivirus","Rice stripe tenuivirus",NA,NA,"Added Nov 2018",NA,NA,"Rice stripe tenuivirus",FALSE,NA,"","Woolhouse2018","Plant","NC_003755.1; NC_003754.1; NC_003776.1; NC_003753.1",1,FALSE
+"Rochambeau curiovirus","Rochambeau curiovirus",NA,NA,"Added Nov 2018",NA,NA,"Rochambeau curiovirus",FALSE,NA,"","Woolhouse2018",NA,"NC_034534.1",1,FALSE
+"Rockport orthohantavirus","Rockport orthohantavirus",NA,NA,"Added Nov 2018","kang2011",NA,"Rockport orthohantavirus",FALSE,NA,"","Woolhouse2018","Orphan","NC_038695.1; NC_038694.1; NC_038696.1",1,FALSE
+"Rosavirus A","Rosavirus A",NA,NA,"Added Nov 2018","lim2014",NA,"Rosavirus A",FALSE,NA,"","Woolhouse2018","Orphan","NC_024070.1",1,FALSE
+"Rotavirus D","Rotavirus D",0,NA,"Added Nov 2018","pattison2007",NA,"Rotavirus D",FALSE,NA,"","Woolhouse2018","Galliformes","NC_014511.1; NC_014512.1; NC_014513.1; NC_014514.1; NC_014515.1; NC_014516.1; NC_014517.1; NC_014518.1; NC_014519.1; NC_014520.1; NC_014521.1",1,FALSE
+"Rotavirus F","Rotavirus F",0,NA,"Added Nov 2018","dhama2015",NA,"Rotavirus F",FALSE,NA,"","Woolhouse2018","Galliformes","NC_021625.1; NC_021626.1; NC_021631.1; NC_021630.1; NC_021632.1; NC_021635.1; NC_021633.1; NC_021628.1; NC_021627.1; NC_021629.1; NC_021634.1",1,FALSE
+"Rotavirus G","Rotavirus G",0,NA,"Added Nov 2018","dhama2015",NA,"Rotavirus G",FALSE,NA,"","Woolhouse2018","Galliformes","NC_021590.1; NC_021580.1; NC_021581.1; NC_021589.1; NC_021583.1; NC_021588.1; NC_021585.1; NC_021584.1; NC_021582.1; NC_021586.1; NC_021587.1",1,FALSE
+"Rotavirus I","Rotavirus I",0,NA,"Added Nov 2018","phan2017",NA,"Rotavirus I",FALSE,NA,"","Woolhouse2018","Orphan","NC_026825.2; NC_026826.2; NC_026828.2; NC_026827.2; NC_026820.2; NC_026829.2; NC_026821.2; NC_026822.2; NC_026830.2; NC_026823.2; NC_026824.2",1,FALSE
+"Sakhalin orthonairovirus","Sakhalin orthonairovirus",1,"Tick","Added Nov 2018","lvov2015","Knipe2013","Sakhalin orthonairovirus",FALSE,NA,"","Woolhouse2018","Charadriiformes","KU925494.1; KU925495.1; KU925496.1",1,FALSE
+"Sangassou orthohantavirus","Sangassou orthohantavirus",0,NA,"Added Nov 2018","klempa2006",NA,"Sangassou orthohantavirus",FALSE,TRUE,"20187741; 22278233","Woolhouse2018","Orphan","NC_034517.1; NC_034516.1; NC_034526.1",1,FALSE
+"Sapelovirus B","Sapelovirus B",0,NA,"Added Nov 2018","oberste2003",NA,"Sapelovirus B",FALSE,NA,"","Woolhouse2018","NonHumanPrimate","NC_004451.1",1,FALSE
+"Saumarez Reef virus","Saumarez Reef virus",1,"Tick","Added Nov 2018","dobler2010","Labuda2004","Saumarez Reef virus",FALSE,NA,"","Woolhouse2018","Orphan","NC_033726.1",1,FALSE
+"Sea trout perhabdovirus","Sea trout perhabdovirus",NA,NA,"Added Nov 2018",NA,NA,"Sea trout perhabdovirus",FALSE,NA,"","Woolhouse2018","Fish","NC_038277.1",0,FALSE
+"Sena Madureira sripuvirus","Sena Madureira sripuvirus",NA,NA,"Added Nov 2018",NA,NA,"Sena Madureira sripuvirus",FALSE,NA,"","Woolhouse2018","Reptile","NC_034529.1",1,FALSE
+"Senecavirus A","Senecavirus A",0,NA,"Added Nov 2018","hause2016",NA,"Senecavirus A",FALSE,NA,"","Woolhouse2018","Artiodactyl","NC_011349.1",1,FALSE
+"Shuangao insect herbevirus 1","Shuangao insect herbevirus 1",NA,NA,"Added Nov 2018",NA,NA,"Insect shangavirus",FALSE,NA,"","Woolhouse2018","Insect","NC_031221.1; NC_031222.1; NC_031223.1",1,FALSE
+"Simian hemorrhagic encephalitis virus","Simian hemorrhagic encephalitis virus",0,NA,"Added Nov 2018","kuhn2016",NA,"Epsilonarterivirus hemcep",FALSE,NA,"","Woolhouse2018","Orphan","NC_038293.1",1,FALSE
+"Solwezi mammarenavirus","Solwezi mammarenavirus",NA,NA,"Added Nov 2018",NA,NA,"Solwezi mammarenavirus",FALSE,NA,"","Woolhouse2018",NA,"NC_038366.1; NC_038367.1",1,FALSE
+"Southern rice black-streaked dwarf virus","Southern rice black-streaked dwarf virus",NA,NA,"Added Nov 2018",NA,NA,"Southern rice black-streaked dwarf virus",FALSE,NA,"","Woolhouse2018","Plant","NC_014712.1; NC_014708.1; NC_014713.1; NC_014709.1; NC_014714.1; NC_014710.1; NC_014715.1; NC_014711.1; NC_014716.1; NC_014717.1",1,FALSE
+"Sowthistle yellow vein nucleorhabdovirus","Sowthistle yellow vein nucleorhabdovirus",NA,NA,"Added Nov 2018",NA,NA,"Sowthistle yellow vein nucleorhabdovirus",FALSE,NA,"","Woolhouse2018","Plant","MH101753.1",0,FALSE
+"Sripur sripuvirus","Sripur sripuvirus",NA,NA,"Added Nov 2018",NA,NA,"Sripur sripuvirus",FALSE,NA,"","Woolhouse2018","Reptile","NC_034542.1",1,FALSE
+"St Croix River virus","St Croix River virus",1,"Tick","Added Nov 2018","bell-sakyi2013","bell-sakyi2013","St Croix River virus",FALSE,NA,"","Woolhouse2018","Insect","NC_005997.1; NC_005998.1; NC_005999.1; NC_006000.1; NC_006001.1; NC_006002.1; NC_006003.1; NC_006004.1; NC_006005.1; NC_006006.1",1,FALSE
+"Strawberry crinkle cytorhabdovirus","Strawberry crinkle cytorhabdovirus",NA,NA,"Added Nov 2018",NA,NA,"Strawberry crinkle cytorhabdovirus",FALSE,NA,"","Woolhouse2018","Plant","MH129615.1",1,FALSE
+"Sweetwater Branch tibrovirus","Sweetwater Branch tibrovirus",NA,NA,"Added Nov 2018",NA,NA,"Sweetwater Branch tibrovirus",FALSE,NA,"","Woolhouse2018",NA,"NC_034546.1",1,FALSE
+"Tai herbevirus","Tai herbevirus",NA,NA,"Added Nov 2018",NA,NA,"Tai herbevirus",FALSE,NA,"","Woolhouse2018","Insect","NC_034459.1; NC_034461.1; NC_034457.1",1,FALSE
+"Tellina virus","Tellina virus",NA,NA,"Added Nov 2018",NA,NA,"Tellina virus",FALSE,NA,"","Woolhouse2018","Bivalve","NC_038869.1; NC_038870.1",1,FALSE
+"Tete orthobunyavirus","Tete orthobunyavirus",1,"Tick","Added Nov 2018","hubalek2012","hubalek2012","Tete orthobunyavirus",FALSE,NA,"","Woolhouse2018","Passeriformes","KM972719.1; KM972720.1; KM972721.1",1,FALSE
+"Teviot rubulavirus","Teviot rubulavirus",0,NA,"Added Nov 2018","johnson2019",NA,"Teviot pararubulavirus",FALSE,NA,"","Woolhouse2018","Orphan","NC_039198.1",1,FALSE
+"Thimiri orthobunyavirus","Thimiri orthobunyavirus",NA,NA,"Added Nov 2018",NA,"Knipe2013","Thimiri orthobunyavirus",FALSE,NA,"","Woolhouse2018",NA,"MH484336.1; MH484337.1; MH484338.1",1,FALSE
+"Torchivirus A","Torchivirus A",NA,NA,"Added Nov 2018",NA,NA,"Torchivirus A",FALSE,NA,"","Woolhouse2018","Reptile","NC_025890.1",1,FALSE
+"Trocara virus","Trocara virus",1,"Mosquito","Added Nov 2018","calampa2001","calampa2001","Trocara virus",FALSE,NA,"","Woolhouse2018","Orphan","HM147991.1",0,FALSE
+"Umatilla virus","Umatilla virus",1,"Mosquito","Added Nov 2018","ejiri2014","Attoui2015","Umatilla virus",FALSE,NA,"","Woolhouse2018","Orphan","NC_024503.1; NC_024504.1; NC_024505.1; NC_024506.1; NC_024507.1; NC_024508.1; NC_024509.1; NC_024510.1; NC_024499.1; NC_024500.1",1,FALSE
+"Urochloa hoja blanca tenuivirus","Urochloa hoja blanca tenuivirus",NA,NA,"Added Nov 2018",NA,NA,"Urochloa hoja blanca tenuivirus",FALSE,NA,"","Woolhouse2018","Plant","NC_038757.1; NC_038758.1",0,FALSE
+"Walleye dermal sarcoma virus","Walleye dermal sarcoma virus",NA,NA,"Added Nov 2018",NA,NA,"Walleye dermal sarcoma virus",FALSE,NA,"","Woolhouse2018","Fish","NC_001867.1",1,FALSE
+"Walleye epidermal hyperplasia virus 1","Walleye epidermal hyperplasia virus 1",NA,NA,"Added Nov 2018",NA,NA,"Walleye epidermal hyperplasia virus 1",FALSE,NA,"","Woolhouse2018","Fish","AF133051.1",0,FALSE
+"Walleye epidermal hyperplasia virus 2","Walleye epidermal hyperplasia virus 2",NA,NA,"Added Nov 2018",NA,NA,"Walleye epidermal hyperplasia virus 2",FALSE,NA,"","Woolhouse2018","Fish","AF133052.1",0,FALSE
+"Waterbird 1 bornavirus","Waterbird 1 bornavirus",NA,NA,"Added Nov 2018","rubbenstroth2016",NA,"Waterbird 1 orthobornavirus",FALSE,NA,"","Woolhouse2018","Anseriformes","NC_029642.1",1,FALSE
+"Wobbly possum disease virus","Wobbly possum disease virus",NA,NA,"Added Nov 2018",NA,NA,"Kappaarterivirus wobum",FALSE,NA,"","Woolhouse2018","Diprotodontia","NC_026811.2",1,FALSE
+"Wound tumor virus","Wound tumor virus",NA,NA,"Added Nov 2018",NA,NA,"Wound tumor virus",FALSE,NA,"","Woolhouse2018","Plant","NC_038948.1; NC_038944.1; NC_038949.1; NC_038945.1; NC_038951.1; NC_038946.1; NC_038950.1; NC_038947.1; NC_038952.1",1,FALSE
+"Wuhan fly phasivirus","Wuhan fly phasivirus",NA,NA,"Added Nov 2018",NA,NA,"Fly wubeivirus",FALSE,NA,"","Woolhouse2018","Insect","NC_031298.1; NC_031295.1; NC_031297.1",1,FALSE
+"Wuhan ledantevirus","Wuhan ledantevirus",NA,NA,"Added Nov 2018","li2015","li2015","Wuhan ledantevirus",FALSE,NA,"","Woolhouse2018","Orphan","NC_031301.1",1,FALSE
+"Wutai mosquito phasivirus","Wutai mosquito phasivirus",NA,NA,"Added Nov 2018",NA,NA,"Wutai mosquito phasivirus",FALSE,NA,"","Woolhouse2018","Insect","NC_031317.1; NC_031318.1; NC_031319.1",1,FALSE
+"Yakeshi orthohantavirus","Yakeshi orthohantavirus",0,NA,"Added Nov 2018","guo2013",NA,"Yakeshi orthohantavirus",FALSE,NA,"","Woolhouse2018","Orphan","NC_038705.1; NC_038704.1",0,FALSE
+"Yaounde virus","Yaounde virus",1,"Mosquito","Added Nov 2018",NA,"smith2017","Yaounde virus",FALSE,NA,"","Woolhouse2018",NA,"NC_034018.1",1,FALSE
+"Yata ephemerovirus","Yata ephemerovirus",NA,NA,"Added Nov 2018","blasdell2014","blasdell2014","Yata ephemerovirus",FALSE,NA,"","Woolhouse2018","Orphan","NC_028241.1",1,FALSE
+"Yellowtail ascites virus","Yellowtail ascites virus",NA,NA,"Added Nov 2018",NA,NA,"Yellowtail ascites virus",FALSE,NA,"","Woolhouse2018","Fish","NC_004168.1; NC_004176.1",1,FALSE
+"Yichang insect goukovirus","Yichang insect goukovirus",NA,NA,"Added Nov 2018",NA,NA,"Yichang insect goukovirus",FALSE,NA,"","Woolhouse2018","Insect","NC_031320.1; NC_031321.1; NC_031322.1",1,FALSE
+"Yongjia ledantevirus","Yongjia ledantevirus",NA,NA,"Added Nov 2018","li2015","li2015","Yongjia ledantevirus",FALSE,NA,"","Woolhouse2018","Orphan","NC_031305.1",1,FALSE
+"Yunnan orbivirus","Yunnan orbivirus",1,"Mosquito","Added Nov 2018","attoui2009","Attoui2015","Yunnan orbivirus",FALSE,NA,"","Woolhouse2018","Orphan","NC_007656.1; NC_007657.1; NC_007658.1; NC_007659.1; NC_007660.1; NC_007661.1; NC_007662.1; NC_007663.1; NC_007664.1; NC_007665.1",1,FALSE
