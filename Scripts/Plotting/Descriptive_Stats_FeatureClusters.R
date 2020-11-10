@@ -6,8 +6,6 @@ library(tidyr)
 library(apcluster)
 library(stringr)
 
-N_TOP <- 25  # Number of clusters displayed in figure 2 (not currently used, but stats for this given at end)
-
 source(file.path('Utils', 'plot_utils.R'))
 
 ## Load clusters
@@ -20,19 +18,19 @@ top_clusters <- clusterdata %>%
 final_features <- clusterdata %>% 
 	id_variable_types('Member')
 
-n_features <- length(final_features$Member)
-
 
 # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 # Number of clusters
 # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-length(unique(clusterdata$Label))
+clusterdata <- clusterdata %>% 
+	add_count(.data$Cluster, name = 'N_members')
 
+cat("Total clusters: ", length(unique(clusterdata$Label)), "\n")
+cat("Clusters with at least 3 members: ", length(unique(clusterdata$Label[clusterdata$N_members >= 3])), "\n")
 
 # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 # Cluster composition
 # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
 composition <- clusterdata %>% 
 	id_variable_types('Member') %>% 
 	mutate(MeasureType = str_remove(.data$MeasureType, 'Non-bridge '),
@@ -77,10 +75,10 @@ View(composition)
 get_exemplar_ratio <- function(cluster_data, grouping_cols, all_feature_data = final_features) {
 	dinuc_names <- c("Dinucleotide bias", "Bridge dinucleotide bias", "Non-bridge dinucleotide bias")
 	cluster_data <- cluster_data %>% 
-		add_count(.data$Cluster, name = 'N_members') %>% 
 		filter(.data$N_members >= 3)
 	
 	n_clusters <- length(unique(cluster_data$Cluster))
+	n_features <- length(cluster_data$Member)
 	
 	retained_freq <- all_feature_data %>% 
 		filter(.data$Member %in% cluster_data$Member) %>%   # Remove features belonging to the small clusters removed above
@@ -89,7 +87,7 @@ get_exemplar_ratio <- function(cluster_data, grouping_cols, all_feature_data = f
 		group_by_at(vars(grouping_cols)) %>% 
 		summarise(N_retained = n())
 	
-	cluster_data %>% 
+	result <- cluster_data %>% 
 		distinct(.data$Exemplar) %>% 
 		id_variable_types('Exemplar') %>% 
 		mutate(MeasureType_collapsed = if_else(.data$MeasureType %in% dinuc_names,
@@ -101,14 +99,16 @@ get_exemplar_ratio <- function(cluster_data, grouping_cols, all_feature_data = f
 					 Expected_Prop = .data$N_retained / n_features,
 					 Obs_exp = .data$Prop / .data$Expected_Prop) %>% 
 		arrange(-.data$Prop)
+	
+	stopifnot(sum(result$Expected_Prop) == 1)  # Check calculations
+	stopifnot(sum(result$Prop) == 1)
+	
+	result
 }
 
 
 ## Feature origin (gene):
 get_exemplar_ratio(clusterdata, 'Gene')  # All clusters
-
-## Are the clusters we show in the figure representative of this pattern?
-get_exemplar_ratio(top_clusters, 'Gene')
 
 
 ## Measure types:
