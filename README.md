@@ -15,7 +15,7 @@ For a list of priority categories and ranks for all viruses in the paper, see __
 
 ## Requirements
 - [R](https://www.r-project.org/) (tested using version 3.5.1)
-   - All required R libraries should be installed automatically by `renv`
+   - Install required R libraries using `Rscript -e "renv::hydrate()"`
 - [Python](https://www.python.org/) (version >=3.6)
    - [Biopython](https://biopython.org/)
    - [Pandas](https://pandas.pydata.org/)
