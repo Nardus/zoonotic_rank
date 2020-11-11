@@ -569,12 +569,12 @@ clean: as_distributed
 
 
 # ----------------------------------------------------------------------------------------
-# Auto document this file (https://swcarpentry.github.io/make-novice/08-self-doc/)
+# Auto document this file 
 #  - Comments above that start with a ? become help strings
 # ----------------------------------------------------------------------------------------
 .PHONY: help
 help: Makefile
-	@sed -n 's/^#\?//p' $<
+	@grep "^#?" $< | cut -c4-
 
 
 # ----------------------------------------------------------------------------------------
