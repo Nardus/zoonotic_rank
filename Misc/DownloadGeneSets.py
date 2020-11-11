@@ -404,7 +404,8 @@ if __name__ == '__main__':
     
     
     # Change to output dir:
-    outDir = os .path.join(scriptPath, DATA_PATH)
+    outDir = os.path.join(scriptPath, DATA_PATH)
+    os.makedirs(outDir, exist_ok=True)
     os.chdir(outDir)
     
     

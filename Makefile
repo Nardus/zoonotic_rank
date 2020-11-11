@@ -55,13 +55,16 @@ download: $(EXTERNALDATAFILES)
 
 
 ExternalData/ICTV_MasterSpeciesList_2016v1.3.xlsx:
+	mkdir -p ExternalData
 	curl -L -o $@ 'https://talk.ictvonline.org/files/master-species-lists/m/msl/6776/download'
 	
 ExternalData/ICTV_MasterSpeciesList_2018b.xlsx:
+	mkdir -p ExternalData
 	curl -L -o $@ 'https://talk.ictvonline.org/files/master-species-lists/m/msl/8266/download'
 
 
 ExternalData/WoolhouseBrierley_2018.xlsx:
+	mkdir -p ExternalData
 	curl -L -o $(@D)/WB2018.zip 'http://datashare.is.ed.ac.uk/download/DS_10283_2970.zip'
 	unzip -u -d $(@D) $(@D)/WB2018.zip 'Woolhouse and Brierley RNA virus database.xlsx'
 	mv $(@D)/'Woolhouse and Brierley RNA virus database.xlsx' $(@D)/WoolhouseBrierley_2018.xlsx
@@ -69,6 +72,7 @@ ExternalData/WoolhouseBrierley_2018.xlsx:
 	rm $(@D)/WB2018.zip
 
 ExternalData/Olival2017.zip:
+	mkdir -p ExternalData
 	curl -L -o $@ 'https://zenodo.org/record/807517/files/ecohealthalliance/HP3-v1.0.9.zip'
 
 ExternalData/Olival2017viruses.csv: ExternalData/Olival2017.zip
@@ -84,6 +88,7 @@ ExternalData/Olival2017associations.csv: ExternalData/Olival2017.zip
 
 # Gene sets:
 ExternalData/HousekeepingGenes.txt:
+	mkdir -p ExternalData
 	curl -L -o $@ 'https://www.tau.ac.il/~elieis/HKG/HK_genes.txt'
 
 
@@ -106,7 +111,7 @@ get_sequences: ExternalData/Sequences/CombinedSequences.fasta
 #?	 3. Download human transcript sequences from Ensembl (get_transcripts)
 # ----------------------------------------------------------------------------------------
 CalculatedData/HumanGeneSets/TranscriptSequences.fasta: InternalData/Shaw2017_raw/ISG_CountsPerMillion_Human.csv \
-                                                         ExternalData/HousekeepingGenes.txt
+                                                        ExternalData/HousekeepingGenes.txt
 	python3 Misc/DownloadGeneSets.py
 
 .PHONY: get_transcripts
@@ -121,6 +126,7 @@ CalculatedData/ZoonoticStatus_Merged.rds: $(EXTERNALDATAFILES) \
 										  InternalData/Taxonomy_UnclassifiedViruses.csv \
 										  InternalData/SourcesOfZoonoses_BabayanZoonotic.csv \
 										  InternalData/NameMatches_All.csv
+	mkdir -p CalculatedData
 	Rscript Scripts/MergeZoonoticStatusData.R
 
 .PHONY: merge_zoonotic_status
@@ -542,24 +548,24 @@ confirm:
 #? Other commands:
 #?	as_distributed: Return directory to the state in which it was distributed
 as_distributed: confirm
-	# TODO: add a confirmation step before deleting all generated content!
-	-rm -r ExternalData
-	-rm -r CalculatedData
-	-rm -r Plots
-	-rm -r Predictions
-	-rm .Renviron
-	find RunData -maxdepth 1 -not -name "AllGenomeFeatures_LongRun" -not -name "PN_LongRun" -delete
-	-rm RunData/AllGenomeFeatures_LongRun/AllGenomeFeatures_LongRun_Bagged_predictions.rds
-	-rm RunData/AllGenomeFeatures_LongRun/AllGenomeFeatures_LongRun_Bagging_AUCs.rds
-	-rm RunData/AllGenomeFeatures_LongRun/AllGenomeFeatures_LongRun_CalculatedData.rds
-	-rm RunData/PN_LongRun/PN_LongRun_Bagged_predictions.rds
-	-rm RunData/PN_LongRun/PN_LongRun_Bagging_AUCs.rds
-	-rm RunData/PN_LongRun/PN_LongRun_CalculatedData.rds
+	-rm -rfv ExternalData
+	-rm -rfv Plots
+	-rm -rfv Predictions
+	-rm -fv .Renviron
+	-find CalculatedData -maxdepth 1 -not -name CalculatedData -not -name GenomicFeatures-*.rds -not -name SplitData_Training.rds -delete
+	-find RunData -maxdepth 1 -not -name -not RunData -name AllGenomeFeatures_LongRun -not -name PN_LongRun -delete
+	-rm -fv RunData/AllGenomeFeatures_LongRun/AllGenomeFeatures_LongRun_Bagged_predictions.rds
+	-rm -fv RunData/AllGenomeFeatures_LongRun/AllGenomeFeatures_LongRun_Bagging_AUCs.rds
+	-rm -fv RunData/AllGenomeFeatures_LongRun/AllGenomeFeatures_LongRun_CalculatedData.rds
+	-rm -fv RunData/PN_LongRun/PN_LongRun_Bagged_predictions.rds
+	-rm -fv RunData/PN_LongRun/PN_LongRun_Bagging_AUCs.rds
+	-rm -fv RunData/PN_LongRun/PN_LongRun_CalculatedData.rds
 
 
 #?	clean: Remove all intermediate files, including those required for predictions (which are distributed)
 clean: as_distributed
-	rm -r RunData
+	-rm -rfv RunData
+	-rm -rfv CalculatedData
 
 
 # ----------------------------------------------------------------------------------------

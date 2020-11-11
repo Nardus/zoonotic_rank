@@ -101,6 +101,7 @@ suppressPackageStartupMessages({
   library(apcluster)
   library(ape)
 	library(betacal)
+	library(EnvStats)
 })
 
 
