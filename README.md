@@ -1,4 +1,4 @@
-# Zoonotic risk assement from viral genomes
+# Zoonotic risk assessment from viral genomes
 
 Code and data used in Mollentze _et al._ (2020) "Identifying and prioritizing potential human-infecting viruses from their genome sequences".
 
@@ -19,8 +19,10 @@ For a list of priority categories and ranks for all viruses in the paper, see __
 - [Python](https://www.python.org/) (version >=3.6)
    - [Biopython](https://biopython.org/)
    - [Pandas](https://pandas.pydata.org/)
+- [Java JDK](https://www.oracle.com/uk/java/technologies/javase-downloads.html) (version >=8)
 
 If repeating all analyses (see below), the [BLAST+ suite of applications](https://www.ncbi.nlm.nih.gov/books/NBK279670/?report=classic) are also required (used for "phylogenetic neighbourhood" analyses and predictions, but not otherwise required). If your R session has trouble finding the BLAST+ executables, run `make update_path` and enter the location of the BLAST executables (e.g. `/usr/local/ncbi/blast/bin`). Making figure S9 requires [iqtree](http://www.iqtree.org/).
+
 
 
 ## Ranking novel viruses
@@ -124,7 +126,8 @@ make clean all
    │                                            unclassified viruses in the 
    │                                            metadata (unused)
    │
-   ├─CalculatedData/ .......................... [*] Intermediate calculations
+   ├─CalculatedData/ .......................... Intermediate calculations ([*], except 
+   │                                            for files required by PredictNovel.R)
    ├─ExternalData/ ............................ [*] Data from external sources, 
    │                                            dowloaded as needed (see Makefile)
    ├─Misc/ .................................... Miscelaneous scripts to download 
