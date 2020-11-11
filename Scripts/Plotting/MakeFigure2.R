@@ -199,90 +199,6 @@ rank_change_plot <- ggplot(rank_change, aes(x = SetLabel, y = Rank, colour = Set
 
 
 # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-# ---- Top features, by measure type --------------------------------------------------------------
-# =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-## Observed vs Expected (for raw/unclustered feature types)
-## - Do this calculation for each iteration, so we get an indication of variability across test sets
-
-# ## Summarise at individual feature level (across all test set viruses in that iteration):
-# make_iteration_summary <- function(varimps, iteration, fits = model_fits, by_class = TRUE) {
-# 	# Pre-summarise individual iterations to reduce memory usage:
-# 	# Here, calculating importance of *individual features* (and optionally for each 
-# 	# transmission class) in each iteration:
-# 	train_names <- data.frame(LatestSppName = fits[[iteration]]$trainingNames,
-# 														stringsAsFactors = FALSE) %>% 
-# 		mutate(RowID = 1:n())
-# 	
-# 	if (by_class) {
-# 		varimps <- varimps %>% 
-# 			left_join(train_names, by = 'RowID') %>% 
-# 			left_join(zoo_status, by = 'LatestSppName')
-# 		
-# 		varimps <- varimps %>% 
-# 			group_by(.data$Feature, .data$Class)	
-# 		
-# 	} else {
-# 		varimps <- varimps %>% 
-# 			group_by(.data$Feature)
-# 	}
-# 	
-# 	varimps %>% 
-# 		summarise(MeanAbsoluteSHAP = mean(abs(.data$SHAP))) %>% 
-# 		ungroup()
-# }
-# 
-# Re-calculate varimps, this time without splitting by infection class (human/zoonotic/other)
-# varimp_per_iteration2 <- mapply(make_iteration_summary,
-# 																varimps = varimp_raw,
-# 																iteration = names(varimp_raw),
-# 																MoreArgs = list(by_class = FALSE),
-# 																SIMPLIFY = FALSE) %>% 
-# 	bind_rows(.id = 'Iteration')
-# 
-# 
-# # Obs/exp calculations similar to above, but grouping differs:
-# measuretype_obs_exp <- data.frame(Feature = available_features,
-# 																	stringsAsFactors = FALSE) %>% 
-# 	left_join(varimp_per_iteration2, by = c('Feature')) %>% 
-# 	id_variable_types('Feature') %>% 
-# 	
-# 	group_by(.data$Iteration) %>% 
-# 	mutate(Rank = rank(-.data$MeanAbsoluteSHAP, ties.method = 'random', na.last = 'keep'),
-# 				 Rank = ifelse(is.na(.data$Rank), Inf, .data$Rank)) %>% 
-# 	
-# 	group_by(.data$Iteration, .data$VariableType, .data$Gene, .data$MeasureType) %>%
-# 	summarise(observed = sum(.data$Rank <= OBS_EXP_CUTOFF, na.rm = TRUE),
-# 						n_in_class = n()) %>%
-# 	mutate(expected_proportion = .data$n_in_class / n_total_features,
-# 				 observed_proportion = .data$observed / OBS_EXP_CUTOFF,
-# 				 ObsvExp = .data$observed_proportion / .data$expected_proportion)
-# 
-# 
-# measuretype_obs_exp <- measuretype_obs_exp %>% 
-# 	id_feature_set() %>% 
-# 	mutate(SetName = factor(.data$SetName, levels = FEATURE_SET_ORDER, labels = FEATURE_SET_LABELS),
-# 				 MeasureType = factor(.data$MeasureType, levels = MEASURE_TYPE_ORDER, labels = MEASURE_TYPE_LABELS))
-# 
-# # Plot
-# # - Note for legend: within each facet panel, input (and hence expected-) proportions are equal
-# # (comparisons across panels should not be made, and plot is purposefully set up in a way that makes this 
-# #  diffult / unnatural)
-# measuretype_imp_plot <- ggplot(measuretype_obs_exp, aes(x = MeasureType, y = ObsvExp, colour = SetName)) +
-# 	geom_point(aes(fill = SetName), colour = 'grey90',
-# 						 position = position_jitterdodge(jitter.height = 0.1)) +
-# 	
-# 	geom_boxplot(outlier.colour = NA, fill = NA, size = 0.8) +
-# 	#geom_boxplot(outlier.size = 0.5, fill = 'grey90') +
-# 	geom_hline(yintercept = 1, linetype = 2, colour = LINE_COLOUR) +
-# 	scale_colour_manual(values = FEATURE_SET_COLOURS_LB) +
-# 	scale_fill_discrete(guid = FALSE) +
-# 	scale_y_continuous(expand = expand_scale(mult = 0.1)) +
-# 	labs(x = 'Feature set', y = 'Observed/Expected') +
-# 	PLOT_THEME
-# 
-
-
-# =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 # ---- Feature importance - ranked clusters -------------------------------------------------------
 # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 # Since individual features may be highly correlated, show importance for clusters of correlated 
@@ -612,70 +528,6 @@ clust_plot_negative <- make_cluster_plot('Non human-infecting', label_y = FALSE)
 
 
 # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-# ---- Examples of effect shapes/directions -------------------------------------------------------
-# =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-## Showing mean SHAP values across all iterations
-# 
-# ## Select representative features and add raw values
-# #		- Showing the most important feature from each of the top 9 clusters
-# top_clusters <- varimp_summary_clusters %>% 
-# 	top_n(n = 6, wt = .data$AbsSHAP_mean) %>% 
-# 	select(.data$Exemplar, .data$AbsSHAP_mean)
-# 
-# individual_feature_imp <- shapley_vals_individual %>% 
-# 	group_by(.data$Feature) %>% 
-# 	summarise(importance = mean(abs(.data$SHAP_mean)))
-# 
-# example_features <- clusterdata_features %>% 
-# 	filter(.data$Exemplar %in% top_clusters$Exemplar) %>% 
-# 	left_join(individual_feature_imp, by = c("Member" = "Feature")) %>% 
-# 	group_by(.data$Exemplar) %>% 
-# 	top_n(n = 1, wt = .data$importance) %>% 
-# 	
-# 	# Break any remaining ties
-# 	mutate(exemplar_present = .data$Exemplar == .data$Member) %>%   # Choose the exemplar if possible
-# 	filter(.data$Exemplar == .data$Member | !.data$exemplar_present) %>% 
-# 	sample_n(size = 1)  # Break remaining ties by choosing randomly
-# 
-# 
-feature_vals <- final_features %>%
-	gather(-.data$UniversalName, -.data$Strain, key = 'Feature', value = 'FeatureValue') %>%
-	left_join(spp_names, by = c('UniversalName', 'Strain')) %>%
-	left_join(zoo_status, by = 'LatestSppName')
-# 
-# effect_examples <- shapley_vals_individual %>% 
-# 	left_join(feature_vals, by = c('LatestSppName', 'Feature')) %>% 
-# 	filter(Feature %in% example_features$Member) %>% 
-# 	id_variable_types('Feature') %>% 
-# 	mutate(Gene = if_else(.data$Gene == 'ISG', 'ISG', str_to_lower(.data$Gene)),
-# 				 FeatureLabel = str_replace(.data$Measure, '\\.', ' '),
-# 				 FeatureLabel = str_replace(.data$FeatureLabel, 'Bias', 'bias'),
-# 				 FeatureLabel = str_replace(.data$FeatureLabel, 'U', 'T'),  # Not all genomes RNA
-# 				 FeatureLabel = str_replace(.data$FeatureLabel, '^br', 'Bridge '),
-# 				 FeatureLabel = str_replace(.data$FeatureLabel, '^NonBr', 'Non-bridge '),
-# 				 FeatureLabel = if_else(.data$VariableType == 'GenomicDensity',
-# 				 											 paste0(.data$FeatureLabel, ' mimicry\n(', .data$Gene, ')'),
-# 				 											 .data$FeatureLabel)) %>% 
-# 	left_join(example_features, by = c('Feature' = 'Member')) %>% 
-# 	arrange(.data$Label) %>% 
-# 	mutate(FeatureLabel = factor(.data$FeatureLabel, levels = unique(.data$FeatureLabel)))
-# 
-# 
-# ## Plot
-# effect_example_plot <- ggplot(effect_examples, aes(x = FeatureValue, y = SHAP_mean, colour = Class)) +
-# 	geom_hline(yintercept = 0, linetype = '22', colour = LINE_COLOUR) +
-# 	geom_point(alpha = 0.5, size = 0.8) +
-# 	#geom_rug(sides = 'r') +
-# 	facet_wrap(~ FeatureLabel, scales = 'free_x', nrow = 2) + 
-# 	scale_colour_manual(values = ZOONOTIC_STATUS_COLOURS, guide = FALSE) +
-# 	#scale_x_continuous(expand = expand_scale(mult = c(0.05, 0.1))) +
-# 	labs(x = 'Feature value', y = 'Effect on log odds\n(mean SHAP value)') +
-# 	PLOT_THEME +
-# 	theme(panel.spacing = unit(3, 'pt'))
-
-
-
-# =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 # ---- Combine plots ------------------------------------------------------------------------------
 # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 # Top row (cluster plots)
@@ -724,7 +576,6 @@ ggsave2(file.path('Plots', 'Figure2.pdf'), combined_plot, width = 7, height = 4.
 
 
 
-
 # Calculated data - needed for supplementary figures:
 list(cluster_obj = clusterobj_features,
 		 cluster_data = clusterdata_features) %>% 
@@ -732,12 +583,20 @@ list(cluster_obj = clusterobj_features,
 
 saveRDS(varimp_raw, file.path(out_dir, 'figure2_varimp_raw.rds'))
 
+
+feature_vals <- final_features %>%
+	gather(-.data$UniversalName, -.data$Strain, key = 'Feature', value = 'FeatureValue') %>%
+	left_join(spp_names, by = c('UniversalName', 'Strain')) %>%
+	left_join(zoo_status, by = 'LatestSppName')
+
 shapley_vals_individual <- shapley_vals_individual %>% 
 	left_join(feature_vals, by = c('LatestSppName', 'Feature'))
 
 saveRDS(shapley_vals_individual, file.path(out_dir, 'figure2_virus_shapley_vals.rds'))
 
+
 saveRDS(featureset_importance, file.path(out_dir, 'figure2_feature_set_importance.rds'))
+
 
 list(cluster_obj = clust_viruses,
 		 cluster_data = clusterdata_viruses,

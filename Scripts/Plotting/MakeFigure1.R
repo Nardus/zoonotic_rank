@@ -10,6 +10,7 @@ library(readxl)
 library(stringr)
 library(ggplot2)
 library(cowplot)
+library(ModelMetrics)
 library(ggsignif)
 library(plotROC)
 
@@ -257,10 +258,9 @@ bagged_confusion <- predictions_final_bagged %>%
 cm_plot <- ggplot(bagged_confusion, aes(x = Observed, y = Predicted, fill = Cell_prop, colour = Observed == Predicted)) +
 	geom_tile() +
 	geom_text(aes(label = Main_label), nudge_y = 0.05, size = 3) +
-	geom_text(aes(label = Sub_label), nudge_y = -0.20, size = 1.8, lineheight = 0.8) +
+	geom_text(aes(label = Sub_label), nudge_y = -0.20, size = 2, lineheight = 0.8) +
 	scale_fill_distiller(palette = 'Greens', direction = 1) +
 	scale_colour_manual(values = c('TRUE' = 'grey95', 'FALSE' = 'grey30'), guide = FALSE) +
-	coord_equal() +
 	labs(x = 'Prediction', y = 'Infects humans') +
 	labs(x = 'Known to infect humans', y = 'Predicted to\ninfect humans', fill = 'Proportion') +
 	PLOT_THEME +
@@ -350,7 +350,7 @@ roc_plot <- ggplot(predictions_final_bagged, aes(d = InfectsHumans, m = RawScore
 # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 bottom_row <- plot_grid(roc_plot, cm_plot, priority_plot,
-												ncol = 3, rel_widths = c(1, 1, 1.75),
+												ncol = 3, rel_widths = c(1.2, 1.2, 1.7),
 												labels = c('B', 'C', 'D'), hjust = -0.25)
 
 combined_plot <- plot_grid(auc_plot, bottom_row,

@@ -43,7 +43,7 @@ FEATURE_SET_LABELS <- c('Taxonomy', 'Phylogenetic neighbourhood',
 
 
 # Sizes
-LINE_SIZE <- 0.7        # For data lines (i.e. not outlines)
+LINE_SIZE <- 0.7      # For data lines (i.e. not outlines)
 BAR_LINE_SIZE <- 0.3  # Line width around bars
 
 
@@ -68,10 +68,9 @@ names(TF_STATUS_COLOURS) <- c('FALSE', 'TRUE', 'NA')
 # - From colorbrewer's Set2 (chosen manually to avoid clash with zoonotic colours):
 DISCRETE_COLOURS <- c('#66c2a5', '#fc8d62', '#8da0cb', '#a6d854', '#ffd92f', '#e5c494', '#b3b3b3')
 
-# MEASURE_TYPE_COLOURS <- c('#e5c494', '#66c2a5', '#fc8d62', '#a6d854', '#ffd92f', '#b3b3b3')
-# names(MEASURE_TYPE_COLOURS) <- MEASURE_TYPE_ORDER
 
-FEATURE_SET_COLOURS <- c('grey20', 'grey20', '#66c2a5', '#fc8d62', '#a6d854', '#ffd92f', '#b3b3b3')
+# - From colorbrewer's Dark2
+FEATURE_SET_COLOURS <- c('grey20', 'grey20', 'grey45', '#d95f02', '#1b9e77', '#e6ab02', '#666666')
 names(FEATURE_SET_COLOURS) <- FEATURE_SET_ORDER
 
 FEATURE_SET_COLOURS_LB <- FEATURE_SET_COLOURS   # Names in this version contains line breaks
@@ -80,8 +79,6 @@ names(FEATURE_SET_COLOURS_LB) <- FEATURE_SET_LABELS
 
 # Priority categories
 PRIORITY_COLOURS <- c(Low = '#99d594', Medium = '#fdd568', High = '#fdae61', `Very high` = '#d53e4f')
-	#c(Low = '#99d594', Medium = '#fee08b', High = '#fdae61', `Very high` = '#d53e4f')
-
 
 
 # Labels for commonly plotted quantities (to ensure consistency):
