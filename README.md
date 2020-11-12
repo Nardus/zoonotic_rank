@@ -2,7 +2,7 @@
 
 Code and data used in Mollentze _et al._ (2020) "Identifying and prioritizing potential human-infecting viruses from their genome sequences".
 
-For a list of priority categories and ranks for all viruses in the paper, see ___.
+For a list of priority categories and ranks for all virus species in the paper, see [here](https://nardusmollentze.com/dataset/zoonotic_rank/).
 
 
 ## Table of contents
@@ -15,7 +15,8 @@ For a list of priority categories and ranks for all viruses in the paper, see __
 
 ## Requirements
 - [R](https://www.r-project.org/) (tested using version 3.5.1)
-   - Install required R libraries using `Rscript -e "renv::hydrate()"`
+   - Most required R libraries can be installed using `Rscript -e "renv::restore()"`
+   - Install `ggtree` from bioconductor using: `Rscript -e "install.packages('BiocManager'); BiocManager::install('ggtree')"`
 - [Python](https://www.python.org/) (version >=3.6)
    - [Biopython](https://biopython.org/)
    - [Pandas](https://pandas.pydata.org/)
@@ -97,7 +98,7 @@ make clean all
 (files/folders which will be created during a full run are indicated by `[*]`)
 
 ```
-└─ZoonosisPredictor/
+└─zoonotic_rank/
    ├─Makefile ................................. Record of workflow and dependencies
    │                                            between files
    ├─options.config ........................... Runtime options (speciefies number
