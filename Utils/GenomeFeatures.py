@@ -12,6 +12,7 @@ import argparse
 import pandas
 import tempfile
 import os
+import shutil
 import warnings
 from Bio import SeqIO
 from Bio.SeqFeature import BeforePosition, AfterPosition
@@ -323,10 +324,12 @@ else:
     finalProbsName = "{}_Problems.csv".format(outbase)
 
 os.chdir(START_PATH)
-os.rename(outputFile, finalOutName)
+shutil.copy(outputFile, finalOutName)  # Need to copy then remove, in case files are on different partitions (in which case os.rename won't work)
+os.remove(outputFile)
 
 if problemFile is not None:
-    os.rename(problemFile.name, finalProbsName)
+    shutil.copy(problemFile.name, finalProbsName)
+    os.remove(problemFile.name)
 
 # Remove temporary files
 os.unlink(outFasta.name)
