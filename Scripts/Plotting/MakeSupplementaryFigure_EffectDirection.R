@@ -144,5 +144,5 @@ direction_plot <- plot_grid(first_column, direction_columns[[2]],
 														nrow = 1, align = 'v', axis = 't')
 
 
-ggsave2(file.path('Plots', 'SupplementaryFigure_EffectDirection.png'), direction_plot, 
+ggsave2(file.path('Plots', 'SupplementaryFigure_EffectDirection.pdf'), direction_plot, 
 				width = 7, height = 7, units = 'in')

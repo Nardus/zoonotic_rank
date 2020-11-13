@@ -1,6 +1,6 @@
 # Zoonotic risk assessment from viral genomes
 
-Code and data used in Mollentze _et al._ (2020) "Identifying and prioritizing potential human-infecting viruses from their genome sequences".
+Code and data used in Mollentze _et al._ (2020) "Identifying and prioritizing potential human-infecting viruses from their genome sequences". ___Preprint___. [DOI:10.1101/2020.11.12.379917](https://doi.org/10.1101/2020.11.12.379917)
 
 For a list of priority categories and ranks for all virus species in the paper, see [here](https://nardusmollentze.com/dataset/zoonotic_rank/).
 
@@ -20,6 +20,7 @@ For a list of priority categories and ranks for all virus species in the paper, 
 - [Python](https://www.python.org/) (version >=3.6)
    - [Biopython](https://biopython.org/)
    - [Pandas](https://pandas.pydata.org/)
+   - [xlrd](https://xlrd.readthedocs.io/en/latest/)
 - [Java JDK](https://www.oracle.com/uk/java/technologies/javase-downloads.html) (version >=8)
 
 If repeating all analyses (see below), the [BLAST+ suite of applications](https://www.ncbi.nlm.nih.gov/books/NBK279670/?report=classic) are also required (used for "phylogenetic neighbourhood" analyses and predictions, but not otherwise required). If your R session has trouble finding the BLAST+ executables, run `make update_path` and enter the location of the BLAST executables (e.g. `/usr/local/ncbi/blast/bin`). Making figure S9 requires [iqtree](http://www.iqtree.org/).
