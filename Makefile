@@ -284,8 +284,7 @@ RunData/AllGenomeFeatures_LongRun: $(TRAIN_REQUIREMENTS) $(RELATIVE_GENOMIC)
 
 
 ALL_RUN_IDS = VirusDirect Taxonomy PN ISG Housekeeping Remaining \
-			  AllGenomeFeatures AllGenomeFeatures_LongRun \
-			  VirusDirect_ISG VirusDirect_ISG_Housekeeping PN_LongRun
+			  AllGenomeFeatures AllGenomeFeatures_LongRun PN_LongRun
 
 TRAIN_OUTPUT_FOLDERS = $(patsubst %, RunData/%, $(ALL_RUN_IDS))
 
@@ -300,19 +299,17 @@ VPATH = $(TRAIN_OUTPUT_FOLDERS)
 # ----------------------------------------------------------------------------------------
 #?	10. Bagged predictions (bag_predictions)
 # ----------------------------------------------------------------------------------------
-# For long runs, increase N-models to still use top 10% of trained models:
-%_LongRun_Bagged_predictions.rds: | RunData/%_LongRun
-	Rscript Scripts/CalculateBaggedPredictions.R $(RANDOM_SEED) $(addsuffix _LongRun, $*) --Ntop 100
+# Currently only using bagging for long runs - need each virus to occur enough test sets:
+RunData/AllGenomeFeatures_LongRun/AllGenomeFeatures_LongRun_Bagged_predictions.rds: | RunData/AllGenomeFeatures_LongRun
+	Rscript Scripts/CalculateBaggedPredictions.R $(RANDOM_SEED) AllGenomeFeatures_LongRun --Ntop 100
 
-%_Bagged_predictions.rds: | RunData/%
-	Rscript Scripts/CalculateBaggedPredictions.R $(RANDOM_SEED) $* --Ntop 10
+RunData/PN_LongRun/PN_LongRun_Bagged_predictions.rds: | RunData/PN_LongRun
+	Rscript Scripts/CalculateBaggedPredictions.R $(RANDOM_SEED) PN_LongRun --Ntop 100
  
 
-# Currently only using bagging for long runs - need each virus to occur enough test sets:
-LONG_RUN_IDS = 	AllGenomeFeatures_LongRun PN_LongRun
-
 .PHONY: bag_predictions
-bag_predictions: $(patsubst %, %_Bagged_predictions.rds, $(LONG_RUN_IDS))
+bag_predictions: RunData/AllGenomeFeatures_LongRun/AllGenomeFeatures_LongRun_Bagged_predictions.rds \
+				 RunData/PN_LongRun/PN_LongRun_Bagged_predictions.rds
 
 
 # ----------------------------------------------------------------------------------------
@@ -411,7 +408,6 @@ Plots/Figure1.pdf: CalculatedData/SplitData_Training.rds \
 				   ExternalData/ICTV_MasterSpeciesList_2018b.xlsx \
 				   InternalData/Taxonomy_UnclassifiedViruses.csv \
 				   RunData/TaxonomyHeuristic/Test_BootstrapPredictions.rds \
-				   RunData/TaxonomyHeuristic/Test_BaggedPredictions.rds \
 				   $(TRAIN_OUTPUT_FOLDERS) \
 				   RunData/AllGenomeFeatures_LongRun/AllGenomeFeatures_LongRun_Predictions.rds \
 				   RunData/AllGenomeFeatures_LongRun/AllGenomeFeatures_LongRun_Bagged_predictions.rds

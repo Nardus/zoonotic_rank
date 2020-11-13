@@ -324,7 +324,7 @@ predictions_final_bagged <- predictions_final_bagged %>%
 # Plot
 roc_plot <- ggplot(predictions_final_bagged, aes(d = InfectsHumans, m = RawScore, colour = RunName)) +
 	# Bootstraps:
-	geom_roc(aes(fill = factor(Iteration)), n.cuts = 0, colour = 'grey90', linealpha = 0.4, size = 0.8,
+	geom_roc(aes(fill = factor(Iteration)), n.cuts = 0, colour = 'grey90', size = 0.2,
 					 data = predictions_final_boot) +
 	
 	# Bagged:
@@ -359,8 +359,11 @@ combined_plot <- plot_grid(auc_plot, bottom_row,
 
 
 ## Output:
-if (!dir.exists('Plots'))
-	dir.create('Plots')
+out_dir <- file.path('Plots', 'Intermediates')
+
+if (!dir.exists(out_dir))
+	dir.create(out_dir, recursive = TRUE)
+
 
 ggsave2(file.path('Plots', 'Figure1.pdf'), combined_plot, width = 7, height = 5)
 

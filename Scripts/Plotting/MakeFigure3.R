@@ -318,8 +318,11 @@ corona_plot_combined <- plot_grid(taxonomy_plot, corona_rank_plot, genus_panel,
 # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 # ---- Combine ------------------------------------------------------------------------------------
 # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-if (!dir.exists('Plots'))
-	dir.create('Plots')
+out_dir <- file.path('Plots', 'Intermediates')
+
+if (!dir.exists(out_dir))
+	dir.create(out_dir, recursive = TRUE)
+
 
 bottom_row <- plot_grid(top_virus_plot_combined, corona_plot_combined, 
 												ncol = 2, rel_widths = c(1.5, 1),
