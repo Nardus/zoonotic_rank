@@ -1,5 +1,8 @@
 # Zoonotic risk assessment from viral genomes
 
+[![DOI](https://zenodo.org/badge/311393986.svg)](https://zenodo.org/badge/latestdoi/311393986)
+
+
 Code and data used in Mollentze _et al._ (2020) "Identifying and prioritizing potential human-infecting viruses from their genome sequences". ___Preprint___. [DOI:10.1101/2020.11.12.379917](https://doi.org/10.1101/2020.11.12.379917)
 
 For a list of priority categories and ranks for all virus species in the paper, see [here](https://nardusmollentze.com/dataset/zoonotic_rank/).
