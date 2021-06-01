@@ -5,6 +5,7 @@
 #
 # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 import argparse
+from os import access
 import pandas
 import warnings
 import re
@@ -49,7 +50,19 @@ FAMILIES = ["Adenoviridae", "Anelloviridae", "Arenaviridae", "Arteriviridae",
 # Data-entry errors in 2019 VMR:
 accession_replacements = {"741759": "KF741759",
                           "NC_129128": "NC_029128",
-                          "EU7257772": "EU725772"}
+                          "EU7257772": "EU725772",
+                          "KX758335": "KX785335",
+                          "NC_033346": "NC_003346",
+                          "NC_026313": "NC_026315"}
+
+removed_proviral_seqs = ["NC_001402", "NC_038858", "NC_039023", "NC_039085", "NC_039024", "LC094267", "NC_039025", 
+                         "NC_043445", "NC_039026", "NC_039028", "NC_039029", "NC_039030", "NC_039031", "NC_010819",
+                         "NC_008094"]
+
+
+# Training-set viruses
+training_names = pandas.read_csv("InternalData/NameChanges2019.csv")
+training_viruses = [v for v in training_names.Name_2019 if not pandas.isnull(v)]
 
 
 # Find novel viruses
@@ -60,10 +73,11 @@ msl_raw.columns = [c.replace(' ', '_') for c in msl_raw.columns]
 vmr_raw.columns = [c.replace(' ', '_') for c in vmr_raw.columns]
 
 msl_subset = msl_raw[msl_raw.Family.isin(FAMILIES)]
-novel_viruses = msl_subset[msl_subset.Last_Change.str.contains("New,")]
+novel_viruses = msl_subset[~msl_subset.Species.isin(training_viruses)]
 
 # Keep only those for which a complete genome is available
 accession_data = vmr_raw[vmr_raw.Species.isin(novel_viruses.Species)]
+accession_data = accession_data[accession_data.Exemplar_or_additional_isolate.str.match("E")]  # Keep only exemplars of each species
 accession_data = accession_data[accession_data.Genome_coverage.notna()]
 accession_data = accession_data[accession_data.Genome_coverage.str.match("Complete genome")]
 
@@ -78,6 +92,9 @@ for row in accession_data.itertuples():
         acc_string = row.Virus_REFSEQ_accession
     
     # Split accessions of segmented viruses:
+    if acc_string == "L: NC_034511; M: NC_034522; S; NC_034512":  # data entry error in 2019 VMR, impossible to parse correctly
+        acc_string = "L: NC_034511; M: NC_034522; S: NC_034512"
+    
     acc_list = acc_string.split(";")
     acc_list = [a.lstrip() for a in acc_list]
     
@@ -90,7 +107,8 @@ for row in accession_data.itertuples():
             warnings.warn("Invalid accession '{0}' replaced with '{1}'".format(acc, accession_replacements[acc]))
             acc = accession_replacements[acc]
         
-        accessions[acc] = row.Species
+        if acc not in removed_proviral_seqs:
+            accessions[acc] = row.Species
 
 
 # Download sequences
