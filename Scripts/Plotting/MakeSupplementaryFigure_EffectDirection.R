@@ -96,6 +96,14 @@ plot_direction_column <- function(col_num, all_data) {
 	col_data <- all_data %>% 
 		filter(.data$Column == col_num)
 	
+	# Highlight exemplars in bold:
+	feature_labs <- if_else(col_data$Feature == col_data$Exemplar,
+													sprintf("bold('%s')", col_data$FeatureLabel),
+													sprintf("'%s'", col_data$FeatureLabel))
+	names(feature_labs) <- col_data$FeatureLabel
+	feature_labs <- sapply(feature_labs, function(x) parse(text = x))
+	
+	# Plot
 	ggplot(col_data, aes(x = FeatureLabel, y = FeatureValue_Scaled, colour = SHAP_mean)) +
 		geom_point() +
 		geom_quasirandom(alpha = 0.5, size = 0.5) +
@@ -107,6 +115,7 @@ plot_direction_column <- function(col_num, all_data) {
 													 												title.position = "top",
 													 												barwidth = unit(3, 'cm'))) +
 		
+		scale_x_discrete(labels = feature_labs) +
 		labs(y = 'Feature value\n(scaled)', colour = 'Effect on log odds') +
 		coord_flip() +
 		facet_grid(Label ~ Column, scales = 'free_y', space = 'free') +

@@ -87,6 +87,33 @@ round_up <- function(x, digits = 1) {
 }
 
 
+# =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+# ---- Optimize cutoff ----------------------------------------------------------------------------
+# =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+# Find the optimal cutoff balancing sensitivity and specificity
+# - Achieved by minimizing the distance between sensitivity and specificity
+find_balanced_cutoff <- function(observed_labels, predicted_score, positive_value = "True", increment_size = 0.0001) {
+	dist_stat <- function(cutoff, obs, prob) {
+		stopifnot(length(obs) == length(prob))
+		
+		pred <- prob > cutoff
+		sensitivity = sum(obs & (obs == pred)) / sum(obs)
+		specificity = sum(!obs & (obs == pred)) / sum(!obs)
+		
+		abs(sensitivity - specificity)
+	}
+	
+	obs <- observed_labels == positive_value
+	try_cutoffs <- seq(0, 1, by = increment_size)
+	
+	distances <- vapply(try_cutoffs, dist_stat, 
+											FUN.VALUE = numeric(1),
+											obs = obs, prob = predicted_score)
+	
+	try_cutoffs[which.min(distances)]
+}
+
 
 # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 # ---- Parse variable types -----------------------------------------------------------------------

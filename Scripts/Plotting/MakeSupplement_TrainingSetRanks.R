@@ -17,11 +17,7 @@ all_ranks <- read_csv(file.path('Plots', 'Intermediates', 'combined_virus_ranks.
 merged_taxonomy <- readRDS(file.path('Plots', 'Intermediates', 'figure1_merged_taxonomy.rds'))
 zoonotic_status_raw <- readRDS(file.path('CalculatedData', 'ZoonoticStatus_Merged.rds'))
 
-
-## Get cutoff from training data
-training_data <- readRDS(file.path('CalculatedData', 'SplitData_Training.rds'))
-
-CUTOFF <- sum(training_data$InfectsHumans)/nrow(training_data)
+CUTOFF <- readRDS(file.path('Plots', 'Intermediates', 'figure1_prob_cutoff.rds'))
 
 
 ## Prepare data
@@ -47,8 +43,8 @@ training_ranks <- all_ranks %>%
 
 ## Main panel
 main_panel <- ggplot(training_ranks, aes(x = species, y = probability_mean, colour = infection_class)) +
-	geom_errorbar(aes(ymin = probability_lower, ymax = probability_upper), width = 0.5, alpha = 0.5) +
-	geom_point(size = 0.5) +
+	geom_errorbar(aes(ymin = probability_lower, ymax = probability_upper), width = 0.5) +
+	geom_step(group = 1, colour = 'grey10', size = 0.6) +
 	geom_hline(yintercept = CUTOFF, linetype = 2, colour = 'grey10') +
 	scale_colour_manual(values = ZOONOTIC_STATUS_COLOURS) +
 	scale_y_continuous(limits = c(0, 1), expand = expand_scale(add = c(0.02, 0.02))) +
@@ -66,7 +62,7 @@ family_indicator_plot <- ggplot(training_ranks, aes(x = species, y = Family, fil
 	facet_grid(rows = vars(GenomeType), scales = 'free', space = 'free') +
 	scale_fill_manual(values = PRIORITY_COLOURS) +
 	PLOT_THEME +
-	labs(x = 'Virus species (ranked)', fill = 'Priority') +
+	labs(x = 'Virus species (ranked)', fill = PRIORITY_LABEL) +
 	theme(axis.text.x = element_blank(),
 				axis.ticks.x = element_blank(),
 				axis.text.y = element_text(lineheight = 0.65, face = 'italic'),

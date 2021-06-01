@@ -82,4 +82,9 @@ PRIORITY_COLOURS <- c(Low = '#99d594', Medium = '#fdd568', High = '#fdae61', `Ve
 
 
 # Labels for commonly plotted quantities (to ensure consistency):
-SCORE_LABEL = expression(p*group('(', textstyle(Infects~humans), ')'))
+SCORE_LABEL <- "Predicted probability"
+
+SCORE_LABEL_2LINE <- "Predicted\nprobability"
+
+PRIORITY_LABEL <- "Zoonotic potential"
+PRIORITY_LABEL_2LINE <- "Zoonotic\npotential"

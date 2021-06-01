@@ -73,6 +73,7 @@ cluster_coords <- cluster_coords %>%
 				 Label = str_remove(.data$Label, '_Coding'),
 				 Label = str_remove(.data$Label, '.Bias'),
 				 Label = str_replace(.data$Label, '_EntireSeq', '.e'),
+				 Label = str_replace(.data$Label, 'U', 'T'),  # Not all genomes RNA
 				 Label = str_replace(.data$Label, 'NonBr', 'n'),
 				 Label = str_replace(.data$Label, 'br', 'b')) %>% 
 	arrange(.data$MeanAbsSHAP)  # Ensure used features are plotted on top
@@ -94,7 +95,7 @@ apply_plot_styling <- function(p) {
 		scale_fill_viridis_c(breaks = seq(0, 1, by = 0.025), direction = -1) +
 		
 		labs(shape = 'Feature class',
-				 fill = expression(mean~group('(', group('|','SHAP','|'), ')'))) +
+				 fill = "Mean effect magnitude") +
 		PLOT_THEME +
 		theme(axis.text = element_blank(),
 					axis.title = element_blank(),

@@ -12,6 +12,7 @@ suppressPackageStartupMessages({
 	library(readxl)
 	library(stringr)
 	library(caret)
+	library(e1071)
 	library(doParallel)
 })
 
@@ -128,8 +129,6 @@ if (INPUT$includePN) {
 	# Main logic for calculating PN features:
 	get_pn_features <- function(queryAccessions, dbData, removeSelf = FALSE,
 															blastResults = full_blast_results, allSequences = used_seqs, fullData = FinalData, 
-															hostPhylogeny = HostPhylo, 
-															reservoirPhylogeny = ReservoirPhylo,
 															pnDefaults = pn_defaults) {
 		
 		# Extract relevant sequences

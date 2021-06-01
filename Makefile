@@ -245,6 +245,10 @@ RunData/VirusDirect: $(TRAIN_REQUIREMENTS) $(DIRECT_GENOMIC)
 RunData/Taxonomy: $(TRAIN_REQUIREMENTS) $(TAXONOMY_REQUIREMENTS)
 	Rscript Scripts/TrainAndValidate.R $(RANDOM_SEED) $(notdir $(@)) --nthread $(N_CORES) --includeTaxonomy  --topFeatures $(N_FEATS)
 
+RunData/Taxonomy_LongRun: $(TRAIN_REQUIREMENTS) $(TAXONOMY_REQUIREMENTS)
+	Rscript Scripts/TrainAndValidate.R $(RANDOM_SEED) $(notdir $(@)) --nthread $(N_CORES) --includeTaxonomy  --topFeatures $(N_FEATS) \
+	  --nboot 1000 --nseeds 100
+
 
 # - Phylogenetic neighbourhood 
 #   (now using a reduced ["minimal"] set of PN features only, since we know 
@@ -305,11 +309,15 @@ RunData/AllGenomeFeatures_LongRun/AllGenomeFeatures_LongRun_Bagged_predictions.r
 
 RunData/PN_LongRun/PN_LongRun_Bagged_predictions.rds: | RunData/PN_LongRun
 	Rscript Scripts/CalculateBaggedPredictions.R $(RANDOM_SEED) PN_LongRun --Ntop 100
+
+RunData/Taxonomy_LongRun/Taxonomy_LongRun_Bagged_predictions.rds: | RunData/Taxonomy_LongRun
+	Rscript Scripts/CalculateBaggedPredictions.R $(RANDOM_SEED) Taxonomy_LongRun --Ntop 100
  
 
 .PHONY: bag_predictions
 bag_predictions: RunData/AllGenomeFeatures_LongRun/AllGenomeFeatures_LongRun_Bagged_predictions.rds \
-				 RunData/PN_LongRun/PN_LongRun_Bagged_predictions.rds
+				 RunData/PN_LongRun/PN_LongRun_Bagged_predictions.rds \
+				 RunData/Taxonomy_LongRun/Taxonomy_LongRun_Bagged_predictions.rds
 
 
 # ----------------------------------------------------------------------------------------
@@ -425,11 +433,24 @@ Plots/Figure2.pdf: Plots/Figure1.pdf \
 
 Plots/Figure3.pdf: RunData/AllGenomeFeatures_LongRun/AllGenomeFeatures_LongRun_Bagged_predictions.rds \
 				   Predictions/NovelViruses.predictions.csv \
-				   Predictions/sarbecovirus.predictions.csv \
 				   CalculatedData/SplitData_Training.rds \
 				   Plots/Figure1.pdf \
-				   ExternalData/NovelViruses/ICTV_MasterSpeciesList_2019.v1.xlsx
+				   ExternalData/NovelViruses/ICTV_MasterSpeciesList_2019.v1.xlsx \
+				   InternalData/NovelVirus_Hosts_Curated.csv \
+				   ExternalData/NovelViruses/NovelViruses.csv
 	Rscript Scripts/Plotting/MakeFigure3.R
+
+
+Plots/Figure4.pdf: Plots/Figure3.pdf
+	Rscript Scripts/Plotting/MakeFigure4.R
+
+
+Plots/Figure5.pdf: Plots/Figure1.pdf \
+				   Plots/Figure3.pdf \
+				   ExternalData/NovelViruses/ICTV_MasterSpeciesList_2019.v1.xlsx \
+				   Predictions/sarbecovirus.predictions.csv \
+				   ExternalData/sarbecovirus/sarbeco_ml_phylogeny.treefile
+	Rscript Scripts/Plotting/MakeFigure5.R
 
 
 
@@ -448,6 +469,14 @@ Plots/Supplement_family_auc.pdf: Plots/Figure1.pdf \
 
 
 # S3:
+Plots/Supplement_RelatednessModelRanks.pdf: CalculatedData/SplitData_Training.rds \
+									Plots/Figure1.pdf \
+									RunData/Taxonomy_LongRun/Taxonomy_LongRun_Bagged_predictions.rds \
+									RunData/PN_LongRun/PN_LongRun_Bagged_predictions.rds
+	Rscript Scripts/Plotting/MakeSupplement_RelatednessModelRanks.R
+
+
+# S4:
 Plots/Supplement_TrainingSetRanks.pdf: Plots/Figure3.pdf \
 									   Plots/Figure1.pdf \
 									   CalculatedData/ZoonoticStatus_Merged.rds \
@@ -455,17 +484,24 @@ Plots/Supplement_TrainingSetRanks.pdf: Plots/Figure3.pdf \
 	Rscript Scripts/Plotting/MakeSupplement_TrainingSetRanks.R
 
 
-# S4:
-Supplement_HighPriority_MissingZoonoses.pdf: Plots/Figure3.pdf \
-									   		 Plots/Figure1.pdf \
-											 CalculatedData/ZoonoticStatus_Merged.rds \
-											 CalculatedData/SplitData_Training.rds 
+# S5:
+Plots/Supplement_ScreeningSuccessRate.pdf: Plots/Figure1.pdf \
+											RunData/Taxonomy_LongRun/Taxonomy_LongRun_Bagged_predictions.rds \
+											RunData/PN_LongRun/PN_LongRun_Bagged_predictions.rds
+	Rscript Scripts/Plotting/MakeSupplement_ScreeningSuccessRate.R
+
+
+# S6:
+Plots/Supplement_HighPriority_MissingZoonoses.pdf: Plots/Figure3.pdf \
+											   		Plots/Figure1.pdf \
+													CalculatedData/ZoonoticStatus_Merged.rds \
+													CalculatedData/SplitData_Training.rds 
 	Rscript Scripts/Plotting/MakeSupplement_HighPriority_MissedZoonoses.R
 
 
 
 ## SI figures extending figure 2
-# S5 & S6:
+# S7 & S8:
 Plots/Supplement_bk_plots.pdf: Plots/Figure2.pdf \
 							   ExternalData/ICTV_MasterSpeciesList_2018b.xlsx \
 							   CalculatedData/SplitData_Training.rds \
@@ -476,33 +512,31 @@ Plots/Combine_tanglegrams.pdf: Plots/Supplement_bk_plots.pdf
 	cd Plots && pdflatex -synctex=1 -interaction=nonstopmode Combine_tanglegrams.tex
 
 
-# S7:
+# S9:
 Plots/SupplementaryFigure_FeatureClusters.pdf: Plots/Figure2.pdf
 	Rscript Scripts/Plotting/MakeSupplementaryFigure_FeatureClusters.R
 
 
-# S8
+# S10
 Plots/SupplementaryFigure_EffectDirection.pdf: Plots/Figure2.pdf
 	Rscript Scripts/Plotting/MakeSupplementaryFigure_EffectDirection.R
 
 
 
 ## SI figures extending figure 3
-# S9:
-Plots/Supplement_Sarbecovirus_ranks.pdf: Predictions/sarbecovirus.predictions.csv \
-										 ExternalData/sarbecovirus/sarbeco_ml_phylogeny.treefile \
-										 CalculatedData/SplitData_Training.rds
-	Rscript Scripts/Plotting/MakeSupplement_Sarbecoviruses.R
+# S11:
+Plots/Supplement_NovelVirus_Hosts.pdf: Plots/Figure3.pdf
+	Rscript Scripts/Plotting/MakeSupplement_NovelVirusHosts.R
 
 
-# S10:
+# S12:
 Plots/Supplement_methods_derived_genome_features.pdf: CalculatedData/SplitData_Training.rds \
 													  Plots/Figure2.pdf \
 													  CalculatedData/GenomicFeatures-Virus.rds
 	Rscript Scripts/Plotting/Supplement_IllustrateDerivedGenomeFeatureCalcs.R
 
 
-# S11:
+# S13:
 Plots/Supplement_FeatureSelection.pdf: $(SELECTION_RUN_IDS)
 	Rscript Scripts/Plotting/MakeSupplement_FeatureSelection.R
 
@@ -520,7 +554,7 @@ make_plots: Plots/Figure1.pdf \
 			Plots/Supplement_RawData.pdf \
 			Plots/Supplement_family_auc.pdf \
 			Plots/Supplement_TrainingSetRanks.pdf \
-			Supplement_HighPriority_MissingZoonoses.pdf \
+			Plots/Supplement_HighPriority_MissingZoonoses.pdf \
 			Plots/Supplement_bk_plots.pdf \
 			Plots/Combine_tanglegrams.pdf \
 			Plots/SupplementaryFigure_FeatureClusters.pdf \
@@ -528,6 +562,7 @@ make_plots: Plots/Figure1.pdf \
 			Plots/Supplement_Sarbecovirus_ranks.pdf \
 			Plots/Supplement_methods_derived_genome_features.pdf \
 			Plots/Supplement_FeatureSelection.pdf \
+			Plots/Supplement_NovelVirus_Hosts.pdf \
 			Plots/TableS1.csv
 
 

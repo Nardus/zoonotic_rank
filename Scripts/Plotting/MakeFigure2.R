@@ -43,7 +43,7 @@ data_genome_features <- data_genome_features %>%
 
 
 # Cutoff:
-POSITIVE_FRACTION <- sum(data_training_viruses$InfectsHumans)/nrow(data_training_viruses)
+CUTOFF <- readRDS(file.path('Plots', 'Intermediates', 'figure1_prob_cutoff.rds'))
 
 
 # Features available for selection in the best run:
@@ -328,7 +328,7 @@ ranks_plot <- ggplot(varimp_summary_clusters_top25, aes(x = as.numeric(Label), y
 	geom_col(fill = NA, colour = LINE_COLOUR, width = 1) +
 	geom_errorbar(aes(ymin = AbsSHAP_mean - AbsSHAP_se, ymax = AbsSHAP_mean + AbsSHAP_se), width = 0.4, size = 0.35) +
 	
-	labs(x = 'Feature cluster', y = 'Total effect size', fill = NULL) +
+	labs(x = 'Feature cluster', y = 'Combined effect magnitude', fill = NULL) +
 	
 	scale_x_reverse(breaks = 1:length(cluster_labs), labels = cluster_labs,
 									sec.axis = sec_axis(trans = ~ ., breaks = 1:length(cluster_labs), labels = exemplar_labs,
@@ -482,10 +482,10 @@ make_cluster_plot <- function(inf_type, label_y = TRUE,
 
 	score_plot <- ggplot(bag_data, aes(x = LatestSppName, y = BagScore, colour = Class, fill = Class)) +
 		geom_col(width = 1, size = 0) +
-		geom_hline(yintercept = POSITIVE_FRACTION, linetype = '22', colour = LINE_COLOUR) +
+		geom_hline(yintercept = CUTOFF, linetype = '22', colour = LINE_COLOUR) +
 		scale_colour_manual(values = ZOONOTIC_STATUS_COLOURS, guide = FALSE) +
 		scale_fill_manual(values = ZOONOTIC_STATUS_COLOURS, guide = FALSE) +
-		labs(x = NULL, y = 'Bagged\nzoonotic\nprob.\n') +
+		labs(x = NULL, y = SCORE_LABEL_2LINE) +
 		ylim(0, 1) +
 		PLOT_THEME +
 		theme(axis.text.x = element_blank(),
@@ -572,7 +572,7 @@ if (!dir.exists(out_dir))
 	dir.create(out_dir, recursive = TRUE)
 
 # Plot
-ggsave2(file.path('Plots', 'Figure2.pdf'), combined_plot, width = 7, height = 4.6, units = 'in')
+ggsave2(file.path('Plots', 'Figure2.pdf'), combined_plot, width = 7.5, height = 4.6, units = 'in')
 
 
 

@@ -13,7 +13,7 @@ source(file.path('Scripts', 'Plotting', 'PlottingConstants.R'))
 GENE_SET <- "Housekeeping"
 FEATURE_PLAIN <- "CTG.Bias_Coding"
 FEATURE_DENS <- paste("GenomicDensity", GENE_SET, FEATURE_PLAIN, sep = '_')
-FEATURE_LABEL <- "CTG bias"
+FEATURE_LABEL <- "CTG codon usage bias"
 
 # Example viruses
 # - Chosen to show a range of values in the feature above

@@ -10,13 +10,16 @@ library(readxl)
 library(stringr)
 library(ggplot2)
 library(cowplot)
+library(xgboost)
+library(caret)
 library(ModelMetrics)
 library(ggsignif)
 library(plotROC)
+library(scales)
 
 source(file.path('Scripts', 'Plotting', 'PlottingConstants.R'))
 source(file.path('Utils', 'rundata_utils.R'))
-
+source(file.path('Utils', 'plot_utils.R'))
 
 ## Constants
 # Order here determines plotting order:
@@ -180,7 +183,7 @@ auc_plot <- ggplot(auc_test_boot, aes(x = RunName, y = AUC, colour = RunName)) +
 	# Annotate groups of features:
 	annotate(geom = 'text', y = 1, size = 2.5, colour = 'grey30',
 					 x = c(1, 2.5, 5.5, 8.57), 
-					 label = c('Heuristic', 'Related viruses', 'Genome composition features', 'Combinations')) +
+					 label = c('Heuristic', 'Relatedness-based', 'Genome composition-based', 'Combinations')) +
 	coord_cartesian(ylim = c(0.38, 0.95), clip = 'off') +
 	
 	scale_colour_manual(values = run_colours, guide = FALSE) +
@@ -218,7 +221,8 @@ for (lvl in names(P_VAL_COMPARISONS)) {
 latest_names <- AllData %>% 
 	distinct(.data$UniversalName, .data$LatestSppName)
 
-prob_cutoff <- sum(AllData$InfectsHumans) / nrow(AllData)
+prob_cutoff <- find_balanced_cutoff(observed_labels = predictions_final_bagged$InfectsHumans,
+																		predicted_score = predictions_final_bagged$BagScore)
 message('Using cutoff ', prob_cutoff, ' for bagged accuracy plot')
 
 get_confusion_df <- function(data, grouping, cutoff = prob_cutoff) {
@@ -262,7 +266,7 @@ cm_plot <- ggplot(bagged_confusion, aes(x = Observed, y = Predicted, fill = Cell
 	scale_fill_distiller(palette = 'Greens', direction = 1) +
 	scale_colour_manual(values = c('TRUE' = 'grey95', 'FALSE' = 'grey30'), guide = FALSE) +
 	labs(x = 'Prediction', y = 'Infects humans') +
-	labs(x = 'Known to infect humans', y = 'Predicted to\ninfect humans', fill = 'Proportion') +
+	labs(x = 'Known to infect humans', y = 'Predicted to infect humans', fill = 'Proportion') +
 	PLOT_THEME +
 	theme(legend.position = 'off',
 				panel.spacing = unit(1.5, 'pt'))
@@ -297,16 +301,72 @@ known_priorities <- predictions_final_bagged %>%
 															 median = .data$BagScore),
 				 Class = factor(.data$Class, levels = rev(levels(.data$Class)),
 				 							  labels = c('Human\nvirus', 'Zoonotic',
-				 							 					   'No known\nhuman\ninfections')))
+				 							 					   'No known\nhuman\ninfections')),
+				 Rank = rank(-.data$BagScore, ties.method = "random"))
+
+
+# Accumulation of positives
+virus_testing <- data.frame()
+total_viruses <- nrow(known_priorities)
+pos_viruses <- sum(known_priorities$InfectsHumans == "True")
+
+for (i in 1:nrow(known_priorities)) {
+	current_row <- known_priorities[i, ]
+	viruses_before <- known_priorities[known_priorities$Rank <= current_row$Rank, ]
+	
+	virus_testing <- rbind(virus_testing, data.frame(
+		Rank = current_row$Rank,
+		Priority = current_row$Priority,
+		prop_screened = nrow(viruses_before)/total_viruses,
+		prop_found = sum(viruses_before$InfectsHumans == "True")/pos_viruses
+	))
+}
+
+
+# Boundaries of each priority category (used to center labels)
+testing_bounds <- virus_testing %>% 
+	group_by(.data$Priority) %>% 
+	summarise(screened_min = min(.data$prop_screened),
+						found_min = min(.data$prop_found),
+						screened_max = max(.data$prop_screened),
+						found_max = max(.data$prop_found)) %>% 
+	mutate(midpoint = .data$screened_min + (.data$screened_max - .data$screened_min)/2)
+
+# Illustrative detection endpoints
+example_points <- c(0.25, 0.5, 0.75, 0.9, 0.95)
+positive_accumulation_fun <- ecdf(virus_testing$prop_found)
+
+illustration_bounds <- data.frame(prop_screened = positive_accumulation_fun(example_points),
+																	prop_found = example_points)
 
 
 # Plot
-priority_plot <- ggplot(known_priorities, aes(x = Class, fill = Priority)) +
-	geom_bar(position = 'fill') +
-	scale_fill_manual(values = PRIORITY_COLOURS) +
-	labs(x = NULL, y = 'Proportion') +
+priority_plot <- ggplot(virus_testing) +
+	geom_tile(aes(x = prop_screened, y = 0.5, width = 0.002, height = 1, fill = Priority)) +
+	
+	geom_segment(aes(x = prop_screened, xend = prop_screened, y = -Inf, yend = prop_found), 
+							 linetype = 3, colour = LINE_COLOUR, data = illustration_bounds) +
+	geom_segment(aes(x = -Inf, xend = prop_screened, y = prop_found, yend = prop_found), 
+							 linetype = 3, colour = LINE_COLOUR, data = illustration_bounds) +
+	
+	#geom_step(aes(x = prop_screened, y = prop_found), colour = "white", size = 2) +
+	geom_step(aes(x = prop_screened, y = prop_found), size = 1, colour = LINE_COLOUR) +
+	
+	scale_x_continuous(breaks = c(0, illustration_bounds$prop_screened, 1), 
+										 labels = percent_format(), expand = expand_scale(),
+										 sec.axis = sec_axis(~ ., breaks = testing_bounds$midpoint, labels = testing_bounds$Priority)) +
+	
+	scale_y_continuous(breaks = c(0, example_points, 1), 
+										 labels = percent_format(accuracy = 1), expand = expand_scale()) +
+	scale_fill_manual(values = PRIORITY_COLOURS, guide = FALSE) +
+	scale_colour_manual(values = c(prop_positive = ZOONOTIC_STATUS_COLOURS[["Zoonotic"]], 
+																 prop_negative = ZOONOTIC_STATUS_COLOURS[["No human infections"]]),
+											labels = c(prop_positive = "Infects humans", 
+																 prop_negative = "Not known to\ninfect humans")) +
+	labs(x = "Viruses screened", y = "Human-infecting viruses found", colour = "Current status") +
 	PLOT_THEME +
-	theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.5))
+	theme(axis.ticks.x.top = element_blank(),
+				plot.margin = margin(t = 1.5, r = 10.5, b = 5.5, l = 5.5))
 
 
 # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
@@ -351,10 +411,10 @@ roc_plot <- ggplot(predictions_final_bagged, aes(d = InfectsHumans, m = RawScore
 
 bottom_row <- plot_grid(roc_plot, cm_plot, priority_plot,
 												ncol = 3, rel_widths = c(1.2, 1.2, 1.7),
-												labels = c('B', 'C', 'D'), hjust = -0.25)
+												labels = c('B', 'C', 'D'), hjust = -0.25, vjust = 1)
 
 combined_plot <- plot_grid(auc_plot, bottom_row,
-													 nrow = 2, rel_heights = c(2, 1),
+													 nrow = 2, rel_heights = c(2, 1.3),
 													 labels = c('A', ''), hjust = -0.25)
 
 
@@ -365,14 +425,15 @@ if (!dir.exists(out_dir))
 	dir.create(out_dir, recursive = TRUE)
 
 
-ggsave2(file.path('Plots', 'Figure1.pdf'), combined_plot, width = 7, height = 5)
+ggsave2(file.path('Plots', 'Figure1.pdf'), combined_plot, width = 7.5, height = 5.5)
 
 
 ## Save data transformations/calculations for use in other plots:
 saveRDS(zoo_status, file.path('Plots', 'Intermediates', 'figure1_zoo_status.rds'))
 saveRDS(merged_taxonomy, file.path('Plots', 'Intermediates', 'figure1_merged_taxonomy.rds'))
 saveRDS(known_priorities, file.path('Plots', 'Intermediates', 'figure1_trainingset_priorities.rds'))
-
+saveRDS(prob_cutoff, file.path('Plots', 'Intermediates', 'figure1_prob_cutoff.rds'))
+saveRDS(virus_testing, file.path('Plots', 'Intermediates', 'figure1_virus_testing.rds'))
 
 # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 # ---- Values reported in text --------------------------------------------------------------------
@@ -417,3 +478,31 @@ print(tbl)
 
 cat('\n--Proportions\n')
 print(tbl/rowSums(tbl))
+
+
+cat("\n", 
+		sum(known_priorities$Priority == "Very high" & known_priorities$InfectsHumans == "True")/sum(known_priorities$Priority == "Very high") * 100,
+		"% of viruses classified as very high priority are known to infect humans")
+
+
+## Compare screening strategies:
+cat("\nScreening by ranks in best model:")
+cat("\n", 
+		sum(known_priorities$Priority == "Very high")/nrow(known_priorities) * 100,
+		"% of viruses classified as very high priority; this captures",
+		sum(known_priorities$Priority == "Very high" & known_priorities$InfectsHumans == "True")/sum(known_priorities$InfectsHumans == "True") * 100,
+		"of all known human-infecting viruses")
+
+print(illustration_bounds)
+
+
+tax_preds <- readRDS("RunData/Taxonomy_LongRun/Taxonomy_LongRun_Bagged_predictions.rds") %>% 
+	mutate(Rank = rank(-.data$BagScore)) %>% 
+	arrange(.data$Rank)
+
+tax_preds$prop_found <- cumsum(tax_preds$InfectsHumans == "True") / sum(tax_preds$InfectsHumans == "True")
+
+tax_accumulation_fun <- ecdf(tax_preds$prop_found)
+
+cat("\nFinding the first 50% of human-infecting viruses using the taxonomy model would require screening:",
+		tax_accumulation_fun(0.5) * 100, "% of viruses")

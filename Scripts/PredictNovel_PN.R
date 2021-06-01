@@ -40,10 +40,10 @@ parser$add_argument("--n_models", type = "double", default = 100,
 										help = paste("Number of models to use when bagging predictions - the top",
 																 "'n_models' will be used (default: 100)."))
 
-parser$add_argument("--cutoff", type = "double", default = 0.3031359,
+parser$add_argument("--cutoff", type = "double", default = 0.2991,
 										help = paste("Probability cutoff to use when making binary predictions: Viruses",
 																 "with an average probability >= to this will be labelled as zoonotic",
-																 "(default: 0.3031359)."))
+																 "(default: 0.2991)."))
 
 parser$add_argument("--random_seed", type = "integer", default = trunc(runif(1, max = 1e5)),
 										help = "Random seed to use (default: a random integer between 0 and 1e5)")

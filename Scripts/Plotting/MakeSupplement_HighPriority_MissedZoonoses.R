@@ -24,10 +24,7 @@ training_ranks <- all_ranks %>%
 	mutate(species = factor(species, levels = species))
 
 
-## Get cutoff from training data
-training_data <- readRDS(file.path('CalculatedData', 'SplitData_Training.rds'))
-
-CUTOFF <- sum(training_data$InfectsHumans)/nrow(training_data)
+CUTOFF <- readRDS(file.path('Plots', 'Intermediates', 'figure1_prob_cutoff.rds'))
 
 
 
@@ -63,6 +60,7 @@ missing_zoonoses_plot <- ggplot(missing_zoonoses, aes(x = species, y = probabili
 	coord_flip() +
 	PLOT_THEME +
 	theme(panel.grid.major.y = element_line(colour = 'grey92'),
+				axis.text.y = element_text(face = 'italic'),
 				plot.margin = margin(t = 5.5, r = 1, b = 5.5, l = 5.5))
 
 
