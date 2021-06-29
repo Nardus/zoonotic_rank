@@ -6,7 +6,6 @@ library(dplyr)
 library(tidyr)
 library(readr)
 library(ModelMetrics)
-library(plotly)
 
 source(file.path('Scripts', 'Plotting', 'PlottingConstants.R'))
 source(file.path('Utils', 'rundata_utils.R'))

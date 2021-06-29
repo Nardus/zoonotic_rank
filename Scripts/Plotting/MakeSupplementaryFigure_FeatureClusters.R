@@ -3,7 +3,9 @@
 ## 
 set.seed(1521312)
 
-library(tidyverse)
+library(dplyr)
+library(tidyr)
+library(stringr)
 library(cowplot)
 library(apcluster)
 

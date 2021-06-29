@@ -38,7 +38,6 @@ library(rprojroot)
 library(dplyr)
 library(tidyr)
 library(ModelMetrics)
-library(betacal)
 library(parallel)
 
 

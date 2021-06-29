@@ -1,0 +1,30 @@
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+
+dependencies:
+  - r-base=3.5.1
+  - iqtree=2.0.3
+  - r-readxl=1.3.1
+  - r-purrr=0.3.2
+  - r-rjson=0.2.20
+  - r-matrixstats=0.54
+  - r-doparallel=1.0.14
+  - r-plyr=1.8.4
+  - r-e1071=1.7_0
+  - r-digest=0.6.15
+  - r-cowplot=1.0.0
+  - r-ggsignif=0.6.0
+  - r-plotroc=2.2.1
+  - r-scales=1.1.0
+  - r-colorspace=1.4_1
+  - r-cluster=2.1.0
+  - r-egg=0.4.5
+  - bioconductor-ggtree=1.14.6
+  - r-phylogram=2.1.0
+  - r-mgcv=1.8_27
+  - r-ggbeeswarm=0.6.0
+  - r-pROC=1.16.1
+  - r-dendextend=1.12.0
+  - r-tidytext=0.2.2

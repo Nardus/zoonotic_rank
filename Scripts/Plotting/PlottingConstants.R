@@ -2,8 +2,15 @@
 ## General plot settings, used to ensure consistency between plots
 ## =================================================================================================
 
+# Not available on conda, but exact version does not matter anyway
+suppressPackageStartupMessages({
+	if (!require("khroma")) {
+		install.packages("khroma", repos = "https://cloud.r-project.org", verbose = FALSE)
+		library(khroma)
+	}
+})
+
 library(ggplot2)
-library(khroma)
 library(colorspace)
 
 # Overall theme

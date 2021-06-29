@@ -8,7 +8,6 @@ library(ape)
 library(dplyr)
 library(tidyr)
 library(parallel)
-library(rdiversity)
 
 ROOT_DIR <- find_rstudio_root_file()
 
@@ -52,6 +51,8 @@ add_names_to_blast <- function(blastRes, data) {
 # 
 # returns: a data frame with columns 'Neighbourhood' and 'Diversity'
 calculate_diversity <- function(observations, neighbourhoodIDs, phylo) {
+	require(rdiversity)
+
 	# Check input
 	if (length(observations) != length(neighbourhoodIDs))
 		stop('observations and neighbourhoodIDs should have equal length')

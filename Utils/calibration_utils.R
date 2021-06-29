@@ -1,5 +1,12 @@
 # Zoonosis predictor: Utility functions to calibrate predictions
-require(betacal)
+
+# betacal can't be installed via conda:
+suppressPackageStartupMessages({
+	if (!require("betacal")) {
+		install.packages("betacal", repos = "https://cloud.r-project.org", verbose = FALSE)
+		library(betacal)
+	}
+})
 
 calibrate_preds <- function(predictions, calibration_preds, positive_name = 'True') {
 	# 'predictions': a data frame of predictions requiring calibration

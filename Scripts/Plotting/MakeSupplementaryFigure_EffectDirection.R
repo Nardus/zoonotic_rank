@@ -3,7 +3,9 @@
 ## 
 
 library(scales)
-library(tidyverse)
+library(dplyr)
+library(tidyr)
+library(stringr)
 library(apcluster)
 library(cowplot)
 library(ggbeeswarm)

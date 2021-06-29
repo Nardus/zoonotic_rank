@@ -85,7 +85,6 @@ suppressPackageStartupMessages({
 	library(ModelMetrics)
 	library(apcluster)
 	library(ape)
-	library(betacal)
 })
 
 

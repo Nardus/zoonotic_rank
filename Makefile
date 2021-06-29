@@ -65,7 +65,7 @@ ExternalData/ICTV_MasterSpeciesList_2018b.xlsx:
 
 ExternalData/WoolhouseBrierley_2018.xlsx:
 	mkdir -p ExternalData
-	curl -L -o $(@D)/WB2018.zip 'http://datashare.is.ed.ac.uk/download/DS_10283_2970.zip'
+	curl -k -L -o $(@D)/WB2018.zip 'https://datashare.is.ed.ac.uk/download/DS_10283_2970.zip'
 	unzip -u -d $(@D) $(@D)/WB2018.zip 'Woolhouse and Brierley RNA virus database.xlsx'
 	mv $(@D)/'Woolhouse and Brierley RNA virus database.xlsx' $(@D)/WoolhouseBrierley_2018.xlsx
 	touch $(@D)/WoolhouseBrierley_2018.xlsx   # Simply updates 'last modified' date, since unzip doesn't do this
@@ -417,7 +417,6 @@ Plots/Figure1.pdf: CalculatedData/SplitData_Training.rds \
 				   InternalData/Taxonomy_UnclassifiedViruses.csv \
 				   RunData/TaxonomyHeuristic/Test_BootstrapPredictions.rds \
 				   $(TRAIN_OUTPUT_FOLDERS) \
-				   RunData/AllGenomeFeatures_LongRun/AllGenomeFeatures_LongRun_Predictions.rds \
 				   RunData/AllGenomeFeatures_LongRun/AllGenomeFeatures_LongRun_Bagged_predictions.rds
 	Rscript Scripts/Plotting/MakeFigure1.R
 
@@ -437,7 +436,7 @@ Plots/Figure3.pdf: RunData/AllGenomeFeatures_LongRun/AllGenomeFeatures_LongRun_B
 				   Plots/Figure1.pdf \
 				   ExternalData/NovelViruses/ICTV_MasterSpeciesList_2019.v1.xlsx \
 				   InternalData/NovelVirus_Hosts_Curated.csv \
-				   ExternalData/NovelViruses/NovelViruses.csv
+				   ExternalData/NovelViruses/NovelViruses.gb
 	Rscript Scripts/Plotting/MakeFigure3.R
 
 
@@ -551,18 +550,20 @@ Plots/TableS1.csv: Plots/Figure3.pdf
 make_plots: Plots/Figure1.pdf \
 			Plots/Figure2.pdf \
 			Plots/Figure3.pdf \
+			Plots/Figure4.pdf \
+			Plots/Figure5.pdf \
 			Plots/Supplement_RawData.pdf \
 			Plots/Supplement_family_auc.pdf \
+			Plots/Supplement_RelatednessModelRanks.pdf \
 			Plots/Supplement_TrainingSetRanks.pdf \
+			Plots/Supplement_ScreeningSuccessRate.pdf \
 			Plots/Supplement_HighPriority_MissingZoonoses.pdf \
 			Plots/Supplement_bk_plots.pdf \
-			Plots/Combine_tanglegrams.pdf \
 			Plots/SupplementaryFigure_FeatureClusters.pdf \
 			Plots/SupplementaryFigure_EffectDirection.pdf \
-			Plots/Supplement_Sarbecovirus_ranks.pdf \
+			Plots/Supplement_NovelVirus_Hosts.pdf \
 			Plots/Supplement_methods_derived_genome_features.pdf \
 			Plots/Supplement_FeatureSelection.pdf \
-			Plots/Supplement_NovelVirus_Hosts.pdf \
 			Plots/TableS1.csv
 
 
@@ -582,9 +583,10 @@ as_distributed: confirm
 	-rm -rfv ExternalData
 	-rm -rfv Plots
 	-rm -rfv Predictions
+	-rm -rfv cached_blast_searches
 	-rm -fv .Renviron
-	-find CalculatedData -maxdepth 1 -not -name CalculatedData -not -name GenomicFeatures-*.rds -not -name SplitData_Training.rds -delete
-	-find RunData -maxdepth 1 -not -name -not RunData -name AllGenomeFeatures_LongRun -not -name PN_LongRun -delete
+	-find CalculatedData -maxdepth 1 -not -name CalculatedData -not -name GenomicFeatures-*.rds -not -name SplitData_Training.rds -exec rm -rf {} \;
+	-find RunData -maxdepth 1 -not -name RunData -not -name AllGenomeFeatures_LongRun -not -name PN_LongRun -exec rm -rf {} \;
 	-rm -fv RunData/AllGenomeFeatures_LongRun/AllGenomeFeatures_LongRun_Bagged_predictions.rds
 	-rm -fv RunData/AllGenomeFeatures_LongRun/AllGenomeFeatures_LongRun_Bagging_AUCs.rds
 	-rm -fv RunData/AllGenomeFeatures_LongRun/AllGenomeFeatures_LongRun_CalculatedData.rds

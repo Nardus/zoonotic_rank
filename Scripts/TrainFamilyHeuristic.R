@@ -51,7 +51,10 @@ CV_K <- 5                  # Number of folds for k-fold cross-validation
 # ---- Data ---------------------------------------------------------------------------------------
 # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 library(parallel)
-library(tidyverse)
+library(dplyr)
+library(tidyr)
+library(readr)
+library(stringr)
 library(readxl)
 library(ModelMetrics)
 library(caret)
