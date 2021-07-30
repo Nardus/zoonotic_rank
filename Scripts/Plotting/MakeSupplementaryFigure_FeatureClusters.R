@@ -4,6 +4,7 @@
 set.seed(1521312)
 
 library(dplyr)
+library(readr)
 library(tidyr)
 library(stringr)
 library(cowplot)
@@ -158,3 +159,8 @@ ggsave2(file.path('Plots', 'SupplementaryFigure_FeatureClusters.pdf'), combined_
 				width = 7, height = 9, units = 'in')
 
 
+## Save values in a human-readable format:
+cluster_coords %>% 
+	select(Cluster, ClusterLabel, Exemplar, Member, VariableType, Gene, Location, Measure, 
+				 MeasureType, FeatureSet, MeanAbsSHAP, X, Y, Exemplar_X, Exemplar_Y) %>% 
+	write_excel_csv("FigureData/s9_fig.csv")

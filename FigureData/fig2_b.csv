@@ -1,0 +1,126 @@
+﻿Feature,VariableType,Gene,mean_importance,Rank,SetName
+GenomicDensity_Housekeeping_A.Bias_Coding,GenomicDensity,Housekeeping,0.04907051320694288,76,Similarity to housekeeping genes
+GenomicDensity_Housekeeping_ACT.Bias_Coding,GenomicDensity,Housekeeping,0.04698369390330405,85,Similarity to housekeeping genes
+GenomicDensity_Housekeeping_AGC.Bias_Coding,GenomicDensity,Housekeeping,0.07089044220113837,39,Similarity to housekeeping genes
+GenomicDensity_Housekeeping_ATT.Bias_Coding,GenomicDensity,Housekeeping,0.03677032524894885,104,Similarity to housekeeping genes
+GenomicDensity_Housekeeping_brApA_Coding,GenomicDensity,Housekeeping,0.0590954191694448,54,Similarity to housekeeping genes
+GenomicDensity_Housekeeping_brApG_Coding,GenomicDensity,Housekeeping,0.06757944494727403,44,Similarity to housekeeping genes
+GenomicDensity_Housekeeping_brCpC_Coding,GenomicDensity,Housekeeping,0.06739624559613004,45,Similarity to housekeeping genes
+GenomicDensity_Housekeeping_brGpA_Coding,GenomicDensity,Housekeeping,0.09305650418005981,12,Similarity to housekeeping genes
+GenomicDensity_Housekeeping_brUpC_Coding,GenomicDensity,Housekeeping,0.06137902130320312,48,Similarity to housekeeping genes
+GenomicDensity_Housekeeping_CCC.Bias_Coding,GenomicDensity,Housekeeping,0.06225500972275374,47,Similarity to housekeeping genes
+GenomicDensity_Housekeeping_CGC.Bias_Coding,GenomicDensity,Housekeeping,0.0689833475298393,43,Similarity to housekeeping genes
+GenomicDensity_Housekeeping_CpC_Coding,GenomicDensity,Housekeeping,0.0836538261845034,20,Similarity to housekeeping genes
+GenomicDensity_Housekeeping_CTG.Bias_Coding,GenomicDensity,Housekeeping,0.13819443258504485,1,Similarity to housekeeping genes
+GenomicDensity_Housekeeping_CTT.Bias_Coding,GenomicDensity,Housekeeping,0.11233288584417572,4,Similarity to housekeeping genes
+GenomicDensity_Housekeeping_D.Bias_Coding,GenomicDensity,Housekeeping,0.036886800316211985,103,Similarity to housekeeping genes
+GenomicDensity_Housekeeping_G.Bias_Coding,GenomicDensity,Housekeeping,0.07159891856184428,36,Similarity to housekeeping genes
+GenomicDensity_Housekeeping_GAA.Bias_Coding,GenomicDensity,Housekeeping,0.05088640662767012,73,Similarity to housekeeping genes
+GenomicDensity_Housekeeping_GGG.Bias_Coding,GenomicDensity,Housekeeping,0.0336561260851338,114,Similarity to housekeeping genes
+GenomicDensity_Housekeeping_GTC.Bias_Coding,GenomicDensity,Housekeeping,0.0933096301624964,11,Similarity to housekeeping genes
+GenomicDensity_Housekeeping_GTT.Bias_Coding,GenomicDensity,Housekeeping,0.04842173421561612,77,Similarity to housekeeping genes
+GenomicDensity_Housekeeping_L.Bias_Coding,GenomicDensity,Housekeeping,0.04155166359268408,94,Similarity to housekeeping genes
+GenomicDensity_Housekeeping_NonBrApU_Coding,GenomicDensity,Housekeeping,0.0922388203660181,13,Similarity to housekeeping genes
+GenomicDensity_Housekeeping_NonBrCpC_Coding,GenomicDensity,Housekeeping,0.027195547834689617,120,Similarity to housekeeping genes
+GenomicDensity_Housekeeping_NonBrGpU_Coding,GenomicDensity,Housekeeping,0.052454601042685886,66,Similarity to housekeeping genes
+GenomicDensity_Housekeeping_NonBrUpC_Coding,GenomicDensity,Housekeeping,0.03753989683731284,101,Similarity to housekeeping genes
+GenomicDensity_Housekeeping_NonBrUpG_Coding,GenomicDensity,Housekeeping,0.03842859994881546,100,Similarity to housekeeping genes
+GenomicDensity_Housekeeping_S.Bias_Coding,GenomicDensity,Housekeeping,0.08952269650876032,14,Similarity to housekeeping genes
+GenomicDensity_Housekeeping_TAC.Bias_Coding,GenomicDensity,Housekeeping,0.0777395688331896,26,Similarity to housekeeping genes
+GenomicDensity_Housekeeping_TCC.Bias_Coding,GenomicDensity,Housekeeping,0.10200452345528248,6,Similarity to housekeeping genes
+GenomicDensity_Housekeeping_Y.Bias_Coding,GenomicDensity,Housekeeping,0.041779447045384575,93,Similarity to housekeeping genes
+GenomicDensity_ISG_A.Bias_Coding,GenomicDensity,ISG,0.04701181122334114,84,Similarity to ISGs
+GenomicDensity_ISG_AAA.Bias_Coding,GenomicDensity,ISG,0.10092954057804608,7,Similarity to ISGs
+GenomicDensity_ISG_ACT.Bias_Coding,GenomicDensity,ISG,0.052151849515895445,68,Similarity to ISGs
+GenomicDensity_ISG_AGT.Bias_Coding,GenomicDensity,ISG,0.08623879176243704,17,Similarity to ISGs
+GenomicDensity_ISG_ApA_Coding,GenomicDensity,ISG,0.051275809357335916,71,Similarity to ISGs
+GenomicDensity_ISG_brApA_Coding,GenomicDensity,ISG,0.0744846574989521,32,Similarity to ISGs
+GenomicDensity_ISG_brGpC_Coding,GenomicDensity,ISG,0.052651184200178364,65,Similarity to ISGs
+GenomicDensity_ISG_brUpG_Coding,GenomicDensity,ISG,0.04776038319706983,80,Similarity to ISGs
+GenomicDensity_ISG_brUpU_Coding,GenomicDensity,ISG,0.05173155827155739,70,Similarity to ISGs
+GenomicDensity_ISG_C.Bias_Coding,GenomicDensity,ISG,0.05659079358316548,57,Similarity to ISGs
+GenomicDensity_ISG_CGA.Bias_Coding,GenomicDensity,ISG,0.05226748633935965,67,Similarity to ISGs
+GenomicDensity_ISG_CGC.Bias_Coding,GenomicDensity,ISG,0.08875705503402533,15,Similarity to ISGs
+GenomicDensity_ISG_CpC_Coding,GenomicDensity,ISG,0.0738607443244269,34,Similarity to ISGs
+GenomicDensity_ISG_CTT.Bias_Coding,GenomicDensity,ISG,0.08207450324220568,21,Similarity to ISGs
+GenomicDensity_ISG_D.Bias_Coding,GenomicDensity,ISG,0.0443742813933836,89,Similarity to ISGs
+GenomicDensity_ISG_E.Bias_Coding,GenomicDensity,ISG,0.07491373742858946,31,Similarity to ISGs
+GenomicDensity_ISG_G.Bias_Coding,GenomicDensity,ISG,0.11231414488361689,5,Similarity to ISGs
+GenomicDensity_ISG_GAA.Bias_Coding,GenomicDensity,ISG,0.07978316237589593,24,Similarity to ISGs
+GenomicDensity_ISG_GGG.Bias_Coding,GenomicDensity,ISG,0.046959057738602684,86,Similarity to ISGs
+GenomicDensity_ISG_GpC_EntireSeq,GenomicDensity,ISG,0.056981844871100605,56,Similarity to ISGs
+GenomicDensity_ISG_H.Bias_Coding,GenomicDensity,ISG,0.036063062165137785,106,Similarity to ISGs
+GenomicDensity_ISG_K.Bias_Coding,GenomicDensity,ISG,0.076159191820162,29,Similarity to ISGs
+GenomicDensity_ISG_L.Bias_Coding,GenomicDensity,ISG,0.08367161811817526,19,Similarity to ISGs
+GenomicDensity_ISG_NonBrApG_Coding,GenomicDensity,ISG,0.05096238782864402,72,Similarity to ISGs
+GenomicDensity_ISG_NonBrApU_Coding,GenomicDensity,ISG,0.060510385975020585,50,Similarity to ISGs
+GenomicDensity_ISG_NonBrGpC_Coding,GenomicDensity,ISG,0.04663568868893673,88,Similarity to ISGs
+GenomicDensity_ISG_NonBrGpU_Coding,GenomicDensity,ISG,0.034114653144003894,112,Similarity to ISGs
+GenomicDensity_ISG_NonBrUpC_Coding,GenomicDensity,ISG,0.0474631622789725,82,Similarity to ISGs
+GenomicDensity_ISG_NonBrUpU_Coding,GenomicDensity,ISG,0.047372726818765545,83,Similarity to ISGs
+GenomicDensity_ISG_Q.Bias_Coding,GenomicDensity,ISG,0.04808350169779289,79,Similarity to ISGs
+GenomicDensity_ISG_S.Bias_Coding,GenomicDensity,ISG,0.05502978636044014,58,Similarity to ISGs
+GenomicDensity_ISG_TAG.Bias_Coding,GenomicDensity,ISG,0.09410497972211333,10,Similarity to ISGs
+GenomicDensity_ISG_Y.Bias_Coding,GenomicDensity,ISG,0.05368216109064671,62,Similarity to ISGs
+GenomicDensity_Remaining_ACT.Bias_Coding,GenomicDensity,Remaining,0.05996958796123612,52,Similarity to remaining genes
+GenomicDensity_Remaining_ATT.Bias_Coding,GenomicDensity,Remaining,0.07157443848700343,37,Similarity to remaining genes
+GenomicDensity_Remaining_brUpC_Coding,GenomicDensity,Remaining,0.1368418423605679,2,Similarity to remaining genes
+GenomicDensity_Remaining_CGA.Bias_Coding,GenomicDensity,Remaining,0.08444013964587875,18,Similarity to remaining genes
+GenomicDensity_Remaining_D.Bias_Coding,GenomicDensity,Remaining,0.033795208361460626,113,Similarity to remaining genes
+GenomicDensity_Remaining_E.Bias_Coding,GenomicDensity,Remaining,0.075278197094158,30,Similarity to remaining genes
+GenomicDensity_Remaining_G.Bias_Coding,GenomicDensity,Remaining,0.032496623589809835,115,Similarity to remaining genes
+GenomicDensity_Remaining_GGG.Bias_Coding,GenomicDensity,Remaining,0.03995262696929579,97,Similarity to remaining genes
+GenomicDensity_Remaining_H.Bias_Coding,GenomicDensity,Remaining,0.05457860608924007,60,Similarity to remaining genes
+GenomicDensity_Remaining_NonBrCpC_Coding,GenomicDensity,Remaining,0.03932487199655315,98,Similarity to remaining genes
+GenomicDensity_Remaining_NonBrGpA_Coding,GenomicDensity,Remaining,0.04312816530303531,92,Similarity to remaining genes
+GenomicDensity_Remaining_NonBrGpU_Coding,GenomicDensity,Remaining,0.03705840125544219,102,Similarity to remaining genes
+GenomicDensity_Remaining_TTC.Bias_Coding,GenomicDensity,Remaining,0.09969295379480579,9,Similarity to remaining genes
+GenomicDensity_Remaining_Y.Bias_Coding,GenomicDensity,Remaining,0.01997443634438617,124,Similarity to remaining genes
+VirusDirect_AAA.Bias_Coding,VirusDirect,NA,0.041351925797668845,95,Viral genomic features
+VirusDirect_ACG.Bias_Coding,VirusDirect,NA,0.09987379194050337,8,Viral genomic features
+VirusDirect_ApG_Coding,VirusDirect,NA,0.05308216313942248,64,Viral genomic features
+VirusDirect_ApU_Coding,VirusDirect,NA,0.04928538683890174,75,Viral genomic features
+VirusDirect_ATC.Bias_Coding,VirusDirect,NA,0.01881283841329146,125,Viral genomic features
+VirusDirect_brApG_Coding,VirusDirect,NA,0.03424659452457802,111,Viral genomic features
+VirusDirect_brApU_Coding,VirusDirect,NA,0.06977490478563252,40,Viral genomic features
+VirusDirect_brGpA_Coding,VirusDirect,NA,0.0734202530414832,35,Viral genomic features
+VirusDirect_brGpC_Coding,VirusDirect,NA,0.04839798131088886,78,Viral genomic features
+VirusDirect_brGpG_Coding,VirusDirect,NA,0.07616139621487462,28,Viral genomic features
+VirusDirect_brUpG_Coding,VirusDirect,NA,0.03628549828402599,105,Viral genomic features
+VirusDirect_brUpU_Coding,VirusDirect,NA,0.04772568463424327,81,Viral genomic features
+VirusDirect_C.Bias_Coding,VirusDirect,NA,0.05398726957098473,61,Viral genomic features
+VirusDirect_CCC.Bias_Coding,VirusDirect,NA,0.07621828929678713,27,Viral genomic features
+VirusDirect_CTA.Bias_Coding,VirusDirect,NA,0.05986945118260501,53,Viral genomic features
+VirusDirect_CTT.Bias_Coding,VirusDirect,NA,0.0469261113681902,87,Viral genomic features
+VirusDirect_E.Bias_Coding,VirusDirect,NA,0.021634808899345045,123,Viral genomic features
+VirusDirect_F.Bias_Coding,VirusDirect,NA,0.03599657782548159,107,Viral genomic features
+VirusDirect_G.Bias_Coding,VirusDirect,NA,0.035385195974400784,108,Viral genomic features
+VirusDirect_GAA.Bias_Coding,VirusDirect,NA,0.03918321450849132,99,Viral genomic features
+VirusDirect_GCG.Bias_Coding,VirusDirect,NA,0.08035635992863507,22,Viral genomic features
+VirusDirect_GGC.Bias_Coding,VirusDirect,NA,0.08650251544609543,16,Viral genomic features
+VirusDirect_GpA_EntireSeq,VirusDirect,NA,0.04344164845134238,91,Viral genomic features
+VirusDirect_GpU_EntireSeq,VirusDirect,NA,0.12318911014886072,3,Viral genomic features
+VirusDirect_H.Bias_Coding,VirusDirect,NA,0.028368222838308036,118,Viral genomic features
+VirusDirect_I.Bias_Coding,VirusDirect,NA,0.06016376740041111,51,Viral genomic features
+VirusDirect_L.Bias_Coding,VirusDirect,NA,0.07982062146292192,23,Viral genomic features
+VirusDirect_M.Bias_Coding,VirusDirect,NA,0.05781778208758463,55,Viral genomic features
+VirusDirect_N.Bias_Coding,VirusDirect,NA,0.02981693435683391,117,Viral genomic features
+VirusDirect_NonBrApA_Coding,VirusDirect,NA,0.07869184074435058,25,Viral genomic features
+VirusDirect_NonBrApG_Coding,VirusDirect,NA,0.035202214952181544,109,Viral genomic features
+VirusDirect_NonBrApU_Coding,VirusDirect,NA,0.031598362506253,116,Viral genomic features
+VirusDirect_NonBrCpU_Coding,VirusDirect,NA,0.05315245890281774,63,Viral genomic features
+VirusDirect_NonBrGpC_Coding,VirusDirect,NA,0.07404498128864799,33,Viral genomic features
+VirusDirect_NonBrUpG_Coding,VirusDirect,NA,0.0442633772132635,90,Viral genomic features
+VirusDirect_P.Bias_Coding,VirusDirect,NA,0.027487692987027648,119,Viral genomic features
+VirusDirect_R.Bias_Coding,VirusDirect,NA,0.06902719067040655,42,Viral genomic features
+VirusDirect_S.Bias_Coding,VirusDirect,NA,0.0690658942303566,41,Viral genomic features
+VirusDirect_T.Bias_Coding,VirusDirect,NA,0.054766966000707955,59,Viral genomic features
+VirusDirect_TAA.Bias_Coding,VirusDirect,NA,0.05211027480211961,69,Viral genomic features
+VirusDirect_TCG.Bias_Coding,VirusDirect,NA,0.02582452540023302,122,Viral genomic features
+VirusDirect_TCT.Bias_Coding,VirusDirect,NA,0.06345693027198798,46,Viral genomic features
+VirusDirect_TGA.Bias_Coding,VirusDirect,NA,0.0612226005523918,49,Viral genomic features
+VirusDirect_TTA.Bias_Coding,VirusDirect,NA,0.07091422958448082,38,Viral genomic features
+VirusDirect_UpA_Coding,VirusDirect,NA,0.02691964057947473,121,Viral genomic features
+VirusDirect_V.Bias_Coding,VirusDirect,NA,0.03491786993613672,110,Viral genomic features
+VirusDirect_W.Bias_Coding,VirusDirect,NA,0.050528653113648465,74,Viral genomic features
+VirusDirect_Y.Bias_Coding,VirusDirect,NA,0.040353379001656926,96,Viral genomic features

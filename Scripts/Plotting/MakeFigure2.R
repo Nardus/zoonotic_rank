@@ -604,6 +604,28 @@ list(cluster_obj = clust_viruses,
 	saveRDS(file.path(out_dir, 'figure2_virus_clusters.rds'))
 
 
+## Save values underlying all panels in a human-readable format:
+write_excel_csv(shapley_vals_individual, file.path('FigureData', 'fig2_a.csv'))
+
+featureset_importance %>% 
+	select(-SetName_numeric) %>% 
+	mutate(SetName = str_replace_all(SetName, '\n', ' ')) %>% 
+	write_excel_csv(file.path('FigureData', 'fig2_b.csv'))
+
+rank_change %>% 
+	arrange(Combo, Rank) %>% 
+	mutate(SetName = str_replace_all(SetName, '\n', ' ')) %>% 
+	select(Combo, Feature, Measure, SetName, SetLabel, mean_importance, Rank) %>% 
+	write_excel_csv(file.path('FigureData', 'fig2_c.csv'))
+
+varimp_summary_clusters %>% 
+	select(Cluster, Exemplar, ExemplarLabel, AbsSHAP_mean, AbsSHAP_se) %>% 
+	write_excel_csv(file.path('FigureData', 'fig2_d_clusters.csv'))
+
+varimp_summary_proportions %>% 
+	select(Cluster, SetName, set_proportion) %>% 
+	write_excel_csv(file.path('FigureData', 'fig2_d_featuresets.csv'))
+
 
 # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 # ---- Values discussed in text -------------------------------------------------------------------

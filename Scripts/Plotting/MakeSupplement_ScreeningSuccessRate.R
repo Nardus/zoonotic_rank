@@ -2,6 +2,7 @@
 
 library(dplyr)
 library(tidyr)
+library(readr)
 library(ggplot2)
 library(scales)
 library(cowplot)
@@ -134,6 +135,9 @@ p <- ggplot(combined_testing) +
 
 
 ggsave2("Plots/Supplement_ScreeningSuccessRate.pdf", width = 6, height = 4)
+
+write_excel_csv(tax_testing, "FigureData/s6_fig_taxonomy.csv")
+write_excel_csv(pn_testing, "FigureData/s6_fig_pn.csv")
 
 
 ## Mentioned in text:

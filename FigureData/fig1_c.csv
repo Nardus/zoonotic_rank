@@ -1,0 +1,5 @@
+﻿RunName,Observed,Predicted,Cell_count,Cell_prop,Main_label,Sub_label
+All genome composition feature sets,No,No,423,0.705,423/600,NA
+All genome composition feature sets,No,Yes,177,0.295,177/600,NA
+All genome composition feature sets,Yes,No,77,0.2950191570881226,77/261,Zoonotic: 50 Human virus: 27
+All genome composition feature sets,Yes,Yes,184,0.7049808429118773,184/261,Zoonotic: 115 Human virus: 69

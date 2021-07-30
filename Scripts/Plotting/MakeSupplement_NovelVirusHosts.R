@@ -187,3 +187,11 @@ final_p <- plot_grid(extracted_legend, final_p, ncol = 1,
 
 
 ggsave2("Plots/Supplement_NovelVirus_Hosts.pdf", final_p, width = 7, height = 8)
+
+
+## Save values in a human-readable format:
+rank_data %>% 
+	select(Name, Family, GenomeType, host_class, host_order,
+				 calibrated_score_mean, calibrated_score_lower, calibrated_score_upper, bagged_prediction,
+				 zoonotic_potential = priority_category) %>% 
+	write_excel_csv("FigureData/s11_fig.csv")

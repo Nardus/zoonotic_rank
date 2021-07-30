@@ -4,6 +4,7 @@
 
 library(dplyr)
 library(tidyr)
+library(readr)
 library(ggplot2)
 library(tidytext)
 
@@ -48,9 +49,16 @@ raw_plot <- ggplot(usedSpecies, aes(x = reorder_within(Family, -TotalCount, Geno
 	scale_y_continuous(limits = c(0, 150), expand = expand_scale(add = c(0, 2))) +
 	scale_x_reordered(expand = expand_scale(add = c(1.7, 1.7))) +
 	PLOT_THEME +
-	theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.5),
+	theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.5, face = 'italic'),
 				axis.ticks.x = element_blank(),
 				strip.text = element_text(angle = 45))
 
 
 ggsave(file.path('Plots', 'Supplement_RawData.pdf'), raw_plot, width = 7, height = 4)
+
+## Save an unsummarised version of this figure's data:
+AllData %>% 
+	distinct(.data$LatestSppName, .data$InfectsHumans) %>% 
+	left_join(merged_taxonomy, by = c('LatestSppName' = 'Species')) %>% 
+	left_join(zoo_status, by = 'LatestSppName') %>% 
+	write_excel_csv(file.path('FigureData', 's1_fig.csv'))

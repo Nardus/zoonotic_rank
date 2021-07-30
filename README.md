@@ -118,6 +118,7 @@ make clean all
    │                                            prediction
    ├─dev_environment.yml ...................... Record of additional software required to train and
    │                                            evaluate models
+   ├─FigureData/ ...............................Underlying values for manuscript figures
    ├─InternalData/ ............................ All data unique to this project
    │   ├─example_files/ ....................... Example input files for predicting novel viruses
    │   ├─Shaw2017_raw/ ........................ Raw ISG data from Shaw et al. 2017

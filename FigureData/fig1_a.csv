@@ -1,0 +1,901 @@
+﻿Facet,RunName,Iteration,AUC
+A,Taxonomy-based heuristic,1,0.6411122661122661
+A,Taxonomy-based heuristic,2,0.5284391534391535
+A,Taxonomy-based heuristic,3,0.5633606162734713
+A,Taxonomy-based heuristic,4,0.5645958162514454
+A,Taxonomy-based heuristic,5,0.6003645603181618
+A,Taxonomy-based heuristic,6,0.643364448051948
+A,Taxonomy-based heuristic,7,0.5960742705570292
+A,Taxonomy-based heuristic,8,0.6369594336012246
+A,Taxonomy-based heuristic,9,0.528414442700157
+A,Taxonomy-based heuristic,10,0.6334769107482721
+A,Taxonomy-based heuristic,11,0.5348583877995643
+A,Taxonomy-based heuristic,12,0.5875700458481915
+A,Taxonomy-based heuristic,13,0.5651522973670625
+A,Taxonomy-based heuristic,14,0.5372289793759916
+A,Taxonomy-based heuristic,15,0.6558869701726845
+A,Taxonomy-based heuristic,16,0.6145316603443245
+A,Taxonomy-based heuristic,17,0.6915821501014199
+A,Taxonomy-based heuristic,18,0.627129817444219
+A,Taxonomy-based heuristic,19,0.5974616604970915
+A,Taxonomy-based heuristic,20,0.6215486500254712
+A,Taxonomy-based heuristic,21,0.599990273319716
+A,Taxonomy-based heuristic,22,0.5011676312315971
+A,Taxonomy-based heuristic,23,0.6070026525198939
+A,Taxonomy-based heuristic,24,0.563768115942029
+A,Taxonomy-based heuristic,25,0.59528205128205125
+A,Taxonomy-based heuristic,26,0.5652864708714492
+A,Taxonomy-based heuristic,27,0.688331988705123
+A,Taxonomy-based heuristic,28,0.603425823900631
+A,Taxonomy-based heuristic,29,0.5811389759665622
+A,Taxonomy-based heuristic,30,0.5875090777051561
+A,Taxonomy-based heuristic,31,0.5751243781094527
+A,Taxonomy-based heuristic,32,0.599723982825598
+A,Taxonomy-based heuristic,33,0.637753036437247
+A,Taxonomy-based heuristic,34,0.620485778203899
+A,Taxonomy-based heuristic,35,0.5787258975178439
+A,Taxonomy-based heuristic,36,0.5641939315408703
+A,Taxonomy-based heuristic,37,0.5907122753842823
+A,Taxonomy-based heuristic,38,0.6978973407544836
+A,Taxonomy-based heuristic,39,0.5700602079912425
+A,Taxonomy-based heuristic,40,0.566838958143306
+A,Taxonomy-based heuristic,41,0.6048063415613084
+A,Taxonomy-based heuristic,42,0.5811287477954145
+A,Taxonomy-based heuristic,43,0.6143070203472888
+A,Taxonomy-based heuristic,44,0.5890157057848014
+A,Taxonomy-based heuristic,45,0.6193981381251353
+A,Taxonomy-based heuristic,46,0.6193121127964111
+A,Taxonomy-based heuristic,47,0.5691275167785235
+A,Taxonomy-based heuristic,48,0.5950772200772201
+A,Taxonomy-based heuristic,49,0.5715478551299447
+A,Taxonomy-based heuristic,50,0.6204554738562091
+A,Taxonomy-based heuristic,51,0.5388278388278388
+A,Taxonomy-based heuristic,52,0.5526473526473527
+A,Taxonomy-based heuristic,53,0.6507230255839822
+A,Taxonomy-based heuristic,54,0.5748299319727891
+A,Taxonomy-based heuristic,55,0.6178955453149002
+A,Taxonomy-based heuristic,56,0.6884350132625995
+A,Taxonomy-based heuristic,57,0.5753701928198572
+A,Taxonomy-based heuristic,58,0.5747297992794648
+A,Taxonomy-based heuristic,59,0.6581353853016616
+A,Taxonomy-based heuristic,60,0.6142928039702233
+A,Taxonomy-based heuristic,61,0.6564251207729469
+A,Taxonomy-based heuristic,62,0.5817101675107129
+A,Taxonomy-based heuristic,63,0.565072765072765
+A,Taxonomy-based heuristic,64,0.6555977229601518
+A,Taxonomy-based heuristic,65,0.6228152799581371
+A,Taxonomy-based heuristic,66,0.5923076923076923
+A,Taxonomy-based heuristic,67,0.5805369127516778
+A,Taxonomy-based heuristic,68,0.6116970278044104
+A,Taxonomy-based heuristic,69,0.6249024199843872
+A,Taxonomy-based heuristic,70,0.6086275780153331
+A,Taxonomy-based heuristic,71,0.648101773014124
+A,Taxonomy-based heuristic,72,0.593473663975394
+A,Taxonomy-based heuristic,73,0.5702091577162238
+A,Taxonomy-based heuristic,74,0.607016632016632
+A,Taxonomy-based heuristic,75,0.6316468766133195
+A,Taxonomy-based heuristic,76,0.5833065466623808
+A,Taxonomy-based heuristic,77,0.6963886225631192
+A,Taxonomy-based heuristic,78,0.5907565588773642
+A,Taxonomy-based heuristic,79,0.5546102903718798
+A,Taxonomy-based heuristic,80,0.6024762908324552
+A,Taxonomy-based heuristic,81,0.5830824132931861
+A,Taxonomy-based heuristic,82,0.5376871450696954
+A,Taxonomy-based heuristic,83,0.6575282430853135
+A,Taxonomy-based heuristic,84,0.6533405172413793
+A,Taxonomy-based heuristic,85,0.616994116994117
+A,Taxonomy-based heuristic,86,0.6145274886996741
+A,Taxonomy-based heuristic,87,0.5917619907686132
+A,Taxonomy-based heuristic,88,0.5313199105145414
+A,Taxonomy-based heuristic,89,0.5249356499356499
+A,Taxonomy-based heuristic,90,0.6597922549415087
+A,Taxonomy-based heuristic,91,0.5836893826105533
+A,Taxonomy-based heuristic,92,0.5893814997263274
+A,Taxonomy-based heuristic,93,0.5894039735099338
+A,Taxonomy-based heuristic,94,0.641908091908092
+A,Taxonomy-based heuristic,95,0.6318007662835249
+A,Taxonomy-based heuristic,96,0.5826479845669611
+A,Taxonomy-based heuristic,97,0.5950409149166913
+A,Taxonomy-based heuristic,98,0.6404992358634742
+A,Taxonomy-based heuristic,99,0.5974751655629139
+A,Taxonomy-based heuristic,100,0.5654628741877064
+B,Taxonomic,1,0.6750712250712251
+B,Taxonomic,2,0.557977207977208
+B,Taxonomic,3,0.6257834757834758
+B,Taxonomic,4,0.6776353276353276
+B,Taxonomic,5,0.6011396011396012
+B,Taxonomic,6,0.632051282051282
+B,Taxonomic,7,0.6374643874643875
+B,Taxonomic,8,0.5837606837606838
+B,Taxonomic,9,0.6227920227920228
+B,Taxonomic,10,0.541025641025641
+B,Taxonomic,11,0.7001424501424501
+B,Taxonomic,12,0.5846153846153846
+B,Taxonomic,13,0.5612535612535613
+B,Taxonomic,14,0.5467236467236467
+B,Taxonomic,15,0.5901709401709402
+B,Taxonomic,16,0.47364672364672367
+B,Taxonomic,17,0.5881766381766381
+B,Taxonomic,18,0.6092592592592593
+B,Taxonomic,19,0.6233618233618233
+B,Taxonomic,20,0.5578347578347579
+B,Taxonomic,21,0.6565527065527066
+B,Taxonomic,22,0.5193732193732193
+B,Taxonomic,23,0.5367521367521367
+B,Taxonomic,24,0.6507122507122507
+B,Taxonomic,25,0.6163817663817663
+B,Taxonomic,26,0.6240740740740741
+B,Taxonomic,27,0.6166666666666667
+B,Taxonomic,28,0.6690883190883191
+B,Taxonomic,29,0.6849002849002849
+B,Taxonomic,30,0.5955840455840455
+B,Taxonomic,31,0.5958689458689459
+B,Taxonomic,32,0.6978632478632478
+B,Taxonomic,33,0.5477207977207977
+B,Taxonomic,34,0.595014245014245
+B,Taxonomic,35,0.5038461538461538
+B,Taxonomic,36,0.6282051282051282
+B,Taxonomic,37,0.6575498575498575
+B,Taxonomic,38,0.5158119658119659
+B,Taxonomic,39,0.6703703703703704
+B,Taxonomic,40,0.6394586894586894
+B,Taxonomic,41,0.6212250712250712
+B,Taxonomic,42,0.6048433048433048
+B,Taxonomic,43,0.6299145299145299
+B,Taxonomic,44,0.566096866096866
+B,Taxonomic,45,0.5719373219373219
+B,Taxonomic,46,0.554985754985755
+B,Taxonomic,47,0.5796296296296296
+B,Taxonomic,48,0.6474358974358975
+B,Taxonomic,49,0.5700854700854701
+B,Taxonomic,50,0.6585470085470085
+B,Taxonomic,51,0.535042735042735
+B,Taxonomic,52,0.5568376068376069
+B,Taxonomic,53,0.5717948717948718
+B,Taxonomic,54,0.610968660968661
+B,Taxonomic,55,0.5784900284900285
+B,Taxonomic,56,0.6085470085470085
+B,Taxonomic,57,0.6103988603988604
+B,Taxonomic,58,0.5679487179487179
+B,Taxonomic,59,0.49373219373219374
+B,Taxonomic,60,0.6242165242165242
+B,Taxonomic,61,0.6095441595441595
+B,Taxonomic,62,0.499002849002849
+B,Taxonomic,63,0.48475783475783474
+B,Taxonomic,64,0.6207977207977208
+B,Taxonomic,65,0.6595441595441596
+B,Taxonomic,66,0.6679487179487179
+B,Taxonomic,67,0.6457264957264958
+B,Taxonomic,68,0.6125356125356125
+B,Taxonomic,69,0.6028490028490029
+B,Taxonomic,70,0.6145299145299146
+B,Taxonomic,71,0.6477207977207977
+B,Taxonomic,72,0.5561253561253561
+B,Taxonomic,73,0.5881766381766381
+B,Taxonomic,74,0.6042735042735042
+B,Taxonomic,75,0.5727920227920228
+B,Taxonomic,76,0.5742165242165242
+B,Taxonomic,77,0.6175213675213675
+B,Taxonomic,78,0.45783475783475786
+B,Taxonomic,79,0.554985754985755
+B,Taxonomic,80,0.5977207977207977
+B,Taxonomic,81,0.703988603988604
+B,Taxonomic,82,0.6780626780626781
+B,Taxonomic,83,0.6094017094017095
+B,Taxonomic,84,0.704985754985755
+B,Taxonomic,85,0.5106837606837606
+B,Taxonomic,86,0.6045584045584046
+B,Taxonomic,87,0.584045584045584
+B,Taxonomic,88,0.588034188034188
+B,Taxonomic,89,0.636039886039886
+B,Taxonomic,90,0.6962962962962963
+B,Taxonomic,91,0.5452991452991452
+B,Taxonomic,92,0.6007122507122508
+B,Taxonomic,93,0.5205128205128206
+B,Taxonomic,94,0.6091168091168091
+B,Taxonomic,95,0.5544159544159544
+B,Taxonomic,96,0.593019943019943
+B,Taxonomic,97,0.587037037037037
+B,Taxonomic,98,0.5618233618233618
+B,Taxonomic,99,0.6343304843304843
+B,Taxonomic,100,0.6447293447293447
+B,Phylogenetic neighbourhood,1,0.5594017094017094
+B,Phylogenetic neighbourhood,2,0.47806267806267805
+B,Phylogenetic neighbourhood,3,0.5924501424501425
+B,Phylogenetic neighbourhood,4,0.6103988603988604
+B,Phylogenetic neighbourhood,5,0.5726495726495726
+B,Phylogenetic neighbourhood,6,0.6837606837606838
+B,Phylogenetic neighbourhood,7,0.407977207977208
+B,Phylogenetic neighbourhood,8,0.586039886039886
+B,Phylogenetic neighbourhood,9,0.6405982905982905
+B,Phylogenetic neighbourhood,10,0.5301994301994302
+B,Phylogenetic neighbourhood,11,0.5752136752136752
+B,Phylogenetic neighbourhood,12,0.5695156695156696
+B,Phylogenetic neighbourhood,13,0.452991452991453
+B,Phylogenetic neighbourhood,14,0.6324786324786325
+B,Phylogenetic neighbourhood,15,0.5222222222222223
+B,Phylogenetic neighbourhood,16,0.3730769230769231
+B,Phylogenetic neighbourhood,17,0.4878917378917379
+B,Phylogenetic neighbourhood,18,0.6773504273504274
+B,Phylogenetic neighbourhood,19,0.6562678062678062
+B,Phylogenetic neighbourhood,20,0.37763532763532764
+B,Phylogenetic neighbourhood,21,0.5571225071225071
+B,Phylogenetic neighbourhood,22,0.5259259259259259
+B,Phylogenetic neighbourhood,23,0.5706552706552707
+B,Phylogenetic neighbourhood,24,0.4962962962962963
+B,Phylogenetic neighbourhood,25,0.5495726495726496
+B,Phylogenetic neighbourhood,26,0.48903133903133905
+B,Phylogenetic neighbourhood,27,0.5676638176638177
+B,Phylogenetic neighbourhood,28,0.6296296296296297
+B,Phylogenetic neighbourhood,29,0.4618233618233618
+B,Phylogenetic neighbourhood,30,0.5992877492877493
+B,Phylogenetic neighbourhood,31,0.6103988603988604
+B,Phylogenetic neighbourhood,32,0.5598290598290598
+B,Phylogenetic neighbourhood,33,0.5621082621082621
+B,Phylogenetic neighbourhood,34,0.520940170940171
+B,Phylogenetic neighbourhood,35,0.49558404558404556
+B,Phylogenetic neighbourhood,36,0.6206552706552707
+B,Phylogenetic neighbourhood,37,0.566096866096866
+B,Phylogenetic neighbourhood,38,0.5581196581196581
+B,Phylogenetic neighbourhood,39,0.5215099715099715
+B,Phylogenetic neighbourhood,40,0.6155270655270655
+B,Phylogenetic neighbourhood,41,0.584045584045584
+B,Phylogenetic neighbourhood,42,0.6994301994301995
+B,Phylogenetic neighbourhood,43,0.5336182336182336
+B,Phylogenetic neighbourhood,44,0.544017094017094
+B,Phylogenetic neighbourhood,45,0.5047008547008547
+B,Phylogenetic neighbourhood,46,0.6411680911680911
+B,Phylogenetic neighbourhood,47,0.4270655270655271
+B,Phylogenetic neighbourhood,48,0.5269230769230769
+B,Phylogenetic neighbourhood,49,0.5975783475783476
+B,Phylogenetic neighbourhood,50,0.46638176638176637
+B,Phylogenetic neighbourhood,51,0.5293447293447293
+B,Phylogenetic neighbourhood,52,0.5497150997150997
+B,Phylogenetic neighbourhood,53,0.5424501424501424
+B,Phylogenetic neighbourhood,54,0.5264957264957265
+B,Phylogenetic neighbourhood,55,0.5565527065527065
+B,Phylogenetic neighbourhood,56,0.5774928774928775
+B,Phylogenetic neighbourhood,57,0.5525641025641026
+B,Phylogenetic neighbourhood,58,0.5648148148148148
+B,Phylogenetic neighbourhood,59,0.5122507122507123
+B,Phylogenetic neighbourhood,60,0.456980056980057
+B,Phylogenetic neighbourhood,61,0.5041310541310541
+B,Phylogenetic neighbourhood,62,0.5782051282051283
+B,Phylogenetic neighbourhood,63,0.6913105413105413
+B,Phylogenetic neighbourhood,64,0.4881766381766382
+B,Phylogenetic neighbourhood,65,0.5888888888888889
+B,Phylogenetic neighbourhood,66,0.5022792022792023
+B,Phylogenetic neighbourhood,67,0.5876068376068376
+B,Phylogenetic neighbourhood,68,0.5411680911680912
+B,Phylogenetic neighbourhood,69,0.5780626780626781
+B,Phylogenetic neighbourhood,70,0.5941595441595442
+B,Phylogenetic neighbourhood,71,0.5066951566951567
+B,Phylogenetic neighbourhood,72,0.6071225071225071
+B,Phylogenetic neighbourhood,73,0.5192307692307693
+B,Phylogenetic neighbourhood,74,0.5391737891737892
+B,Phylogenetic neighbourhood,75,0.5917378917378917
+B,Phylogenetic neighbourhood,76,0.5106837606837606
+B,Phylogenetic neighbourhood,77,0.45997150997151
+B,Phylogenetic neighbourhood,78,0.38504273504273506
+B,Phylogenetic neighbourhood,79,0.6296296296296297
+B,Phylogenetic neighbourhood,80,0.5918803418803419
+B,Phylogenetic neighbourhood,81,0.5464387464387465
+B,Phylogenetic neighbourhood,82,0.591025641025641
+B,Phylogenetic neighbourhood,83,0.5455840455840456
+B,Phylogenetic neighbourhood,84,0.6014245014245014
+B,Phylogenetic neighbourhood,85,0.5484330484330484
+B,Phylogenetic neighbourhood,86,0.6021367521367521
+B,Phylogenetic neighbourhood,87,0.5548433048433048
+B,Phylogenetic neighbourhood,88,0.5887464387464387
+B,Phylogenetic neighbourhood,89,0.5222222222222223
+B,Phylogenetic neighbourhood,90,0.6096866096866097
+B,Phylogenetic neighbourhood,91,0.4784900284900285
+B,Phylogenetic neighbourhood,92,0.5992877492877493
+B,Phylogenetic neighbourhood,93,0.5581196581196581
+B,Phylogenetic neighbourhood,94,0.645014245014245
+B,Phylogenetic neighbourhood,95,0.5595441595441596
+B,Phylogenetic neighbourhood,96,0.5588319088319088
+B,Phylogenetic neighbourhood,97,0.5794871794871795
+B,Phylogenetic neighbourhood,98,0.5666666666666667
+B,Phylogenetic neighbourhood,99,0.4443019943019943
+B,Phylogenetic neighbourhood,100,0.5871794871794872
+B,Viral genomic features,1,0.7279202279202279
+B,Viral genomic features,2,0.6985754985754986
+B,Viral genomic features,3,0.7193732193732194
+B,Viral genomic features,4,0.658974358974359
+B,Viral genomic features,5,0.6863247863247863
+B,Viral genomic features,6,0.6498575498575498
+B,Viral genomic features,7,0.7427350427350428
+B,Viral genomic features,8,0.7632478632478632
+B,Viral genomic features,9,0.58290598290598294
+B,Viral genomic features,10,0.7022792022792023
+B,Viral genomic features,11,0.6817663817663817
+B,Viral genomic features,12,0.7339031339031339
+B,Viral genomic features,13,0.6809116809116809
+B,Viral genomic features,14,0.7202279202279203
+B,Viral genomic features,15,0.6917378917378917
+B,Viral genomic features,16,0.7321937321937322
+B,Viral genomic features,17,0.7222222222222222
+B,Viral genomic features,18,0.7128205128205128
+B,Viral genomic features,19,0.674074074074074
+B,Viral genomic features,20,0.7433048433048433
+B,Viral genomic features,21,0.705982905982906
+B,Viral genomic features,22,0.6943019943019944
+B,Viral genomic features,23,0.725925925925926
+B,Viral genomic features,24,0.7011396011396012
+B,Viral genomic features,25,0.6826210826210827
+B,Viral genomic features,26,0.6609686609686609
+B,Viral genomic features,27,0.6301994301994301
+B,Viral genomic features,28,0.7213675213675214
+B,Viral genomic features,29,0.6643874643874644
+B,Viral genomic features,30,0.6584045584045584
+B,Viral genomic features,31,0.6612535612535613
+B,Viral genomic features,32,0.6370370370370371
+B,Viral genomic features,33,0.684045584045584
+B,Viral genomic features,34,0.7393162393162394
+B,Viral genomic features,35,0.6509971509971509
+B,Viral genomic features,36,0.7173789173789173
+B,Viral genomic features,37,0.7592592592592593
+B,Viral genomic features,38,0.7017094017094017
+B,Viral genomic features,39,0.6877492877492878
+B,Viral genomic features,40,0.7703703703703704
+B,Viral genomic features,41,0.7042735042735043
+B,Viral genomic features,42,0.7871794871794872
+B,Viral genomic features,43,0.6512820512820513
+B,Viral genomic features,44,0.6142450142450142
+B,Viral genomic features,45,0.6276353276353276
+B,Viral genomic features,46,0.7188034188034188
+B,Viral genomic features,47,0.8122507122507122
+B,Viral genomic features,48,0.6339031339031339
+B,Viral genomic features,49,0.6849002849002849
+B,Viral genomic features,50,0.7136752136752137
+B,Viral genomic features,51,0.7464387464387464
+B,Viral genomic features,52,0.6575498575498575
+B,Viral genomic features,53,0.6507122507122507
+B,Viral genomic features,54,0.7205128205128205
+B,Viral genomic features,55,0.639031339031339
+B,Viral genomic features,56,0.6826210826210827
+B,Viral genomic features,57,0.6011396011396012
+B,Viral genomic features,58,0.7413105413105413
+B,Viral genomic features,59,0.7347578347578347
+B,Viral genomic features,60,0.7125356125356125
+B,Viral genomic features,61,0.739031339031339
+B,Viral genomic features,62,0.6547008547008547
+B,Viral genomic features,63,0.7262108262108262
+B,Viral genomic features,64,0.701994301994302
+B,Viral genomic features,65,0.6025641025641025
+B,Viral genomic features,66,0.6726495726495727
+B,Viral genomic features,67,0.6028490028490029
+B,Viral genomic features,68,0.7182336182336182
+B,Viral genomic features,69,0.7236467236467237
+B,Viral genomic features,70,0.6988603988603989
+B,Viral genomic features,71,0.6849002849002849
+B,Viral genomic features,72,0.6162393162393163
+B,Viral genomic features,73,0.6521367521367522
+B,Viral genomic features,74,0.6618233618233619
+B,Viral genomic features,75,0.7213675213675214
+B,Viral genomic features,76,0.7512820512820513
+B,Viral genomic features,77,0.6709401709401709
+B,Viral genomic features,78,0.7356125356125356
+B,Viral genomic features,79,0.6544159544159545
+B,Viral genomic features,80,0.7148148148148148
+B,Viral genomic features,81,0.7071225071225071
+B,Viral genomic features,82,0.7581196581196581
+B,Viral genomic features,83,0.7042735042735043
+B,Viral genomic features,84,0.6313390313390314
+B,Viral genomic features,85,0.6435897435897436
+B,Viral genomic features,86,0.6732193732193732
+B,Viral genomic features,87,0.7347578347578347
+B,Viral genomic features,88,0.6575498575498575
+B,Viral genomic features,89,0.721937321937322
+B,Viral genomic features,90,0.7247863247863248
+B,Viral genomic features,91,0.7022792022792023
+B,Viral genomic features,92,0.7145299145299145
+B,Viral genomic features,93,0.7581196581196581
+B,Viral genomic features,94,0.588034188034188
+B,Viral genomic features,95,0.6860398860398861
+B,Viral genomic features,96,0.7296296296296296
+B,Viral genomic features,97,0.7199430199430199
+B,Viral genomic features,98,0.6555555555555556
+B,Viral genomic features,99,0.7054131054131054
+B,Viral genomic features,100,0.6643874643874644
+B,Similarity to ISGs,1,0.7347578347578347
+B,Similarity to ISGs,2,0.7153846153846154
+B,Similarity to ISGs,3,0.7339031339031339
+B,Similarity to ISGs,4,0.7353276353276353
+B,Similarity to ISGs,5,0.7227920227920228
+B,Similarity to ISGs,6,0.7022792022792023
+B,Similarity to ISGs,7,0.7173789173789173
+B,Similarity to ISGs,8,0.6475783475783475
+B,Similarity to ISGs,9,0.635042735042735
+B,Similarity to ISGs,10,0.717948717948718
+B,Similarity to ISGs,11,0.7108262108262108
+B,Similarity to ISGs,12,0.6532763532763532
+B,Similarity to ISGs,13,0.69002849002849
+B,Similarity to ISGs,14,0.7467236467236468
+B,Similarity to ISGs,15,0.598005698005698
+B,Similarity to ISGs,16,0.6649572649572649
+B,Similarity to ISGs,17,0.694017094017094
+B,Similarity to ISGs,18,0.7088319088319088
+B,Similarity to ISGs,19,0.6233618233618233
+B,Similarity to ISGs,20,0.6874643874643874
+B,Similarity to ISGs,21,0.7216524216524216
+B,Similarity to ISGs,22,0.6014245014245014
+B,Similarity to ISGs,23,0.7304843304843305
+B,Similarity to ISGs,24,0.6746438746438747
+B,Similarity to ISGs,25,0.6792022792022792
+B,Similarity to ISGs,26,0.6974358974358974
+B,Similarity to ISGs,27,0.7455840455840456
+B,Similarity to ISGs,28,0.6475783475783475
+B,Similarity to ISGs,29,0.733048433048433
+B,Similarity to ISGs,30,0.7170940170940171
+B,Similarity to ISGs,31,0.6686609686609687
+B,Similarity to ISGs,32,0.6823361823361823
+B,Similarity to ISGs,33,0.6672364672364672
+B,Similarity to ISGs,34,0.6008547008547008
+B,Similarity to ISGs,35,0.7102564102564103
+B,Similarity to ISGs,36,0.6789173789173789
+B,Similarity to ISGs,37,0.6396011396011396
+B,Similarity to ISGs,38,0.6111111111111112
+B,Similarity to ISGs,39,0.7752136752136752
+B,Similarity to ISGs,40,0.7088319088319088
+B,Similarity to ISGs,41,0.7598290598290598
+B,Similarity to ISGs,42,0.6997150997150997
+B,Similarity to ISGs,43,0.7182336182336182
+B,Similarity to ISGs,44,0.666951566951567
+B,Similarity to ISGs,45,0.7715099715099715
+B,Similarity to ISGs,46,0.7467236467236468
+B,Similarity to ISGs,47,0.6886039886039886
+B,Similarity to ISGs,48,0.6883190883190883
+B,Similarity to ISGs,49,0.6227920227920228
+B,Similarity to ISGs,50,0.7091168091168091
+B,Similarity to ISGs,51,0.7521367521367521
+B,Similarity to ISGs,52,0.6732193732193732
+B,Similarity to ISGs,53,0.7045584045584046
+B,Similarity to ISGs,54,0.6917378917378917
+B,Similarity to ISGs,55,0.7603988603988604
+B,Similarity to ISGs,56,0.617948717948718
+B,Similarity to ISGs,57,0.7595441595441595
+B,Similarity to ISGs,58,0.6447293447293447
+B,Similarity to ISGs,59,0.7287749287749288
+B,Similarity to ISGs,60,0.7615384615384615
+B,Similarity to ISGs,61,0.6638176638176638
+B,Similarity to ISGs,62,0.7444444444444445
+B,Similarity to ISGs,63,0.7794871794871795
+B,Similarity to ISGs,64,0.7105413105413105
+B,Similarity to ISGs,65,0.6726495726495727
+B,Similarity to ISGs,66,0.6903133903133903
+B,Similarity to ISGs,67,0.7777777777777778
+B,Similarity to ISGs,68,0.7213675213675214
+B,Similarity to ISGs,69,0.7099715099715099
+B,Similarity to ISGs,70,0.7170940170940171
+B,Similarity to ISGs,71,0.6997150997150997
+B,Similarity to ISGs,72,0.7378917378917379
+B,Similarity to ISGs,73,0.6814814814814815
+B,Similarity to ISGs,74,0.6809116809116809
+B,Similarity to ISGs,75,0.6678062678062678
+B,Similarity to ISGs,76,0.6561253561253562
+B,Similarity to ISGs,77,0.6159544159544159
+B,Similarity to ISGs,78,0.7068376068376069
+B,Similarity to ISGs,79,0.7421652421652422
+B,Similarity to ISGs,80,0.7447293447293447
+B,Similarity to ISGs,81,0.6720797720797721
+B,Similarity to ISGs,82,0.7068376068376069
+B,Similarity to ISGs,83,0.7096866096866097
+B,Similarity to ISGs,84,0.6598290598290598
+B,Similarity to ISGs,85,0.7082621082621082
+B,Similarity to ISGs,86,0.6908831908831908
+B,Similarity to ISGs,87,0.6723646723646723
+B,Similarity to ISGs,88,0.7532763532763532
+B,Similarity to ISGs,89,0.6433048433048433
+B,Similarity to ISGs,90,0.7264957264957265
+B,Similarity to ISGs,91,0.6977207977207978
+B,Similarity to ISGs,92,0.6581196581196581
+B,Similarity to ISGs,93,0.7099715099715099
+B,Similarity to ISGs,94,0.654985754985755
+B,Similarity to ISGs,95,0.711965811965812
+B,Similarity to ISGs,96,0.5763532763532764
+B,Similarity to ISGs,97,0.6592592592592592
+B,Similarity to ISGs,98,0.666951566951567
+B,Similarity to ISGs,99,0.7333333333333333
+B,Similarity to ISGs,100,0.6287749287749288
+B,Similarity to housekeeping genes,1,0.711965811965812
+B,Similarity to housekeeping genes,2,0.6746438746438747
+B,Similarity to housekeeping genes,3,0.6663817663817664
+B,Similarity to housekeeping genes,4,0.7150997150997151
+B,Similarity to housekeeping genes,5,0.6475783475783475
+B,Similarity to housekeeping genes,6,0.7051282051282052
+B,Similarity to housekeeping genes,7,0.7162393162393162
+B,Similarity to housekeeping genes,8,0.5994301994301995
+B,Similarity to housekeeping genes,9,0.7
+B,Similarity to housekeeping genes,10,0.6846153846153846
+B,Similarity to housekeeping genes,11,0.7150997150997151
+B,Similarity to housekeeping genes,12,0.6507122507122507
+B,Similarity to housekeeping genes,13,0.7091168091168091
+B,Similarity to housekeeping genes,14,0.6774928774928775
+B,Similarity to housekeeping genes,15,0.6783475783475783
+B,Similarity to housekeeping genes,16,0.6538461538461539
+B,Similarity to housekeeping genes,17,0.603988603988604
+B,Similarity to housekeeping genes,18,0.6874643874643874
+B,Similarity to housekeeping genes,19,0.6472934472934473
+B,Similarity to housekeeping genes,20,0.7213675213675214
+B,Similarity to housekeeping genes,21,0.7353276353276353
+B,Similarity to housekeeping genes,22,0.7111111111111111
+B,Similarity to housekeeping genes,23,0.7507122507122507
+B,Similarity to housekeeping genes,24,0.6868945868945869
+B,Similarity to housekeeping genes,25,0.6675213675213675
+B,Similarity to housekeeping genes,26,0.7225071225071225
+B,Similarity to housekeeping genes,27,0.7279202279202279
+B,Similarity to housekeeping genes,28,0.6948717948717948
+B,Similarity to housekeeping genes,29,0.6663817663817664
+B,Similarity to housekeeping genes,30,0.7051282051282052
+B,Similarity to housekeeping genes,31,0.6276353276353276
+B,Similarity to housekeeping genes,32,0.6498575498575498
+B,Similarity to housekeeping genes,33,0.8042735042735043
+B,Similarity to housekeeping genes,34,0.725925925925926
+B,Similarity to housekeeping genes,35,0.6527065527065528
+B,Similarity to housekeeping genes,36,0.6595441595441596
+B,Similarity to housekeeping genes,37,0.7236467236467237
+B,Similarity to housekeeping genes,38,0.6905982905982906
+B,Similarity to housekeeping genes,39,0.688034188034188
+B,Similarity to housekeeping genes,40,0.7350427350427351
+B,Similarity to housekeeping genes,41,0.6458689458689458
+B,Similarity to housekeeping genes,42,0.756980056980057
+B,Similarity to housekeeping genes,43,0.6680911680911681
+B,Similarity to housekeeping genes,44,0.6464387464387464
+B,Similarity to housekeeping genes,45,0.7356125356125356
+B,Similarity to housekeeping genes,46,0.6897435897435897
+B,Similarity to housekeeping genes,47,0.8145299145299145
+B,Similarity to housekeeping genes,48,0.7267806267806268
+B,Similarity to housekeeping genes,49,0.6572649572649573
+B,Similarity to housekeeping genes,50,0.6763532763532764
+B,Similarity to housekeeping genes,51,0.705982905982906
+B,Similarity to housekeeping genes,52,0.7284900284900285
+B,Similarity to housekeeping genes,53,0.6962962962962963
+B,Similarity to housekeeping genes,54,0.7786324786324786
+B,Similarity to housekeeping genes,55,0.794017094017094
+B,Similarity to housekeeping genes,56,0.6837606837606838
+B,Similarity to housekeeping genes,57,0.5475783475783476
+B,Similarity to housekeeping genes,58,0.7301994301994302
+B,Similarity to housekeeping genes,59,0.7472934472934473
+B,Similarity to housekeeping genes,60,0.5888888888888889
+B,Similarity to housekeeping genes,61,0.6914529914529914
+B,Similarity to housekeeping genes,62,0.6381766381766382
+B,Similarity to housekeeping genes,63,0.7612535612535613
+B,Similarity to housekeeping genes,64,0.7176638176638177
+B,Similarity to housekeeping genes,65,0.639031339031339
+B,Similarity to housekeeping genes,66,0.6353276353276354
+B,Similarity to housekeeping genes,67,0.6387464387464388
+B,Similarity to housekeeping genes,68,0.7264957264957265
+B,Similarity to housekeeping genes,69,0.6373219373219373
+B,Similarity to housekeeping genes,70,0.6535612535612536
+B,Similarity to housekeeping genes,71,0.5911680911680912
+B,Similarity to housekeeping genes,72,0.7381766381766381
+B,Similarity to housekeeping genes,73,0.6891737891737891
+B,Similarity to housekeeping genes,74,0.5834757834757834
+B,Similarity to housekeeping genes,75,0.6655270655270655
+B,Similarity to housekeeping genes,76,0.6458689458689458
+B,Similarity to housekeeping genes,77,0.6971509971509972
+B,Similarity to housekeeping genes,78,0.7544159544159544
+B,Similarity to housekeeping genes,79,0.7156695156695156
+B,Similarity to housekeeping genes,80,0.6948717948717948
+B,Similarity to housekeeping genes,81,0.6324786324786325
+B,Similarity to housekeeping genes,82,0.6527065527065528
+B,Similarity to housekeeping genes,83,0.6401709401709401
+B,Similarity to housekeeping genes,84,0.7344729344729345
+B,Similarity to housekeeping genes,85,0.7136752136752137
+B,Similarity to housekeeping genes,86,0.625071225071225
+B,Similarity to housekeeping genes,87,0.6552706552706553
+B,Similarity to housekeeping genes,88,0.6062678062678063
+B,Similarity to housekeeping genes,89,0.6421652421652422
+B,Similarity to housekeeping genes,90,0.684045584045584
+B,Similarity to housekeeping genes,91,0.7293447293447294
+B,Similarity to housekeeping genes,92,0.6059829059829059
+B,Similarity to housekeeping genes,93,0.6871794871794872
+B,Similarity to housekeeping genes,94,0.7245014245014245
+B,Similarity to housekeeping genes,95,0.7210826210826211
+B,Similarity to housekeeping genes,96,0.6672364672364672
+B,Similarity to housekeeping genes,97,0.7250712250712251
+B,Similarity to housekeeping genes,98,0.7350427350427351
+B,Similarity to housekeeping genes,99,0.6282051282051282
+B,Similarity to housekeeping genes,100,0.6849002849002849
+B,Similarity to remaining genes,1,0.7148148148148148
+B,Similarity to remaining genes,2,0.7176638176638177
+B,Similarity to remaining genes,3,0.7304843304843305
+B,Similarity to remaining genes,4,0.666951566951567
+B,Similarity to remaining genes,5,0.6566951566951567
+B,Similarity to remaining genes,6,0.6635327635327636
+B,Similarity to remaining genes,7,0.7165242165242165
+B,Similarity to remaining genes,8,0.6686609686609687
+B,Similarity to remaining genes,9,0.6393162393162393
+B,Similarity to remaining genes,10,0.6632478632478632
+B,Similarity to remaining genes,11,0.6575498575498575
+B,Similarity to remaining genes,12,0.6
+B,Similarity to remaining genes,13,0.7034188034188035
+B,Similarity to remaining genes,14,0.7589743589743589
+B,Similarity to remaining genes,15,0.7831908831908831
+B,Similarity to remaining genes,16,0.7051282051282052
+B,Similarity to remaining genes,17,0.7421652421652422
+B,Similarity to remaining genes,18,0.676923076923077
+B,Similarity to remaining genes,19,0.7002849002849003
+B,Similarity to remaining genes,20,0.6586894586894587
+B,Similarity to remaining genes,21,0.7507122507122507
+B,Similarity to remaining genes,22,0.7025641025641025
+B,Similarity to remaining genes,23,0.692022792022792
+B,Similarity to remaining genes,24,0.721937321937322
+B,Similarity to remaining genes,25,0.7464387464387464
+B,Similarity to remaining genes,26,0.711965811965812
+B,Similarity to remaining genes,27,0.6757834757834758
+B,Similarity to remaining genes,28,0.6692307692307692
+B,Similarity to remaining genes,29,0.7284900284900285
+B,Similarity to remaining genes,30,0.6874643874643874
+B,Similarity to remaining genes,31,0.6695156695156695
+B,Similarity to remaining genes,32,0.6871794871794872
+B,Similarity to remaining genes,33,0.7823361823361823
+B,Similarity to remaining genes,34,0.6128205128205129
+B,Similarity to remaining genes,35,0.7188034188034188
+B,Similarity to remaining genes,36,0.7222222222222222
+B,Similarity to remaining genes,37,0.7242165242165243
+B,Similarity to remaining genes,38,0.7002849002849003
+B,Similarity to remaining genes,39,0.6532763532763532
+B,Similarity to remaining genes,40,0.6424501424501424
+B,Similarity to remaining genes,41,0.6572649572649573
+B,Similarity to remaining genes,42,0.6159544159544159
+B,Similarity to remaining genes,43,0.6225071225071225
+B,Similarity to remaining genes,44,0.5672364672364673
+B,Similarity to remaining genes,45,0.8082621082621083
+B,Similarity to remaining genes,46,0.6025641025641025
+B,Similarity to remaining genes,47,0.7347578347578347
+B,Similarity to remaining genes,48,0.6962962962962963
+B,Similarity to remaining genes,49,0.6655270655270655
+B,Similarity to remaining genes,50,0.5897435897435898
+B,Similarity to remaining genes,51,0.6911680911680912
+B,Similarity to remaining genes,52,0.7128205128205128
+B,Similarity to remaining genes,53,0.6923076923076923
+B,Similarity to remaining genes,54,0.6854700854700855
+B,Similarity to remaining genes,55,0.7794871794871795
+B,Similarity to remaining genes,56,0.7153846153846154
+B,Similarity to remaining genes,57,0.7575498575498576
+B,Similarity to remaining genes,58,0.7336182336182336
+B,Similarity to remaining genes,59,0.6837606837606838
+B,Similarity to remaining genes,60,0.6849002849002849
+B,Similarity to remaining genes,61,0.6786324786324787
+B,Similarity to remaining genes,62,0.6148148148148148
+B,Similarity to remaining genes,63,0.6304843304843305
+B,Similarity to remaining genes,64,0.7450142450142451
+B,Similarity to remaining genes,65,0.6846153846153846
+B,Similarity to remaining genes,66,0.5968660968660968
+B,Similarity to remaining genes,67,0.6792022792022792
+B,Similarity to remaining genes,68,0.7527065527065527
+B,Similarity to remaining genes,69,0.692022792022792
+B,Similarity to remaining genes,70,0.617948717948718
+B,Similarity to remaining genes,71,0.7461538461538462
+B,Similarity to remaining genes,72,0.652991452991453
+B,Similarity to remaining genes,73,0.6737891737891738
+B,Similarity to remaining genes,74,0.7045584045584046
+B,Similarity to remaining genes,75,0.7111111111111111
+B,Similarity to remaining genes,76,0.7125356125356125
+B,Similarity to remaining genes,77,0.7022792022792023
+B,Similarity to remaining genes,78,0.7236467236467237
+B,Similarity to remaining genes,79,0.6504273504273504
+B,Similarity to remaining genes,80,0.6797720797720798
+B,Similarity to remaining genes,81,0.6737891737891738
+B,Similarity to remaining genes,82,0.7196581196581197
+B,Similarity to remaining genes,83,0.6957264957264957
+B,Similarity to remaining genes,84,0.6578347578347579
+B,Similarity to remaining genes,85,0.715954415954416
+B,Similarity to remaining genes,86,0.7193732193732194
+B,Similarity to remaining genes,87,0.7444444444444445
+B,Similarity to remaining genes,88,0.7555555555555555
+B,Similarity to remaining genes,89,0.7005698005698006
+B,Similarity to remaining genes,90,0.6125356125356125
+B,Similarity to remaining genes,91,0.676923076923077
+B,Similarity to remaining genes,92,0.7467236467236468
+B,Similarity to remaining genes,93,0.6863247863247863
+B,Similarity to remaining genes,94,0.6843304843304844
+B,Similarity to remaining genes,95,0.6977207977207978
+B,Similarity to remaining genes,96,0.6834757834757835
+B,Similarity to remaining genes,97,0.7162393162393162
+B,Similarity to remaining genes,98,0.7435897435897436
+B,Similarity to remaining genes,99,0.7313390313390313
+B,Similarity to remaining genes,100,0.6923076923076923
+B,All feature sets,1,0.719088319088319
+B,All feature sets,2,0.8678062678062678
+B,All feature sets,3,0.7350427350427351
+B,All feature sets,4,0.7333333333333333
+B,All feature sets,5,0.7168091168091169
+B,All feature sets,6,0.7803418803418803
+B,All feature sets,7,0.7689458689458689
+B,All feature sets,8,0.7247863247863248
+B,All feature sets,9,0.7099715099715099
+B,All feature sets,10,0.7478632478632479
+B,All feature sets,11,0.701994301994302
+B,All feature sets,12,0.7737891737891738
+B,All feature sets,13,0.6723646723646723
+B,All feature sets,14,0.7245014245014245
+B,All feature sets,15,0.7806267806267806
+B,All feature sets,16,0.7339031339031339
+B,All feature sets,17,0.8074074074074075
+B,All feature sets,18,0.7091168091168091
+B,All feature sets,19,0.6566951566951567
+B,All feature sets,20,0.7945868945868946
+B,All feature sets,21,0.8042735042735043
+B,All feature sets,22,0.621937321937322
+B,All feature sets,23,0.7293447293447294
+B,All feature sets,24,0.6518518518518519
+B,All feature sets,25,0.6658119658119658
+B,All feature sets,26,0.7772079772079772
+B,All feature sets,27,0.7891737891737892
+B,All feature sets,28,0.6928774928774929
+B,All feature sets,29,0.7638176638176638
+B,All feature sets,30,0.6968660968660969
+B,All feature sets,31,0.7373219373219373
+B,All feature sets,32,0.7307692307692307
+B,All feature sets,33,0.6242165242165242
+B,All feature sets,34,0.6837606837606838
+B,All feature sets,35,0.6991452991452991
+B,All feature sets,36,0.6786324786324787
+B,All feature sets,37,0.7227920227920228
+B,All feature sets,38,0.6723646723646723
+B,All feature sets,39,0.7584045584045584
+B,All feature sets,40,0.6974358974358974
+B,All feature sets,41,0.7253561253561254
+B,All feature sets,42,0.707977207977208
+B,All feature sets,43,0.7002849002849003
+B,All feature sets,44,0.7846153846153846
+B,All feature sets,45,0.7262108262108262
+B,All feature sets,46,0.7031339031339031
+B,All feature sets,47,0.715954415954416
+B,All feature sets,48,0.7564102564102564
+B,All feature sets,49,0.7703703703703704
+B,All feature sets,50,0.7777777777777778
+B,All feature sets,51,0.6564102564102564
+B,All feature sets,52,0.7424501424501424
+B,All feature sets,53,0.7726495726495727
+B,All feature sets,54,0.7233618233618233
+B,All feature sets,55,0.6794871794871795
+B,All feature sets,56,0.6746438746438747
+B,All feature sets,57,0.715954415954416
+B,All feature sets,58,0.6746438746438747
+B,All feature sets,59,0.6923076923076923
+B,All feature sets,60,0.7472934472934473
+B,All feature sets,61,0.6757834757834758
+B,All feature sets,62,0.7769230769230769
+B,All feature sets,63,0.6866096866096866
+B,All feature sets,64,0.7270655270655271
+B,All feature sets,65,0.6358974358974359
+B,All feature sets,66,0.6914529914529914
+B,All feature sets,67,0.7498575498575498
+B,All feature sets,68,0.8136752136752137
+B,All feature sets,69,0.7863247863247863
+B,All feature sets,70,0.7319088319088319
+B,All feature sets,71,0.7484330484330485
+B,All feature sets,72,0.6923076923076923
+B,All feature sets,73,0.8333333333333334
+B,All feature sets,74,0.6860398860398861
+B,All feature sets,75,0.7384615384615385
+B,All feature sets,76,0.7111111111111111
+B,All feature sets,77,0.6925925925925925
+B,All feature sets,78,0.6783475783475783
+B,All feature sets,79,0.6467236467236467
+B,All feature sets,80,0.752991452991453
+B,All feature sets,81,0.7518518518518519
+B,All feature sets,82,0.7515669515669515
+B,All feature sets,83,0.7267806267806268
+B,All feature sets,84,0.7538461538461538
+B,All feature sets,85,0.733048433048433
+B,All feature sets,86,0.7310541310541311
+B,All feature sets,87,0.6923076923076923
+B,All feature sets,88,0.7
+B,All feature sets,89,0.8125356125356126
+B,All feature sets,90,0.676923076923077
+B,All feature sets,91,0.729059829059829
+B,All feature sets,92,0.6544159544159545
+B,All feature sets,93,0.7284900284900285
+B,All feature sets,94,0.8216524216524217
+B,All feature sets,95,0.7735042735042735
+B,All feature sets,96,0.8042735042735043
+B,All feature sets,97,0.7461538461538462
+B,All feature sets,98,0.7313390313390313
+B,All feature sets,99,0.6678062678062678
+B,All feature sets,100,0.6831908831908832
+C,All genome composition feature sets,1,0.7578347578347578
+C,All genome composition feature sets,2,0.7831908831908831
+C,All genome composition feature sets,3,0.7527065527065527
+C,All genome composition feature sets,4,0.6994301994301995
+C,All genome composition feature sets,5,0.7276353276353277
+C,All genome composition feature sets,6,0.6863247863247863
+C,All genome composition feature sets,7,0.7136752136752137
+C,All genome composition feature sets,8,0.6632478632478632
+C,All genome composition feature sets,9,0.8096866096866097
+C,All genome composition feature sets,10,0.7484330484330485
+C,All genome composition feature sets,11,0.7653846153846153
+C,All genome composition feature sets,12,0.735897435897436
+C,All genome composition feature sets,13,0.7478632478632479
+C,All genome composition feature sets,14,0.7452991452991453
+C,All genome composition feature sets,15,0.6911680911680912
+C,All genome composition feature sets,16,0.7706552706552706
+C,All genome composition feature sets,17,0.7450142450142451
+C,All genome composition feature sets,18,0.6581196581196581
+C,All genome composition feature sets,19,0.7757834757834757
+C,All genome composition feature sets,20,0.7660968660968661
+C,All genome composition feature sets,21,0.7088319088319088
+C,All genome composition feature sets,22,0.7407407407407407
+C,All genome composition feature sets,23,0.7350427350427351
+C,All genome composition feature sets,24,0.739031339031339
+C,All genome composition feature sets,25,0.7415954415954416
+C,All genome composition feature sets,26,0.7461538461538462
+C,All genome composition feature sets,27,0.6709401709401709
+C,All genome composition feature sets,28,0.7535612535612536
+C,All genome composition feature sets,29,0.7894586894586895
+C,All genome composition feature sets,30,0.8170940170940171
+C,All genome composition feature sets,31,0.7245014245014245
+C,All genome composition feature sets,32,0.7205128205128205
+C,All genome composition feature sets,33,0.7227920227920228
+C,All genome composition feature sets,34,0.7621082621082621
+C,All genome composition feature sets,35,0.7823361823361823
+C,All genome composition feature sets,36,0.7658119658119659
+C,All genome composition feature sets,37,0.7606837606837606
+C,All genome composition feature sets,38,0.7888888888888889
+C,All genome composition feature sets,39,0.7524216524216524
+C,All genome composition feature sets,40,0.6985754985754986
+C,All genome composition feature sets,41,0.7754985754985755
+C,All genome composition feature sets,42,0.7652421652421653
+C,All genome composition feature sets,43,0.7632478632478632
+C,All genome composition feature sets,44,0.7376068376068377
+C,All genome composition feature sets,45,0.6917378917378917
+C,All genome composition feature sets,46,0.6826210826210827
+C,All genome composition feature sets,47,0.7279202279202279
+C,All genome composition feature sets,48,0.7284900284900285
+C,All genome composition feature sets,49,0.7603988603988604
+C,All genome composition feature sets,50,0.7472934472934473
+C,All genome composition feature sets,51,0.7541310541310541
+C,All genome composition feature sets,52,0.8051282051282052
+C,All genome composition feature sets,53,0.7783475783475784
+C,All genome composition feature sets,54,0.7008547008547008
+C,All genome composition feature sets,55,0.7091168091168091
+C,All genome composition feature sets,56,0.8045584045584045
+C,All genome composition feature sets,57,0.7270655270655271
+C,All genome composition feature sets,58,0.6572649572649573
+C,All genome composition feature sets,59,0.7008547008547008
+C,All genome composition feature sets,60,0.6897435897435897
+C,All genome composition feature sets,61,0.7586894586894587
+C,All genome composition feature sets,62,0.7282051282051282
+C,All genome composition feature sets,63,0.676923076923077
+C,All genome composition feature sets,64,0.7843304843304844
+C,All genome composition feature sets,65,0.692022792022792
+C,All genome composition feature sets,66,0.7262108262108262
+C,All genome composition feature sets,67,0.7034188034188035
+C,All genome composition feature sets,68,0.68005698005698
+C,All genome composition feature sets,69,0.6621082621082621
+C,All genome composition feature sets,70,0.6971509971509972
+C,All genome composition feature sets,71,0.7421652421652422
+C,All genome composition feature sets,72,0.7356125356125356
+C,All genome composition feature sets,73,0.7857549857549857
+C,All genome composition feature sets,74,0.7512820512820513
+C,All genome composition feature sets,75,0.7273504273504273
+C,All genome composition feature sets,76,0.7666666666666667
+C,All genome composition feature sets,77,0.7723646723646723
+C,All genome composition feature sets,78,0.7008547008547008
+C,All genome composition feature sets,79,0.7324786324786324
+C,All genome composition feature sets,80,0.7387464387464387
+C,All genome composition feature sets,81,0.7210826210826211
+C,All genome composition feature sets,82,0.7336182336182336
+C,All genome composition feature sets,83,0.7888888888888889
+C,All genome composition feature sets,84,0.6749287749287749
+C,All genome composition feature sets,85,0.7615384615384615
+C,All genome composition feature sets,86,0.7866096866096867
+C,All genome composition feature sets,87,0.7715099715099715
+C,All genome composition feature sets,88,0.784045584045584
+C,All genome composition feature sets,89,0.7339031339031339
+C,All genome composition feature sets,90,0.7817663817663818
+C,All genome composition feature sets,91,0.6680911680911681
+C,All genome composition feature sets,92,0.698005698005698
+C,All genome composition feature sets,93,0.7732193732193732
+C,All genome composition feature sets,94,0.6601139601139601
+C,All genome composition feature sets,95,0.6672364672364672
+C,All genome composition feature sets,96,0.7264957264957265
+C,All genome composition feature sets,97,0.7695156695156695
+C,All genome composition feature sets,98,0.7849002849002849
+C,All genome composition feature sets,99,0.7042735042735043
+C,All genome composition feature sets,100,0.8025641025641026
