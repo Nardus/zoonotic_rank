@@ -1,5 +1,42 @@
 # Numerical values represented in manuscript figures
 
+## Files included
+
+| Figure  | Panel | File name                   | Description                                                                                                             |
+|---------|-------|-----------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| Fig 1   | A     | `fig1_a.csv`                | AUC values for replicate train/calibrate/test splits                                                                    |
+|         | B     | `fig1_b_replicates.csv.zip` | Predictions from 1000 replicate train/calibrate/test splits, used to generate AUC curves                                 |
+|         |       | `fig1_b_bagged.csv`         | Predictions from the bagged model, used to generate the summary AUC curve                                                |
+|         | C     | `fig1_c.csv`                | Confusion matrix for the best model, derived from S1 Table / bagged predictions                                         |
+|         | D     | `fig1_d.csv`                | Viruses encountered and cumulative success when screening viruses in the order recommended by the best model            |
+| Fig 2   | A     | `fig2_a.csv`                | SHAP values for each virus-genome feature combination, used to cluster viruses by explanation simililarity              |
+|         | B     | `fig2_b.csv`                | Mean absolute SHAP values across all viruses, as a measure of feature importance                                        |
+|         | C     | `fig2_c.csv`                | Feature importance and relative ranks for features measuring the same quantity in both referenced and unreferenced form |
+|         | D     | `fig2_d_clusters.csv`       | Relative importance of different clusters of correlated features (bar heights and error-bars in Fig 2D)                 |
+|         |       | `fig2_d_featuresets.csv`    | Composition of clusters (colours in Fig 2D)                                                                             |
+| Fig 3   |       | --                          | See data for S11 Fig; more detailed host/vector information recorded in [InternalData/NovelVirus_Hosts_Curated.csv](../InternalData/NovelVirus_Hosts_Curated.csv) |
+| Fig 4   |       | --                          | These plots show partial residuals from a model fit - see the plotting script linked below                              |
+| Fig 5   | A     | --                          | Values included in S1 Table                                                                                             |
+|         | B     | `fig5_b.csv`                | Predictions for different *Sarbecovirus* genomes                                                                        |
+| S1 Fig  |       | `s1_fig.csv`                | List of viruses used for model training, including taxonomy                                                             |
+| S2 Fig  | A     | `s2_fig_a.csv`              | Predictions from the taxonomy-based model                                                                               |
+|         | B     | `s2_fig_b.csv`              | Predictions from the phylogenetic neighbourhood-based model                                                             |
+| S3 Fig  |       | `s3_fig.csv`                | Family-specific AUC values, measuring the probability of accurately ranking known human-infecting viruses above other viruses from the same family |
+| S4 Fig  |       | --                          | Values included in S1 Table                                                                                             |
+| S5 Fig  |       | --                          | Values included in S1 Table                                                                                             |
+| S6 Fig  |       | `s6_fig_taxonomy.csv`       | Cumulative success when screening viruses in the order recommended by the taxonomy-based model                          |
+|         |       | `s6_fig_pn.csv`             | Cumulative success when screening viruses in the order recommended by the phylogenetic neighbourhood-based model        |
+|         |       | *                           | Note that this figure also displays values from Fig 1D (`fig1_d.csv`) for comparison                                    |
+| S7 Fig  |       | --                          | See plotting script linked below                                                                                        |
+| S8 Fig  |       | `s8_fig.csv`                | Clustering similarity comparisons using the Fowlkes-Mallows (Bk) index                                                  |
+| S9 Fig  |       | `s9_fig.csv`                | Membership of correlated-feature clusters and coordinates in 2 dimensions obtained via multi-dimensional scaling        |
+| S10 Fig |       | `s10_fig.csv.zip`           | SHAP values for each virus-genome feature combination, along with the underlying feature values                         |
+| S11 Fig |       | `s11_fig.csv`               | Predictions for holdout viruses (also included in S1 Table)                                                             |
+| S12 Fig |       | --                          | See data for S10 Fig                                                                                                    |
+| S13 Fig |       | `s13_fig.csv`               | AUC values for replicate training rounds with varying numbers of input features                                         |
+
+
+## Interpretation
 For the interpretation of these values, see the manuscript and the underlying code. All panels of a given figure are produced by the same script, as detailed below:
 
 | Figure  | Code                                                                                                        | Command to reproduce figure and values |
@@ -22,39 +59,3 @@ For the interpretation of these values, see the manuscript and the underlying co
 | S11 Fig | [Scripts/Plotting/MakeSupplement_NovelVirusHosts.R](../Scripts/Plotting/MakeSupplement_NovelVirusHosts.R)   | `make Plots/Supplement_NovelVirus_Hosts.pdf` |
 | S12 Fig | [Scripts/Plotting/Supplement_IllustrateDerivedGenomeFeatureCalcs.R](../Scripts/Plotting/Supplement_IllustrateDerivedGenomeFeatureCalcs.R) | `make Plots/Supplement_methods_derived_genome_features.pdf` |
 | S13 Fig | [Scripts/Plotting/MakeSupplement_FeatureSelection.R](../Scripts/Plotting/MakeSupplement_FeatureSelection.R) | `make Plots/Supplement_FeatureSelection.pdf` |
-
-
-## Files included
-
-| Figure  | Panel | File name                   | Description                                                                                                             |
-|---------|-------|-----------------------------|-------------------------------------------------------------------------------------------------------------------------|
-| Fig 1   | A     | `fig1_a.csv`                | AUC values for replicate train/calibrate/test splits                                                                    |
-|         | B     | `fig1_b_replicates.csv.zip` | Predictions from 1000 replicate train/calibrate/test splits used to generate AUC curves                                 |
-|         |       | `fig1_b_bagged.csv`         | Predictions from the bagged model used to generate the summary AUC curve                                                |
-|         | C     | `fig1_c.csv`                | Confusion matrix for the best model, derived from S1 Table / bagged predictions                                         |
-|         | D     | `fig1_d.csv`                | Viruses encountered and cumulative success when screening viruses in the order recommended by the best model            |
-| Fig 2   | A     | `fig2_a.csv`                | SHAP values for each virus-genome feature combination, used to cluster viruses by explanation simililarity              |
-|         | B     | `fig2_b.csv`                | Mean absolute SHAP values across all viruses, as a measure of feature importance                                        |
-|         | C     | `fig2_c.csv`                | Feature importance and relative ranks for features measuring the same quantity in both referenced and unreferenced form |
-|         | D     | `fig2_d_clusters.csv`       | Relative importance of different clusters of correlated features (bar heights and error-bars in Fig 2D)                 |
-|         |       | `fig2_d_featuresets.csv`    | Composition of clusters (colours in Fig 2D)                                                                             |
-| Fig 3   |       | --                          | See data for S11 Fig; more detailed hosts/vector information recorded in [InternalData/NovelVirus_Hosts_Curated.csv](../InternalData/NovelVirus_Hosts_Curated.csv) |
-| Fig 4   |       | --                          | These plots show partial residuals from a model fit - see the plotting script linked above                              |
-| Fig 5   | A     | --                          | Values included in S1 Table                                                                                             |
-|         | B     | `fig5_b.csv`                | Predictions for different *Sarbecovirus* genomes                                                                        |
-| S1 Fig  |       | `s1_fig.csv`                | List of viruses used for model training, including taxonomy                                                             |
-| S2 Fig  | A     | `s2_fig_a.csv`              | Predictions from the taxonomy-based model                                                                               |
-|         | B     | `s2_fig_b.csv`              | Predictions from the phylogenetic neighbourhood-based model                                                             |
-| S3 Fig  |       | `s3_fig.csv`                | Family-specific AUC values, measuring the probability of accurately ranking known human-infecting viruses above other viruses from the same family |
-| S4 Fig  |       | --                          | Values included in S1 Table                                                                                             |
-| S5 Fig  |       | --                          | Values included in S1 Table                                                                                             |
-| S6 Fig  |       | `s6_fig_taxonomy.csv`       | Cumulative success when screening viruses in the order recommended by the taxonomy-based model                          |
-|         |       | `s6_fig_pn.csv`             | Cumulative success when screening viruses in the order recommended by the phylogenetic neighbourhood-based model        |
-|         |       | *                           | Note that this figure also displays values from Fig 1D (`fig1_d.csv`) for comparison                                    |
-| S7 Fig  |       | --                          | See plotting script linked above                                                                                        |
-| S8 Fig  |       | `s8_fig.csv`                | Clustering similarity comparisons using the Fowlkes-Mallows (Bk) index                                                  |
-| S9 Fig  |       | `s9_fig.csv`                | Membership of correlated-feature clusters and coordinates in 2 dimensions obtained via multi-dimensional scaling        |
-| S10 Fig |       | `s10_fig.csv.zip`           | SHAP values for each virus-genome feature combination, along with the underlying feature values                         |
-| S11 Fig |       | `s11_fig.csv`               | Predictions for holdout viruses (also included in S1 Table)                                                             |
-| S12 Fig |       | --                          | See data for S10 Fig                                                                                                    |
-| S13 Fig |       | `s13_fig.csv`               | AUC values for replicate training rounds with varying numbers of input features                                         |
