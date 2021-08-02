@@ -39,7 +39,7 @@
 ## Interpretation
 For the interpretation of these values, see the manuscript and the underlying code. All panels of a given figure are produced by the same script, as detailed below:
 
-| Figure  | Code                                                                                                        | Command to reproduce figure and values |
+| Figure  | Code                                                                                                        | Command to reproduce figure and values<sup>[1](#footnote1)</sup> |
 |---------|-------------------------------------------------------------------------------------------------------------|----------------------------------------|
 | Fig 1   | [Scripts/Plotting/MakeFigure1.R](../Scripts/Plotting/MakeFigure1.R)                                         | `make Plots/Figure1.pdf`               |
 | Fig 2   | [Scripts/Plotting/MakeFigure2.R](../Scripts/Plotting/MakeFigure2.R)                                         | `make Plots/Figure2.pdf`               |
@@ -59,3 +59,6 @@ For the interpretation of these values, see the manuscript and the underlying co
 | S11 Fig | [Scripts/Plotting/MakeSupplement_NovelVirusHosts.R](../Scripts/Plotting/MakeSupplement_NovelVirusHosts.R)   | `make Plots/Supplement_NovelVirus_Hosts.pdf` |
 | S12 Fig | [Scripts/Plotting/Supplement_IllustrateDerivedGenomeFeatureCalcs.R](../Scripts/Plotting/Supplement_IllustrateDerivedGenomeFeatureCalcs.R) | `make Plots/Supplement_methods_derived_genome_features.pdf` |
 | S13 Fig | [Scripts/Plotting/MakeSupplement_FeatureSelection.R](../Scripts/Plotting/MakeSupplement_FeatureSelection.R) | `make Plots/Supplement_FeatureSelection.pdf` |
+
+
+<sup name="footnote1">1</sup>See the [main README](../README.md#requirements) for setup requirements
