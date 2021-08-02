@@ -27,7 +27,7 @@
 | S6 Fig  |       | `s6_fig_taxonomy.csv`       | Cumulative success when screening viruses in the order recommended by the taxonomy-based model                          |
 |         |       | `s6_fig_pn.csv`             | Cumulative success when screening viruses in the order recommended by the phylogenetic neighbourhood-based model        |
 |         |       | *                           | Note that this figure also displays values from Fig 1D (`fig1_d.csv`) for comparison                                    |
-| S7 Fig  |       | --                          | See plotting script linked below                                                                                        |
+| S7 Fig  |       | --                          | Clustering based on data in S10 Fig, see plotting script linked below                                                                                        |
 | S8 Fig  |       | `s8_fig.csv`                | Clustering similarity comparisons using the Fowlkes-Mallows (Bk) index                                                  |
 | S9 Fig  |       | `s9_fig.csv`                | Membership of correlated-feature clusters and coordinates in 2 dimensions obtained via multi-dimensional scaling        |
 | S10 Fig |       | `s10_fig.csv.zip`           | SHAP values for each virus-genome feature combination, along with the underlying feature values                         |
