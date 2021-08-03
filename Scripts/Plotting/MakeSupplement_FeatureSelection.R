@@ -48,6 +48,9 @@ p_all <- ggplot(auc_test_boot, aes(x = RunName, y = AUC)) +
 
 ggsave(file.path('Plots', 'Supplement_FeatureSelection.pdf'), p_all, width = 7, height = 5)
 
+auc_test_boot %>% 
+	rename(N_features = RunName) %>% 
+	write_excel_csv("FigureData/s13_fig.csv")
 
 # Mean values:
 auc_test_boot %>% 

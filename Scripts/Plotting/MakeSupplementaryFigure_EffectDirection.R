@@ -4,6 +4,7 @@
 
 library(scales)
 library(dplyr)
+library(readr)
 library(tidyr)
 library(stringr)
 library(apcluster)
@@ -157,3 +158,9 @@ direction_plot <- plot_grid(first_column, direction_columns[[2]],
 
 ggsave2(file.path('Plots', 'SupplementaryFigure_EffectDirection.pdf'), direction_plot, 
 				width = 7, height = 7, units = 'in')
+
+
+## Save values in a human-readable format:
+shapley_vals_individual %>% 
+	select(-UniversalName, -Strain) %>% 
+	write_excel_csv("FigureData/s10_fig.csv")

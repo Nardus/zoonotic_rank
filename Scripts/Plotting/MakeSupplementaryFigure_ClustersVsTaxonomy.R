@@ -554,6 +554,13 @@ save_objs(pos = feature_tangle_pos, neg = feature_tangle_neg,
 save_objs(pos = shapley_tangle_pos, neg = shapley_tangle_neg,
 					'supplementary_figS2_shapley_tangle.rds')
 
+## Human-readable versions:
+Bk_observed %>% 
+	rename(Null_Median = Median,
+				 Null_Lower = LowerQ,
+				 Null_Upper = UpperQ) %>% 
+	write_excel_csv('FigureData/s8_fig.csv')
+
 
 # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 # ---- Values reported in text --------------------------------------------------------------------

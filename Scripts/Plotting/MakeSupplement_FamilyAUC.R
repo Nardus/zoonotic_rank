@@ -4,6 +4,7 @@
 
 library(dplyr)
 library(readxl)
+library(readr)
 library(ggplot2)
 library(cowplot)
 library(pROC)  # Always load this before ModelMetrics (using ModelMetrics::auc() below, not pROC::auc())
@@ -201,6 +202,8 @@ p <- plot_grid(overview_plot, detail_plot,
 							 labels = c('A', 'B'))
 
 ggsave2(file.path('Plots', 'Supplement_family_auc.pdf'), p, width = 7, height = 5)
+
+write_excel_csv(family_auc, file.path('FigureData', 's3_fig.csv'))
 
 
 # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=

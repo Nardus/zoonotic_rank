@@ -126,3 +126,6 @@ combined_plot <- plot_grid(taxonomy_plot, pn_plot,
 													 nrow = 2, labels = c("A", "B"))
 
 ggsave2(file.path('Plots', 'Supplement_RelatednessModelRanks.pdf'), combined_plot, width = 7, height = 8.5)
+
+write_excel_csv(taxonomy_predictions, file.path('FigureData', 's2_fig_a.csv'))
+write_excel_csv(pn_predictions, file.path('FigureData', 's2_fig_b.csv'))

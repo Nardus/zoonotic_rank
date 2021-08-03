@@ -1,0 +1,32 @@
+﻿Cluster,Exemplar,ExemplarLabel,AbsSHAP_mean,AbsSHAP_se
+27,GenomicDensity_Housekeeping_CTG.Bias_Coding,CTG bias similarity (housekeeping),0.6061814702147874,0.0057320046857346225
+22,GenomicDensity_Remaining_brUpC_Coding,Bridge TpC similarity (remaining),0.5515845947665566,0.005529209682305557
+11,VirusDirect_TTA.Bias_Coding,TTA bias,0.4428203437527851,0.004929146916890615
+28,VirusDirect_CCC.Bias_Coding,CCC bias,0.375012263353486,0.004256816199605447
+1,GenomicDensity_ISG_NonBrUpC_Coding,Non-bridge TpC similarity (ISG),0.37106214725364733,0.004491963831109735
+18,GenomicDensity_Housekeeping_CpC_Coding,CpC similarity (housekeeping),0.3190157958271737,0.002852360992731404
+4,VirusDirect_TCT.Bias_Coding,TCT bias,0.3048834708828601,0.003551143927083979
+5,GenomicDensity_Housekeeping_brApA_Coding,Bridge ApA similarity (housekeeping),0.28396017111605576,0.0033687095872963414
+14,GenomicDensity_Housekeeping_G.Bias_Coding,G bias similarity (housekeeping),0.2776322875876628,0.003128186494399071
+29,VirusDirect_GCG.Bias_Coding,GCG bias,0.275081867939778,0.0033321199268697044
+31,GenomicDensity_Remaining_Y.Bias_Coding,Y bias similarity (remaining),0.2603260709172459,0.0028657165743273586
+7,GenomicDensity_ISG_CTT.Bias_Coding,CTT bias similarity (ISG),0.2542768402689864,0.0028570964289713285
+24,GenomicDensity_ISG_brGpC_Coding,Bridge GpC similarity (ISG),0.23207599167081583,0.002695274573884405
+13,GenomicDensity_ISG_GAA.Bias_Coding,GAA bias similarity (ISG),0.23159910958161212,0.0028830639892379723
+10,VirusDirect_GpA_EntireSeq,GpA,0.2312704771635757,0.0030726830084262364
+12,GenomicDensity_Housekeeping_CGC.Bias_Coding,CGC bias similarity (housekeeping),0.22531984751113865,0.0026917880953916903
+15,GenomicDensity_ISG_A.Bias_Coding,A bias similarity (ISG),0.2203250179482389,0.0025108170349585433
+30,GenomicDensity_ISG_NonBrApG_Coding,Non-bridge ApG similarity (ISG),0.21906738738316997,0.0024885146450047404
+6,GenomicDensity_ISG_E.Bias_Coding,E bias similarity (ISG),0.1718267434220925,0.0023302305262822886
+8,GenomicDensity_Remaining_NonBrGpU_Coding,Non-bridge GpT similarity (remaining),0.1667558207451673,0.0022531025166832213
+26,GenomicDensity_Housekeeping_ACT.Bias_Coding,ACT bias similarity (housekeeping),0.1591051313804356,0.002133859604365232
+17,GenomicDensity_Housekeeping_NonBrApU_Coding,Non-bridge ApT similarity (housekeeping),0.1527492063410387,0.0019190592885134175
+9,VirusDirect_ApU_Coding,ApT,0.15065865413078727,0.0023804746437311873
+16,GenomicDensity_Housekeeping_S.Bias_Coding,S bias similarity (housekeeping),0.14455248286920047,0.0017968639535557935
+21,GenomicDensity_Remaining_CGA.Bias_Coding,CGA bias similarity (remaining),0.13670762598523842,0.0018584066766626068
+20,GenomicDensity_Housekeeping_L.Bias_Coding,L bias similarity (housekeeping),0.12522328171085934,0.0017796443784215497
+25,GenomicDensity_ISG_GGG.Bias_Coding,GGG bias similarity (ISG),0.12056781079303228,0.001789744962477704
+19,GenomicDensity_Remaining_H.Bias_Coding,H bias similarity (remaining),0.1190098910926859,0.0018257221208569643
+23,GenomicDensity_ISG_D.Bias_Coding,D bias similarity (ISG),0.11505629007105621,0.001577148093629328
+2,GenomicDensity_Remaining_ATT.Bias_Coding,ATT bias similarity (remaining),0.10834476373595227,0.00181850810159879
+3,GenomicDensity_Remaining_NonBrCpC_Coding,Non-bridge CpC similarity (remaining),0.06652041983124277,0.001119751397530092

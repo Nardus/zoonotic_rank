@@ -1,0 +1,862 @@
+﻿LatestSppName,InfectsHumans,Family,GenomeType,BroadGenomeType,Class
+Achimota pararubulavirus 1,FALSE,Paramyxoviridae,ssRNA(-),ssRNA,No human infections
+Achimota pararubulavirus 2,FALSE,Paramyxoviridae,ssRNA(-),ssRNA,No human infections
+Adelaide River ephemerovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Adeno-associated dependoparvovirus A,TRUE,Parvoviridae,ssDNA(+/-),ssDNA,Human virus
+Adeno-associated dependoparvovirus B,TRUE,Parvoviridae,ssDNA(+/-),ssDNA,Human virus
+Grivet simian foamy virus,TRUE,Retroviridae,ssRNA-RT,ssRNA-RT,Zoonotic
+African horse sickness virus,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+African swine fever virus,FALSE,Asfarviridae,dsDNA,dsDNA,No human infections
+Aichivirus A,TRUE,Picornaviridae,ssRNA(+),ssRNA,Human virus
+Akabane orthobunyavirus,FALSE,Peribunyaviridae,ssRNA(-),ssRNA,No human infections
+Alagoas vesiculovirus,TRUE,Rhabdoviridae,ssRNA(-),ssRNA,Zoonotic
+Alcelaphine gammaherpesvirus 1,FALSE,Herpesviridae,dsDNA,dsDNA,No human infections
+Alcelaphine gammaherpesvirus 2,FALSE,Herpesviridae,dsDNA,dsDNA,No human infections
+Allpahuayo mammarenavirus,FALSE,Arenaviridae,ssRNA(+/-),ssRNA,No human infections
+Almpiwar sripuvirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Alphacoronavirus 1,FALSE,Coronaviridae,ssRNA(+),ssRNA,No human infections
+Alphapapillomavirus 1,TRUE,Papillomaviridae,dsDNA,dsDNA,Human virus
+Alphapapillomavirus 10,TRUE,Papillomaviridae,dsDNA,dsDNA,Human virus
+Alphapapillomavirus 11,TRUE,Papillomaviridae,dsDNA,dsDNA,Human virus
+Alphapapillomavirus 12,FALSE,Papillomaviridae,dsDNA,dsDNA,No human infections
+Alphapapillomavirus 13,TRUE,Papillomaviridae,dsDNA,dsDNA,Human virus
+Alphapapillomavirus 14,TRUE,Papillomaviridae,dsDNA,dsDNA,Human virus
+Alphapapillomavirus 2,TRUE,Papillomaviridae,dsDNA,dsDNA,Human virus
+Alphapapillomavirus 3,TRUE,Papillomaviridae,dsDNA,dsDNA,Human virus
+Alphapapillomavirus 4,TRUE,Papillomaviridae,dsDNA,dsDNA,Human virus
+Alphapapillomavirus 5,TRUE,Papillomaviridae,dsDNA,dsDNA,Human virus
+Alphapapillomavirus 6,TRUE,Papillomaviridae,dsDNA,dsDNA,Human virus
+Alphapapillomavirus 7,TRUE,Papillomaviridae,dsDNA,dsDNA,Human virus
+Alphapapillomavirus 8,TRUE,Papillomaviridae,dsDNA,dsDNA,Human virus
+Alphapapillomavirus 9,TRUE,Papillomaviridae,dsDNA,dsDNA,Human virus
+Serra do Navio mammarenavirus,FALSE,Arenaviridae,ssRNA(+/-),ssRNA,No human infections
+American bat vesiculovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Andes orthohantavirus,TRUE,Hantaviridae,ssRNA(-),ssRNA,Zoonotic
+Anguillid perhabdovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Anopheles A orthobunyavirus,TRUE,Peribunyaviridae,ssRNA(-),ssRNA,Zoonotic
+Apoi virus,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Aquamavirus A,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Aravan lyssavirus,TRUE,Rhabdoviridae,ssRNA(-),ssRNA,Zoonotic
+Arboretum almendravirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Aroa virus,TRUE,Flaviviridae,ssRNA(+),ssRNA,Zoonotic
+Ateline alphaherpesvirus 1,FALSE,Herpesviridae,dsDNA,dsDNA,No human infections
+Aura virus,FALSE,Togaviridae,ssRNA(+),ssRNA,No human infections
+Australian bat lyssavirus,TRUE,Rhabdoviridae,ssRNA(-),ssRNA,Zoonotic
+Avastrovirus 1,FALSE,Astroviridae,ssRNA(+),ssRNA,No human infections
+Avastrovirus 2,FALSE,Astroviridae,ssRNA(+),ssRNA,No human infections
+Avastrovirus 3,FALSE,Astroviridae,ssRNA(+),ssRNA,No human infections
+Avian orthoavulavirus 1,TRUE,Paramyxoviridae,ssRNA(-),ssRNA,Zoonotic
+Avian metaavulavirus 10,FALSE,Paramyxoviridae,ssRNA(-),ssRNA,No human infections
+Avian metaavulavirus 11,FALSE,Paramyxoviridae,ssRNA(-),ssRNA,No human infections
+Avian orthoavulavirus 12,FALSE,Paramyxoviridae,ssRNA(-),ssRNA,No human infections
+Avian paraavulavirus 3,FALSE,Paramyxoviridae,ssRNA(-),ssRNA,No human infections
+Avian paraavulavirus 4,FALSE,Paramyxoviridae,ssRNA(-),ssRNA,No human infections
+Avian metaavulavirus 5,FALSE,Paramyxoviridae,ssRNA(-),ssRNA,No human infections
+Avian metaavulavirus 6,FALSE,Paramyxoviridae,ssRNA(-),ssRNA,No human infections
+Avian metaavulavirus 7,FALSE,Paramyxoviridae,ssRNA(-),ssRNA,No human infections
+Avian metaavulavirus 8,FALSE,Paramyxoviridae,ssRNA(-),ssRNA,No human infections
+Avian orthoavulavirus 9,FALSE,Paramyxoviridae,ssRNA(-),ssRNA,No human infections
+Avian coronavirus,FALSE,Coronaviridae,ssRNA(+),ssRNA,No human infections
+Avian metapneumovirus,FALSE,Pneumoviridae,ssRNA(-),ssRNA,No human infections
+Avihepatovirus A,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Avisivirus B,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Avisivirus C,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Pestivirus I,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Baboon orthoreovirus,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Bagaza virus,TRUE,Flaviviridae,ssRNA(+),ssRNA,Zoonotic
+Banna virus,TRUE,Reoviridae,dsRNA,dsRNA,Zoonotic
+Banzi virus,TRUE,Flaviviridae,ssRNA(+),ssRNA,Zoonotic
+Barmah Forest virus,TRUE,Togaviridae,ssRNA(+),ssRNA,Zoonotic
+Barur ledantevirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Bat coronavirus CDPHE15,FALSE,Coronaviridae,ssRNA(+),ssRNA,No human infections
+Bat coronavirus HKU10,FALSE,Coronaviridae,ssRNA(+),ssRNA,No human infections
+Bayou orthohantavirus,TRUE,Hantaviridae,ssRNA(-),ssRNA,Zoonotic
+Bear Canyon mammarenavirus,FALSE,Arenaviridae,ssRNA(+/-),ssRNA,No human infections
+Bebaru virus,TRUE,Togaviridae,ssRNA(+),ssRNA,Zoonotic
+Beluga whale coronavirus SW1,FALSE,Coronaviridae,ssRNA(+),ssRNA,No human infections
+Berrimah ephemerovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Betacoronavirus 1,TRUE,Coronaviridae,ssRNA(+),ssRNA,Human virus
+Betapapillomavirus 1,TRUE,Papillomaviridae,dsDNA,dsDNA,Human virus
+Betapapillomavirus 2,TRUE,Papillomaviridae,dsDNA,dsDNA,Human virus
+Betapapillomavirus 3,TRUE,Papillomaviridae,dsDNA,dsDNA,Human virus
+Betapapillomavirus 4,TRUE,Papillomaviridae,dsDNA,dsDNA,Human virus
+Betapapillomavirus 5,TRUE,Papillomaviridae,dsDNA,dsDNA,Human virus
+Bimiti orthobunyavirus,FALSE,Peribunyaviridae,ssRNA(-),ssRNA,No human infections
+Bluetongue virus,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Bokeloh bat lyssavirus,TRUE,Rhabdoviridae,ssRNA(-),ssRNA,Zoonotic
+Pestivirus D,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Bos taurus polyomavirus 1,FALSE,Polyomaviridae,dsDNA,dsDNA,No human infections
+Bouboui virus,TRUE,Flaviviridae,ssRNA(+),ssRNA,Zoonotic
+Bovine alphaherpesvirus 1,FALSE,Herpesviridae,dsDNA,dsDNA,No human infections
+Bovine alphaherpesvirus 5,FALSE,Herpesviridae,dsDNA,dsDNA,No human infections
+Bovine atadenovirus D,FALSE,Adenoviridae,dsDNA,dsDNA,No human infections
+Bovine fever ephemerovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Bovine foamy virus,FALSE,Retroviridae,ssRNA-RT,ssRNA-RT,No human infections
+Bovine gammaherpesvirus 4,FALSE,Herpesviridae,dsDNA,dsDNA,No human infections
+Bovine immunodeficiency virus,FALSE,Retroviridae,ssRNA-RT,ssRNA-RT,No human infections
+Bovine leukemia virus,FALSE,Retroviridae,ssRNA-RT,ssRNA-RT,No human infections
+Bovine mastadenovirus A,FALSE,Adenoviridae,dsDNA,dsDNA,No human infections
+Bovine mastadenovirus B,FALSE,Adenoviridae,dsDNA,dsDNA,No human infections
+Bovine mastadenovirus C,FALSE,Adenoviridae,dsDNA,dsDNA,No human infections
+Bovine orthopneumovirus,FALSE,Pneumoviridae,ssRNA(-),ssRNA,No human infections
+Bovine papular stomatitis virus,TRUE,Poxviridae,dsDNA,dsDNA,Zoonotic
+Bovine respirovirus 3,FALSE,Paramyxoviridae,ssRNA(-),ssRNA,No human infections
+Bovine torovirus,FALSE,Tobaniviridae,ssRNA(+),ssRNA,No human infections
+Pestivirus A,TRUE,Flaviviridae,ssRNA(+),ssRNA,Zoonotic
+Pestivirus B,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Pestivirus H,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Bubaline alphaherpesvirus 1,FALSE,Herpesviridae,dsDNA,dsDNA,No human infections
+Bujaru phlebovirus,FALSE,Phenuiviridae,ssRNA(-),ssRNA,No human infections
+Bundibugyo ebolavirus,TRUE,Filoviridae,ssRNA(-),ssRNA,Zoonotic
+Bunyamwera orthobunyavirus,TRUE,Peribunyaviridae,ssRNA(-),ssRNA,Zoonotic
+Bwamba orthobunyavirus,TRUE,Peribunyaviridae,ssRNA(-),ssRNA,Zoonotic
+Cabassou virus,FALSE,Togaviridae,ssRNA(+),ssRNA,No human infections
+Cacipacore virus,TRUE,Flaviviridae,ssRNA(+),ssRNA,Zoonotic
+California encephalitis orthobunyavirus,TRUE,Peribunyaviridae,ssRNA(-),ssRNA,Zoonotic
+California reptarenavirus,FALSE,Arenaviridae,ssRNA(+/-),ssRNA,No human infections
+Callitrichine gammaherpesvirus 3,FALSE,Herpesviridae,dsDNA,dsDNA,No human infections
+Camelpox virus,FALSE,Poxviridae,dsDNA,dsDNA,No human infections
+Candiru phlebovirus,TRUE,Phenuiviridae,ssRNA(-),ssRNA,Zoonotic
+Canid alphaherpesvirus 1,FALSE,Herpesviridae,dsDNA,dsDNA,No human infections
+Canine mastadenovirus A,FALSE,Adenoviridae,dsDNA,dsDNA,No human infections
+Canine morbillivirus,TRUE,Paramyxoviridae,ssRNA(-),ssRNA,Zoonotic
+Cano Delgadito orthohantavirus,FALSE,Hantaviridae,ssRNA(-),ssRNA,No human infections
+Caprine arthritis encephalitis virus,FALSE,Retroviridae,ssRNA-RT,ssRNA-RT,No human infections
+Caraparu orthobunyavirus,TRUE,Peribunyaviridae,ssRNA(-),ssRNA,Zoonotic
+Cardiovirus A,TRUE,Picornaviridae,ssRNA(+),ssRNA,Zoonotic
+Cardiovirus B,TRUE,Picornaviridae,ssRNA(+),ssRNA,Zoonotic
+Carnivore amdoparvovirus 1,FALSE,Parvoviridae,ssDNA(+/-),ssDNA,No human infections
+Carnivore bocaparvovirus 1,FALSE,Parvoviridae,ssDNA(+/-),ssDNA,No human infections
+Carnivore protoparvovirus 1,FALSE,Parvoviridae,ssDNA(+/-),ssDNA,No human infections
+Carp sprivivirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Catu orthobunyavirus,TRUE,Peribunyaviridae,ssRNA(-),ssRNA,Zoonotic
+Caviid betaherpesvirus 2,FALSE,Herpesviridae,dsDNA,dsDNA,No human infections
+Cedar henipavirus,FALSE,Paramyxoviridae,ssRNA(-),ssRNA,No human infections
+Cercopithecine alphaherpesvirus 2,FALSE,Herpesviridae,dsDNA,dsDNA,No human infections
+Cercopithecine alphaherpesvirus 9,FALSE,Herpesviridae,dsDNA,dsDNA,No human infections
+Cercopithecine betaherpesvirus 5,FALSE,Herpesviridae,dsDNA,dsDNA,No human infections
+Cervid alphaherpesvirus 1,FALSE,Herpesviridae,dsDNA,dsDNA,No human infections
+Cervid alphaherpesvirus 2,FALSE,Herpesviridae,dsDNA,dsDNA,No human infections
+Cetacean morbillivirus,FALSE,Paramyxoviridae,ssRNA(-),ssRNA,No human infections
+Chandipura vesiculovirus,TRUE,Rhabdoviridae,ssRNA(-),ssRNA,Zoonotic
+Changuinola virus,TRUE,Reoviridae,dsRNA,dsRNA,Zoonotic
+Chapare mammarenavirus,TRUE,Arenaviridae,ssRNA(+/-),ssRNA,Zoonotic
+Chikungunya virus,TRUE,Togaviridae,ssRNA(+),ssRNA,Human virus
+Chobar Gorge virus,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Pestivirus C,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Coastal Plains tibrovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Cocal vesiculovirus,TRUE,Rhabdoviridae,ssRNA(-),ssRNA,Zoonotic
+Colorado tick fever virus,TRUE,Reoviridae,dsRNA,dsRNA,Zoonotic
+Common moorhen coronavirus HKU21,FALSE,Coronaviridae,ssRNA(+),ssRNA,No human infections
+Coronavirus HKU15,FALSE,Coronaviridae,ssRNA(+),ssRNA,No human infections
+Corriparta virus,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Cowpox virus,TRUE,Poxviridae,dsDNA,dsDNA,Zoonotic
+Crimean-Congo hemorrhagic fever orthonairovirus,TRUE,Nairoviridae,ssRNA(-),ssRNA,Zoonotic
+Cupixi mammarenavirus,FALSE,Arenaviridae,ssRNA(+/-),ssRNA,No human infections
+Curionopolis curiovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Deltapapillomavirus 1,FALSE,Papillomaviridae,dsDNA,dsDNA,No human infections
+Deltapapillomavirus 2,FALSE,Papillomaviridae,dsDNA,dsDNA,No human infections
+Deltapapillomavirus 3,FALSE,Papillomaviridae,dsDNA,dsDNA,No human infections
+Deltapapillomavirus 4,FALSE,Papillomaviridae,dsDNA,dsDNA,No human infections
+Dengue virus,TRUE,Flaviviridae,ssRNA(+),ssRNA,Human virus
+Dera Ghazi Khan orthonairovirus,FALSE,Nairoviridae,ssRNA(-),ssRNA,No human infections
+Dhori thogotovirus,FALSE,Orthomyxoviridae,ssRNA(-),ssRNA,No human infections
+Dobrava-Belgrade orthohantavirus,TRUE,Hantaviridae,ssRNA(-),ssRNA,Zoonotic
+Drosophila melanogaster sigmavirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Drosophila obscura sigmavirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Aalivirus A,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Dugbe orthonairovirus,TRUE,Nairoviridae,ssRNA(-),ssRNA,Zoonotic
+Duvenhage lyssavirus,TRUE,Rhabdoviridae,ssRNA(-),ssRNA,Zoonotic
+Eastern equine encephalitis virus,TRUE,Togaviridae,ssRNA(+),ssRNA,Zoonotic
+Ectromelia virus,FALSE,Poxviridae,dsDNA,dsDNA,No human infections
+Eggplant mottled dwarf nucleorhabdovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Eilat virus,FALSE,Togaviridae,ssRNA(+),ssRNA,No human infections
+Entebbe bat virus,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Enterovirus A,TRUE,Picornaviridae,ssRNA(+),ssRNA,Human virus
+Enterovirus B,TRUE,Picornaviridae,ssRNA(+),ssRNA,Human virus
+Enterovirus C,TRUE,Picornaviridae,ssRNA(+),ssRNA,Human virus
+Enterovirus D,TRUE,Picornaviridae,ssRNA(+),ssRNA,Human virus
+Enterovirus G,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Enterovirus H,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Enterovirus I,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Epizootic hemorrhagic disease virus,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Epsilonpapillomavirus 1,FALSE,Papillomaviridae,dsDNA,dsDNA,No human infections
+Equid alphaherpesvirus 1,FALSE,Herpesviridae,dsDNA,dsDNA,No human infections
+Equid alphaherpesvirus 3,FALSE,Herpesviridae,dsDNA,dsDNA,No human infections
+Equid alphaherpesvirus 4,FALSE,Herpesviridae,dsDNA,dsDNA,No human infections
+Equid alphaherpesvirus 8,FALSE,Herpesviridae,dsDNA,dsDNA,No human infections
+Equid alphaherpesvirus 9,FALSE,Herpesviridae,dsDNA,dsDNA,No human infections
+Equid gammaherpesvirus 2,FALSE,Herpesviridae,dsDNA,dsDNA,No human infections
+Equid gammaherpesvirus 5,FALSE,Herpesviridae,dsDNA,dsDNA,No human infections
+Alphaarterivirus equid,FALSE,Arteriviridae,ssRNA(+),ssRNA,No human infections
+Equine encephalosis virus,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Equine foamy virus,FALSE,Retroviridae,ssRNA-RT,ssRNA-RT,No human infections
+Equine infectious anemia virus,FALSE,Retroviridae,ssRNA-RT,ssRNA-RT,No human infections
+Equine mastadenovirus A,FALSE,Adenoviridae,dsDNA,dsDNA,No human infections
+Equine mastadenovirus B,FALSE,Adenoviridae,dsDNA,dsDNA,No human infections
+Equine rhinitis A virus,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Equine torovirus,FALSE,Tobaniviridae,ssRNA(+),ssRNA,No human infections
+Erbovirus A,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Eubenangee virus,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+European bat 1 lyssavirus,TRUE,Rhabdoviridae,ssRNA(-),ssRNA,Zoonotic
+European bat 2 lyssavirus,TRUE,Rhabdoviridae,ssRNA(-),ssRNA,Zoonotic
+European brown hare syndrome virus,FALSE,Caliciviridae,ssRNA(+),ssRNA,No human infections
+Everglades virus,TRUE,Togaviridae,ssRNA(+),ssRNA,Zoonotic
+Eyach virus,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Felid alphaherpesvirus 1,FALSE,Herpesviridae,dsDNA,dsDNA,No human infections
+Feline calicivirus,FALSE,Caliciviridae,ssRNA(+),ssRNA,No human infections
+Feline foamy virus,FALSE,Retroviridae,ssRNA-RT,ssRNA-RT,No human infections
+Feline immunodeficiency virus,FALSE,Retroviridae,ssRNA-RT,ssRNA-RT,No human infections
+Feline leukemia virus,FALSE,Retroviridae,ssRNA-RT,ssRNA-RT,No human infections
+Feline morbillivirus,FALSE,Paramyxoviridae,ssRNA(-),ssRNA,No human infections
+Ferak feravirus,FALSE,Phasmaviridae,ssRNA(-),ssRNA,No human infections
+Fikirini ledantevirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Flexal mammarenavirus,TRUE,Arenaviridae,ssRNA(+/-),ssRNA,Zoonotic
+Foot-and-mouth disease virus,TRUE,Picornaviridae,ssRNA(+),ssRNA,Zoonotic
+Fort Morgan virus,FALSE,Togaviridae,ssRNA(+),ssRNA,No human infections
+Gairo mammarenavirus,FALSE,Arenaviridae,ssRNA(+/-),ssRNA,No human infections
+Gammapapillomavirus 1,TRUE,Papillomaviridae,dsDNA,dsDNA,Human virus
+Gammapapillomavirus 2,TRUE,Papillomaviridae,dsDNA,dsDNA,Human virus
+Gammapapillomavirus 3,TRUE,Papillomaviridae,dsDNA,dsDNA,Human virus
+Gammapapillomavirus 4,TRUE,Papillomaviridae,dsDNA,dsDNA,Human virus
+Gammapapillomavirus 5,TRUE,Papillomaviridae,dsDNA,dsDNA,Human virus
+Getah virus,TRUE,Togaviridae,ssRNA(+),ssRNA,Zoonotic
+Ghanaian bat henipavirus,FALSE,Paramyxoviridae,ssRNA(-),ssRNA,No human infections
+Gibbon ape leukemia virus,FALSE,Retroviridae,ssRNA-RT,ssRNA-RT,No human infections
+Goatpox virus,FALSE,Poxviridae,dsDNA,dsDNA,No human infections
+Golden reptarenavirus,FALSE,Arenaviridae,ssRNA(+/-),ssRNA,No human infections
+Gouleako goukovirus,FALSE,Phenuiviridae,ssRNA(-),ssRNA,No human infections
+Great Island virus,TRUE,Reoviridae,dsRNA,dsRNA,Zoonotic
+Ground squirrel hepatitis virus,FALSE,Hepadnaviridae,dsDNA-RT,dsDNA-RT,No human infections
+Guama orthobunyavirus,TRUE,Peribunyaviridae,ssRNA(-),ssRNA,Zoonotic
+Guanarito mammarenavirus,TRUE,Arenaviridae,ssRNA(+/-),ssRNA,Zoonotic
+Guaroa orthobunyavirus,TRUE,Peribunyaviridae,ssRNA(-),ssRNA,Zoonotic
+Hantaan orthohantavirus,TRUE,Hantaviridae,ssRNA(-),ssRNA,Zoonotic
+Harkavirus A,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Hedgehog coronavirus 1,FALSE,Coronaviridae,ssRNA(+),ssRNA,No human infections
+Hendra henipavirus,TRUE,Paramyxoviridae,ssRNA(-),ssRNA,Zoonotic
+Hepacivirus C,TRUE,Flaviviridae,ssRNA(+),ssRNA,Human virus
+Hepatitis B virus,TRUE,Hepadnaviridae,dsDNA-RT,dsDNA-RT,Human virus
+Hepatovirus A,TRUE,Picornaviridae,ssRNA(+),ssRNA,Human virus
+Hepatovirus B,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Herbert herbevirus,FALSE,Peribunyaviridae,ssRNA(-),ssRNA,No human infections
+Highlands J virus,FALSE,Togaviridae,ssRNA(+),ssRNA,No human infections
+Hirame novirhabdovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Human alphaherpesvirus 1,TRUE,Herpesviridae,dsDNA,dsDNA,Human virus
+Human alphaherpesvirus 2,TRUE,Herpesviridae,dsDNA,dsDNA,Human virus
+Human alphaherpesvirus 3,TRUE,Herpesviridae,dsDNA,dsDNA,Human virus
+Human betaherpesvirus 5,TRUE,Herpesviridae,dsDNA,dsDNA,Human virus
+Human betaherpesvirus 7,TRUE,Herpesviridae,dsDNA,dsDNA,Human virus
+Human coronavirus 229E,TRUE,Coronaviridae,ssRNA(+),ssRNA,Human virus
+Human coronavirus HKU1,TRUE,Coronaviridae,ssRNA(+),ssRNA,Human virus
+Human coronavirus NL63,TRUE,Coronaviridae,ssRNA(+),ssRNA,Human virus
+Human gammaherpesvirus 4,TRUE,Herpesviridae,dsDNA,dsDNA,Human virus
+Human gammaherpesvirus 8,TRUE,Herpesviridae,dsDNA,dsDNA,Human virus
+Human immunodeficiency virus 1,TRUE,Retroviridae,ssRNA-RT,ssRNA-RT,Human virus
+Human immunodeficiency virus 2,TRUE,Retroviridae,ssRNA-RT,ssRNA-RT,Human virus
+Human mastadenovirus A,TRUE,Adenoviridae,dsDNA,dsDNA,Human virus
+Human mastadenovirus B,TRUE,Adenoviridae,dsDNA,dsDNA,Human virus
+Human mastadenovirus C,TRUE,Adenoviridae,dsDNA,dsDNA,Human virus
+Human mastadenovirus D,TRUE,Adenoviridae,dsDNA,dsDNA,Human virus
+Human mastadenovirus E,TRUE,Adenoviridae,dsDNA,dsDNA,Human virus
+Human mastadenovirus F,TRUE,Adenoviridae,dsDNA,dsDNA,Human virus
+Human metapneumovirus,TRUE,Pneumoviridae,ssRNA(-),ssRNA,Human virus
+Human orthopneumovirus,TRUE,Pneumoviridae,ssRNA(-),ssRNA,Human virus
+Human picobirnavirus,TRUE,Picobirnaviridae,dsRNA,dsRNA,Zoonotic
+Human polyomavirus 1,TRUE,Polyomaviridae,dsDNA,dsDNA,Human virus
+Human polyomavirus 2,TRUE,Polyomaviridae,dsDNA,dsDNA,Human virus
+Human respirovirus 1,TRUE,Paramyxoviridae,ssRNA(-),ssRNA,Human virus
+Human respirovirus 3,TRUE,Paramyxoviridae,ssRNA(-),ssRNA,Human virus
+Human orthorubulavirus 2,TRUE,Paramyxoviridae,ssRNA(-),ssRNA,Human virus
+Human orthorubulavirus 4,TRUE,Paramyxoviridae,ssRNA(-),ssRNA,Human virus
+Ikoma lyssavirus,TRUE,Rhabdoviridae,ssRNA(-),ssRNA,Zoonotic
+Ilheus virus,TRUE,Flaviviridae,ssRNA(+),ssRNA,Zoonotic
+Indiana vesiculovirus,TRUE,Rhabdoviridae,ssRNA(-),ssRNA,Zoonotic
+Influenza A virus,TRUE,Orthomyxoviridae,ssRNA(-),ssRNA,Human virus
+Influenza B virus,TRUE,Orthomyxoviridae,ssRNA(-),ssRNA,Human virus
+Influenza C virus,TRUE,Orthomyxoviridae,ssRNA(-),ssRNA,Human virus
+Iotapapillomavirus 1,FALSE,Papillomaviridae,dsDNA,dsDNA,No human infections
+Ippy mammarenavirus,FALSE,Arenaviridae,ssRNA(+/-),ssRNA,No human infections
+Irkut lyssavirus,TRUE,Rhabdoviridae,ssRNA(-),ssRNA,Zoonotic
+Isfahan vesiculovirus,TRUE,Rhabdoviridae,ssRNA(-),ssRNA,Zoonotic
+Jaagsiekte sheep retrovirus,FALSE,Retroviridae,ssRNA-RT,ssRNA-RT,No human infections
+Japanese encephalitis virus,TRUE,Flaviviridae,ssRNA(+),ssRNA,Zoonotic
+Jonchet jonvirus,FALSE,Phasmaviridae,ssRNA(-),ssRNA,No human infections
+Jugra virus,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Argentinian mammarenavirus,TRUE,Arenaviridae,ssRNA(+/-),ssRNA,Zoonotic
+Jurona vesiculovirus,TRUE,Rhabdoviridae,ssRNA(-),ssRNA,Zoonotic
+Jutiapa virus,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Kaeng Khoi orthobunyavirus,FALSE,Peribunyaviridae,ssRNA(-),ssRNA,No human infections
+Kairi orthobunyavirus,FALSE,Peribunyaviridae,ssRNA(-),ssRNA,No human infections
+Kappapapillomavirus 1,FALSE,Papillomaviridae,dsDNA,dsDNA,No human infections
+Kappapapillomavirus 2,FALSE,Papillomaviridae,dsDNA,dsDNA,No human infections
+Kasokero orthonairovirus,TRUE,Nairoviridae,ssRNA(-),ssRNA,Zoonotic
+Kedougou virus,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Kern Canyon ledantevirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Keuraliba ledantevirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Khabarovsk orthohantavirus,FALSE,Hantaviridae,ssRNA(-),ssRNA,No human infections
+Khujand lyssavirus,TRUE,Rhabdoviridae,ssRNA(-),ssRNA,Zoonotic
+Kimberley ephemerovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Kokobera virus,TRUE,Flaviviridae,ssRNA(+),ssRNA,Zoonotic
+Kolente ledantevirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Koongol orthobunyavirus,FALSE,Peribunyaviridae,ssRNA(-),ssRNA,No human infections
+Kotonkan ephemerovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Koutango virus,TRUE,Flaviviridae,ssRNA(+),ssRNA,Zoonotic
+Kyasanur Forest disease virus,TRUE,Flaviviridae,ssRNA(+),ssRNA,Zoonotic
+Gammaarterivirus lacdeh,FALSE,Arteriviridae,ssRNA(+),ssRNA,No human infections
+Lagos bat lyssavirus,TRUE,Rhabdoviridae,ssRNA(-),ssRNA,Zoonotic
+Lambdapapillomavirus 1,FALSE,Papillomaviridae,dsDNA,dsDNA,No human infections
+Lambdapapillomavirus 2,FALSE,Papillomaviridae,dsDNA,dsDNA,No human infections
+Langat virus,TRUE,Flaviviridae,ssRNA(+),ssRNA,Zoonotic
+Lassa mammarenavirus,TRUE,Arenaviridae,ssRNA(+/-),ssRNA,Zoonotic
+Latino mammarenavirus,FALSE,Arenaviridae,ssRNA(+/-),ssRNA,No human infections
+Lebombo virus,TRUE,Reoviridae,dsRNA,dsRNA,Zoonotic
+Lettuce necrotic yellows cytorhabdovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Lettuce yellow mottle cytorhabdovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Limnipivirus C,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Lloviu cuevavirus,FALSE,Filoviridae,ssRNA(-),ssRNA,No human infections
+Loei River mammarenavirus,FALSE,Arenaviridae,ssRNA(+/-),ssRNA,No human infections
+Louping ill virus,TRUE,Flaviviridae,ssRNA(+),ssRNA,Zoonotic
+Lujo mammarenavirus,TRUE,Arenaviridae,ssRNA(+/-),ssRNA,Zoonotic
+Lumpy skin disease virus,FALSE,Poxviridae,dsDNA,dsDNA,No human infections
+Luna mammarenavirus,FALSE,Arenaviridae,ssRNA(+/-),ssRNA,No human infections
+Lunk mammarenavirus,FALSE,Arenaviridae,ssRNA(+/-),ssRNA,No human infections
+Lymphocytic choriomeningitis mammarenavirus,TRUE,Arenaviridae,ssRNA(+/-),ssRNA,Zoonotic
+Macaca mulatta polyomavirus 1,TRUE,Polyomaviridae,dsDNA,dsDNA,Zoonotic
+Macacine alphaherpesvirus 1,TRUE,Herpesviridae,dsDNA,dsDNA,Zoonotic
+Macacine betaherpesvirus 3,FALSE,Herpesviridae,dsDNA,dsDNA,No human infections
+Macacine gammaherpesvirus 4,FALSE,Herpesviridae,dsDNA,dsDNA,No human infections
+Macacine gammaherpesvirus 5,FALSE,Herpesviridae,dsDNA,dsDNA,No human infections
+Rhesus macaque simian foamy virus,TRUE,Retroviridae,ssRNA-RT,ssRNA-RT,Zoonotic
+Machupo mammarenavirus,TRUE,Arenaviridae,ssRNA(+/-),ssRNA,Zoonotic
+Macropodid alphaherpesvirus 1,FALSE,Herpesviridae,dsDNA,dsDNA,No human infections
+Madariaga virus,TRUE,Togaviridae,ssRNA(+),ssRNA,Zoonotic
+Madrid orthobunyavirus,TRUE,Peribunyaviridae,ssRNA(-),ssRNA,Zoonotic
+Main Drain orthobunyavirus,FALSE,Peribunyaviridae,ssRNA(-),ssRNA,No human infections
+Maize fine streak nucleorhabdovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Maize Iranian mosaic nucleorhabdovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Maize mosaic nucleorhabdovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Malpais Spring vesiculovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Mamastrovirus 1,TRUE,Astroviridae,ssRNA(+),ssRNA,Human virus
+Mamastrovirus 10,FALSE,Astroviridae,ssRNA(+),ssRNA,No human infections
+Mamastrovirus 13,FALSE,Astroviridae,ssRNA(+),ssRNA,No human infections
+Mamastrovirus 2,FALSE,Astroviridae,ssRNA(+),ssRNA,No human infections
+Mamastrovirus 3,FALSE,Astroviridae,ssRNA(+),ssRNA,No human infections
+Mamastrovirus 6,TRUE,Astroviridae,ssRNA(+),ssRNA,Human virus
+Mamastrovirus 9,TRUE,Astroviridae,ssRNA(+),ssRNA,Human virus
+Mammalian 1 orthobornavirus,TRUE,Bornaviridae,ssRNA(-),ssRNA,Zoonotic
+Mammalian orthorubulavirus 5,TRUE,Paramyxoviridae,ssRNA(-),ssRNA,Zoonotic
+Manzanilla orthobunyavirus,FALSE,Peribunyaviridae,ssRNA(-),ssRNA,No human infections
+Mapuera orthorubulavirus,FALSE,Paramyxoviridae,ssRNA(-),ssRNA,No human infections
+Maraba vesiculovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Marburg marburgvirus,TRUE,Filoviridae,ssRNA(-),ssRNA,Zoonotic
+Marituba orthobunyavirus,TRUE,Peribunyaviridae,ssRNA(-),ssRNA,Zoonotic
+Mason-Pfizer monkey virus,FALSE,Retroviridae,ssRNA-RT,ssRNA-RT,No human infections
+Mayaro virus,TRUE,Togaviridae,ssRNA(+),ssRNA,Zoonotic
+Measles morbillivirus,TRUE,Paramyxoviridae,ssRNA(-),ssRNA,Human virus
+Menangle pararubulavirus,TRUE,Paramyxoviridae,ssRNA(-),ssRNA,Zoonotic
+Merino Walk mammarenavirus,FALSE,Arenaviridae,ssRNA(+/-),ssRNA,No human infections
+Mesocricetus auratus polyomavirus 1,FALSE,Polyomaviridae,dsDNA,dsDNA,No human infections
+Middelburg virus,FALSE,Togaviridae,ssRNA(+),ssRNA,No human infections
+Middle East respiratory syndrome-related coronavirus,TRUE,Coronaviridae,ssRNA(+),ssRNA,Zoonotic
+Miniopterus bat coronavirus HKU8,FALSE,Coronaviridae,ssRNA(+),ssRNA,No human infections
+Mischivirus A,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Mischivirus C,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Mobala mammarenavirus,FALSE,Arenaviridae,ssRNA(+/-),ssRNA,No human infections
+Modoc virus,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Mojiang henipavirus,FALSE,Paramyxoviridae,ssRNA(-),ssRNA,No human infections
+Mokola lyssavirus,TRUE,Rhabdoviridae,ssRNA(-),ssRNA,Zoonotic
+Molluscum contagiosum virus,TRUE,Poxviridae,dsDNA,dsDNA,Human virus
+Moloney murine sarcoma virus,FALSE,Retroviridae,ssRNA-RT,ssRNA-RT,No human infections
+Monkeypox virus,TRUE,Poxviridae,dsDNA,dsDNA,Zoonotic
+Montana myotis leukoencephalitis virus,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Mopeia mammarenavirus,FALSE,Arenaviridae,ssRNA(+/-),ssRNA,No human infections
+Mosso das Pedras virus,TRUE,Togaviridae,ssRNA(+),ssRNA,Zoonotic
+Mount Elgon bat ledantevirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Mouse mammary tumor virus,FALSE,Retroviridae,ssRNA-RT,ssRNA-RT,No human infections
+Moussa virus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Mucambo virus,TRUE,Togaviridae,ssRNA(+),ssRNA,Zoonotic
+Mumps orthorubulavirus,TRUE,Paramyxoviridae,ssRNA(-),ssRNA,Human virus
+Munia coronavirus HKU13,FALSE,Coronaviridae,ssRNA(+),ssRNA,No human infections
+Mupapillomavirus 1,TRUE,Papillomaviridae,dsDNA,dsDNA,Human virus
+Mupapillomavirus 2,TRUE,Papillomaviridae,dsDNA,dsDNA,Human virus
+Murid betaherpesvirus 1,FALSE,Herpesviridae,dsDNA,dsDNA,No human infections
+Murid betaherpesvirus 2,FALSE,Herpesviridae,dsDNA,dsDNA,No human infections
+Murid gammaherpesvirus 4,FALSE,Herpesviridae,dsDNA,dsDNA,No human infections
+Murine coronavirus,FALSE,Coronaviridae,ssRNA(+),ssRNA,No human infections
+Murine leukemia virus,FALSE,Retroviridae,ssRNA-RT,ssRNA-RT,No human infections
+Murine mastadenovirus A,FALSE,Adenoviridae,dsDNA,dsDNA,No human infections
+Murine mastadenovirus B,FALSE,Adenoviridae,dsDNA,dsDNA,No human infections
+Murine orthopneumovirus,FALSE,Pneumoviridae,ssRNA(-),ssRNA,No human infections
+Murine respirovirus,FALSE,Paramyxoviridae,ssRNA(-),ssRNA,No human infections
+Murray Valley encephalitis virus,TRUE,Flaviviridae,ssRNA(+),ssRNA,Zoonotic
+Mus musculus polyomavirus 1,FALSE,Polyomaviridae,dsDNA,dsDNA,No human infections
+Mus musculus polyomavirus 2,FALSE,Polyomaviridae,dsDNA,dsDNA,No human infections
+Myxoma virus,FALSE,Poxviridae,dsDNA,dsDNA,No human infections
+Ndumu virus,FALSE,Togaviridae,ssRNA(+),ssRNA,No human infections
+Nelson Bay orthoreovirus,TRUE,Reoviridae,dsRNA,dsRNA,Zoonotic
+New Jersey vesiculovirus,TRUE,Rhabdoviridae,ssRNA(-),ssRNA,Zoonotic
+Newbury 1 virus,FALSE,Caliciviridae,ssRNA(+),ssRNA,No human infections
+Ngaingan hapavirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Niakha sripuvirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Night heron coronavirus HKU19,FALSE,Coronaviridae,ssRNA(+),ssRNA,No human infections
+Nipah henipavirus,TRUE,Paramyxoviridae,ssRNA(-),ssRNA,Zoonotic
+Northern cereal mosaic cytorhabdovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Norwalk virus,TRUE,Caliciviridae,ssRNA(+),ssRNA,Human virus
+Ntaya virus,TRUE,Flaviviridae,ssRNA(+),ssRNA,Zoonotic
+Nupapillomavirus 1,TRUE,Papillomaviridae,dsDNA,dsDNA,Human virus
+Nyando orthobunyavirus,TRUE,Peribunyaviridae,ssRNA(-),ssRNA,Zoonotic
+Onyong-nyong virus,TRUE,Togaviridae,ssRNA(+),ssRNA,Zoonotic
+Obodhiang ephemerovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Oita ledantevirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Oliveros mammarenavirus,FALSE,Arenaviridae,ssRNA(+/-),ssRNA,No human infections
+Omikronpapillomavirus 1,FALSE,Papillomaviridae,dsDNA,dsDNA,No human infections
+Omsk hemorrhagic fever virus,TRUE,Flaviviridae,ssRNA(+),ssRNA,Zoonotic
+Orf virus,TRUE,Poxviridae,dsDNA,dsDNA,Zoonotic
+Oriboca orthobunyavirus,TRUE,Peribunyaviridae,ssRNA(-),ssRNA,Zoonotic
+Oropouche orthobunyavirus,TRUE,Peribunyaviridae,ssRNA(-),ssRNA,Zoonotic
+Orthohepevirus A,TRUE,Hepeviridae,ssRNA(+),ssRNA,Human virus
+Orthohepevirus B,FALSE,Hepeviridae,ssRNA(+),ssRNA,No human infections
+Orthohepevirus C,FALSE,Hepeviridae,ssRNA(+),ssRNA,No human infections
+Orthohepevirus D,FALSE,Hepeviridae,ssRNA(+),ssRNA,No human infections
+Orungo virus,TRUE,Reoviridae,dsRNA,dsRNA,Zoonotic
+Oscivirus A,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Ovine atadenovirus D,FALSE,Adenoviridae,dsDNA,dsDNA,No human infections
+Ovine gammaherpesvirus 2,FALSE,Herpesviridae,dsDNA,dsDNA,No human infections
+Ovine mastadenovirus A,FALSE,Adenoviridae,dsDNA,dsDNA,No human infections
+Palyam virus,TRUE,Reoviridae,dsRNA,dsRNA,Zoonotic
+Panine betaherpesvirus 2,FALSE,Herpesviridae,dsDNA,dsDNA,No human infections
+Papiine alphaherpesvirus 2,FALSE,Herpesviridae,dsDNA,dsDNA,No human infections
+Paraguayan mammarenavirus,FALSE,Arenaviridae,ssRNA(+/-),ssRNA,No human infections
+Parapoxvirus of red deer in New Zealand,FALSE,Poxviridae,dsDNA,dsDNA,No human infections
+Parechovirus A,TRUE,Picornaviridae,ssRNA(+),ssRNA,Human virus
+Parechovirus B,TRUE,Picornaviridae,ssRNA(+),ssRNA,Zoonotic
+Patois orthobunyavirus,FALSE,Peribunyaviridae,ssRNA(-),ssRNA,No human infections
+Pegivirus A,TRUE,Flaviviridae,ssRNA(+),ssRNA,Zoonotic
+Pegivirus C,TRUE,Flaviviridae,ssRNA(+),ssRNA,Human virus
+Pegivirus E,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Pegivirus H,TRUE,Flaviviridae,ssRNA(+),ssRNA,Human virus
+Perch perhabdovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Perinet vesiculovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Peruvian horse sickness virus,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Phnom Penh bat virus,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Phocid alphaherpesvirus 1,FALSE,Herpesviridae,dsDNA,dsDNA,No human infections
+Phocine morbillivirus,FALSE,Paramyxoviridae,ssRNA(-),ssRNA,No human infections
+Cali mammarenavirus,FALSE,Arenaviridae,ssRNA(+/-),ssRNA,No human infections
+Pipapillomavirus 1,FALSE,Papillomaviridae,dsDNA,dsDNA,No human infections
+Pipistrellus bat coronavirus HKU5,FALSE,Coronaviridae,ssRNA(+),ssRNA,No human infections
+Pirital mammarenavirus,FALSE,Arenaviridae,ssRNA(+/-),ssRNA,No human infections
+Piry vesiculovirus,TRUE,Rhabdoviridae,ssRNA(-),ssRNA,Zoonotic
+Piscihepevirus A,FALSE,Hepeviridae,ssRNA(+),ssRNA,No human infections
+Piscine novirhabdovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Pixuna virus,TRUE,Togaviridae,ssRNA(+),ssRNA,Zoonotic
+Porcine circovirus 1,FALSE,Circoviridae,ssDNA(+/-),ssDNA,No human infections
+Porcine circovirus 2,FALSE,Circoviridae,ssDNA(+/-),ssDNA,No human infections
+Porcine epidemic diarrhea virus,FALSE,Coronaviridae,ssRNA(+),ssRNA,No human infections
+Porcine mastadenovirus A,FALSE,Adenoviridae,dsDNA,dsDNA,No human infections
+Porcine mastadenovirus C,FALSE,Adenoviridae,dsDNA,dsDNA,No human infections
+Betaarterivirus suid 1,FALSE,Arteriviridae,ssRNA(+),ssRNA,No human infections
+Porcine respirovirus 1,FALSE,Paramyxoviridae,ssRNA(-),ssRNA,No human infections
+Porcine orthorubulavirus,FALSE,Paramyxoviridae,ssRNA(-),ssRNA,No human infections
+Porcine torovirus,FALSE,Tobaniviridae,ssRNA(+),ssRNA,No human infections
+Porcine type-C oncovirus,FALSE,Retroviridae,ssRNA-RT,ssRNA-RT,No human infections
+Potato yellow dwarf nucleorhabdovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Powassan virus,TRUE,Flaviviridae,ssRNA(+),ssRNA,Zoonotic
+Primate erythroparvovirus 1,TRUE,Parvoviridae,ssDNA(+/-),ssDNA,Human virus
+Primate T-lymphotropic virus 1,TRUE,Retroviridae,ssRNA-RT,ssRNA-RT,Human virus
+Primate T-lymphotropic virus 2,TRUE,Retroviridae,ssRNA-RT,ssRNA-RT,Human virus
+Primate T-lymphotropic virus 3,TRUE,Retroviridae,ssRNA-RT,ssRNA-RT,Human virus
+Pestivirus E,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Pseudocowpox virus,TRUE,Poxviridae,dsDNA,dsDNA,Zoonotic
+Puerto Almendras almendravirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Puma lentivirus,FALSE,Retroviridae,ssRNA-RT,ssRNA-RT,No human infections
+Punta Toro phlebovirus,TRUE,Phenuiviridae,ssRNA(-),ssRNA,Zoonotic
+Puumala orthohantavirus,TRUE,Hantaviridae,ssRNA(-),ssRNA,Zoonotic
+Quaranfil quaranjavirus,TRUE,Orthomyxoviridae,ssRNA(-),ssRNA,Zoonotic
+Rabbit fibroma virus,FALSE,Poxviridae,dsDNA,dsDNA,No human infections
+Rabbit hemorrhagic disease virus,FALSE,Caliciviridae,ssRNA(+),ssRNA,No human infections
+Rabies lyssavirus,TRUE,Rhabdoviridae,ssRNA(-),ssRNA,Zoonotic
+Raccoonpox virus,FALSE,Poxviridae,dsDNA,dsDNA,No human infections
+Reptile sunshinevirus 1,FALSE,Sunviridae,ssRNA(-),ssRNA,No human infections
+Reptilian ferlavirus,FALSE,Paramyxoviridae,ssRNA(-),ssRNA,No human infections
+Reston ebolavirus,TRUE,Filoviridae,ssRNA(-),ssRNA,Zoonotic
+Rhinolophus bat coronavirus HKU2,FALSE,Coronaviridae,ssRNA(+),ssRNA,No human infections
+Rhinovirus A,TRUE,Picornaviridae,ssRNA(+),ssRNA,Human virus
+Rhinovirus B,TRUE,Picornaviridae,ssRNA(+),ssRNA,Human virus
+Rhinovirus C,TRUE,Picornaviridae,ssRNA(+),ssRNA,Human virus
+Rice yellow stunt nucleorhabdovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Rift Valley fever phlebovirus,TRUE,Phenuiviridae,ssRNA(-),ssRNA,Zoonotic
+Rinderpest morbillivirus,FALSE,Paramyxoviridae,ssRNA(-),ssRNA,No human infections
+Rio Bravo virus,TRUE,Flaviviridae,ssRNA(+),ssRNA,Zoonotic
+Rio Negro virus,FALSE,Togaviridae,ssRNA(+),ssRNA,No human infections
+Rodent erythroparvovirus 1,FALSE,Parvoviridae,ssDNA(+/-),ssDNA,No human infections
+Rodent protoparvovirus 1,FALSE,Parvoviridae,ssDNA(+/-),ssDNA,No human infections
+Rodent protoparvovirus 2,FALSE,Parvoviridae,ssDNA(+/-),ssDNA,No human infections
+Ross River virus,TRUE,Togaviridae,ssRNA(+),ssRNA,Zoonotic
+Rotavirus A,TRUE,Reoviridae,dsRNA,dsRNA,Human virus
+Rotavirus B,TRUE,Reoviridae,dsRNA,dsRNA,Human virus
+Rotavirus C,TRUE,Reoviridae,dsRNA,dsRNA,Human virus
+Rotterdam reptarenavirus,FALSE,Arenaviridae,ssRNA(+/-),ssRNA,No human infections
+Rousettus bat coronavirus HKU9,FALSE,Coronaviridae,ssRNA(+),ssRNA,No human infections
+Royal Farm virus,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Rubella virus,TRUE,Matonaviridae,ssRNA(+),ssRNA,Human virus
+Brazilian mammarenavirus,TRUE,Arenaviridae,ssRNA(+/-),ssRNA,Zoonotic
+Saboya virus,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Saimiriine alphaherpesvirus 1,FALSE,Herpesviridae,dsDNA,dsDNA,No human infections
+Saimiriine gammaherpesvirus 2,FALSE,Herpesviridae,dsDNA,dsDNA,No human infections
+Sakobuvirus A,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Salehabad phlebovirus,FALSE,Phenuiviridae,ssRNA(-),ssRNA,No human infections
+Salivirus A,TRUE,Picornaviridae,ssRNA(+),ssRNA,Human virus
+Salmon aquaparamyxovirus,FALSE,Paramyxoviridae,ssRNA(-),ssRNA,No human infections
+Salmon pancreas disease virus,FALSE,Togaviridae,ssRNA(+),ssRNA,No human infections
+Salmonid novirhabdovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Sandfly fever Naples phlebovirus,TRUE,Phenuiviridae,ssRNA(-),ssRNA,Zoonotic
+Sapelovirus A,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Sapporo virus,TRUE,Caliciviridae,ssRNA(+),ssRNA,Human virus
+Scotophilus bat coronavirus 512,FALSE,Coronaviridae,ssRNA(+),ssRNA,No human infections
+Semliki Forest virus,TRUE,Togaviridae,ssRNA(+),ssRNA,Zoonotic
+Seoul orthohantavirus,TRUE,Hantaviridae,ssRNA(-),ssRNA,Zoonotic
+Sepik virus,TRUE,Flaviviridae,ssRNA(+),ssRNA,Zoonotic
+Severe acute respiratory syndrome-related coronavirus,TRUE,Coronaviridae,ssRNA(+),ssRNA,Zoonotic
+Huaiyangshan banyangvirus,TRUE,Phenuiviridae,ssRNA(-),ssRNA,Zoonotic
+Schmallenberg orthobunyavirus,TRUE,Peribunyaviridae,ssRNA(-),ssRNA,Zoonotic
+Sheeppox virus,FALSE,Poxviridae,dsDNA,dsDNA,No human infections
+Shimoni bat lyssavirus,TRUE,Rhabdoviridae,ssRNA(-),ssRNA,Zoonotic
+Shuni orthobunyavirus,TRUE,Peribunyaviridae,ssRNA(-),ssRNA,Zoonotic
+Sicinivirus A,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Simbu orthobunyavirus,FALSE,Peribunyaviridae,ssRNA(-),ssRNA,No human infections
+Western chimpanzee simian foamy virus,TRUE,Retroviridae,ssRNA-RT,ssRNA-RT,Zoonotic
+Deltaarterivirus hemfev,FALSE,Arteriviridae,ssRNA(+),ssRNA,No human infections
+Simian immunodeficiency virus,TRUE,Retroviridae,ssRNA-RT,ssRNA-RT,Zoonotic
+Simian orthorubulavirus,FALSE,Paramyxoviridae,ssRNA(-),ssRNA,No human infections
+Sin Nombre orthohantavirus,TRUE,Hantaviridae,ssRNA(-),ssRNA,Zoonotic
+Sindbis virus,TRUE,Togaviridae,ssRNA(+),ssRNA,Zoonotic
+Small ruminant morbillivirus,FALSE,Paramyxoviridae,ssRNA(-),ssRNA,No human infections
+Snakehead novirhabdovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Sonchus yellow net nucleorhabdovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Sosuga pararubulavirus,TRUE,Paramyxoviridae,ssRNA(-),ssRNA,Zoonotic
+Southern elephant seal virus,FALSE,Togaviridae,ssRNA(+),ssRNA,No human infections
+Squirrel monkey retrovirus,FALSE,Retroviridae,ssRNA-RT,ssRNA-RT,No human infections
+Squirrelpox virus,FALSE,Poxviridae,dsDNA,dsDNA,No human infections
+Saint Louis encephalitis virus,TRUE,Flaviviridae,ssRNA(+),ssRNA,Zoonotic
+Sudan ebolavirus,TRUE,Filoviridae,ssRNA(-),ssRNA,Zoonotic
+Suid alphaherpesvirus 1,FALSE,Herpesviridae,dsDNA,dsDNA,No human infections
+Swinepox virus,FALSE,Poxviridae,dsDNA,dsDNA,No human infections
+Tacaiuma orthobunyavirus,TRUE,Peribunyaviridae,ssRNA(-),ssRNA,Zoonotic
+Tacaribe mammarenavirus,TRUE,Arenaviridae,ssRNA(+/-),ssRNA,Zoonotic
+Tai Forest ebolavirus,TRUE,Filoviridae,ssRNA(-),ssRNA,Zoonotic
+Tamiami mammarenavirus,FALSE,Arenaviridae,ssRNA(+/-),ssRNA,No human infections
+Tanapox virus,TRUE,Poxviridae,dsDNA,dsDNA,Zoonotic
+Taro vein chlorosis nucleorhabdovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Taterapox virus,FALSE,Poxviridae,dsDNA,dsDNA,No human infections
+Tembusu virus,TRUE,Flaviviridae,ssRNA(+),ssRNA,Zoonotic
+Pike fry sprivivirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Teschovirus A,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Thailand orthohantavirus,FALSE,Hantaviridae,ssRNA(-),ssRNA,No human infections
+Thiafora orthonairovirus,TRUE,Nairoviridae,ssRNA(-),ssRNA,Zoonotic
+Thogoto thogotovirus,TRUE,Orthomyxoviridae,ssRNA(-),ssRNA,Zoonotic
+Thottopalayam thottimvirus,TRUE,Hantaviridae,ssRNA(-),ssRNA,Zoonotic
+Tibrogargan tibrovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Tick-borne encephalitis virus,TRUE,Flaviviridae,ssRNA(+),ssRNA,Zoonotic
+Tioman pararubulavirus,FALSE,Paramyxoviridae,ssRNA(-),ssRNA,No human infections
+Tonate virus,TRUE,Togaviridae,ssRNA(+),ssRNA,Zoonotic
+Tree shrew mastadenovirus A,FALSE,Adenoviridae,dsDNA,dsDNA,No human infections
+Tremovirus A,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Tuhoko pararubulavirus 1,FALSE,Paramyxoviridae,ssRNA(-),ssRNA,No human infections
+Tuhoko pararubulavirus 2,FALSE,Paramyxoviridae,ssRNA(-),ssRNA,No human infections
+Tuhoko pararubulavirus 3,FALSE,Paramyxoviridae,ssRNA(-),ssRNA,No human infections
+Tula orthohantavirus,TRUE,Hantaviridae,ssRNA(-),ssRNA,Zoonotic
+Tupaia tupavirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Tupaiid betaherpesvirus 1,FALSE,Herpesviridae,dsDNA,dsDNA,No human infections
+Turlock orthobunyavirus,FALSE,Peribunyaviridae,ssRNA(-),ssRNA,No human infections
+Tylonycteris bat coronavirus HKU4,FALSE,Coronaviridae,ssRNA(+),ssRNA,No human infections
+Tyuleniy virus,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Uganda S virus,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Una virus,FALSE,Togaviridae,ssRNA(+),ssRNA,No human infections
+Ungulate bocaparvovirus 1,FALSE,Parvoviridae,ssDNA(+/-),ssDNA,No human infections
+Ungulate protoparvovirus 1,FALSE,Parvoviridae,ssDNA(+/-),ssDNA,No human infections
+Uukuniemi phlebovirus,TRUE,Phenuiviridae,ssRNA(-),ssRNA,Zoonotic
+Variola virus,TRUE,Poxviridae,dsDNA,dsDNA,Human virus
+Venezuelan equine encephalitis virus,TRUE,Togaviridae,ssRNA(+),ssRNA,Zoonotic
+Vesicular exanthema of swine virus,TRUE,Caliciviridae,ssRNA(+),ssRNA,Zoonotic
+Visna-maedi virus,FALSE,Retroviridae,ssRNA-RT,ssRNA-RT,No human infections
+Volepox virus,FALSE,Poxviridae,dsDNA,dsDNA,No human infections
+Wad Medani virus,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Wallal virus,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Warrego virus,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Wenzhou mammarenavirus,FALSE,Arenaviridae,ssRNA(+/-),ssRNA,No human infections
+Wesselsbron virus,TRUE,Flaviviridae,ssRNA(+),ssRNA,Zoonotic
+West Caucasian bat lyssavirus,TRUE,Rhabdoviridae,ssRNA(-),ssRNA,Zoonotic
+West Nile virus,TRUE,Flaviviridae,ssRNA(+),ssRNA,Zoonotic
+Western equine encephalitis virus,TRUE,Togaviridae,ssRNA(+),ssRNA,Zoonotic
+Whataroa virus,FALSE,Togaviridae,ssRNA(+),ssRNA,No human infections
+White bream virus,FALSE,Tobaniviridae,ssRNA(+),ssRNA,No human infections
+White-eye coronavirus HKU16,FALSE,Coronaviridae,ssRNA(+),ssRNA,No human infections
+Whitewater Arroyo mammarenavirus,TRUE,Arenaviridae,ssRNA(+/-),ssRNA,Zoonotic
+Wigeon coronavirus HKU20,FALSE,Coronaviridae,ssRNA(+),ssRNA,No human infections
+Wongabel hapavirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Woodchuck hepatitis virus,FALSE,Hepadnaviridae,dsDNA-RT,dsDNA-RT,No human infections
+Woolly monkey sarcoma virus,FALSE,Retroviridae,ssRNA-RT,ssRNA-RT,No human infections
+Wyeomyia orthobunyavirus,TRUE,Peribunyaviridae,ssRNA(-),ssRNA,Zoonotic
+Xipapillomavirus 1,FALSE,Papillomaviridae,dsDNA,dsDNA,No human infections
+Yaba monkey tumor virus,FALSE,Poxviridae,dsDNA,dsDNA,No human infections
+Yellow fever virus,TRUE,Flaviviridae,ssRNA(+),ssRNA,Human virus
+Yokose virus,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Yug Bogdanovac vesiculovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Zaire ebolavirus,TRUE,Filoviridae,ssRNA(-),ssRNA,Zoonotic
+Zegla orthobunyavirus,FALSE,Peribunyaviridae,ssRNA(-),ssRNA,No human infections
+Zetapapillomavirus 1,FALSE,Papillomaviridae,dsDNA,dsDNA,No human infections
+Zika virus,TRUE,Flaviviridae,ssRNA(+),ssRNA,Zoonotic
+Choclo orthohantavirus,TRUE,Hantaviridae,ssRNA(-),ssRNA,Zoonotic
+Ekpoma 1 tibrovirus,TRUE,Rhabdoviridae,ssRNA(-),ssRNA,Zoonotic
+Ekpoma 2 tibrovirus,TRUE,Rhabdoviridae,ssRNA(-),ssRNA,Zoonotic
+Mammalian 2 orthobornavirus,TRUE,Bornaviridae,ssRNA(-),ssRNA,Zoonotic
+Rotavirus H,TRUE,Reoviridae,dsRNA,dsRNA,Zoonotic
+Aedes pseudoscutellaris reovirus,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Lambdaarterivirus afriporav,FALSE,Arteriviridae,ssRNA(+),ssRNA,No human infections
+Aichivirus B,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Aichivirus C,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Aichivirus D,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Aichivirus E,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Aichivirus F,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Alajuela orthobunyavirus,FALSE,Peribunyaviridae,ssRNA(-),ssRNA,No human infections
+Alfalfa dwarf cytorhabdovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Ampivirus A,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Aquareovirus A,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Aquareovirus B,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Aquareovirus C,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Aquareovirus E,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Aquareovirus G,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Avian orthoavulavirus 13,FALSE,Paramyxoviridae,ssRNA(-),ssRNA,No human infections
+Avian metaavulavirus 2,FALSE,Paramyxoviridae,ssRNA(-),ssRNA,No human infections
+Avian leukosis virus,FALSE,Retroviridae,ssRNA-RT,ssRNA-RT,No human infections
+Avian orthoreovirus,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Anativirus A,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Avisivirus A,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Badu phasivirus,FALSE,Phenuiviridae,ssRNA(-),ssRNA,No human infections
+Ball python nidovirus 1,FALSE,Tobaniviridae,ssRNA(+),ssRNA,No human infections
+Barley yellow striate mosaic cytorhabdovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Bat mumps orthorubulavirus,FALSE,Paramyxoviridae,ssRNA(-),ssRNA,No human infections
+Batama orthobunyavirus,FALSE,Peribunyaviridae,ssRNA(-),ssRNA,No human infections
+Bertioga orthobunyavirus,FALSE,Peribunyaviridae,ssRNA(-),ssRNA,No human infections
+Bovine nidovirus 1,FALSE,Tobaniviridae,ssRNA(+),ssRNA,No human infections
+Bovine rhinitis A virus,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Bovine rhinitis B virus,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Bowe orthohantavirus,FALSE,Hantaviridae,ssRNA(-),ssRNA,No human infections
+Bruges orthohantavirus,FALSE,Hantaviridae,ssRNA(-),ssRNA,No human infections
+Bulbul coronavirus HKU11,FALSE,Coronaviridae,ssRNA(+),ssRNA,No human infections
+Tamdy orthonairovirus,FALSE,Nairoviridae,ssRNA(-),ssRNA,No human infections
+Cadicivirus A,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Cao Bang orthohantavirus,FALSE,Hantaviridae,ssRNA(-),ssRNA,No human infections
+Capim orthobunyavirus,FALSE,Peribunyaviridae,ssRNA(-),ssRNA,No human infections
+Carajas vesiculovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Cardiovirus C,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Chaco sripuvirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Chenuda virus,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Chilibre phlebovirus,FALSE,Phenuiviridae,ssRNA(-),ssRNA,No human infections
+Chinook salmon nidovirus 1,FALSE,Tobaniviridae,ssRNA(+),ssRNA,No human infections
+Coffee ringspot dichorhavirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Colocasia bobone disease-associated cytorhabdovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Cosavirus A,TRUE,Picornaviridae,ssRNA(+),ssRNA,Human virus
+Cosavirus B,TRUE,Picornaviridae,ssRNA(+),ssRNA,Zoonotic
+Cosavirus D,TRUE,Picornaviridae,ssRNA(+),ssRNA,Zoonotic
+Cosavirus E,TRUE,Picornaviridae,ssRNA(+),ssRNA,Zoonotic
+Cosavirus F,TRUE,Picornaviridae,ssRNA(+),ssRNA,Zoonotic
+Cumuto goukovirus,FALSE,Phenuiviridae,ssRNA(-),ssRNA,No human infections
+Cypovirus 1,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Cypovirus 14,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Cypovirus 15,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Cypovirus 2,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Cypovirus 5,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Dabieshan orthohantavirus,FALSE,Hantaviridae,ssRNA(-),ssRNA,No human infections
+Datura yellow vein nucleorhabdovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Iotaarterivirus debrazmo,FALSE,Arteriviridae,ssRNA(+),ssRNA,No human infections
+Drosophila affinis sigmavirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Drosophila ananassae sigmavirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Drosophila immigrans sigmavirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Drosophila X virus,FALSE,Birnaviridae,dsRNA,dsRNA,No human infections
+Durham tupavirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Edge Hill virus,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Elapid 1 orthobornavirus,FALSE,Bornaviridae,ssRNA(-),ssRNA,No human infections
+Enterovirus E,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Enterovirus F,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Enterovirus J,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Eriocheir sinensis reovirus,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Estero Real orthonairovirus,FALSE,Nairoviridae,ssRNA(-),ssRNA,No human infections
+Fathead minnow nidovirus 1,FALSE,Tobaniviridae,ssRNA(+),ssRNA,No human infections
+Fiji disease virus,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Flanders hapavirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Epsilonarterivirus safriver,FALSE,Arteriviridae,ssRNA(+),ssRNA,No human infections
+Frijoles phlebovirus,FALSE,Phenuiviridae,ssRNA(-),ssRNA,No human infections
+Fugong orthohantavirus,FALSE,Hantaviridae,ssRNA(-),ssRNA,No human infections
+Fukuoka ledantevirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Fusong orthohantavirus,FALSE,Hantaviridae,ssRNA(-),ssRNA,No human infections
+Gadgets Gully virus,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Gallivirus A,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Gamboa orthobunyavirus,FALSE,Peribunyaviridae,ssRNA(-),ssRNA,No human infections
+Gray Lodge hapavirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Guajara orthobunyavirus,FALSE,Peribunyaviridae,ssRNA(-),ssRNA,No human infections
+Hart Park hapavirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Hazara orthonairovirus,FALSE,Nairoviridae,ssRNA(-),ssRNA,No human infections
+Hepacivirus A,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Hepacivirus B,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Hepacivirus D,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Hepacivirus E,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Hepacivirus F,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Hepacivirus G,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Hepacivirus H,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Hepacivirus I,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Hepacivirus J,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Hepacivirus K,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Hepacivirus L,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Hepacivirus M,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Hepacivirus N,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Hepatovirus C,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Hepatovirus D,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Hepatovirus E,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Hepatovirus F,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Hepatovirus G,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Hepatovirus H,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Hepatovirus I,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Hughes orthonairovirus,FALSE,Nairoviridae,ssRNA(-),ssRNA,No human infections
+Hunnivirus A,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Imjin thottimvirus,FALSE,Hantaviridae,ssRNA(-),ssRNA,No human infections
+Infectious bursal disease virus,FALSE,Birnaviridae,dsRNA,dsRNA,No human infections
+Infectious pancreatic necrosis virus,FALSE,Birnaviridae,dsRNA,dsRNA,No human infections
+Salmon isavirus,FALSE,Orthomyxoviridae,ssRNA(-),ssRNA,No human infections
+Influenza D virus,FALSE,Orthomyxoviridae,ssRNA(-),ssRNA,No human infections
+Iranian wheat stripe tenuivirus,FALSE,Phenuiviridae,ssRNA(-),ssRNA,No human infections
+Iriri curiovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Israel turkey meningoencephalomyelitis virus,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Itacaiunas curiovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Jeju orthohantavirus,FALSE,Hantaviridae,ssRNA(-),ssRNA,No human infections
+Jembrana disease virus,FALSE,Retroviridae,ssRNA-RT,ssRNA-RT,No human infections
+Joinjakaka hapavirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Kadam virus,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Kadipiro virus,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Thetaarterivirus kafuba,FALSE,Arteriviridae,ssRNA(+),ssRNA,No human infections
+Kamese hapavirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Kenkeme orthohantavirus,FALSE,Hantaviridae,ssRNA(-),ssRNA,No human infections
+Keterah orthonairovirus,FALSE,Nairoviridae,ssRNA(-),ssRNA,No human infections
+Kibale herbevirus,FALSE,Peribunyaviridae,ssRNA(-),ssRNA,No human infections
+Zetaarterivirus ugarco 1,FALSE,Arteriviridae,ssRNA(+),ssRNA,No human infections
+Etaarterivirus ugarco 1,FALSE,Arteriviridae,ssRNA(+),ssRNA,No human infections
+Iotaarterivirus kibreg 1,FALSE,Arteriviridae,ssRNA(+),ssRNA,No human infections
+Klamath tupavirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Koala retrovirus,FALSE,Retroviridae,ssRNA-RT,ssRNA-RT,No human infections
+Koolpinyah ephemerovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Kumasi ledantevirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Kunsagivirus A,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+La Joya hapavirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Laibin mobatvirus,FALSE,Hantaviridae,ssRNA(-),ssRNA,No human infections
+Landjia hapavirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Le Dantec ledantevirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Lettuce big-vein associated varicosavirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Liao ning virus,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Limnipivirus A,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Limnipivirus B,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Luxi orthohantavirus,FALSE,Hantaviridae,ssRNA(-),ssRNA,No human infections
+Maize rough dwarf virus,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Maize stripe tenuivirus,FALSE,Phenuiviridae,ssRNA(-),ssRNA,No human infections
+Mal de Rio Cuarto virus,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Mamastrovirus 5,FALSE,Astroviridae,ssRNA(+),ssRNA,No human infections
+Mamastrovirus 8,TRUE,Astroviridae,ssRNA(+),ssRNA,Human virus
+Manitoba hapavirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Maporal orthohantavirus,FALSE,Hantaviridae,ssRNA(-),ssRNA,No human infections
+Marco hapavirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Meaban virus,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Megrivirus A,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Micromonas pusilla reovirus,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Thetaarterivirus mikelba 1,FALSE,Arteriviridae,ssRNA(+),ssRNA,No human infections
+Miniopterus bat coronavirus 1,FALSE,Coronaviridae,ssRNA(+),ssRNA,No human infections
+Mink coronavirus 1,FALSE,Coronaviridae,ssRNA(+),ssRNA,No human infections
+Montano orthohantavirus,FALSE,Hantaviridae,ssRNA(-),ssRNA,No human infections
+Morreton vesiculovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Mosavirus A,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Mosqueiro hapavirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Mossuril hapavirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Mycoreovirus 1,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Mycoreovirus 3,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Nairobi sheep disease orthonairovirus,FALSE,Nairoviridae,ssRNA(-),ssRNA,No human infections
+Nilaparvata lugens reovirus,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Nishimuro ledantevirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Nkolbisson ledantevirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Nova mobatvirus,FALSE,Hantaviridae,ssRNA(-),ssRNA,No human infections
+Okahandja mammarenavirus,FALSE,Arenaviridae,ssRNA(+/-),ssRNA,No human infections
+Orchid fleck dichorhavirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Ord River hapavirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Parechovirus C,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Parechovirus D,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Parry Creek hapavirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Pasivirus A,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Passeriform 1 orthobornavirus,FALSE,Bornaviridae,ssRNA(-),ssRNA,No human infections
+Passerivirus A,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Deltaarterivirus pejah,FALSE,Arteriviridae,ssRNA(+),ssRNA,No human infections
+Pegivirus B,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Pegivirus D,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Pegivirus F,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Pegivirus G,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Pegivirus I,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Pegivirus J,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Pegivirus K,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Phasi Charoen-like phasivirus,FALSE,Phenuiviridae,ssRNA(-),ssRNA,No human infections
+Piscine orthoreovirus,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Betaarterivirus suid 2,FALSE,Arteriviridae,ssRNA(+),ssRNA,No human infections
+Potamipivirus A,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Psittaciform 1 orthobornavirus,FALSE,Bornaviridae,ssRNA(-),ssRNA,No human infections
+Psittaciform 2 orthobornavirus,FALSE,Bornaviridae,ssRNA(-),ssRNA,No human infections
+Quezon mobatvirus,FALSE,Hantaviridae,ssRNA(-),ssRNA,No human infections
+Rabbit picobirnavirus,FALSE,Picobirnaviridae,dsRNA,dsRNA,No human infections
+Rabovirus A,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Radi vesiculovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Betaarterivirus chinrav 1,FALSE,Arteriviridae,ssRNA(+),ssRNA,No human infections
+Reptilian orthoreovirus,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Reticuloendotheliosis virus,FALSE,Retroviridae,ssRNA-RT,ssRNA-RT,No human infections
+Rice black streaked dwarf virus,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Rice dwarf virus,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Rice gall dwarf virus,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Rice grassy stunt tenuivirus,FALSE,Phenuiviridae,ssRNA(-),ssRNA,No human infections
+Rice hoja blanca tenuivirus,FALSE,Phenuiviridae,ssRNA(-),ssRNA,No human infections
+Rice ragged stunt virus,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Rice stripe tenuivirus,FALSE,Phenuiviridae,ssRNA(-),ssRNA,No human infections
+Rochambeau curiovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Rockport orthohantavirus,FALSE,Hantaviridae,ssRNA(-),ssRNA,No human infections
+Rosavirus A,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Rotavirus D,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Rotavirus F,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Rotavirus G,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Rotavirus I,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Sakhalin orthonairovirus,FALSE,Nairoviridae,ssRNA(-),ssRNA,No human infections
+Sangassou orthohantavirus,FALSE,Hantaviridae,ssRNA(-),ssRNA,No human infections
+Sapelovirus B,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Saumarez Reef virus,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Sena Madureira sripuvirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Senecavirus A,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Insect shangavirus,FALSE,Peribunyaviridae,ssRNA(-),ssRNA,No human infections
+Epsilonarterivirus hemcep,FALSE,Arteriviridae,ssRNA(+),ssRNA,No human infections
+Solwezi mammarenavirus,FALSE,Arenaviridae,ssRNA(+/-),ssRNA,No human infections
+Southern rice black-streaked dwarf virus,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Sripur sripuvirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+St Croix River virus,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Strawberry crinkle cytorhabdovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Sweetwater Branch tibrovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Tai herbevirus,FALSE,Peribunyaviridae,ssRNA(-),ssRNA,No human infections
+Tellina virus,FALSE,Birnaviridae,dsRNA,dsRNA,No human infections
+Tete orthobunyavirus,FALSE,Peribunyaviridae,ssRNA(-),ssRNA,No human infections
+Teviot pararubulavirus,FALSE,Paramyxoviridae,ssRNA(-),ssRNA,No human infections
+Thimiri orthobunyavirus,FALSE,Peribunyaviridae,ssRNA(-),ssRNA,No human infections
+Torchivirus A,FALSE,Picornaviridae,ssRNA(+),ssRNA,No human infections
+Umatilla virus,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Walleye dermal sarcoma virus,FALSE,Retroviridae,ssRNA-RT,ssRNA-RT,No human infections
+Waterbird 1 orthobornavirus,FALSE,Bornaviridae,ssRNA(-),ssRNA,No human infections
+Kappaarterivirus wobum,FALSE,Arteriviridae,ssRNA(+),ssRNA,No human infections
+Wound tumor virus,FALSE,Reoviridae,dsRNA,dsRNA,No human infections
+Fly wubeivirus,FALSE,Phenuiviridae,ssRNA(-),ssRNA,No human infections
+Wuhan ledantevirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Wutai mosquito phasivirus,FALSE,Phenuiviridae,ssRNA(-),ssRNA,No human infections
+Yaounde virus,FALSE,Flaviviridae,ssRNA(+),ssRNA,No human infections
+Yata ephemerovirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Yellowtail ascites virus,FALSE,Birnaviridae,dsRNA,dsRNA,No human infections
+Yichang insect goukovirus,FALSE,Phenuiviridae,ssRNA(-),ssRNA,No human infections
+Yongjia ledantevirus,FALSE,Rhabdoviridae,ssRNA(-),ssRNA,No human infections
+Yunnan orbivirus,FALSE,Reoviridae,dsRNA,dsRNA,No human infections

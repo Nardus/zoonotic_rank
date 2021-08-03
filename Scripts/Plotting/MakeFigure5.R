@@ -350,6 +350,14 @@ final_plot <- plot_grid(corona_plot_combined, sarbeco_plot_named,
 ggsave2(file.path('Plots', 'Figure5.pdf'), final_plot, width = 7.5, height = 5)
 
 
+## Save values underlying panel B in a human-readable format (A already included in SI table):
+sarbeco_priorities %>% 
+	arrange(desc(calibrated_score_mean)) %>% 
+	select(Name, calibrated_score_mean, calibrated_score_lower, calibrated_score_upper, 
+				 bagged_prediction, rank = Rank, zoonotic_potential = Priority) %>% 
+	write_excel_csv(file.path('FigureData', 'fig5_b.csv'))
+
+
 # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 # ---- Values mentioned in text -------------------------------------------------------------------
 # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=

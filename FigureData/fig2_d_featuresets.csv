@@ -1,0 +1,59 @@
+﻿Cluster,SetName,set_proportion
+27,Similarity to housekeeping genes,0.75
+27,Similarity to ISGs,0.125
+27,Viral genomic features,0.125
+22,Similarity to housekeeping genes,0.14285714285714285
+22,Similarity to remaining genes,0.14285714285714285
+22,Viral genomic features,0.7142857142857143
+11,Similarity to ISGs,0.1
+11,Viral genomic features,0.9
+28,Similarity to housekeeping genes,0.14285714285714285
+28,Viral genomic features,0.8571428571428571
+1,Similarity to housekeeping genes,0.6
+1,Similarity to ISGs,0.2
+1,Similarity to remaining genes,0.2
+18,Similarity to housekeeping genes,0.5
+18,Similarity to ISGs,0.5
+4,Viral genomic features,1
+5,Similarity to housekeeping genes,0.2
+5,Similarity to ISGs,0.8
+14,Similarity to housekeeping genes,0.25
+14,Similarity to ISGs,0.25
+14,Similarity to remaining genes,0.25
+14,Viral genomic features,0.25
+29,Viral genomic features,1
+31,Similarity to housekeeping genes,0.16666666666666666
+31,Similarity to ISGs,0.3333333333333333
+31,Similarity to remaining genes,0.16666666666666666
+31,Viral genomic features,0.3333333333333333
+7,Similarity to housekeeping genes,0.3333333333333333
+7,Similarity to ISGs,0.3333333333333333
+7,Viral genomic features,0.3333333333333333
+24,Similarity to ISGs,0.5
+24,Viral genomic features,0.5
+13,Similarity to housekeeping genes,0.3333333333333333
+13,Similarity to ISGs,0.6666666666666666
+10,Similarity to ISGs,0.25
+10,Viral genomic features,0.75
+12,Similarity to housekeeping genes,0.6666666666666666
+12,Similarity to ISGs,0.3333333333333333
+15,Similarity to housekeeping genes,0.25
+15,Similarity to ISGs,0.75
+30,Similarity to ISGs,0.25
+30,Viral genomic features,0.75
+6,Similarity to ISGs,0.3333333333333333
+6,Similarity to remaining genes,0.3333333333333333
+6,Viral genomic features,0.3333333333333333
+8,Similarity to housekeeping genes,0.25
+8,Similarity to ISGs,0.25
+8,Similarity to remaining genes,0.5
+26,Similarity to housekeeping genes,0.3333333333333333
+26,Similarity to ISGs,0.3333333333333333
+26,Similarity to remaining genes,0.3333333333333333
+17,Similarity to housekeeping genes,0.5
+17,Similarity to ISGs,0.5
+9,Viral genomic features,1
+16,Similarity to housekeeping genes,0.5
+16,Similarity to ISGs,0.5
+21,Similarity to ISGs,0.5
+21,Similarity to remaining genes,0.5

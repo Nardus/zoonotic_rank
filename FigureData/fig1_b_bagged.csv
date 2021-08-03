@@ -1,0 +1,862 @@
+﻿UniversalName,N,InfectsHumans,BagScore_Lower,BagScore_Upper,RawScore,RunName
+Adeno-associated dependoparvovirus A,100,TRUE,0.1690432297644951,0.5268524207175438,0.32293870072790454,All genome composition feature sets
+Adeno-associated dependoparvovirus B,100,TRUE,0.1596851999026937,0.6006279365750504,0.3640967946425539,All genome composition feature sets
+Aedes pseudoscutellaris reovirus,100,FALSE,0.10320856895956645,0.338453615561774,0.20569477544829243,All genome composition feature sets
+African green monkey simian foamy virus,100,TRUE,0.1604178241235117,0.6280371423040272,0.3482774555318577,All genome composition feature sets
+African horse sickness virus,100,FALSE,0.09516148882088935,0.36451433088222523,0.19554761777296278,All genome composition feature sets
+African pouched rat arterivirus,100,FALSE,0.07567456335641229,0.25481247292824727,0.15491728114560485,All genome composition feature sets
+African swine fever virus,100,FALSE,0.09941743632214219,0.39958346736375977,0.22175644128281666,All genome composition feature sets
+Aichivirus A,100,TRUE,0.09984833457497695,0.3597083244162025,0.22366806675766074,All genome composition feature sets
+Aichivirus B,100,FALSE,0.06106419099870006,0.3423428657160794,0.1828011799167343,All genome composition feature sets
+Aichivirus C,100,FALSE,0.0937025308414813,0.3814705779056259,0.1936200319007686,All genome composition feature sets
+Aichivirus D,100,FALSE,0.06768145682408289,0.25013184442142616,0.1474180120792464,All genome composition feature sets
+Aichivirus E,100,FALSE,0.08864890663331229,0.3051739224310448,0.18083197920838118,All genome composition feature sets
+Aichivirus F,100,FALSE,0.11886091298469906,0.3364155175090045,0.2073987786570908,All genome composition feature sets
+Alcelaphine gammaherpesvirus 1,100,FALSE,0.07650769458482223,0.3956306228282355,0.20572693594450817,All genome composition feature sets
+Alethinophid 2 reptarenavirus,100,FALSE,0.18021582940345338,0.5551443901473578,0.33823006753776236,All genome composition feature sets
+Alethinophid 3 reptarenavirus,100,FALSE,0.1888435035925251,0.6505687530722082,0.3973201971044317,All genome composition feature sets
+Alfalfa dwarf cytorhabdovirus,100,FALSE,0.03733005440302527,0.16872374538056042,0.08887132664910825,All genome composition feature sets
+Allpahuayo mammarenavirus,100,FALSE,0.15835749475448418,0.4703089196564297,0.283917902086097,All genome composition feature sets
+Almpiwar sripuvirus,100,FALSE,0.048554700487713966,0.24988278728780122,0.15094082956917454,All genome composition feature sets
+Alphapapillomavirus 1,100,TRUE,0.42861056661764263,0.8304127679579163,0.6415158861703812,All genome composition feature sets
+Alphapapillomavirus 11,100,TRUE,0.7280297938628207,0.9844995734844881,0.8871549656747141,All genome composition feature sets
+Alphapapillomavirus 12,100,FALSE,0.21921148583047595,0.6210797011352422,0.37970396652654065,All genome composition feature sets
+Alphapapillomavirus 13,100,TRUE,0.6662903719288884,0.9807674139832644,0.8859853269825984,All genome composition feature sets
+Alphapapillomavirus 14,100,TRUE,0.40296973600174024,0.9341720194091724,0.7000794630745333,All genome composition feature sets
+Alphapapillomavirus 2,100,TRUE,0.38866056248844494,0.8633037617582334,0.643205919121167,All genome composition feature sets
+Alphapapillomavirus 3,100,TRUE,0.35241030643587345,0.864862073630778,0.6242419171116883,All genome composition feature sets
+Alphapapillomavirus 4,100,TRUE,0.3708595240713386,0.9279463478129605,0.6525639336881666,All genome composition feature sets
+Alphapapillomavirus 5,100,TRUE,0.5793730390696687,0.9674986288285304,0.8159072114341199,All genome composition feature sets
+Alphapapillomavirus 6,100,TRUE,0.636839922322763,0.9621262073257151,0.8306260833510268,All genome composition feature sets
+Alphapapillomavirus 7,100,TRUE,0.7025238081272374,0.9877485903996039,0.9064641405093109,All genome composition feature sets
+Alphapapillomavirus 8,100,TRUE,0.5457375060890106,0.9384159222717509,0.7575092107644529,All genome composition feature sets
+Alphapapillomavirus 9,100,TRUE,0.6638974076720774,0.964622931044848,0.8510918711648355,All genome composition feature sets
+Amaparí mammarenavirus,100,FALSE,0.14425151280708567,0.5774986568966816,0.3077919800824894,All genome composition feature sets
+American bat vesiculovirus,100,FALSE,0.1407058358054577,0.4483236827326714,0.2772886614943032,All genome composition feature sets
+Ampivirus A,100,FALSE,0.09335992080980174,0.3110725587870464,0.1976203975244021,All genome composition feature sets
+Andes orthohantavirus,100,TRUE,0.21132981505400736,0.6375333747020043,0.3863860057107459,All genome composition feature sets
+Anguillid perhabdovirus,100,FALSE,0.20855418380545976,0.6166244503523892,0.3686091783143639,All genome composition feature sets
+Aquamavirus A,100,FALSE,0.03283693441830922,0.16227905558673,0.09717505320988502,All genome composition feature sets
+Aquareovirus A,100,FALSE,0.09578960751608409,0.28296979503210595,0.16968608168981614,All genome composition feature sets
+Aquareovirus C,100,FALSE,0.058681141476291596,0.200608423252695,0.12525968379551383,All genome composition feature sets
+Aquareovirus E,100,FALSE,0.061683433107671166,0.2067894857391227,0.1291066472208446,All genome composition feature sets
+Aravan lyssavirus,100,TRUE,0.3906753107882215,0.8657387504473497,0.6721308552905074,All genome composition feature sets
+Arboretum almendravirus,100,FALSE,0.10388299010018762,0.3293820186942462,0.1844991949991502,All genome composition feature sets
+Ateline alphaherpesvirus 1,100,FALSE,0.07749023543585856,0.33109150410938315,0.18522987005391625,All genome composition feature sets
+Aura virus,100,FALSE,0.47608221044362997,0.8701558925911146,0.680515558319916,All genome composition feature sets
+Avastrovirus 1,100,FALSE,0.15325054701691168,0.4768854551556983,0.28287804228696145,All genome composition feature sets
+Avastrovirus 3,100,FALSE,0.20066343073505993,0.5827508138811293,0.3595971699349296,All genome composition feature sets
+Avian avulavirus 1,100,TRUE,0.1383335954065235,0.4494067939178592,0.24878924617823156,All genome composition feature sets
+Avian avulavirus 11,100,FALSE,0.13004164137379834,0.39158016946341156,0.2209192361986732,All genome composition feature sets
+Avian avulavirus 2,100,FALSE,0.05150632805671912,0.1970977743799473,0.10834551787556189,All genome composition feature sets
+Avian avulavirus 3,100,FALSE,0.1323678988480631,0.452343362332935,0.2692961028102194,All genome composition feature sets
+Avian avulavirus 7,100,FALSE,0.17556276215465985,0.47804096112508654,0.30524850234491885,All genome composition feature sets
+Avian avulavirus 8,100,FALSE,0.09026453837105819,0.44552577671615534,0.23556008902467399,All genome composition feature sets
+Avian avulavirus 9,100,FALSE,0.08211474945358699,0.375002987767589,0.18955398030912116,All genome composition feature sets
+Avian coronavirus,100,FALSE,0.11115611241608568,0.3248111971069385,0.20818733075369344,All genome composition feature sets
+Avian leukosis virus,100,FALSE,0.10396905431251323,0.3062520234445635,0.19675244513287476,All genome composition feature sets
+Avihepatovirus A,100,FALSE,0.09298438310205967,0.3852694872551426,0.2073157486911556,All genome composition feature sets
+Avisivirus A,100,FALSE,0.11835233599321428,0.3994368328326875,0.2382665828291927,All genome composition feature sets
+Aydin virus,100,FALSE,0.07254683933439045,0.37647341502039144,0.20709281844570124,All genome composition feature sets
+Badu phasivirus,100,FALSE,0.08053753155729489,0.287560303524806,0.17495174486906004,All genome composition feature sets
+Bagaza virus,100,TRUE,0.26756856374751875,0.7889039367687205,0.4933823689863681,All genome composition feature sets
+Ball python nidovirus 1,100,FALSE,0.1876626816504951,0.5659987203301787,0.34466983389389605,All genome composition feature sets
+Banzi virus,100,TRUE,0.22125619865385662,0.5998090613875842,0.35790303467642537,All genome composition feature sets
+Barley yellow striate mosaic cytorhabdovirus,100,FALSE,0.10427800813556845,0.31137488932618057,0.19222029056343864,All genome composition feature sets
+Barmah Forest virus,100,TRUE,0.22497708429159827,0.5919809002968466,0.37526302104425013,All genome composition feature sets
+Barur ledantevirus,100,FALSE,0.130503503748757,0.3740327592881152,0.2459933347130927,All genome composition feature sets
+Bat coronavirus CDPHE15,100,FALSE,0.0821478745168962,0.2481701197715241,0.1498185608255741,All genome composition feature sets
+Bat coronavirus HKU10,100,FALSE,0.08899284546324077,0.3933456058917066,0.23541481739448494,All genome composition feature sets
+Bayou orthohantavirus,100,TRUE,0.1733552741941003,0.5931974118112092,0.3664759463194795,All genome composition feature sets
+Bebaru virus,100,TRUE,0.328734188149565,0.8215478538254142,0.5670465169252685,All genome composition feature sets
+Beluga whale coronavirus SW1,100,FALSE,0.125207276121432,0.3463051789079802,0.23176856283926922,All genome composition feature sets
+Berrimah ephemerovirus,100,FALSE,0.058919664692117846,0.19194857486742284,0.11922991371934615,All genome composition feature sets
+Bertioga orthobunyavirus,100,FALSE,0.21413305660366377,0.6651661293724087,0.40370000940813455,All genome composition feature sets
+Betacoronavirus 1,100,TRUE,0.19677401981505518,0.6208462920916952,0.38215939506630786,All genome composition feature sets
+Betapapillomavirus 2,100,TRUE,0.5062858462709844,0.9644486072563941,0.8016462682542862,All genome composition feature sets
+Betapapillomavirus 3,100,TRUE,0.5565839642644703,0.9744063328954586,0.8067187245920557,All genome composition feature sets
+Betapapillomavirus 4,100,TRUE,0.46101543693725855,0.9078715276373259,0.6792539896714102,All genome composition feature sets
+Betapapillomavirus 5,100,TRUE,0.3696948688244054,0.9303089264056579,0.6669508171606958,All genome composition feature sets
+Bokeloh bat lyssavirus,100,TRUE,0.42175379126651125,0.92466221981903,0.7315364882023124,All genome composition feature sets
+Bos taurus polyomavirus 1,100,FALSE,0.19551067905106456,0.6597974248453424,0.40379768342568895,All genome composition feature sets
+Bouboui virus,100,TRUE,0.16396909542412583,0.5140747368375049,0.3170299171862657,All genome composition feature sets
+Bovine alphaherpesvirus 1,100,FALSE,0.0903759572142758,0.31113669914157543,0.18184831906125454,All genome composition feature sets
+Bovine atadenovirus D,100,FALSE,0.12073303080060913,0.46590373003990926,0.28944212876101505,All genome composition feature sets
+Bovine fever ephemerovirus,100,FALSE,0.10428671134546023,0.3068947367736795,0.19528894165768576,All genome composition feature sets
+Bovine immunodeficiency virus,100,FALSE,0.1046230251461647,0.4486515715261022,0.245137973604731,All genome composition feature sets
+Bovine leukemia virus,100,FALSE,0.21923195230231085,0.5707867407006235,0.3709242387203626,All genome composition feature sets
+Bovine mastadenovirus A,100,FALSE,0.07120257489422374,0.26692544310884925,0.15095307991240206,All genome composition feature sets
+Bovine mastadenovirus B,100,FALSE,0.11518588290115976,0.366060434577024,0.22766001827499283,All genome composition feature sets
+Bovine mastadenovirus C,100,FALSE,0.21999104976760342,0.6855726711076652,0.3967574503908704,All genome composition feature sets
+Bovine orthopneumovirus,100,FALSE,0.281378224618327,0.8903828505368822,0.562395186832826,All genome composition feature sets
+Bovine respirovirus 3,100,FALSE,0.15693483323288815,0.5710506014969816,0.3201734602548404,All genome composition feature sets
+Bovine rhinitis A virus,100,FALSE,0.11095370252911468,0.36718680678986576,0.21919783447103267,All genome composition feature sets
+Bovine rhinitis B virus,100,FALSE,0.11696319195655583,0.4365882768851451,0.2359081146208402,All genome composition feature sets
+Bovine viral diarrhea virus 1,100,TRUE,0.0434466504241938,0.18868739962859776,0.10434762043626417,All genome composition feature sets
+Bovine viral diarrhea virus 2,100,FALSE,0.07027584046243848,0.41147574431037903,0.22890369552121534,All genome composition feature sets
+Bowe orthohantavirus,100,FALSE,0.14762758435626136,0.48631205448308057,0.30759845717897183,All genome composition feature sets
+Bubaline alphaherpesvirus 1,100,FALSE,0.07861849919547792,0.2591068841814317,0.15284289487407068,All genome composition feature sets
+Bujaru phlebovirus,100,FALSE,0.42412990897927455,0.8931869233863945,0.6511448428726372,All genome composition feature sets
+Bulbul coronavirus HKU11,100,FALSE,0.07470666686625643,0.2455288508607945,0.15612903485838867,All genome composition feature sets
+Bundibugyo ebolavirus,100,TRUE,0.323181614528657,0.8404774059166829,0.5804060623098402,All genome composition feature sets
+Bunyamwera orthobunyavirus,100,TRUE,0.16949893345475747,0.6120168027456949,0.34432417389999864,All genome composition feature sets
+Burana orthonairovirus,100,FALSE,0.2365961062584231,0.6271370322372273,0.39385593763059573,All genome composition feature sets
+Bwamba orthobunyavirus,100,TRUE,0.2378219943293436,0.7060581496455929,0.4564494881803178,All genome composition feature sets
+Cacipacore virus,100,TRUE,0.24097370005213808,0.75861729078193,0.4921447069563093,All genome composition feature sets
+Camelpox virus,100,FALSE,0.1250369046680982,0.5600576084243851,0.33216741963386065,All genome composition feature sets
+Candiru phlebovirus,100,TRUE,0.23395176265569118,0.7678291365992164,0.4370525493970116,All genome composition feature sets
+Canid alphaherpesvirus 1,100,FALSE,0.1183119160152326,0.4437296819120346,0.2309370621980904,All genome composition feature sets
+Canine morbillivirus,100,TRUE,0.154282127599787,0.5473959296637758,0.31639550199425087,All genome composition feature sets
+Cano Delgadito orthohantavirus,100,FALSE,0.17867608595937673,0.5349899721791491,0.3134129699983198,All genome composition feature sets
+Capim orthobunyavirus,100,FALSE,0.3527573720604027,0.8372236676909471,0.5991400855493333,All genome composition feature sets
+Caprine arthritis encephalitis virus,100,FALSE,0.24702268616905465,0.7487275087887625,0.4608934970913574,All genome composition feature sets
+Cardiovirus A,100,TRUE,0.15633551041444682,0.5517972869855378,0.3086312847570631,All genome composition feature sets
+Cardiovirus B,100,TRUE,0.06828327561956862,0.22256464440638188,0.13809910274767642,All genome composition feature sets
+Cardiovirus C,100,FALSE,0.19643657539272355,0.551674697461439,0.345358526743427,All genome composition feature sets
+Carnivore amdoparvovirus 1,100,FALSE,0.21325295809621653,0.7008273814939803,0.4244221930783758,All genome composition feature sets
+Carnivore bocaparvovirus 1,100,FALSE,0.1094304414792029,0.42502996270088816,0.23459251650181204,All genome composition feature sets
+Carnivore protoparvovirus 1,100,FALSE,0.1484404547262378,0.5726969404634437,0.34098787812988574,All genome composition feature sets
+Carp sprivivirus,100,FALSE,0.08522740774622253,0.2964549173943194,0.1662710467119405,All genome composition feature sets
+Caviid betaherpesvirus 2,100,FALSE,0.09448249590163596,0.3331152819608642,0.19940275840066657,All genome composition feature sets
+Cedar henipavirus,100,FALSE,0.07733257410859118,0.28883556913569425,0.16409874910223124,All genome composition feature sets
+Cercopithecine alphaherpesvirus 9,100,FALSE,0.2690078137404086,0.7827601098271475,0.47623225690480786,All genome composition feature sets
+Cercopithecine betaherpesvirus 5,100,FALSE,0.20160474848043258,0.6082319277246937,0.36912783231641705,All genome composition feature sets
+Cervid alphaherpesvirus 1,100,FALSE,0.08976862793609106,0.2640123861135439,0.17061619008878512,All genome composition feature sets
+Cervid alphaherpesvirus 2,100,FALSE,0.14307151944201016,0.368176754431277,0.25051788842143413,All genome composition feature sets
+Cetacean morbillivirus,100,FALSE,0.09661416068709469,0.3569631332508809,0.20632736835935397,All genome composition feature sets
+Chandipura vesiculovirus,100,TRUE,0.11421410468313456,0.36288896101251544,0.2202835570698052,All genome composition feature sets
+Changuinola virus,100,TRUE,0.12048978544094668,0.5100641269564014,0.25611767190141915,All genome composition feature sets
+Chapare mammarenavirus,100,TRUE,0.1340339657520981,0.5432825715685327,0.303058202811724,All genome composition feature sets
+Chenuda virus,100,FALSE,0.09277522954959028,0.28971008661388514,0.18379141421685005,All genome composition feature sets
+Chikungunya virus,100,TRUE,0.5344787203951356,0.9559312484381356,0.7613176097338782,All genome composition feature sets
+Chilibre phlebovirus,100,FALSE,0.12670831968831217,0.4623430559031402,0.2640586151040601,All genome composition feature sets
+Chinook salmon nidovirus 1,100,FALSE,0.11418775006972166,0.38638190132080535,0.2490096614179007,All genome composition feature sets
+Chobar Gorge virus,100,FALSE,0.11866375940073814,0.42339890082927134,0.22499122389868115,All genome composition feature sets
+Choclo orthohantavirus,100,TRUE,0.10655663038958937,0.37025372152416136,0.22214180474731637,All genome composition feature sets
+Classical swine fever virus,100,FALSE,0.07987464659321059,0.30297135629954475,0.17421533184914983,All genome composition feature sets
+Cocal vesiculovirus,100,TRUE,0.11468999405488219,0.36140950982552655,0.21516327724774764,All genome composition feature sets
+Coffee ringspot dichorhavirus,100,FALSE,0.10071613436713617,0.36729788340242797,0.219676660220266,All genome composition feature sets
+Colocasia bobone disease-associated cytorhabdovirus,100,FALSE,0.0782216035899467,0.29226524569289786,0.17919635862526093,All genome composition feature sets
+Colorado tick fever virus,100,TRUE,0.07942219420384859,0.2630189232992878,0.1541168281142728,All genome composition feature sets
+Common moorhen coronavirus HKU21,100,FALSE,0.15606298470738678,0.5172127739092833,0.3058301573320051,All genome composition feature sets
+Coronavirus HKU15,100,FALSE,0.08157247145241281,0.251502770207257,0.1503891820912836,All genome composition feature sets
+Cosavirus B,100,TRUE,0.12191989942376194,0.4723403517842479,0.2987444757130823,All genome composition feature sets
+Cosavirus D,100,TRUE,0.16966692754134033,0.6357518159377171,0.38362409106874973,All genome composition feature sets
+Cowpox virus,100,TRUE,0.1123479665663275,0.49592682045756953,0.2875390890313098,All genome composition feature sets
+Crimean-Congo hemorrhagic fever orthonairovirus,100,TRUE,0.1380448940830385,0.6019397930507555,0.3384733499556784,All genome composition feature sets
+Cumuto goukovirus,100,FALSE,0.10866704251180814,0.3711255284939127,0.22839390301429102,All genome composition feature sets
+Cupixi mammarenavirus,100,FALSE,0.27706263140655873,0.757568223295005,0.5270379590048259,All genome composition feature sets
+Curionopolis curiovirus,100,FALSE,0.12132302259201547,0.45541595612618546,0.27596362846609596,All genome composition feature sets
+Cypovirus 1,100,FALSE,0.03969152638196437,0.22461285280303095,0.11794573066375809,All genome composition feature sets
+Cypovirus 14,100,FALSE,0.07949758471245855,0.27938139925564215,0.15575768770737156,All genome composition feature sets
+Cypovirus 15,100,FALSE,0.08340048030831201,0.3521618365218946,0.1936977661915127,All genome composition feature sets
+Cypovirus 2,100,FALSE,0.10410679817515836,0.3528275354257747,0.1955714906996315,All genome composition feature sets
+Cypovirus 5,100,FALSE,0.06713865609392325,0.2685859530122293,0.16149425565153935,All genome composition feature sets
+Dabieshan orthohantavirus,100,FALSE,0.08191162374553643,0.3341696785105974,0.19728140224099264,All genome composition feature sets
+DeBrazza’s monkey arterivirus,100,FALSE,0.04301951266680053,0.1538308303565932,0.08699078608220695,All genome composition feature sets
+Deltapapillomavirus 1,100,FALSE,0.05154668007454173,0.22705412797769864,0.121690837272666,All genome composition feature sets
+Deltapapillomavirus 2,100,FALSE,0.08741767621762281,0.3638688058620273,0.2124917791747325,All genome composition feature sets
+Deltapapillomavirus 3,100,FALSE,0.07488743388284072,0.26338795454588504,0.16350239584465406,All genome composition feature sets
+Deltapapillomavirus 4,100,FALSE,0.067777199497977475,0.29882766937798283,0.16209407047266114,All genome composition feature sets
+Dengue virus,100,TRUE,0.1686060714451208,0.5418861214388104,0.35147088081971956,All genome composition feature sets
+Dera Ghazi Khan orthonairovirus,100,FALSE,0.13829008094370054,0.4137018605148396,0.2431429269827784,All genome composition feature sets
+Dobrava-Belgrade orthohantavirus,100,TRUE,0.10940076001774773,0.4024396652690719,0.2265590715445918,All genome composition feature sets
+Drosophila affinis sigmavirus,100,FALSE,0.14828397943677268,0.4068213718758768,0.2550342360160819,All genome composition feature sets
+Drosophila ananassae sigmavirus,100,FALSE,0.10561680242116978,0.36529240752841985,0.21549347492362156,All genome composition feature sets
+Drosophila immigrans sigmavirus,100,FALSE,0.17399904505296848,0.6059097345530747,0.35657400173798937,All genome composition feature sets
+Drosophila obscura sigmavirus,100,FALSE,0.12422156197735909,0.3995177180164795,0.23306132139049057,All genome composition feature sets
+Drosophila X virus,100,FALSE,0.13106519656722604,0.41784611813018024,0.252073169308364,All genome composition feature sets
+Duck picornavirus GL/12,100,FALSE,0.14854838472811116,0.46139614360744996,0.29276905278920984,All genome composition feature sets
+Dugbe orthonairovirus,100,TRUE,0.13533169926289995,0.42428327205298877,0.2766875946931846,All genome composition feature sets
+Durham tupavirus,100,FALSE,0.1193308383522649,0.4961938826525101,0.2691502090583303,All genome composition feature sets
+Duvenhage lyssavirus,100,TRUE,0.2932932217137234,0.8264455389459868,0.5288977925452846,All genome composition feature sets
+Eastern equine encephalitis virus,100,TRUE,0.20311446605683256,0.6783841266061252,0.3982082145034585,All genome composition feature sets
+Ectromelia virus,100,FALSE,0.16210667460835315,0.6305109270068989,0.34916284747358006,All genome composition feature sets
+Eggplant mottled dwarf nucleorhabdovirus,100,FALSE,0.11493914102468865,0.335282265397149,0.2044914798605675,All genome composition feature sets
+Eilat virus,100,FALSE,0.0637172574095451,0.23008045258653012,0.13988473081204555,All genome composition feature sets
+Ekpoma 1 tibrovirus,100,TRUE,0.12771868083558718,0.46920220174755967,0.2555233745162764,All genome composition feature sets
+Elapid 1 bornavirus,100,FALSE,0.10406426693654804,0.34991658509890855,0.22735369715896142,All genome composition feature sets
+Entebbe bat virus,100,FALSE,0.3938811697231508,0.8678656897397385,0.6340517172110682,All genome composition feature sets
+Enterovirus A,100,TRUE,0.13236658839414664,0.38616165307337436,0.250736753690429,All genome composition feature sets
+Enterovirus B,100,TRUE,0.2207029654483973,0.7135966877971672,0.4253623819408123,All genome composition feature sets
+Enterovirus C,100,TRUE,0.25056808990709656,0.8622556362646295,0.5213771824738815,All genome composition feature sets
+Enterovirus D,100,TRUE,0.19937917994979215,0.706478604803428,0.42350270970211995,All genome composition feature sets
+Enterovirus F,100,FALSE,0.19815953603623462,0.554578056886057,0.34352685530962196,All genome composition feature sets
+Enterovirus G,100,FALSE,0.1408341981015799,0.528466730247021,0.3163175895890929,All genome composition feature sets
+Enterovirus H,100,FALSE,0.2221528207988851,0.7563452338867207,0.4361321954305138,All genome composition feature sets
+Enterovirus I,100,FALSE,0.10829001187165113,0.3570155549802177,0.20988457411413014,All genome composition feature sets
+Enterovirus J,100,FALSE,0.31597307672158526,0.853476297060993,0.5466607064976247,All genome composition feature sets
+Epizootic hemorrhagic disease virus,100,FALSE,0.0743154597117732,0.35405469758670016,0.19473451800860214,All genome composition feature sets
+Epsilonpapillomavirus 1,100,FALSE,0.10478965397636299,0.46193529871218053,0.2586479974621404,All genome composition feature sets
+Equid alphaherpesvirus 1,100,FALSE,0.09794528239443714,0.3896196232458007,0.21962702055487862,All genome composition feature sets
+Equid alphaherpesvirus 8,100,FALSE,0.07288523618845993,0.3056832614069561,0.17360090369313236,All genome composition feature sets
+Equid alphaherpesvirus 9,100,FALSE,0.07822186512128179,0.3850401144787945,0.19361559031830364,All genome composition feature sets
+Equid gammaherpesvirus 2,100,FALSE,0.15513369558825352,0.45496849586405824,0.28280244192364057,All genome composition feature sets
+Equid gammaherpesvirus 5,100,FALSE,0.10746098005883324,0.40254558739691215,0.24256070163782636,All genome composition feature sets
+Equine arteritis virus,100,FALSE,0.0806339729891489,0.26665143013817016,0.1737264557902783,All genome composition feature sets
+Equine encephalosis virus,100,FALSE,0.1221143471181741,0.5565774299994498,0.310816520337407,All genome composition feature sets
+Equine foamy virus,100,FALSE,0.1846635278045687,0.5721559203486015,0.34887381234540765,All genome composition feature sets
+Equine mastadenovirus A,100,FALSE,0.3018443920911893,0.8430602632976321,0.5636853035875932,All genome composition feature sets
+Equine rhinitis A virus,100,FALSE,0.08213285710735645,0.28763033648152314,0.18868860608255966,All genome composition feature sets
+Equine torovirus,100,FALSE,0.12316106843832143,0.32607415142220986,0.2032260566152048,All genome composition feature sets
+Erbovirus A,100,FALSE,0.04601649552541866,0.18458066619661267,0.11015316119925112,All genome composition feature sets
+Eriocheir sinensis reovirus,100,FALSE,0.1009365921873743,0.37913762503799664,0.22200394219656397,All genome composition feature sets
+Estero Real orthobunyavirus,100,FALSE,0.09135930564984797,0.3966143230979841,0.2173924066303277,All genome composition feature sets
+Eubenangee virus,100,FALSE,0.09755972961785361,0.32504367097897924,0.19293942418812046,All genome composition feature sets
+European bat 1 lyssavirus,100,TRUE,0.2664153974710426,0.804975631602592,0.537236844695025,All genome composition feature sets
+European brown hare syndrome virus,100,FALSE,0.09559302253300749,0.3758794662954732,0.20162087508543122,All genome composition feature sets
+Everglades virus,100,TRUE,0.2603546953940453,0.749960686877164,0.5116064316637844,All genome composition feature sets
+Eyach virus,100,FALSE,0.0982544205140474,0.42362487995955794,0.24759099707221238,All genome composition feature sets
+Felid alphaherpesvirus 1,100,FALSE,0.07070580777363417,0.30540243864616967,0.18465144801440891,All genome composition feature sets
+Feline calicivirus,100,FALSE,0.07015616293551885,0.21413533071795074,0.14389826139328835,All genome composition feature sets
+Feline foamy virus,100,FALSE,0.12460358757115648,0.4579241806976069,0.24216251788082785,All genome composition feature sets
+Feline immunodeficiency virus,100,FALSE,0.1331505869471661,0.4942947279811298,0.280272008373966,All genome composition feature sets
+Feline morbillivirus,100,FALSE,0.030324708193728026,0.21752547777005685,0.12076484856160509,All genome composition feature sets
+Fiji disease virus,100,FALSE,0.06750933145552067,0.27868327007863053,0.151834435601086,All genome composition feature sets
+Flanders hapavirus,100,FALSE,0.04388943396104923,0.17247773916870066,0.10773254206525053,All genome composition feature sets
+Flexal mammarenavirus,100,TRUE,0.15160453276940916,0.5242766200650775,0.318028631923106,All genome composition feature sets
+Foot-and-mouth disease virus,100,TRUE,0.09044171680068623,0.26534857412371504,0.16726338326166387,All genome composition feature sets
+Fort Morgan virus,100,FALSE,0.39863461340632783,0.8710499055678613,0.6564173301765351,All genome composition feature sets
+Free State vervet virus,100,FALSE,0.05971483816575343,0.22468643927648585,0.1361149952401913,All genome composition feature sets
+Frijoles phlebovirus,100,FALSE,0.2976580596322545,0.6996619863819851,0.4920019475295326,All genome composition feature sets
+Fugong orthohantavirus,100,FALSE,0.1695528985211645,0.47781328104296206,0.28378219717290143,All genome composition feature sets
+Fukuoka ledantevirus,100,FALSE,0.08563749828746434,0.28078191133197633,0.1768148838700583,All genome composition feature sets
+Fusong orthohantavirus,100,FALSE,0.17791014169568486,0.6144558967241947,0.38251432695098053,All genome composition feature sets
+Gadgets Gully virus,100,FALSE,0.26958522058438805,0.757142244296414,0.524013928721481,All genome composition feature sets
+Gairo mammarenavirus,100,FALSE,0.12829171283067387,0.4404586422049838,0.2520277048523575,All genome composition feature sets
+Gallivirus A,100,FALSE,0.10453649255265073,0.3211080233814383,0.20047578561834087,All genome composition feature sets
+Gamboa orthobunyavirus,100,FALSE,0.20392688557555627,0.6177115448988586,0.3659784030031673,All genome composition feature sets
+Gammapapillomavirus 4,100,TRUE,0.31730282379792635,0.8092369964175631,0.5785633212970215,All genome composition feature sets
+Gammapapillomavirus 5,100,TRUE,0.2251577617864034,0.6871763321790167,0.4299960171709726,All genome composition feature sets
+Getah virus,100,TRUE,0.3881171834568784,0.8835413708420945,0.6298302774997182,All genome composition feature sets
+Ghanaian bat henipavirus,100,FALSE,0.17290600280910504,0.66040150485146,0.36507145978029554,All genome composition feature sets
+Gibbon ape leukemia virus,100,FALSE,0.1687761440870662,0.49957845193760486,0.2898913860410247,All genome composition feature sets
+Gouleako goukovirus,100,FALSE,0.08161326414917418,0.4132906455189055,0.21218400049830533,All genome composition feature sets
+Ground squirrel hepatitis virus,100,FALSE,0.14620319019167116,0.45535205285245617,0.2724794063229294,All genome composition feature sets
+Guama orthobunyavirus,100,TRUE,0.237160162470537,0.6633219181422649,0.4157099745636345,All genome composition feature sets
+Guanarito mammarenavirus,100,TRUE,0.06808984854758213,0.256254887534231,0.1648917679150794,All genome composition feature sets
+Guaroa orthobunyavirus,100,TRUE,0.18497288900974587,0.5665509037001029,0.3255100914798751,All genome composition feature sets
+Hantaan orthohantavirus,100,TRUE,0.11812260981219871,0.38564758811623956,0.22462700782699824,All genome composition feature sets
+Hart Park hapavirus,100,FALSE,0.04635302808959971,0.1703328652129404,0.10442266478689517,All genome composition feature sets
+Hazara orthonairovirus,100,FALSE,0.14944860770126583,0.5037639771933802,0.29369225335630056,All genome composition feature sets
+Hedgehog coronavirus 1,100,FALSE,0.18408242651385154,0.49505530709884366,0.32867012323907674,All genome composition feature sets
+Hendra henipavirus,100,TRUE,0.09077921832016853,0.29748707042497186,0.17324684480050853,All genome composition feature sets
+Hepacivirus A,100,FALSE,0.050862574102465904,0.22164069444876527,0.13002446951496097,All genome composition feature sets
+Hepacivirus B,100,FALSE,0.05679311529845979,0.2707184766450206,0.14970604388558453,All genome composition feature sets
+Hepacivirus D,100,FALSE,0.051880424670539216,0.2518631020541388,0.1430336077437347,All genome composition feature sets
+Hepacivirus E,100,FALSE,0.17586092218521088,0.47070051416052094,0.2924610227813321,All genome composition feature sets
+Hepacivirus H,100,FALSE,0.11983349738831017,0.4314607521629287,0.23688860284512897,All genome composition feature sets
+Hepacivirus I,100,FALSE,0.04415219900890396,0.22618201554313977,0.11497411226721824,All genome composition feature sets
+Hepacivirus J,100,FALSE,0.06811954587626892,0.2965097008596037,0.15410128150834881,All genome composition feature sets
+Hepacivirus K,100,FALSE,0.2265162961152489,0.6800765496700889,0.38425133225316177,All genome composition feature sets
+Hepacivirus L,100,FALSE,0.11872604329725184,0.4186009403710962,0.2410349381688548,All genome composition feature sets
+Hepacivirus M,100,FALSE,0.04456285630102213,0.17700445680299995,0.10560039031755533,All genome composition feature sets
+Hepacivirus N,100,FALSE,0.0446240474711878,0.1729750196472869,0.10786769591287187,All genome composition feature sets
+Hepatovirus A,100,TRUE,0.058844120647683504,0.2639011035930786,0.1499660497639484,All genome composition feature sets
+Hepatovirus C,100,FALSE,0.06236421009262397,0.2636596007014136,0.15106459892891974,All genome composition feature sets
+Hepatovirus F,100,FALSE,0.16389199955556683,0.4880797391289082,0.3006955146339021,All genome composition feature sets
+Hepatovirus G,100,FALSE,0.13761039887157478,0.5065237550281302,0.3108478843674982,All genome composition feature sets
+Hepatovirus H,100,FALSE,0.07178606181027382,0.3325362479358378,0.17538761228808042,All genome composition feature sets
+Hepatovirus I,100,FALSE,0.09970076540481923,0.41908046483337424,0.23950881556490736,All genome composition feature sets
+Herbert herbevirus,100,FALSE,0.10638487117349146,0.35923246670508446,0.20897171906532636,All genome composition feature sets
+Hirame novirhabdovirus,100,FALSE,0.10038896821559382,0.33586937886206325,0.20180976334170236,All genome composition feature sets
+Hughes orthonairovirus,100,FALSE,0.1545074467096732,0.6273290149252335,0.30983252835668695,All genome composition feature sets
+Human alphaherpesvirus 2,100,TRUE,0.12287703916457954,0.5112263235532426,0.30993962602424635,All genome composition feature sets
+Human alphaherpesvirus 3,100,TRUE,0.13598032334404161,0.44029950644561955,0.2724408658083183,All genome composition feature sets
+Human betaherpesvirus 5,100,TRUE,0.23590429378430333,0.7188687199995412,0.4102049441635583,All genome composition feature sets
+Human betaherpesvirus 7,100,TRUE,0.06140435261859099,0.3293125343962582,0.17566133867723224,All genome composition feature sets
+Human coronavirus 229E,100,TRUE,0.13912469652768436,0.44025256929799617,0.26789506673909963,All genome composition feature sets
+Human coronavirus NL63,100,TRUE,0.10886951138859785,0.3947314422562734,0.23352307295748093,All genome composition feature sets
+Human gammaherpesvirus 4,100,TRUE,0.17403170546385746,0.7159625135018445,0.3783771100587001,All genome composition feature sets
+Human immunodeficiency virus 1,100,TRUE,0.2598480785117695,0.7503399047692205,0.4953615254805813,All genome composition feature sets
+Human mastadenovirus A,100,TRUE,0.20863905919289044,0.6344770294090438,0.40669818730295537,All genome composition feature sets
+Human mastadenovirus B,100,TRUE,0.1350884919551948,0.4526121173035349,0.2743848332230556,All genome composition feature sets
+Human mastadenovirus D,100,TRUE,0.42173260974456983,0.853739082959843,0.6423534293779319,All genome composition feature sets
+Human mastadenovirus F,100,TRUE,0.07062741923822967,0.2802992360329049,0.1737262641628638,All genome composition feature sets
+Human metapneumovirus,100,TRUE,0.1926586302304878,0.7457285357374683,0.3984393019374679,All genome composition feature sets
+Human orthopneumovirus,100,TRUE,0.2431592524386721,0.7114588600632774,0.44218599665068803,All genome composition feature sets
+Human polyomavirus 2,100,TRUE,0.17346748804557047,0.5949086029433427,0.36605584670516556,All genome composition feature sets
+Human respirovirus 1,100,TRUE,0.15339783999572007,0.6087415029888685,0.35259505879677,All genome composition feature sets
+Human rubulavirus 2,100,TRUE,0.12333075548411616,0.3656564036714641,0.2309315492431507,All genome composition feature sets
+Human rubulavirus 4,100,TRUE,0.11726520840508015,0.3821523810304121,0.22954987093499737,All genome composition feature sets
+Ikoma lyssavirus,100,TRUE,0.19754173367556507,0.6207570799341604,0.40243732312165637,All genome composition feature sets
+Imjin orthohantavirus,100,FALSE,0.113173737802368,0.3773245295118282,0.24143872188022694,All genome composition feature sets
+Infectious bursal disease virus,100,FALSE,0.045015671335729826,0.23712249377838507,0.12157825119799034,All genome composition feature sets
+Infectious salmon anemia virus,100,FALSE,0.06682122133611626,0.26546649343927686,0.16401342063953384,All genome composition feature sets
+Influenza A virus,100,TRUE,0.26043999640438015,0.7086816414981258,0.4686817903913225,All genome composition feature sets
+Iotapapillomavirus 1,100,FALSE,0.1245614171414303,0.4687230682779273,0.2582007305748435,All genome composition feature sets
+Ippy mammarenavirus,100,FALSE,0.2604052327419163,0.7351706816281964,0.43690829819273014,All genome composition feature sets
+Iriri curiovirus,100,FALSE,0.1759142964866392,0.5970867885989615,0.33214771003579036,All genome composition feature sets
+Irkut lyssavirus,100,TRUE,0.47797048883092,0.922760845189981,0.7578707844888356,All genome composition feature sets
+Israel turkey meningoencephalomyelitis virus,100,FALSE,0.5482952995766497,0.9340433126363288,0.7510425361563965,All genome composition feature sets
+Itacaiunas curiovirus,100,FALSE,0.1341426989217317,0.43772055235558166,0.28329520385803486,All genome composition feature sets
+Jeju orthohantavirus,100,FALSE,0.16751359896884246,0.5084332656164621,0.29183458203850005,All genome composition feature sets
+Jembrana disease virus,100,FALSE,0.16918424325427894,0.5990077979606954,0.34507478745383596,All genome composition feature sets
+Joinjakaka hapavirus,100,FALSE,0.07203020308413371,0.23049825928365816,0.1405374438416636,All genome composition feature sets
+Jonchet orthojonvirus,100,FALSE,0.06456375287525723,0.2991525157685526,0.15917395643838397,All genome composition feature sets
+Jugra virus,100,FALSE,0.23699569425619285,0.7472128152683494,0.5008096826625688,All genome composition feature sets
+Junín mammarenavirus,100,TRUE,0.25749163070966585,0.6336107209364776,0.4261071405981847,All genome composition feature sets
+Jurona vesiculovirus,100,TRUE,0.17426447302245798,0.5559638662168944,0.3348716353052159,All genome composition feature sets
+Jutiapa virus,100,FALSE,0.15886653446963517,0.5303029377148726,0.32154326532098015,All genome composition feature sets
+Kairi orthobunyavirus,100,FALSE,0.1775535632082797,0.4863641529806206,0.30828447355024535,All genome composition feature sets
+Kappapapillomavirus 1,100,FALSE,0.2764971287966204,0.6720369963357188,0.47255185661195503,All genome composition feature sets
+Kern Canyon ledantevirus,100,FALSE,0.1618959768888829,0.45828504268903136,0.3068372566895886,All genome composition feature sets
+Keterah orthonairovirus,100,FALSE,0.10374509935368612,0.3486070414525624,0.21639572227728815,All genome composition feature sets
+Keuraliba ledantevirus,100,FALSE,0.14003059447314548,0.37849604838105166,0.24117836339596083,All genome composition feature sets
+Khabarovsk orthohantavirus,100,FALSE,0.1493077554614248,0.5422112445724352,0.32438581406354705,All genome composition feature sets
+Khujand lyssavirus,100,TRUE,0.5063534836814294,0.9011221913363274,0.7214683076513266,All genome composition feature sets
+Kibale red colobus virus 1,100,FALSE,0.04619857266851113,0.16494823781774245,0.09161340967364809,All genome composition feature sets
+Kibale red colobus virus 2,100,FALSE,0.051222136871100506,0.17966066079342347,0.10537093053759837,All genome composition feature sets
+Kibale red-tailed guenon virus 1,100,FALSE,0.05638756075626156,0.21459848029886536,0.13028621845015498,All genome composition feature sets
+Kimberley ephemerovirus,100,FALSE,0.10919461633252223,0.33340568648268465,0.21293507148367102,All genome composition feature sets
+Klamath tupavirus,100,FALSE,0.2457983059540117,0.6767751288200623,0.42237120899368175,All genome composition feature sets
+Koala retrovirus,100,FALSE,0.058592366845917926,0.2740149368167156,0.14618530502400645,All genome composition feature sets
+Kokobera virus,100,TRUE,0.1741555743120069,0.5870740809685588,0.3689338935468581,All genome composition feature sets
+Koolpinyah ephemerovirus,100,FALSE,0.07249998671404204,0.2725758941092179,0.1592987299321024,All genome composition feature sets
+Kotonkan ephemerovirus,100,FALSE,0.05915806252139559,0.25276135099793573,0.13855221420738303,All genome composition feature sets
+Koutango virus,100,TRUE,0.4525424605876349,0.9191583588580299,0.7171193848414511,All genome composition feature sets
+Kyasanur Forest disease virus,100,TRUE,0.2641601008147417,0.8103132878768008,0.49993499280602915,All genome composition feature sets
+Lagos bat lyssavirus,100,TRUE,0.4552375200760769,0.9128807156129066,0.6888965056281189,All genome composition feature sets
+Laibin orthohantavirus,100,FALSE,0.15645057825658934,0.4606754507705037,0.27755612680867026,All genome composition feature sets
+Lambdapapillomavirus 1,100,FALSE,0.07545918661874065,0.26272010615648683,0.15357233511681118,All genome composition feature sets
+Lambdapapillomavirus 2,100,FALSE,0.13225646760501036,0.5203333190616775,0.3053709710084479,All genome composition feature sets
+Landjia hapavirus,100,FALSE,0.08362146250833838,0.2911741340795939,0.16549391225980237,All genome composition feature sets
+Langat virus,100,TRUE,0.26838779904604393,0.7686769673005778,0.4921856536271044,All genome composition feature sets
+Latino mammarenavirus,100,FALSE,0.16724239481184516,0.6164111439951058,0.347002515763109,All genome composition feature sets
+Le Dantec ledantevirus,100,FALSE,0.08508471493358992,0.31527247273189,0.17837340862322876,All genome composition feature sets
+Lettuce necrotic yellows cytorhabdovirus,100,FALSE,0.06153452101602115,0.2530096070934596,0.13509083511056805,All genome composition feature sets
+Lettuce yellow mottle cytorhabdovirus,100,FALSE,0.06728849349003216,0.2239679339196022,0.13306833479877261,All genome composition feature sets
+Liao ning virus,100,FALSE,0.07554848503030512,0.30915204982079614,0.1952690989067038,All genome composition feature sets
+Limnipivirus B,100,FALSE,0.05569959884704059,0.2171850692455199,0.13716249160560587,All genome composition feature sets
+Limnipivirus C,100,FALSE,0.06383057626183675,0.3067586935012163,0.1573754948048392,All genome composition feature sets
+Lloviu cuevavirus,100,FALSE,0.30724263481398195,0.7527182558280314,0.5085522195812221,All genome composition feature sets
+Loei River mammarenavirus,100,FALSE,0.18549438402747637,0.5370169750206539,0.3303385794505166,All genome composition feature sets
+Louping ill virus,100,TRUE,0.27452241799323995,0.7433898474394229,0.5205216252342594,All genome composition feature sets
+Lujo mammarenavirus,100,TRUE,0.09634491996372063,0.4789729434431955,0.2553292192180419,All genome composition feature sets
+Luna mammarenavirus,100,FALSE,0.15453553712416584,0.4702770561593965,0.30601502894241556,All genome composition feature sets
+Luxi orthohantavirus,100,FALSE,0.10039755014547608,0.33603277487201477,0.2130896401539075,All genome composition feature sets
+Lymphocytic choriomeningitis mammarenavirus,100,TRUE,0.1583990524661923,0.5143028128243037,0.30243470673200923,All genome composition feature sets
+Macaca mulatta polyomavirus 1,100,TRUE,0.17527993841874895,0.5085539097984328,0.3184165746187328,All genome composition feature sets
+Macacine alphaherpesvirus 1,100,TRUE,0.08068235301572713,0.2517951116980106,0.16504399249330357,All genome composition feature sets
+Macacine gammaherpesvirus 4,100,FALSE,0.20628404937258898,0.7758345548878841,0.48348872201920223,All genome composition feature sets
+Macacine gammaherpesvirus 5,100,FALSE,0.18887895383617992,0.6197770621942743,0.37328478510104246,All genome composition feature sets
+Macaque simian foamy virus,100,TRUE,0.19246661870970339,0.6215475685625222,0.36346618308357315,All genome composition feature sets
+Machupo mammarenavirus,100,TRUE,0.25291453664090924,0.7922081078885534,0.4846487039453338,All genome composition feature sets
+Madrid orthobunyavirus,100,TRUE,0.19081173599670287,0.5934829033693134,0.38558094845855023,All genome composition feature sets
+Maize stripe tenuivirus,100,FALSE,0.07280365965095772,0.28416929922104706,0.1613497949257854,All genome composition feature sets
+Mal de Rio Cuarto virus,100,FALSE,0.05393159070859878,0.2736313689717247,0.14342638394521526,All genome composition feature sets
+Mamastrovirus 1,100,TRUE,0.22007919610686352,0.7735274998622539,0.45409294018239704,All genome composition feature sets
+Mamastrovirus 10,100,FALSE,0.10836682232293954,0.3193643600436272,0.20133666777137316,All genome composition feature sets
+Mamastrovirus 5,100,FALSE,0.20849152086888406,0.5810206949017211,0.34545596441165305,All genome composition feature sets
+Mamastrovirus 8,100,TRUE,0.1764254659744096,0.5986636814785178,0.35825495224649273,All genome composition feature sets
+Mammalian 1 bornavirus,100,TRUE,0.1073274809766177,0.38654596396354335,0.23078496652449457,All genome composition feature sets
+Mammalian 2 bornavirus,100,TRUE,0.10809769408798431,0.4380435956819776,0.248305130840863,All genome composition feature sets
+Manitoba hapavirus,100,FALSE,0.03202786062970993,0.1615293691968358,0.08447423119151196,All genome composition feature sets
+Maraba vesiculovirus,100,FALSE,0.09319176756397488,0.3720446562816728,0.2245691371602228,All genome composition feature sets
+Marburg marburgvirus,100,TRUE,0.16768791959633106,0.5123764123476701,0.31592755812868023,All genome composition feature sets
+Marco hapavirus,100,FALSE,0.11687772206290402,0.4553942949788558,0.24200041006859782,All genome composition feature sets
+Marituba orthobunyavirus,100,TRUE,0.18791632680345552,0.6699907088606087,0.36012038528551316,All genome composition feature sets
+Mayaro virus,100,TRUE,0.38411900575175917,0.9267186342188585,0.6907381401017458,All genome composition feature sets
+Measles morbillivirus,100,TRUE,0.06658584003020282,0.2675590340760016,0.1461580090541318,All genome composition feature sets
+Menangle rubulavirus,100,TRUE,0.09153873904500867,0.2728647390980973,0.17039220289274098,All genome composition feature sets
+Merino Walk mammarenavirus,100,FALSE,0.18711569718238705,0.5757207002359397,0.34437840705975115,All genome composition feature sets
+Micromonas pusilla reovirus,100,FALSE,0.12513665770474594,0.45183252336059043,0.24459125232567944,All genome composition feature sets
+Middelburg virus,100,FALSE,0.29400738745809935,0.7868623418183818,0.542863354454829,All genome composition feature sets
+Middle East respiratory syndrome-related coronavirus,100,TRUE,0.11065875171202959,0.3296156908768257,0.2110430121200974,All genome composition feature sets
+Mikumi yellow baboon virus 1,100,FALSE,0.07846853187735343,0.25417291998328057,0.16367305875338484,All genome composition feature sets
+Miniopterus bat coronavirus HKU8,100,FALSE,0.06828006041215984,0.2116661099963723,0.13917366990907604,All genome composition feature sets
+Mink coronavirus 1,100,FALSE,0.1319164039789007,0.48729545094963284,0.29355152217460573,All genome composition feature sets
+Mischivirus C,100,FALSE,0.11070572987587302,0.3401910497004769,0.21706311135433057,All genome composition feature sets
+Modoc virus,100,FALSE,0.10743236783114568,0.35194148719419616,0.2139245671626841,All genome composition feature sets
+Mojiang henipavirus,100,FALSE,0.08490369214896978,0.29444909826491167,0.18162266434869928,All genome composition feature sets
+Mokola lyssavirus,100,TRUE,0.45224880695573233,0.9012632736407221,0.6878971760896424,All genome composition feature sets
+Molluscum contagiosum virus,100,TRUE,0.1274606971082392,0.43400210412263857,0.27612851788551673,All genome composition feature sets
+Monkeypox virus,100,TRUE,0.0738080126015718,0.36668432513428506,0.21836694594178907,All genome composition feature sets
+Montana myotis leukoencephalitis virus,100,FALSE,0.12390778776119529,0.5550744227022706,0.3244210906314832,All genome composition feature sets
+Montano orthohantavirus,100,FALSE,0.12116250497878271,0.4363807838443676,0.23349015224021902,All genome composition feature sets
+Mopeia mammarenavirus,100,FALSE,0.2769432361634237,0.7043985551778447,0.48317697295975903,All genome composition feature sets
+Morreton vesiculovirus,100,FALSE,0.28870050064419195,0.7616335341520042,0.49250581862517784,All genome composition feature sets
+Mosavirus A,100,FALSE,0.10900785317114581,0.4165683503364658,0.2536341199957479,All genome composition feature sets
+Mosqueiro hapavirus,100,FALSE,0.11601544478384038,0.3667623469891774,0.20934206025707128,All genome composition feature sets
+Mosso das Pedras virus,100,TRUE,0.37883472609910174,0.8715142770949371,0.6210712238510856,All genome composition feature sets
+Mount Elgon bat ledantevirus,100,FALSE,0.08402936061057803,0.29958726033243493,0.18094736977764328,All genome composition feature sets
+Mumps rubulavirus,100,TRUE,0.10378073427588892,0.376662449831741,0.2173012508492863,All genome composition feature sets
+Mupapillomavirus 1,100,TRUE,0.29534195616800063,0.8006282002244643,0.49454393877690944,All genome composition feature sets
+Mupapillomavirus 2,100,TRUE,0.45426802748988293,0.9513859249626531,0.7147770893621448,All genome composition feature sets
+Murid betaherpesvirus 1,100,FALSE,0.1137670564008623,0.3944228777204742,0.23796465033352815,All genome composition feature sets
+Murid betaherpesvirus 2,100,FALSE,0.16338572452326172,0.49759651095507473,0.2942701980660072,All genome composition feature sets
+Murid gammaherpesvirus 4,100,FALSE,0.0457476771373604,0.20759104780406162,0.11771801415892985,All genome composition feature sets
+Murine coronavirus,100,FALSE,0.11822132344889554,0.3761332589688964,0.21059723167814245,All genome composition feature sets
+Murine mastadenovirus A,100,FALSE,0.13459708018679054,0.3973299425962606,0.26363736685782607,All genome composition feature sets
+Murine mastadenovirus B,100,FALSE,0.10864056874182121,0.40542091239985245,0.24990382619645124,All genome composition feature sets
+Murine orthopneumovirus,100,FALSE,0.28042432915197774,0.7424207189948038,0.4990211551496885,All genome composition feature sets
+Murine respirovirus,100,FALSE,0.11088069510905363,0.3238056496172338,0.19372241544000685,All genome composition feature sets
+Mus musculus polyomavirus 1,100,FALSE,0.09937604189031116,0.40089165194876436,0.254981758892406,All genome composition feature sets
+Mus musculus polyomavirus 2,100,FALSE,0.13265809657631922,0.384623052522697,0.23829097536854674,All genome composition feature sets
+Mycoreovirus 3,100,FALSE,0.08718935663801733,0.2965102851015067,0.1788466798747991,All genome composition feature sets
+Myxoma virus,100,FALSE,0.07390879486466129,0.29650630909073944,0.17689716713533052,All genome composition feature sets
+Nairobi sheep disease orthonairovirus,100,FALSE,0.09935483472769563,0.4487059727173712,0.2356536460440816,All genome composition feature sets
+Ndumu virus,100,FALSE,0.4817268253061754,0.952089656993993,0.7495730996447256,All genome composition feature sets
+Nelson Bay orthoreovirus,100,TRUE,0.046133417878848566,0.2265145646490197,0.11846673348600814,All genome composition feature sets
+New Jersey vesiculovirus,100,TRUE,0.15972405152014144,0.46377639850988295,0.28349559076394604,All genome composition feature sets
+Newbury-1 virus,100,FALSE,0.11722298706356232,0.3281914526236541,0.2107281564675596,All genome composition feature sets
+Nipah henipavirus,100,TRUE,0.0932338850773457,0.3447754030703549,0.2083296783524582,All genome composition feature sets
+Nishimuro ledantevirus,100,FALSE,0.15211850970152163,0.48122249921401583,0.30293219157501267,All genome composition feature sets
+Nkolbisson ledantevirus,100,FALSE,0.08809384587531595,0.33613034962891275,0.1917860004977761,All genome composition feature sets
+Ntaya virus,100,TRUE,0.18490715806965596,0.6786753998604722,0.38978814344068546,All genome composition feature sets
+Obodhiang ephemerovirus,100,FALSE,0.05731988330970182,0.2612355768631341,0.13068749598129625,All genome composition feature sets
+Oita ledantevirus,100,FALSE,0.08194387616797494,0.37414460516706527,0.2127858645556679,All genome composition feature sets
+Okahandja mammarenavirus,100,FALSE,0.10351483913288964,0.4102864439418992,0.21927200115109155,All genome composition feature sets
+Omikronpapillomavirus 1,100,FALSE,0.15156076370861715,0.4790819210064766,0.29435667306417906,All genome composition feature sets
+Omsk hemorrhagic fever virus,100,TRUE,0.3748538517516613,0.8379628232736314,0.6214625470158974,All genome composition feature sets
+Orchid fleck dichorhavirus,100,FALSE,0.10456395184979733,0.32063736686652966,0.19372506608548387,All genome composition feature sets
+Orf virus,100,TRUE,0.19834200578983785,0.6057390150368023,0.3751876376121387,All genome composition feature sets
+Oriboca orthobunyavirus,100,TRUE,0.1890321538086682,0.6650279419517074,0.35997282665599895,All genome composition feature sets
+Oropouche orthobunyavirus,100,TRUE,0.28094781702158594,0.7308271662600254,0.4545720838807797,All genome composition feature sets
+Orthohepevirus A,100,TRUE,0.07716942682777136,0.2875467127599469,0.14971198104771918,All genome composition feature sets
+Orthohepevirus B,100,FALSE,0.10492550503838843,0.42981877225716325,0.25696074236973565,All genome composition feature sets
+Orthohepevirus D,100,FALSE,0.11937533617947321,0.39946801651685376,0.22532709059050363,All genome composition feature sets
+Oscivirus A,100,FALSE,0.04307080687373415,0.1891722881201132,0.11276826465827731,All genome composition feature sets
+Ovine atadenovirus D,100,FALSE,0.12133619185691989,0.3803792857652752,0.23259095461176657,All genome composition feature sets
+Ovine gammaherpesvirus 2,100,FALSE,0.11767574066081002,0.5546726286658501,0.3034862777678065,All genome composition feature sets
+Ovine mastadenovirus A,100,FALSE,0.09692912679606473,0.3312571433276873,0.20331114211654774,All genome composition feature sets
+Panine betaherpesvirus 2,100,FALSE,0.23010436110694,0.6133807420544857,0.3809655214312677,All genome composition feature sets
+Paraná mammarenavirus,100,FALSE,0.0956578225356392,0.3479670943224144,0.21526990939242008,All genome composition feature sets
+Parapoxvirus of red deer in New Zealand,100,FALSE,0.216991718945222,0.5749501618712671,0.36987331695076264,All genome composition feature sets
+Parechovirus A,100,TRUE,0.21398902817998844,0.6853833526295718,0.39274994931187857,All genome composition feature sets
+Parechovirus B,100,TRUE,0.10225385510591344,0.3269975392670057,0.1889572298657457,All genome composition feature sets
+Parechovirus D,100,FALSE,0.0873050000664047,0.3621182859297375,0.20074062612831528,All genome composition feature sets
+Parry Creek hapavirus,100,FALSE,0.03272671978468619,0.15145919027619634,0.08055933723067471,All genome composition feature sets
+Passeriform 1 bornavirus,100,FALSE,0.10353489910962932,0.3108780681502417,0.1934726583134614,All genome composition feature sets
+Passerivirus A,100,FALSE,0.117773462391136,0.4990914494764639,0.27245305916366835,All genome composition feature sets
+Patois orthobunyavirus,100,FALSE,0.15300078669530243,0.5451947086031211,0.3233877990790968,All genome composition feature sets
+Pebjah virus,100,FALSE,0.04366528033726169,0.1639308214332693,0.09697368055374252,All genome composition feature sets
+Pegivirus A,100,TRUE,0.08277126395091308,0.3505989439043671,0.19036978870417823,All genome composition feature sets
+Pegivirus B,100,FALSE,0.057569347791499796,0.24973113084047868,0.13328194457708492,All genome composition feature sets
+Pegivirus C,100,TRUE,0.23649900276438113,0.7334483206795827,0.4432111601860127,All genome composition feature sets
+Pegivirus D,100,FALSE,0.04503956747988423,0.20269755174434456,0.12054671543511607,All genome composition feature sets
+Pegivirus E,100,FALSE,0.027072015442091354,0.13022374563311398,0.07535822868812547,All genome composition feature sets
+Pegivirus F,100,FALSE,0.1418481058854098,0.43433599067110906,0.27460867884432955,All genome composition feature sets
+Pegivirus H,100,TRUE,0.07326287500098289,0.277186137425599,0.16204661223244665,All genome composition feature sets
+Pegivirus J,100,FALSE,0.09308818894733284,0.30516589986169884,0.16908317820104984,All genome composition feature sets
+Pegivirus K,100,FALSE,0.11594623272558766,0.35942857241932646,0.21077526302480415,All genome composition feature sets
+Perch perhabdovirus,100,FALSE,0.13711141924839565,0.4629134858614434,0.2937990624224679,All genome composition feature sets
+Phasi Charoen-like phasivirus,100,FALSE,0.14560350925563148,0.4672961488501813,0.29823467577471263,All genome composition feature sets
+Phnom Penh bat virus,100,FALSE,0.104403845052191,0.44431848427698406,0.24337581232303682,All genome composition feature sets
+Phocid alphaherpesvirus 1,100,FALSE,0.15527915294396533,0.5496479500592835,0.3112695859226902,All genome composition feature sets
+Phocine morbillivirus,100,FALSE,0.22006820545078876,0.6503802292514389,0.3871127008899966,All genome composition feature sets
+Pichindé mammarenavirus,100,FALSE,0.08665869096942841,0.3114250472593812,0.184478313754434,All genome composition feature sets
+Pike fry sprivivirus,100,FALSE,0.10685539565931354,0.32611250869059677,0.19907687306215394,All genome composition feature sets
+Pipapillomavirus 1,100,FALSE,0.193023444958419,0.5903932716874221,0.36268238150593823,All genome composition feature sets
+Pirital mammarenavirus,100,FALSE,0.14805376666881634,0.5332560770985246,0.2973736835847389,All genome composition feature sets
+Piscine orthoreovirus,100,FALSE,0.05200346931648599,0.19433934713841977,0.12325410562134138,All genome composition feature sets
+Porcine circovirus 2,100,FALSE,0.1447326190090862,0.4071005679605725,0.2686258494128854,All genome composition feature sets
+Porcine epidemic diarrhea virus,100,FALSE,0.05652307295254298,0.18994377833787796,0.10694896422965183,All genome composition feature sets
+Porcine mastadenovirus A,100,FALSE,0.1748574054083849,0.5669580311576405,0.3179230100022919,All genome composition feature sets
+Porcine mastadenovirus C,100,FALSE,0.1726686646517469,0.601090067423147,0.3322061478194666,All genome composition feature sets
+Porcine reproductive and respiratory syndrome virus 1,100,FALSE,0.05696628790846213,0.20036474238812507,0.12260375518619565,All genome composition feature sets
+Porcine reproductive and respiratory syndrome virus 2,100,FALSE,0.06264240488200555,0.19763353935188238,0.12515021750549654,All genome composition feature sets
+Porcine respirovirus 1,100,FALSE,0.1255656923034213,0.4842695841556575,0.25668158499766597,All genome composition feature sets
+Porcine rubulavirus,100,FALSE,0.2044401938394968,0.5750153365144118,0.35892605547979556,All genome composition feature sets
+Porcine torovirus,100,FALSE,0.06880015612562068,0.3133096210936359,0.19448782127454775,All genome composition feature sets
+Porcine type-C oncovirus,100,FALSE,0.07749111148928522,0.2711620978225331,0.162771970763492,All genome composition feature sets
+Potamipivirus A,100,FALSE,0.11439148156900225,0.419436434946999,0.24342782653606884,All genome composition feature sets
+Potato yellow dwarf nucleorhabdovirus,100,FALSE,0.08405912789062517,0.2787661074931697,0.17673194517486748,All genome composition feature sets
+Powassan virus,100,TRUE,0.2653081751209879,0.8052166956519669,0.49415326745624566,All genome composition feature sets
+Primate T-lymphotropic virus 1,100,TRUE,0.23099895646243407,0.8056113564011814,0.5082591038094648,All genome composition feature sets
+Primate T-lymphotropic virus 2,100,TRUE,0.16467497176531043,0.5323688943812752,0.3024074687100448,All genome composition feature sets
+Primate T-lymphotropic virus 3,100,TRUE,0.15924340181789515,0.5248082480492005,0.3343844768312542,All genome composition feature sets
+Pronghorn antelope pestivirus,100,FALSE,0.18019034284622334,0.5734220964985388,0.3461673069837976,All genome composition feature sets
+Pseudocowpox virus,100,TRUE,0.166049100479771,0.6412958707634024,0.3788603498984558,All genome composition feature sets
+Psittaciform 2 bornavirus,100,FALSE,0.06130779861675843,0.2829254369438009,0.15336332638149647,All genome composition feature sets
+Puerto Almendras almendravirus,100,FALSE,0.059929945138748976,0.21750420672371126,0.13361464533906203,All genome composition feature sets
+Puma lentivirus,100,FALSE,0.1261755314701164,0.49008524689716143,0.3070757822120801,All genome composition feature sets
+Puumala orthohantavirus,100,TRUE,0.24545095190110777,0.6918638350704172,0.405610930506007,All genome composition feature sets
+Quaranfil virus,100,TRUE,0.09214370347591533,0.409527250040733,0.21360980016406683,All genome composition feature sets
+Quezon orthohantavirus,100,FALSE,0.19885944384845222,0.644572362035227,0.3728262172151536,All genome composition feature sets
+Rabbit fibroma virus,100,FALSE,0.11852634894397662,0.39383725795110447,0.22614660349681867,All genome composition feature sets
+Rabovirus A,100,FALSE,0.13380615830213585,0.4097190410250616,0.2508812793975475,All genome composition feature sets
+Raccoonpox virus,100,FALSE,0.10326271798302858,0.3369802163465543,0.22832257784196305,All genome composition feature sets
+Radi vesiculovirus,100,FALSE,0.12367502150548415,0.36728600852455884,0.23483174819661853,All genome composition feature sets
+Rat arterivirus 1,100,FALSE,0.08362563071841966,0.2542100137048641,0.16122242938254233,All genome composition feature sets
+Reptile sunshinevirus 1,100,FALSE,0.08454986037647891,0.25804833121127635,0.1727758061328124,All genome composition feature sets
+Reptilian ferlavirus,100,FALSE,0.10188769481835452,0.35940637367250994,0.1988493129328578,All genome composition feature sets
+Reptilian orthoreovirus,100,FALSE,0.12125068851665913,0.38506340989438814,0.22433852387576275,All genome composition feature sets
+Reston ebolavirus,100,TRUE,0.27752840410352014,0.7758954497434085,0.49835704080754056,All genome composition feature sets
+Reticuloendotheliosis virus,100,FALSE,0.04847901152787085,0.2023620881408687,0.12138748291363316,All genome composition feature sets
+Rhinolophus bat coronavirus HKU2,100,FALSE,0.10954496514634204,0.33277743904909407,0.21925396852934295,All genome composition feature sets
+Rhinovirus A,100,TRUE,0.1933163391823764,0.5880845603528595,0.3674555554941031,All genome composition feature sets
+Rhinovirus C,100,TRUE,0.2478805016668015,0.7882984717066837,0.5134401436128059,All genome composition feature sets
+Rice black streaked dwarf virus,100,FALSE,0.08167484871787817,0.27233751788481825,0.17087794741296375,All genome composition feature sets
+Rice dwarf virus,100,FALSE,0.10675236040031977,0.4435123416534685,0.23340383217078411,All genome composition feature sets
+Rice gall dwarf virus,100,FALSE,0.07475339783465224,0.2655397029948834,0.16742898184904642,All genome composition feature sets
+Rice grassy stunt tenuivirus,100,FALSE,0.061298650192502066,0.20286824179627497,0.12993545495562406,All genome composition feature sets
+Rice ragged stunt virus,100,FALSE,0.10619843250182015,0.40535365955024527,0.22711502643712325,All genome composition feature sets
+Rice stripe tenuivirus,100,FALSE,0.10039580617579166,0.3606036412680135,0.20556840892618763,All genome composition feature sets
+Rice yellow stunt nucleorhabdovirus,100,FALSE,0.13443222000040878,0.5460143881455957,0.29513738073305895,All genome composition feature sets
+Rinderpest morbillivirus,100,FALSE,0.20652207228656727,0.685523625170505,0.3820847443460572,All genome composition feature sets
+Rio Negro virus,100,FALSE,0.29050812671853443,0.7610630547243356,0.5205890605215038,All genome composition feature sets
+Rochambeau curiovirus,100,FALSE,0.16021906214586193,0.6129732851671043,0.34355656468507595,All genome composition feature sets
+Rockport orthohantavirus,100,FALSE,0.1263558510373436,0.4428777888970735,0.2626055691815193,All genome composition feature sets
+Rodent protoparvovirus 1,100,FALSE,0.17063498087557477,0.5335056989059801,0.32501279155662133,All genome composition feature sets
+Rodent protoparvovirus 2,100,FALSE,0.08984751600163521,0.37829463478844405,0.21581535648589992,All genome composition feature sets
+Rosavirus A,100,FALSE,0.07858129609722371,0.3063996820769497,0.19173011257791311,All genome composition feature sets
+Ross River virus,100,TRUE,0.3294348065193493,0.8312851055590889,0.586421527142924,All genome composition feature sets
+Rotavirus B,100,TRUE,0.06248206234360297,0.26157823384504336,0.16613832940194465,All genome composition feature sets
+Rotavirus D,100,FALSE,0.08807438885898851,0.37828256518320513,0.22211355294320867,All genome composition feature sets
+Rotavirus F,100,FALSE,0.19460017673867752,0.7720944451314495,0.4367048564561674,All genome composition feature sets
+Rotavirus G,100,FALSE,0.17243001907980532,0.6655605004011677,0.41540450206109036,All genome composition feature sets
+Rotavirus H,100,TRUE,0.10248053400218451,0.5030793260643163,0.28673057659550133,All genome composition feature sets
+Rotavirus I,100,FALSE,0.14427332500062973,0.5010520858650906,0.2839713773093351,All genome composition feature sets
+Royal Farm virus,100,FALSE,0.6316715218123732,0.9809682123314194,0.8597060356355121,All genome composition feature sets
+Rubella virus,100,TRUE,0.11400240615511821,0.3450942741212153,0.21429095048469918,All genome composition feature sets
+Sabiá mammarenavirus,100,TRUE,0.08738452039906805,0.35982900626208536,0.21030552590180485,All genome composition feature sets
+Saboya virus,100,FALSE,0.18149943819172532,0.5572861198259491,0.35514771227473396,All genome composition feature sets
+Saimiriine alphaherpesvirus 1,100,FALSE,0.05237505341649529,0.2270019002975312,0.13170290406088853,All genome composition feature sets
+Saimiriine gammaherpesvirus 2,100,FALSE,0.15524922747581282,0.4611123557050788,0.2980248937743651,All genome composition feature sets
+Salmon pancreas disease virus,100,FALSE,0.2735470448001366,0.6980760078144468,0.454394781229892,All genome composition feature sets
+Sandfly fever Naples phlebovirus,100,TRUE,0.213640907946629,0.7522317175338407,0.4283848919512146,All genome composition feature sets
+Sangassou orthohantavirus,100,FALSE,0.09295392008631996,0.26748599524843064,0.18726542080577588,All genome composition feature sets
+Sapelovirus B,100,FALSE,0.10030506738826446,0.3753897089942214,0.22299511948276904,All genome composition feature sets
+Sapporo virus,100,TRUE,0.1332912155890391,0.3927246550436475,0.23913280536755535,All genome composition feature sets
+Saumarez Reef virus,100,FALSE,0.15404271380130893,0.48126437254716337,0.26563939230629513,All genome composition feature sets
+Scotophilus bat coronavirus 512,100,FALSE,0.09775495195840872,0.29409828930355275,0.1821524656273538,All genome composition feature sets
+Sena Madureira sripuvirus,100,FALSE,0.08460419109105141,0.2915570945098826,0.16959108653743166,All genome composition feature sets
+Senecavirus A,100,FALSE,0.10639837643886993,0.3269704658070122,0.19471047615070128,All genome composition feature sets
+Sepik virus,100,TRUE,0.31331752257488804,0.8276518639874919,0.5792097602703912,All genome composition feature sets
+Severe acute respiratory syndrome-related coronavirus,100,TRUE,0.1225400659381281,0.5120153497914591,0.245941584389819,All genome composition feature sets
+Sheeppox virus,100,FALSE,0.15280548295575075,0.40777911409355666,0.2742637802357369,All genome composition feature sets
+Shimoni bat lyssavirus,100,TRUE,0.22979530509983886,0.7075717820378954,0.4262632068105065,All genome composition feature sets
+Shuangao insect herbevirus 1,100,FALSE,0.11561232466572015,0.37480677003423946,0.22590579441103684,All genome composition feature sets
+Shuni orthobunyavirus,100,TRUE,0.2835170558479597,0.8073233232902102,0.5441672241717824,All genome composition feature sets
+Sicinivirus A,100,FALSE,0.07690179578275494,0.260086583071845,0.14547930028489217,All genome composition feature sets
+Simbu orthobunyavirus,100,FALSE,0.3435934062201241,0.7951098542357913,0.5704570332089894,All genome composition feature sets
+Simian hemorrhagic fever virus,100,FALSE,0.03997279255704663,0.16364316061174222,0.09880899405498014,All genome composition feature sets
+Simian immunodeficiency virus,100,TRUE,0.16798992254480774,0.5119060891386558,0.34187249751268045,All genome composition feature sets
+Simian rubulavirus,100,FALSE,0.2238179004214416,0.6869229117731002,0.437576672756847,All genome composition feature sets
+Small ruminant morbillivirus,100,FALSE,0.06871389309977598,0.32880293106808256,0.20389909695425812,All genome composition feature sets
+Snakehead novirhabdovirus,100,FALSE,0.15457350921821056,0.5853957780182097,0.33761030774099776,All genome composition feature sets
+Sonchus yellow net nucleorhabdovirus,100,FALSE,0.08122329104981166,0.2660701998278842,0.16380591697125857,All genome composition feature sets
+Sosuga rubulavirus,100,TRUE,0.1983653000821169,0.7006136427055152,0.40116464021510245,All genome composition feature sets
+Southern elephant seal virus,100,FALSE,0.2833243032416436,0.7882438296901648,0.5311429155086966,All genome composition feature sets
+Southern rice black-streaked dwarf virus,100,FALSE,0.039872469128278284,0.21180128841256385,0.11847696214750839,All genome composition feature sets
+Squirrel monkey retrovirus,100,FALSE,0.15792690671949067,0.49960480066290824,0.32463495245936547,All genome composition feature sets
+St Croix River virus,100,FALSE,0.09498656731536301,0.32818134848988045,0.17416329413139123,All genome composition feature sets
+St. Louis encephalitis virus,100,TRUE,0.3530962604611514,0.8589920113728039,0.6112072094177985,All genome composition feature sets
+Sudan ebolavirus,100,TRUE,0.29530270732029207,0.8506645896420882,0.5847139110115778,All genome composition feature sets
+Swinepox virus,100,FALSE,0.1200430558980672,0.34194382703362025,0.21271172828586643,All genome composition feature sets
+Tacaribe mammarenavirus,100,TRUE,0.22303766292846616,0.7111354004895019,0.3917743226956366,All genome composition feature sets
+Taï Forest ebolavirus,100,TRUE,0.39248139937646265,0.9253256876291315,0.6829010234225908,All genome composition feature sets
+Tai herbevirus,100,FALSE,0.06999039362069209,0.3016451655078042,0.1592692918572816,All genome composition feature sets
+Tamiami mammarenavirus,100,FALSE,0.14138721595078696,0.49123593192805964,0.29940364043591977,All genome composition feature sets
+Tanapox virus,100,TRUE,0.09882562312025463,0.3067306558506685,0.18008841616506305,All genome composition feature sets
+Taro vein chlorosis nucleorhabdovirus,100,FALSE,0.08716066917894136,0.2920848774683944,0.18507776192959266,All genome composition feature sets
+Taterapox virus,100,FALSE,0.17184443401854105,0.6810212234261862,0.4108331674278003,All genome composition feature sets
+Tembusu virus,100,TRUE,0.36948303393566717,0.8395954213913073,0.5498622650561027,All genome composition feature sets
+Teschovirus A,100,FALSE,0.08566503633067948,0.2953053236024493,0.17201657677792723,All genome composition feature sets
+Tete orthobunyavirus,100,FALSE,0.09543873288145652,0.3162238095379798,0.18972424970608304,All genome composition feature sets
+Teviot rubulavirus,100,FALSE,0.1892015207259856,0.5389559763541185,0.32750621598928303,All genome composition feature sets
+Thiafora orthonairovirus,100,TRUE,0.09836519219082439,0.3948223599922628,0.24221655350203947,All genome composition feature sets
+Thottapalayam orthohantavirus,100,TRUE,0.10265370465350956,0.28560685303340805,0.19485237761857982,All genome composition feature sets
+Tick-borne encephalitis virus,100,TRUE,0.400257633092192,0.9441801672188821,0.6778176253420295,All genome composition feature sets
+Tonate virus,100,TRUE,0.22831263943069377,0.7374311498154,0.47199412872717694,All genome composition feature sets
+Torchivirus A,100,FALSE,0.20365317998416885,0.669322657497722,0.40438872208035764,All genome composition feature sets
+Tree shrew mastadenovirus A,100,FALSE,0.12283924656947168,0.43177878642421075,0.23389439924050182,All genome composition feature sets
+Tuhoko rubulavirus 1,100,FALSE,0.14484763868747724,0.4682420374791697,0.2676673711522272,All genome composition feature sets
+Tuhoko rubulavirus 2,100,FALSE,0.1012569601143191,0.3414114577186118,0.2059406946340609,All genome composition feature sets
+Tuhoko rubulavirus 3,100,FALSE,0.10287424598914206,0.39793320473215915,0.2410722464126336,All genome composition feature sets
+Tupaia tupavirus,100,FALSE,0.16001125359462948,0.5292418280910026,0.302598804590375,All genome composition feature sets
+Tupaiid betaherpesvirus 1,100,FALSE,0.14138490404042514,0.5564773749947413,0.3500984198231658,All genome composition feature sets
+Turlock orthobunyavirus,100,FALSE,0.1307476664810461,0.4978373739543237,0.27243291645529055,All genome composition feature sets
+Tylonycteris bat coronavirus HKU4,100,FALSE,0.16403334325855567,0.49835723301586743,0.32426469195734464,All genome composition feature sets
+Uganda S virus,100,FALSE,0.45055176689752074,0.940260299061664,0.7094767955416184,All genome composition feature sets
+Umatilla virus,100,FALSE,0.15931394308238234,0.47028779120171926,0.28502113559250164,All genome composition feature sets
+Una virus,100,FALSE,0.19079348603551943,0.6102705968908891,0.3871698498643922,All genome composition feature sets
+Ungulate bocaparvovirus 1,100,FALSE,0.22296407606118585,0.7081206631168759,0.4468671293224181,All genome composition feature sets
+Ungulate protoparvovirus 1,100,FALSE,0.1479013473304991,0.4482246524607587,0.28508401179995213,All genome composition feature sets
+Uukuniemi phlebovirus,100,TRUE,0.2061567832281847,0.6196504855194134,0.37866929686414147,All genome composition feature sets
+Variola virus,100,TRUE,0.1299468239203173,0.5983363972553426,0.35164614200855693,All genome composition feature sets
+Volepox virus,100,FALSE,0.14415881076107037,0.3757234084966341,0.24374322040571048,All genome composition feature sets
+Wallal virus,100,FALSE,0.051699037172767394,0.2593312673639965,0.13342341551091863,All genome composition feature sets
+Walleye dermal sarcoma virus,100,FALSE,0.19342388422704854,0.6969171606425856,0.41612851110419596,All genome composition feature sets
+Waterbird 1 bornavirus,100,FALSE,0.11161693623198984,0.47924404706800205,0.2434633941225442,All genome composition feature sets
+Wenzhou mammarenavirus,100,FALSE,0.1353313520220712,0.41072378326342596,0.2480710280995402,All genome composition feature sets
+West Caucasian bat lyssavirus,100,TRUE,0.2088063067624098,0.7545176605673098,0.4552793824549932,All genome composition feature sets
+West Nile virus,100,TRUE,0.22937160535509366,0.7583558957421987,0.4917946137181902,All genome composition feature sets
+Whataroa virus,100,FALSE,0.16363606581281753,0.5419170134629456,0.35386539694355756,All genome composition feature sets
+White bream virus,100,FALSE,0.21504124917155631,0.6156923977364378,0.39035727925414326,All genome composition feature sets
+White-eye coronavirus HKU16,100,FALSE,0.10751186026505535,0.3570278779079188,0.2260145665318908,All genome composition feature sets
+Whitewater Arroyo mammarenavirus,100,TRUE,0.1374731538617902,0.395717963575582,0.2484335515640222,All genome composition feature sets
+Wobbly possum disease virus,100,FALSE,0.08117231741656537,0.29666055627966026,0.17252741112784298,All genome composition feature sets
+Wongabel hapavirus,100,FALSE,0.0333088475421966,0.1555539579068584,0.08324877019453851,All genome composition feature sets
+Woodchuck hepatitis virus,100,FALSE,0.11903936875338547,0.3673821684064039,0.22854664016835682,All genome composition feature sets
+Wound tumor virus,100,FALSE,0.08555896928747972,0.3999740225897276,0.22167383749379438,All genome composition feature sets
+Wuhan fly phasivirus,100,FALSE,0.11604962559809669,0.3782651694461189,0.2186646066975047,All genome composition feature sets
+Wuhan ledantevirus,100,FALSE,0.06609992877947808,0.2729576517534829,0.14842970568242594,All genome composition feature sets
+Wutai mosquito phasivirus,100,FALSE,0.09300056609386964,0.3798598686580615,0.21436549854159104,All genome composition feature sets
+Wyeomyia orthobunyavirus,100,TRUE,0.2848208281147735,0.7810739409745047,0.4915268615336294,All genome composition feature sets
+Xipapillomavirus 1,100,FALSE,0.17385473440127708,0.5940714868248989,0.34704744201375787,All genome composition feature sets
+Yaba monkey tumor virus,100,FALSE,0.12130548356602537,0.42026423607196495,0.2507396946198625,All genome composition feature sets
+Yichang insect goukovirus,100,FALSE,0.15933400766357386,0.4762834922907719,0.2929832380664678,All genome composition feature sets
+Yug Bogdanovac vesiculovirus,100,FALSE,0.06766654913323053,0.22930042151021024,0.13399435536802148,All genome composition feature sets
+Yunnan orbivirus,100,FALSE,0.1685169785477075,0.6205195106900023,0.3487800209869221,All genome composition feature sets
+Zaire ebolavirus,100,TRUE,0.3071262963564074,0.7986423725959754,0.5508817929093516,All genome composition feature sets
+Zika virus,100,TRUE,0.36457979783908256,0.8738531870108743,0.6549607571443796,All genome composition feature sets
+Adelaide River ephemerovirus,100,FALSE,0.06686876530844522,0.22146731368695494,0.13750755321608152,All genome composition feature sets
+Akabane orthobunyavirus,100,FALSE,0.24998131307787252,0.6672593882053781,0.42904062942517374,All genome composition feature sets
+Alagoas vesiculovirus,100,TRUE,0.20658232738796561,0.674936363697745,0.40708214690972444,All genome composition feature sets
+Alajuela orthobunyavirus,100,FALSE,0.14978120320251154,0.48177709463018953,0.27965271136307374,All genome composition feature sets
+Alethinophid 1 reptarenavirus,100,FALSE,0.16161062128579995,0.5591938300023094,0.33958674806907924,All genome composition feature sets
+Alphacoronavirus 1,100,FALSE,0.20920740580893388,0.5709161662133988,0.36384120678195214,All genome composition feature sets
+Apoi virus,100,FALSE,0.29847511486511724,0.8321596558429969,0.5371147179805478,All genome composition feature sets
+Aroa virus,100,TRUE,0.3719758463020518,0.833819065630147,0.5947508009782619,All genome composition feature sets
+Avastrovirus 2,100,FALSE,0.048350806104102265,0.19647533809261641,0.10688632709391903,All genome composition feature sets
+Avian avulavirus 12,100,FALSE,0.06886787749019355,0.26792561870200193,0.1565687070447399,All genome composition feature sets
+Avian avulavirus 13,100,FALSE,0.0854145379886181,0.3353339439632263,0.19034295008272767,All genome composition feature sets
+Avian avulavirus 6,100,FALSE,0.07695515203373826,0.36043668267014467,0.20169412227802896,All genome composition feature sets
+Avian orthoreovirus,100,FALSE,0.06107218326819778,0.25959013243012546,0.15193007121467358,All genome composition feature sets
+Avian sapelovirus,100,FALSE,0.058901363881504853,0.25714242586702224,0.15163058501048135,All genome composition feature sets
+Avisivirus B,100,FALSE,0.07453594238378253,0.24048818715327125,0.1472924567188078,All genome composition feature sets
+Avisivirus C,100,FALSE,0.12312594730507735,0.43413312678744875,0.2461183156508739,All genome composition feature sets
+Baboon orthoreovirus,100,FALSE,0.07240333480670098,0.2992482217192671,0.14433206265821916,All genome composition feature sets
+Bat mumps rubulavirus,100,FALSE,0.08914870016561603,0.3017368077389785,0.17777391959673472,All genome composition feature sets
+Batama orthobunyavirus,100,FALSE,0.2258369770567462,0.6642148953995014,0.39778349713536154,All genome composition feature sets
+Bear Canyon mammarenavirus,100,FALSE,0.1272093791079055,0.45978374294439855,0.2628367962977814,All genome composition feature sets
+Betapapillomavirus 1,100,TRUE,0.3990307246713145,0.9088443897792888,0.7081511844341409,All genome composition feature sets
+Bimiti orthobunyavirus,100,FALSE,0.26323688750150687,0.7592722780463537,0.4826557108423633,All genome composition feature sets
+Bluetongue virus,100,FALSE,0.13533314250383374,0.5107805675172066,0.31636946081188827,All genome composition feature sets
+Border disease virus,100,FALSE,0.06223773648910848,0.2617728873352499,0.15312840886815998,All genome composition feature sets
+Bovine gammaherpesvirus 4,100,FALSE,0.05724411591068622,0.2937608784425353,0.1641507504022411,All genome composition feature sets
+Bovine torovirus,100,FALSE,0.0658385933405591,0.23888625756140847,0.1487006734800246,All genome composition feature sets
+Bovine viral diarrhea virus 3,100,FALSE,0.04601102752508747,0.276230872798534,0.15989059596421837,All genome composition feature sets
+Cabassou virus,100,FALSE,0.26063490110196963,0.7180357223652655,0.47544817082568586,All genome composition feature sets
+Cadicivirus A,100,FALSE,0.07246521543958674,0.2671196006209572,0.1622713865249058,All genome composition feature sets
+California encephalitis orthobunyavirus,100,TRUE,0.18931634494334415,0.7053876979488651,0.41036604055621406,All genome composition feature sets
+Canine mastadenovirus A,100,FALSE,0.107689309257867,0.44667969534749624,0.23898864875028636,All genome composition feature sets
+Cao Bang orthohantavirus,100,FALSE,0.10944376490917156,0.34567345647828557,0.22646976116228743,All genome composition feature sets
+Carajas vesiculovirus,100,FALSE,0.0816767225324303,0.2953525693790079,0.17972374814263048,All genome composition feature sets
+Catu orthobunyavirus,100,TRUE,0.26522137814067354,0.7545306835739982,0.4832309581386734,All genome composition feature sets
+Cercopithecine alphaherpesvirus 2,100,FALSE,0.10364408695831709,0.32818212170768746,0.21250210198408712,All genome composition feature sets
+Chaco sripuvirus,100,FALSE,0.05579106034848076,0.21986924793896523,0.14343927158980704,All genome composition feature sets
+Corriparta virus,100,FALSE,0.1539804132717561,0.47360796157860147,0.28089419889434997,All genome composition feature sets
+Cosavirus A,100,TRUE,0.22448715488158855,0.7751482921721835,0.45172996925493886,All genome composition feature sets
+Cosavirus E,100,TRUE,0.16105751399839935,0.6251456304649063,0.3557967239605689,All genome composition feature sets
+Cosavirus F,100,TRUE,0.25737739626459244,0.7581541371778311,0.4722834096507887,All genome composition feature sets
+Datura yellow vein nucleorhabdovirus,100,FALSE,0.08355570554977587,0.3298622342690963,0.18542069376545556,All genome composition feature sets
+Enterovirus E,100,FALSE,0.06264566980450997,0.22035125687961166,0.13729395427489866,All genome composition feature sets
+Equid alphaherpesvirus 3,100,FALSE,0.1415962523159598,0.5174478995861824,0.2846736990590367,All genome composition feature sets
+Equid alphaherpesvirus 4,100,FALSE,0.13237113896340308,0.4754712609177376,0.2766623453913465,All genome composition feature sets
+European bat 2 lyssavirus,100,TRUE,0.3682625355726671,0.8511626501438214,0.6444817073302539,All genome composition feature sets
+Fathead minnow nidovirus 1,100,FALSE,0.10923915000686167,0.332568578077697,0.19093287977919,All genome composition feature sets
+Ferak orthoferavirus,100,FALSE,0.11541419599745394,0.43981395489848973,0.24943654551635494,All genome composition feature sets
+Gammapapillomavirus 2,100,TRUE,0.23737470020704127,0.6886455972735956,0.44135959516156914,All genome composition feature sets
+Gammapapillomavirus 3,100,TRUE,0.3136326380080745,0.7296797664267582,0.5062368135304872,All genome composition feature sets
+Goatpox virus,100,FALSE,0.1133372832183871,0.3520835618527063,0.21292913896723129,All genome composition feature sets
+Hepacivirus C,100,TRUE,0.10615482622524923,0.49427282019869545,0.24211693687284408,All genome composition feature sets
+Hepacivirus F,100,FALSE,0.14777548664436646,0.42292292686721633,0.26760650491025073,All genome composition feature sets
+Hepacivirus G,100,FALSE,0.12589797217883075,0.43922926416085484,0.2443417905954182,All genome composition feature sets
+Hepatitis B virus,100,TRUE,0.15775405491969843,0.5978221490778279,0.30229887065335787,All genome composition feature sets
+Highlands J virus,100,FALSE,0.278527061370539,0.7381005919068158,0.5239013163695138,All genome composition feature sets
+Human coronavirus HKU1,100,TRUE,0.17663171933685934,0.6121823296665487,0.36193626394265743,All genome composition feature sets
+Human mastadenovirus C,100,TRUE,0.2716334494154484,0.8233948062499192,0.49647391888283465,All genome composition feature sets
+Human mastadenovirus E,100,TRUE,0.3075989852454242,0.8199573393450006,0.5411342513827259,All genome composition feature sets
+Human polyomavirus 1,100,TRUE,0.22758446451364372,0.6990101771215649,0.4541771388450074,All genome composition feature sets
+Human respirovirus 3,100,TRUE,0.10461101178576793,0.39393683249728884,0.22741385456010002,All genome composition feature sets
+Ilheus virus,100,TRUE,0.3907716144134743,0.8989892203308216,0.6801016084471087,All genome composition feature sets
+Influenza D virus,100,FALSE,0.08799084407965656,0.30700579965018204,0.1834839818926824,All genome composition feature sets
+Isfahan vesiculovirus,100,TRUE,0.23413831376736488,0.7274579212405654,0.45604765655834,All genome composition feature sets
+Jaagsiekte sheep retrovirus,100,FALSE,0.11995448026409833,0.41580109673744525,0.2458648320334385,All genome composition feature sets
+Kafue kinda chacma baboon virus,100,FALSE,0.044708216256904354,0.14390840523053305,0.0921159070391449,All genome composition feature sets
+Kolente ledantevirus,100,FALSE,0.09074202597652656,0.2713407025287218,0.1633562060079708,All genome composition feature sets
+Kunsagivirus A,100,FALSE,0.03845143221960433,0.1914449223460184,0.1084077094538275,All genome composition feature sets
+Lactate dehydrogenase-elevating virus,100,FALSE,0.0522119511320744,0.20862991784082646,0.12088480192790627,All genome composition feature sets
+Lassa mammarenavirus,100,TRUE,0.14200873413827056,0.4365372752696174,0.27340840165070135,All genome composition feature sets
+Lebombo virus,100,TRUE,0.11683466647931068,0.4586971325300952,0.24985936724038862,All genome composition feature sets
+Lettuce big-vein associated varicosavirus,100,FALSE,0.11696663684259834,0.3973387634273283,0.21906903589124047,All genome composition feature sets
+Lumpy skin disease virus,100,FALSE,0.10263823265340913,0.4122493210771475,0.21486692645153593,All genome composition feature sets
+Lunk mammarenavirus,100,FALSE,0.1565984240742,0.437581508369407,0.28844473989157726,All genome composition feature sets
+Macacine betaherpesvirus 3,100,FALSE,0.10664931672706154,0.3172235322048388,0.20136190706274723,All genome composition feature sets
+Maize fine streak nucleorhabdovirus,100,FALSE,0.09647818545082368,0.3743339175278398,0.2211083005273369,All genome composition feature sets
+Maize Iranian mosaic nucleorhabdovirus,100,FALSE,0.052073025767444686,0.2119843541488417,0.12693001321843758,All genome composition feature sets
+Malpais Spring vesiculovirus,100,FALSE,0.1280980043706585,0.46118822400657966,0.27369797626918596,All genome composition feature sets
+Mamastrovirus 2,100,FALSE,0.08761731097937739,0.3217976007447928,0.20483438301175488,All genome composition feature sets
+Mamastrovirus 3,100,FALSE,0.22462376431987402,0.7156101028891628,0.41962377167304854,All genome composition feature sets
+Mamastrovirus 9,100,TRUE,0.11747121505992913,0.44383077457083964,0.23757900833410683,All genome composition feature sets
+Maporal orthohantavirus,100,FALSE,0.19459524025361102,0.5831233582827369,0.36917916806113743,All genome composition feature sets
+Mason-Pfizer monkey virus,100,FALSE,0.1496808931720069,0.5075290913532112,0.2984167688670869,All genome composition feature sets
+Melegrivirus A,100,FALSE,0.07001418415980562,0.22705488566483506,0.14260105422030214,All genome composition feature sets
+Mischivirus A,100,FALSE,0.14162962987038508,0.46114277994821246,0.25351207861083386,All genome composition feature sets
+Mossuril hapavirus,100,FALSE,0.09443200116378679,0.300604798976026,0.18528593141415087,All genome composition feature sets
+Mouse mammary tumor virus,100,FALSE,0.15256201089647978,0.5156860114154697,0.3172098802507837,All genome composition feature sets
+Moussa virus,100,FALSE,0.11157889242267416,0.38744203939938426,0.22871137992916774,All genome composition feature sets
+Mucambo virus,100,TRUE,0.16533091328043725,0.49309701156161745,0.3072124483727758,All genome composition feature sets
+Murine leukemia virus,100,FALSE,0.06247334904177841,0.26479215896402336,0.13962895064880598,All genome composition feature sets
+Ngaingan hapavirus,100,FALSE,0.11324233065876066,0.2978657958864084,0.19500047748123986,All genome composition feature sets
+Niakha sripuvirus,100,FALSE,0.07680111514183016,0.23533323370910397,0.14978161632682524,All genome composition feature sets
+Norwalk virus,100,TRUE,0.26880606402927776,0.7878135155033175,0.49503762181279554,All genome composition feature sets
+Nova orthohantavirus,100,FALSE,0.12202616828981896,0.4078440976399489,0.24764868692276032,All genome composition feature sets
+Nupapillomavirus 1,100,TRUE,0.10431762991411603,0.43745222564025865,0.23807240201453828,All genome composition feature sets
+Orungo virus,100,TRUE,0.09484499860570114,0.3763418885780915,0.22891468769978707,All genome composition feature sets
+Palyam virus,100,TRUE,0.06552252041652142,0.24089357151184815,0.14687472107753555,All genome composition feature sets
+Parechovirus C,100,FALSE,0.12418950014394095,0.46459561587697584,0.2502937277474475,All genome composition feature sets
+Pegivirus G,100,FALSE,0.12136084306402933,0.4133935931020131,0.25902453583067037,All genome composition feature sets
+Perinet vesiculovirus,100,FALSE,0.08085847041832026,0.31348901874557944,0.18832900980289566,All genome composition feature sets
+Piscihepevirus A,100,FALSE,0.2742420831103627,0.7142608332812685,0.46080173268779073,All genome composition feature sets
+Piscine novirhabdovirus,100,FALSE,0.11811492145059924,0.37103669306413734,0.20642045410125032,All genome composition feature sets
+Porcine circovirus 1,100,FALSE,0.07241701316032195,0.24524371749590795,0.15123726638127877,All genome composition feature sets
+Primate erythroparvovirus 1,100,TRUE,0.12355285652093428,0.4269419255747334,0.25219512635519314,All genome composition feature sets
+Rabbit hemorrhagic disease virus,100,FALSE,0.16654940384165712,0.5075801498160999,0.29645392062932274,All genome composition feature sets
+Rabies lyssavirus,100,TRUE,0.4691473546960342,0.9249260570278348,0.7158934453186426,All genome composition feature sets
+Rhinovirus B,100,TRUE,0.6338163555098919,0.9739609858731988,0.8509675006872303,All genome composition feature sets
+Rotavirus A,100,TRUE,0.09379430123883617,0.23835348606766837,0.15578481859451432,All genome composition feature sets
+Rotavirus C,100,TRUE,0.13802862411904615,0.4375244421527684,0.25876468887024284,All genome composition feature sets
+Rousettus bat coronavirus HKU9,100,FALSE,0.12078343492610477,0.40273432515233154,0.23505886359158693,All genome composition feature sets
+Salehabad phlebovirus,100,FALSE,0.2648637981330538,0.7293684434269255,0.4764503698294972,All genome composition feature sets
+Salivirus A,100,TRUE,0.030288780630925948,0.12754516578467096,0.07162833947952905,All genome composition feature sets
+Sapelovirus A,100,FALSE,0.22518503769263665,0.7333382773069557,0.4187991836896828,All genome composition feature sets
+Semliki Forest virus,100,TRUE,0.2777735127059434,0.847505325053919,0.5247212934059832,All genome composition feature sets
+Shamonda orthobunyavirus,100,TRUE,0.12358209417783769,0.4377406224542494,0.2744594384609147,All genome composition feature sets
+Sin Nombre orthohantavirus,100,TRUE,0.2004356854132473,0.5597917216727097,0.3625023736595135,All genome composition feature sets
+Solwezi mammarenavirus,100,FALSE,0.11326641911606383,0.31099597488373154,0.20322340207158207,All genome composition feature sets
+Squirrelpox virus,100,FALSE,0.17697056367743175,0.6445971986914389,0.3735100540504881,All genome composition feature sets
+Strawberry crinkle cytorhabdovirus,100,FALSE,0.10107180435809052,0.30538110901816007,0.19533192144524641,All genome composition feature sets
+Sweetwater Branch tibrovirus,100,FALSE,0.058036742772312085,0.21669808982583416,0.12769631340978627,All genome composition feature sets
+Tellina virus,100,FALSE,0.2845965124421105,0.842080538858215,0.5075423816079747,All genome composition feature sets
+Thimiri orthobunyavirus,100,FALSE,0.1998294503577306,0.6482590631138408,0.3897613866624092,All genome composition feature sets
+Tyuleniy virus,100,FALSE,0.35017215226908366,0.8813499906909547,0.6342738973092954,All genome composition feature sets
+Vesicular exanthema of swine virus,100,TRUE,0.17504131873954248,0.6780467075751258,0.3578639627785105,All genome composition feature sets
+Wesselsbron virus,100,TRUE,0.20683521194540982,0.6905141977701874,0.4517990502946426,All genome composition feature sets
+Woolly monkey sarcoma virus,100,FALSE,0.1575201253067458,0.5503620330497071,0.2949436378049627,All genome composition feature sets
+Yata ephemerovirus,100,FALSE,0.08967197214829772,0.3228450932432625,0.18006720550760139,All genome composition feature sets
+Yokose virus,100,FALSE,0.22637226478883601,0.7232729449580422,0.460649054137451,All genome composition feature sets
+Zegla orthobunyavirus,100,FALSE,0.11533485209003282,0.36416391585987523,0.22581668378839045,All genome composition feature sets
+Zetapapillomavirus 1,100,FALSE,0.16950570230994155,0.5500510758080343,0.3341948331914766,All genome composition feature sets
+Achimota rubulavirus 1,100,FALSE,0.14239551864656397,0.44840583538309897,0.269045698660199,All genome composition feature sets
+Achimota rubulavirus 2,100,FALSE,0.10345422464559376,0.42487689790420397,0.26031608309486676,All genome composition feature sets
+Alcelaphine gammaherpesvirus 2,100,FALSE,0.16872793703589672,0.5181948750961871,0.3177237436284024,All genome composition feature sets
+Alphapapillomavirus 10,100,TRUE,0.6375850576565989,0.9618670071782679,0.8206080188596913,All genome composition feature sets
+Anopheles A orthobunyavirus,100,TRUE,0.2165859904664598,0.6156543849599426,0.41041173166979583,All genome composition feature sets
+Aquareovirus B,100,FALSE,0.08309180021791743,0.2395785918516243,0.16086975748782087,All genome composition feature sets
+Aquareovirus G,100,FALSE,0.11226688330919307,0.4035979954031098,0.2337123773921285,All genome composition feature sets
+Australian bat lyssavirus,100,TRUE,0.46478638213434265,0.924755167112257,0.7261083860155588,All genome composition feature sets
+Avian avulavirus 10,100,FALSE,0.07376034773909554,0.2598602892019274,0.15664307213693662,All genome composition feature sets
+Avian avulavirus 4,100,FALSE,0.17222586984177876,0.5559755766748116,0.3397323986217432,All genome composition feature sets
+Avian avulavirus 5,100,FALSE,0.17114663249411874,0.6458087367507094,0.3900049457422877,All genome composition feature sets
+Avian metapneumovirus,100,FALSE,0.21191876820905087,0.6907110267474182,0.38739055163386915,All genome composition feature sets
+Banna virus,100,TRUE,0.077189417834862,0.2633024663855638,0.15385920857623026,All genome composition feature sets
+Bovine alphaherpesvirus 5,100,FALSE,0.12926935047842547,0.30968887852296345,0.2028733008397023,All genome composition feature sets
+Bovine foamy virus,100,FALSE,0.08812927602333362,0.31467133624204907,0.18057348213923854,All genome composition feature sets
+Bovine nidovirus 1,100,FALSE,0.14336988384734162,0.3813782624164883,0.2555175233184298,All genome composition feature sets
+Bovine papular stomatitis virus,100,TRUE,0.1634045197013405,0.4846112996966977,0.3033353494535211,All genome composition feature sets
+Bruges orthohantavirus,100,FALSE,0.08940172264822996,0.2840299111586364,0.19331517120891104,All genome composition feature sets
+Callitrichine gammaherpesvirus 3,100,FALSE,0.15857962261524897,0.4995560333124665,0.30901709970029806,All genome composition feature sets
+Caraparu orthobunyavirus,100,TRUE,0.24415732291237247,0.7637896208202273,0.4783239288004211,All genome composition feature sets
+Coastal Plains tibrovirus,100,FALSE,0.07313336275396493,0.256133471300773,0.14720567203577095,All genome composition feature sets
+Dhori virus,100,FALSE,0.1748036700018986,0.5855799899100875,0.33766820430863276,All genome composition feature sets
+Drosophila melanogaster sigmavirus,100,FALSE,0.04463260854726467,0.2093891426819133,0.0993483727877044,All genome composition feature sets
+Edge Hill virus,100,FALSE,0.2228552076446305,0.7113012785201633,0.42732135291902656,All genome composition feature sets
+Ekpoma 2 tibrovirus,100,TRUE,0.07751776936358559,0.328906549021541,0.1993898826665585,All genome composition feature sets
+Equine infectious anemia virus,100,FALSE,0.13390296359211273,0.41155393624720077,0.25475176634354735,All genome composition feature sets
+Equine mastadenovirus B,100,FALSE,0.1262652512712954,0.42772357490480595,0.2450072453754247,All genome composition feature sets
+Feline leukemia virus,100,FALSE,0.12896060672992865,0.33719437460275214,0.2304817560730634,All genome composition feature sets
+Fikirini ledantevirus,100,FALSE,0.08898717191908104,0.31363460601944804,0.18591719467370843,All genome composition feature sets
+Gammapapillomavirus 1,100,TRUE,0.40356498510135846,0.8736914657794335,0.6433752712349733,All genome composition feature sets
+Gray Lodge hapavirus,100,FALSE,0.08888155621693661,0.31665229096838776,0.19400409627728887,All genome composition feature sets
+Great Island virus,100,TRUE,0.09040419526150965,0.2921265839509657,0.18432235316072665,All genome composition feature sets
+Guajara orthobunyavirus,100,FALSE,0.17672486315649633,0.6378544743276102,0.3767078129841498,All genome composition feature sets
+Harkavirus A,100,FALSE,0.06309716316015138,0.2417030345829565,0.13985983639110475,All genome composition feature sets
+Hepatovirus B,100,FALSE,0.11705630743777419,0.4101894034713507,0.2424129438537212,All genome composition feature sets
+Hepatovirus D,100,FALSE,0.21767648037660686,0.6469865492267863,0.36596820882101955,All genome composition feature sets
+Hepatovirus E,100,FALSE,0.09618660787456262,0.32479102884776684,0.19071429911700277,All genome composition feature sets
+Human alphaherpesvirus 1,100,TRUE,0.19333224680974387,0.7156232189247315,0.45738553251163966,All genome composition feature sets
+Human gammaherpesvirus 8,100,TRUE,0.24449034375358566,0.7196808645582192,0.442413630723776,All genome composition feature sets
+Human immunodeficiency virus 2,100,TRUE,0.20445224060469525,0.6634956817733614,0.42894307283462074,All genome composition feature sets
+Human picobirnavirus,100,TRUE,0.05505421209354588,0.2659414610293862,0.14283232551310768,All genome composition feature sets
+Hunnivirus A,100,FALSE,0.13008867072950783,0.4227256183946768,0.23730786595142422,All genome composition feature sets
+Indiana vesiculovirus,100,TRUE,0.10821656858351986,0.35766629570503494,0.19955504831789506,All genome composition feature sets
+Infectious pancreatic necrosis virus,100,FALSE,0.2515734147711688,0.7070699664155804,0.45992401976018515,All genome composition feature sets
+Influenza B virus,100,TRUE,0.2345859014935765,0.6731975900391249,0.44803123585887134,All genome composition feature sets
+Influenza C virus,100,TRUE,0.18623541187049086,0.6284850171077114,0.38153036176478167,All genome composition feature sets
+Iranian wheat stripe tenuivirus,100,FALSE,0.06471195792689372,0.26287614784306906,0.14510292884240006,All genome composition feature sets
+Japanese encephalitis virus,100,TRUE,0.40462423947564485,0.9283523026035266,0.652621907440178,All genome composition feature sets
+Kadam virus,100,FALSE,0.24589651549977598,0.7067459382961754,0.44871242818611723,All genome composition feature sets
+Kadipiro virus,100,FALSE,0.12835198787273372,0.620598208408804,0.3268707198435088,All genome composition feature sets
+Kaeng Khoi orthobunyavirus,100,FALSE,0.1998001925719825,0.6047397187580876,0.35441353653032914,All genome composition feature sets
+Kamese hapavirus,100,FALSE,0.12674785016560638,0.41524977996955703,0.2338242149444315,All genome composition feature sets
+Kappapapillomavirus 2,100,FALSE,0.13542322771723958,0.4722262959813097,0.25377692357512366,All genome composition feature sets
+Kasokero orthonairovirus,100,TRUE,0.12587006096091208,0.4463494066570478,0.2625190788420675,All genome composition feature sets
+Kedougou virus,100,FALSE,0.26697025127071505,0.7122521777094735,0.4770210551479972,All genome composition feature sets
+Kenkeme orthohantavirus,100,FALSE,0.1224867731095801,0.36677402311315965,0.21350236874909834,All genome composition feature sets
+Kibale herbevirus,100,FALSE,0.11214892425253202,0.40321626790999276,0.22922050765863675,All genome composition feature sets
+Koongol orthobunyavirus,100,FALSE,0.20026342001086894,0.5409691024578153,0.3691397523518639,All genome composition feature sets
+Kumasi ledantevirus,100,FALSE,0.0852186822236694,0.2942993916016019,0.17439863036840825,All genome composition feature sets
+La Joya hapavirus,100,FALSE,0.043909301104165965,0.20133210341776975,0.12048984991920238,All genome composition feature sets
+Limnipivirus A,100,FALSE,0.12114394692807709,0.3856095616024084,0.22868018471372561,All genome composition feature sets
+Macropodid alphaherpesvirus 1,100,FALSE,0.09212902470175426,0.2925146153017631,0.17908372983782075,All genome composition feature sets
+Madariaga virus,100,TRUE,0.2740555228433934,0.7492884256476081,0.49993241884624595,All genome composition feature sets
+Main Drain orthobunyavirus,100,FALSE,0.09281443832461402,0.4388336509729548,0.2477449215119685,All genome composition feature sets
+Maize mosaic nucleorhabdovirus,100,FALSE,0.04460214752112545,0.1779996817771286,0.10019468320226645,All genome composition feature sets
+Maize rough dwarf virus,100,FALSE,0.0822057379070546,0.27511206969671637,0.158564925603384,All genome composition feature sets
+Mamastrovirus 13,100,FALSE,0.11444858516713713,0.450567781420507,0.24163588712445205,All genome composition feature sets
+Mamastrovirus 6,100,TRUE,0.27615375961759947,0.8074191817597959,0.5148274384189045,All genome composition feature sets
+Mammalian rubulavirus 5,100,TRUE,0.10795663922221302,0.43817951815013656,0.26290669520963184,All genome composition feature sets
+Manzanilla orthobunyavirus,100,FALSE,0.14354425560574471,0.506705921481531,0.3289824438346254,All genome composition feature sets
+Mapuera rubulavirus,100,FALSE,0.09107217804133676,0.3105681745410257,0.18439465001191846,All genome composition feature sets
+Meaban virus,100,FALSE,0.15317433903084315,0.5844124826822652,0.3254415361544604,All genome composition feature sets
+Mesocricetus auratus polyomavirus 1,100,FALSE,0.19373730303942488,0.594489948950683,0.38377490400157344,All genome composition feature sets
+Miniopterus bat coronavirus 1,100,FALSE,0.05986369064651741,0.2344303723472632,0.14930784499668184,All genome composition feature sets
+Mobala mammarenavirus,100,FALSE,0.09926571477266316,0.3786893477415122,0.20228603417961333,All genome composition feature sets
+Moloney murine sarcoma virus,100,FALSE,0.08012113387825803,0.3939983120233735,0.21588907779909058,All genome composition feature sets
+Munia coronavirus HKU13,100,FALSE,0.07823790823902489,0.25161039466130175,0.16007812665460336,All genome composition feature sets
+Murray Valley encephalitis virus,100,TRUE,0.3163408163497339,0.8079087340055437,0.5855089812376363,All genome composition feature sets
+Mycoreovirus 1,100,FALSE,0.06477909647539565,0.22869328846455061,0.13480074353569424,All genome composition feature sets
+Night heron coronavirus HKU19,100,FALSE,0.1556353457003904,0.49807297849555754,0.3046696680678947,All genome composition feature sets
+Nilaparvata lugens reovirus,100,FALSE,0.10925817983489895,0.35254695679244863,0.21139471365184037,All genome composition feature sets
+Northern cereal mosaic cytorhabdovirus,100,FALSE,0.07984137968103885,0.3167162296222623,0.19152426763585018,All genome composition feature sets
+Nyando orthobunyavirus,100,TRUE,0.3936131292077736,0.8799406665617515,0.6667150275790877,All genome composition feature sets
+O'nyong-nyong virus,100,TRUE,0.32566812744684837,0.8325611834338205,0.5729875865733305,All genome composition feature sets
+Oliveros mammarenavirus,100,FALSE,0.11518796955815719,0.4324532737909629,0.2495503099021541,All genome composition feature sets
+Ord River hapavirus,100,FALSE,0.0427718400272908,0.18573746330693258,0.10551462269728905,All genome composition feature sets
+Orthohepevirus C,100,FALSE,0.10192770551600092,0.34387949985709143,0.20927184131198423,All genome composition feature sets
+Papiine alphaherpesvirus 2,100,FALSE,0.07544119527933271,0.29745459919361317,0.19019244678877353,All genome composition feature sets
+Pasivirus A,100,FALSE,0.043931794018022705,0.20099431901468323,0.11222518006549388,All genome composition feature sets
+Pegivirus I,100,FALSE,0.22983699404523963,0.691743683022408,0.4108894982148294,All genome composition feature sets
+Peruvian horse sickness virus,100,FALSE,0.1336073830819567,0.4628183946474792,0.2647820628835332,All genome composition feature sets
+Pipistrellus bat coronavirus HKU5,100,FALSE,0.11337214618500457,0.3945253854003773,0.22695653726963458,All genome composition feature sets
+Piry vesiculovirus,100,TRUE,0.24256047876859058,0.7290216818907653,0.41382569815810144,All genome composition feature sets
+Pixuna virus,100,TRUE,0.3522936238267659,0.7972140673800937,0.5517054477985264,All genome composition feature sets
+Psittaciform 1 bornavirus,100,FALSE,0.14971418174696438,0.5626388663868565,0.29779271096147447,All genome composition feature sets
+Punta Toro phlebovirus,100,TRUE,0.250578064628887,0.6699267975973608,0.421935371110549,All genome composition feature sets
+Rabbit picobirnavirus,100,FALSE,0.12484992253562846,0.3710832490440754,0.22149364963137122,All genome composition feature sets
+Rice hoja blanca tenuivirus,100,FALSE,0.13661664467209336,0.3623230975971863,0.23901465367182664,All genome composition feature sets
+Rift Valley fever phlebovirus,100,TRUE,0.1848904510221777,0.6592850128355225,0.37473833615530955,All genome composition feature sets
+Rio Bravo virus,100,TRUE,0.10555388417546788,0.42555935537200895,0.23600094519017087,All genome composition feature sets
+Rodent erythroparvovirus 1,100,FALSE,0.035222968851570106,0.20416967328448998,0.10705938558011871,All genome composition feature sets
+Sakhalin orthonairovirus,100,FALSE,0.2180707413415352,0.621718168205856,0.37507161604100353,All genome composition feature sets
+Sakobuvirus A,100,FALSE,0.05701440219218917,0.21281482674727817,0.12608862992490477,All genome composition feature sets
+Salmon aquaparamyxovirus,100,FALSE,0.0753757317773846,0.29514778795407226,0.1677097797451388,All genome composition feature sets
+Salmonid novirhabdovirus,100,FALSE,0.10217612757490081,0.39485997395037653,0.23608233303897813,All genome composition feature sets
+Seoul orthohantavirus,100,TRUE,0.1775267821959999,0.5194970040262895,0.33906721399355116,All genome composition feature sets
+SFTS phlebovirus,100,TRUE,0.2464021178357132,0.718569377322978,0.43433725268682005,All genome composition feature sets
+Simian foamy virus,100,TRUE,0.18913527495811405,0.6305238708307042,0.3826395839398132,All genome composition feature sets
+Simian hemorrhagic encephalitis virus,100,FALSE,0.04642641414090101,0.16576158644941552,0.09143030057636835,All genome composition feature sets
+Sindbis virus,100,TRUE,0.2386536323399674,0.6529850672301165,0.40971817880691425,All genome composition feature sets
+Sripur sripuvirus,100,FALSE,0.05984491574842472,0.2622335513317928,0.15349444793684366,All genome composition feature sets
+Suid alphaherpesvirus 1,100,FALSE,0.09393656865184472,0.3573683936502559,0.2043042208020552,All genome composition feature sets
+Tacaiuma orthobunyavirus,100,TRUE,0.18245928378671186,0.5422886209035517,0.33934370050689106,All genome composition feature sets
+Thailand orthohantavirus,100,FALSE,0.1770397002611091,0.6150567291560944,0.3475157421973562,All genome composition feature sets
+Thogoto virus,100,TRUE,0.18140519287751372,0.6761119616655495,0.4013878792555887,All genome composition feature sets
+Tibrogargan tibrovirus,100,FALSE,0.030756773831089608,0.15497666530241663,0.08365440133322917,All genome composition feature sets
+Tioman rubulavirus,100,FALSE,0.08614545735258954,0.26901846698835113,0.16841954979598986,All genome composition feature sets
+Tremovirus A,100,FALSE,0.20187764185537282,0.644125221741666,0.4317240449783986,All genome composition feature sets
+Tula orthohantavirus,100,TRUE,0.11457778178637056,0.3988897768933857,0.23776866254933296,All genome composition feature sets
+Venezuelan equine encephalitis virus,100,TRUE,0.2956469904778366,0.8444820017179995,0.5866563257970653,All genome composition feature sets
+Visna/maedi virus,100,FALSE,0.09514483277417402,0.42288680610056995,0.24272685642929934,All genome composition feature sets
+Wad Medani virus,100,FALSE,0.11313290460280019,0.40548893928597507,0.22443896126880628,All genome composition feature sets
+Warrego virus,100,FALSE,0.05710545181513933,0.2924137623267953,0.1458331445578872,All genome composition feature sets
+Western equine encephalitis virus,100,TRUE,0.16779711055098662,0.582662078220869,0.3664633008240294,All genome composition feature sets
+Wigeon coronavirus HKU20,100,FALSE,0.08686465306915606,0.3256973721207397,0.1907538963895609,All genome composition feature sets
+Yaounde virus,100,FALSE,0.42317529458119724,0.8778773686319218,0.6870410043576073,All genome composition feature sets
+Yellow fever virus,100,TRUE,0.2084313314010114,0.6102318555881624,0.39652092489566404,All genome composition feature sets
+Yellowtail ascites virus,100,FALSE,0.10679337233466636,0.3552546334027785,0.222702497352548,All genome composition feature sets
+Yongjia ledantevirus,100,FALSE,0.06828821605473162,0.29154816927522065,0.16874168008469684,All genome composition feature sets

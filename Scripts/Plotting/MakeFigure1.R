@@ -435,6 +435,32 @@ saveRDS(known_priorities, file.path('Plots', 'Intermediates', 'figure1_trainings
 saveRDS(prob_cutoff, file.path('Plots', 'Intermediates', 'figure1_prob_cutoff.rds'))
 saveRDS(virus_testing, file.path('Plots', 'Intermediates', 'figure1_virus_testing.rds'))
 
+
+## Save values underlying all panels in a human-readable format:
+auc_test_boot %>% 
+	ungroup() %>% 
+	mutate(RunName = str_replace_all(RunName, '\n', ' ')) %>% 
+	write_excel_csv(file.path('FigureData', 'fig1_a.csv'))
+
+predictions_final_boot %>% 
+	select(Iteration, UniversalName, InfectsHumans, RawScore, RunName) %>% 
+	mutate(RunName = str_replace_all(RunName, '\n', ' ')) %>% 
+	write_excel_csv(file.path('FigureData', 'fig1_b_replicates.csv'))
+
+predictions_final_bagged %>% 
+	mutate(RunName = str_replace_all(RunName, '\n', ' ')) %>% 
+	write_excel_csv(file.path('FigureData', 'fig1_b_bagged.csv'))
+
+bagged_confusion %>% 
+	mutate(RunName = str_replace_all(RunName, '\n', ' '),
+				 Sub_label = str_replace_all(Sub_label, '\n', ' ')) %>% 
+	write_excel_csv(file.path('FigureData', 'fig1_c.csv'))
+
+virus_testing %>% 
+	arrange(prop_screened) %>% 
+	write_excel_csv(file.path('FigureData', 'fig1_d.csv'))
+
+
 # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 # ---- Values reported in text --------------------------------------------------------------------
 # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=

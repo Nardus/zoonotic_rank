@@ -1,0 +1,759 @@
+﻿Name,Family,GenomeType,host_class,host_order,calibrated_score_mean,calibrated_score_lower,calibrated_score_upper,bagged_prediction,zoonotic_potential
+Qalyub orthonairovirus,Nairoviridae,ssRNA(-),Arachnida,Ixodida,0.16342774494258905,0.08033391322158934,0.2833512345604079,FALSE,Low
+Bombali ebolavirus,Filoviridae,ssRNA(-),Mammalia,Chiroptera,0.31967804119110005,0.17497893657974067,0.5912812022568465,TRUE,High
+Equine picobirnavirus,Picobirnaviridae,dsRNA,Mammalia,Perissodactyla,0.12615151949376247,0.05330061518237496,0.20479763455119687,FALSE,Low
+Beihai picobirnavirus,Picobirnaviridae,dsRNA,NA,NA,0.11020968174818788,0.05423835728520576,0.19569818897014662,FALSE,Low
+Drosophina B birnavirus,Birnaviridae,dsRNA,Insecta,Diptera,0.3985899163999552,0.18723533209766446,0.6524276408560404,TRUE,High
+Mosquito X virus,Birnaviridae,dsRNA,Insecta,Diptera,0.20767278712883847,0.0916776231526294,0.4055265969317135,FALSE,Medium
+Asikkala orthohantavirus,Hantaviridae,ssRNA(-),Mammalia,Eulipotyphla,0.2916740831774388,0.1394081410863646,0.5486792610512102,FALSE,Medium
+Muarterivirus afrigant,Arteriviridae,ssRNA(+),Mammalia,Eulipotyphla,0.17370468615719323,0.0893362447279464,0.2840449022107099,FALSE,Low
+Kigluaik phantom orthophasmavirus,Phasmaviridae,ssRNA(-),Insecta,Diptera,0.28886501504997275,0.15720354870676137,0.5238157871685638,FALSE,Medium
+Wuhan mosquito orthophasmavirus 1,Phasmaviridae,ssRNA(-),Insecta,Diptera,0.16745501826935444,0.06493842188149751,0.29132535257082115,FALSE,Low
+Wuhan mosquito orthophasmavirus 2,Phasmaviridae,ssRNA(-),Insecta,Diptera,0.16642707073309793,0.08909056248088577,0.26735363406639745,FALSE,Low
+Betaarterivirus sheoin,Arteriviridae,ssRNA(+),Mammalia,Rodentia,0.313060569381556,0.17421703080665452,0.5382302335844085,TRUE,High
+Betaarterivirus timiclar,Arteriviridae,ssRNA(+),Mammalia,Rodentia,0.10361155085635429,0.04261313031188559,0.18257756167270972,FALSE,Low
+Prospect Hill orthohantavirus,Hantaviridae,ssRNA(-),Mammalia,Rodentia,0.3342435984405777,0.1689546706467765,0.5460975630283598,TRUE,High
+Tigray orthohantavirus,Hantaviridae,ssRNA(-),Mammalia,Rodentia,0.28837232300178456,0.147562718637665,0.4886385419193671,FALSE,Medium
+Bavaria virus,Caliciviridae,ssRNA(+),Aves,Galliformes,0.3370956150596826,0.200603513269136,0.5178887624004487,TRUE,High
+Nacovirus A,Caliciviridae,ssRNA(+),Aves,Galliformes,0.13269360926940688,0.05432504718435112,0.24301058796846375,FALSE,Low
+Saint Valerien virus,Caliciviridae,ssRNA(+),Mammalia,Artiodactyla,0.24653012311054334,0.12960781748785127,0.4049707363286973,FALSE,Medium
+Recovirus A,Caliciviridae,ssRNA(+),Mammalia,Primates,0.2778343944322361,0.15494746631477746,0.4367663084937662,FALSE,Medium
+Usutu virus,Flaviviridae,ssRNA(+),Aves,Passeriformes,0.6677079340107078,0.4269943270685601,0.8826164016376503,TRUE,Very high
+Neoavian orthoreovirus,Reoviridae,dsRNA,Aves,NA,0.15312861042999354,0.055692633357094685,0.2565807330214047,FALSE,Low
+Pestivirus F,Flaviviridae,ssRNA(+),Mammalia,Artiodactyla,0.23465870143600281,0.10105000348724742,0.415219529729979,FALSE,Medium
+Pestivirus G,Flaviviridae,ssRNA(+),Mammalia,Artiodactyla,0.26380929242895235,0.12071512309718715,0.42669198964502036,FALSE,Medium
+Pestivirus K,Flaviviridae,ssRNA(+),Mammalia,Artiodactyla,0.3542128426371542,0.18595136149292463,0.6327727806734276,TRUE,High
+Mahlapitsi orthoreovirus,Reoviridae,dsRNA,Insecta,Diptera,0.1864371215792041,0.09714756866270505,0.34990312029347487,FALSE,Medium
+Mariental mammarenavirus,Arenaviridae,ssRNA(+/-),Mammalia,Rodentia,0.2306510919404891,0.1340483791944193,0.3598487174896695,FALSE,Medium
+Pestivirus J,Flaviviridae,ssRNA(+),Mammalia,Rodentia,0.34246999822573393,0.15681166537381802,0.5626978402313842,TRUE,High
+Planalto mammarenavirus,Arenaviridae,ssRNA(+/-),Mammalia,Rodentia,0.3605562291203352,0.20362860024722784,0.5498050154843976,TRUE,High
+Ryukyu mammarenavirus,Arenaviridae,ssRNA(+/-),Mammalia,Rodentia,0.33618584817269065,0.1984033158156614,0.5565177690044419,TRUE,High
+Souris mammarenavirus,Arenaviridae,ssRNA(+/-),Mammalia,Rodentia,0.2068237422428425,0.10185127596326293,0.3355285958070204,FALSE,Medium
+Xapuri mammarenavirus,Arenaviridae,ssRNA(+/-),Mammalia,Rodentia,0.28225171379866365,0.14843631756135306,0.4799314335282838,FALSE,Medium
+Mammalian orthoreovirus,Reoviridae,dsRNA,Mammalia,Primates,0.14429332110075568,0.07213879517347728,0.22892695295803964,FALSE,Low
+Broome orthoreovirus,Reoviridae,dsRNA,Mammalia,Chiroptera,0.16426986110075706,0.06827395834438889,0.27855199042614787,FALSE,Low
+Rotavirus J,Reoviridae,dsRNA,Mammalia,Chiroptera,0.31656515150095066,0.16425021684811342,0.5607962443502844,TRUE,High
+Avian myelocytomatosis virus 29,Retroviridae,ssRNA-RT,NA,NA,0.3480859575883523,0.1685235673645837,0.5633222844484487,TRUE,High
+Avian sarcoma virus CT10,Retroviridae,ssRNA-RT,NA,NA,0.36237743589871774,0.17274505735879536,0.6181996817942856,TRUE,High
+Fujinami sarcoma virus,Retroviridae,ssRNA-RT,NA,NA,0.3612623316251221,0.19538279960925187,0.580169353310772,TRUE,High
+Rous sarcoma virus,Retroviridae,ssRNA-RT,NA,NA,0.1796835934371067,0.07724081533584783,0.2955366442357331,FALSE,Medium
+UR2 sarcoma virus,Retroviridae,ssRNA-RT,NA,NA,0.2649277389816064,0.1476856535790165,0.5060800979247817,FALSE,Medium
+Spider monkey simian foamy virus,Retroviridae,ssRNA-RT,Mammalia,Primates,0.512828895095382,0.2524069247079782,0.8431341014197011,TRUE,High
+Heron hepatitis B virus,Hepadnaviridae,dsDNA-RT,Aves,Pelecaniformes,0.5723435047984295,0.34416706818862475,0.8838043256462185,TRUE,Very high
+Parrot hepatitis B virus,Hepadnaviridae,dsDNA-RT,Aves,Psittaciformes,0.33859153099363787,0.18424382320248,0.5521465244084041,TRUE,High
+Chinese shrew hepatitis B virus,Hepadnaviridae,dsDNA-RT,Mammalia,Eulipotyphla,0.23757087869720353,0.11330355293513739,0.39609644135828703,FALSE,Medium
+Duck hepatitis B virus,Hepadnaviridae,dsDNA-RT,Aves,Anseriformes,0.5698027531582183,0.3330248386769922,0.824933040331568,TRUE,Very high
+Domestic cat hepatitis B virus,Hepadnaviridae,dsDNA-RT,Mammalia,Carnivora,0.16364179342859408,0.04648231444427618,0.29660668989200545,FALSE,Medium
+Tai Forest hepatitis B virus,Hepadnaviridae,dsDNA-RT,Mammalia,Artiodactyla,0.24291858429393634,0.12281745184734624,0.38578925526659247,FALSE,Medium
+Capuchin monkey hepatitis B virus,Hepadnaviridae,dsDNA-RT,Mammalia,Primates,0.26271270468791696,0.1320030041996807,0.46034205370745507,FALSE,Medium
+Woolly monkey hepatitis B virus,Hepadnaviridae,dsDNA-RT,Mammalia,Primates,0.20429799764900972,0.07548044080627622,0.3469110498149612,FALSE,Medium
+Long-fingered bat hepatitis B virus,Hepadnaviridae,dsDNA-RT,Mammalia,Chiroptera,0.20436935177834165,0.09634213996213378,0.368734231873291,FALSE,Medium
+Pomona bat hepatitis B virus,Hepadnaviridae,dsDNA-RT,Mammalia,Chiroptera,0.3059162826067099,0.14738704224515806,0.5042431761098094,TRUE,High
+Roundleaf bat hepatitis B virus,Hepadnaviridae,dsDNA-RT,Mammalia,Chiroptera,0.23806022081257083,0.09647766671575753,0.4273314751234266,FALSE,Medium
+Tent-making bat hepatitis B virus,Hepadnaviridae,dsDNA-RT,Mammalia,Chiroptera,0.24660514977174972,0.12696117651156041,0.3797274310055703,FALSE,Medium
+Sorex araneus coronavirus T14,Coronaviridae,ssRNA(+),Mammalia,Eulipotyphla,0.4722522456544409,0.21368838901053366,0.7787634285964273,TRUE,High
+Duck coronavirus 2714,Coronaviridae,ssRNA(+),Aves,Anseriformes,0.2492201116226844,0.13713630035836732,0.39947116373773456,FALSE,Medium
+Goose coronavirus CB17,Coronaviridae,ssRNA(+),Aves,Anseriformes,0.23602292569099675,0.13526259359952622,0.3420479759561382,FALSE,Medium
+Avian coronavirus 9203,Coronaviridae,ssRNA(+),Aves,Galliformes,0.2341755173553707,0.12309978778170234,0.36765449027307684,FALSE,Medium
+China Rattus coronavirus HKU24,Coronaviridae,ssRNA(+),Mammalia,Rodentia,0.23933126053470996,0.1251134348138993,0.40677891741405775,FALSE,Medium
+Lucheng Rn rat coronavirus,Coronaviridae,ssRNA(+),Mammalia,Rodentia,0.13353942443951197,0.07008079180943444,0.24322669019257342,FALSE,Low
+Myodes coronavirus 2JL14,Coronaviridae,ssRNA(+),Mammalia,Rodentia,0.21675151385062263,0.11127196133561557,0.3332716743818669,FALSE,Medium
+Bat Hp-betacoronavirus Zhejiang2013,Coronaviridae,ssRNA(+),Mammalia,Chiroptera,0.21650558897555008,0.11000912586680361,0.3463248513593582,FALSE,Medium
+Eidolon bat coronavirus C704,Coronaviridae,ssRNA(+),Mammalia,Chiroptera,0.18433704522528913,0.08935213886309273,0.3289806375614177,FALSE,Medium
+Myotis ricketti alphacoronavirus Sax-2011,Coronaviridae,ssRNA(+),Mammalia,Chiroptera,0.15586775230098235,0.08299480477141857,0.24551066033089136,FALSE,Low
+NL63-related bat coronavirus strain BtKYNL63-9b,Coronaviridae,ssRNA(+),Mammalia,Chiroptera,0.11785928463862912,0.0633657292847043,0.18711690786239266,FALSE,Low
+Nyctalus velutinus alphacoronavirus SC-2013,Coronaviridae,ssRNA(+),Mammalia,Chiroptera,0.1306852523622063,0.07894354181286489,0.20505597985415464,FALSE,Low
+Rhinolophus ferrumequinum alphacoronavirus HuB-2013,Coronaviridae,ssRNA(+),Mammalia,Chiroptera,0.2730097739953462,0.1355120521049953,0.4575110259726816,FALSE,Medium
+Rousettus bat coronavirus GCCDC1,Coronaviridae,ssRNA(+),Mammalia,Chiroptera,0.17342710822981044,0.09403181144034746,0.27408178529407656,FALSE,Low
+Flamingopox virus,Poxviridae,dsDNA,Aves,Phoenicopteriformes,0.2382686596393857,0.15682208986954818,0.3904062568690928,FALSE,Medium
+Eastern kangaroopox virus,Poxviridae,dsDNA,Mammalia,Diprotodontia,0.35969004135171456,0.18195512635669614,0.6029808559607831,TRUE,High
+Tupaia narmovirus,Paramyxoviridae,ssRNA(-),Mammalia,Scandentia,0.33686897008434313,0.16741489533082332,0.5323867905088455,TRUE,High
+Western kangaroopox virus,Poxviridae,dsDNA,Mammalia,Diprotodontia,0.34901171658732727,0.17442969921129986,0.6661700746326406,TRUE,High
+Avian metaavulavirus 20,Paramyxoviridae,ssRNA(-),Aves,Charadriiformes,0.2287312461206238,0.08664577337301724,0.4102607693483433,FALSE,Medium
+Pigeonpox virus,Poxviridae,dsDNA,Aves,Columbiformes,0.21761718823325316,0.12680118925566783,0.3593007449179955,FALSE,Medium
+Penguinpox virus,Poxviridae,dsDNA,Aves,Sphenisciformes,0.2227035790907496,0.1380621448471357,0.3750430800903361,FALSE,Medium
+Salem salemvirus,Paramyxoviridae,ssRNA(-),Mammalia,Perissodactyla,0.23092746184611967,0.10626567347864205,0.41389441777176167,FALSE,Medium
+Avian metaavulavirus 14,Paramyxoviridae,ssRNA(-),Aves,Anseriformes,0.2840874832966975,0.13993922036041034,0.455849310175069,FALSE,Medium
+Avian orthoavulavirus 16,Paramyxoviridae,ssRNA(-),Aves,Anseriformes,0.2978231802378491,0.14926299661670855,0.5186157310168378,TRUE,High
+Island sawgrhavirus,Rhabdoviridae,ssRNA(-),Arachnida,Ixodida,0.2560135575852982,0.11837700157988262,0.47304032211295355,FALSE,Medium
+Sawgrass sawgrhavirus,Rhabdoviridae,ssRNA(-),Arachnida,Ixodida,0.23132589670877737,0.12227475192903933,0.40329375581584676,FALSE,Medium
+Zahedan zarhavirus,Rhabdoviridae,ssRNA(-),Arachnida,Ixodida,0.23428711904139937,0.11868690773116682,0.38647940539970593,FALSE,Medium
+Canarypox virus,Poxviridae,dsDNA,Aves,Passeriformes,0.2089182758583008,0.128591264392994,0.32039036015719496,FALSE,Medium
+Avian orthoavulavirus 21,Paramyxoviridae,ssRNA(-),Aves,NA,0.14465994790200662,0.05954390150546296,0.26069486094491956,FALSE,Low
+Beilong jeilongvirus,Paramyxoviridae,ssRNA(-),NA,NA,0.25039002698807794,0.1201731983557086,0.431735989924774,FALSE,Medium
+Fowlpox virus,Poxviridae,dsDNA,Aves,Galliformes,0.23673484284531224,0.13612565760499795,0.3764156256351262,FALSE,Medium
+Sunguru sunrhavirus,Rhabdoviridae,ssRNA(-),Aves,Galliformes,0.37870742842069055,0.17954435323535622,0.6182050697626796,TRUE,High
+Turkeypox virus,Poxviridae,dsDNA,Aves,Galliformes,0.2367142998081308,0.12836424981687533,0.4095603449216677,FALSE,Medium
+Grey sealpox virus,Poxviridae,dsDNA,Mammalia,Carnivora,0.15605844996614157,0.08550008829268824,0.24688690541815614,FALSE,Low
+Sea otterpox virus,Poxviridae,dsDNA,Mammalia,Carnivora,0.22490375119863343,0.11005911530785562,0.383816995774124,FALSE,Medium
+Skunkpox virus,Poxviridae,dsDNA,Mammalia,Carnivora,0.27470384478601734,0.15890518331374975,0.4852837499981243,FALSE,Medium
+Caprine respirovirus 3,Paramyxoviridae,ssRNA(-),Mammalia,Artiodactyla,0.22511985493905015,0.09992056752461038,0.3595527800112743,FALSE,Medium
+Mule deerpox virus,Poxviridae,dsDNA,Mammalia,Artiodactyla,0.2214137064732961,0.12351380106115681,0.401299414986013,FALSE,Medium
+Abatino macacapox virus,Poxviridae,dsDNA,Mammalia,Primates,0.330752431803215,0.19116468512000237,0.50869617420894,TRUE,High
+Bahia barhavirus,Rhabdoviridae,ssRNA(-),Insecta,Diptera,0.20713579119087216,0.11585251688630008,0.33865170298070607,FALSE,Medium
+Balsa almendravirus,Rhabdoviridae,ssRNA(-),Insecta,Diptera,0.16197828154690974,0.08294118380941445,0.271526786518619,FALSE,Low
+Beatrice Hill tibrovirus,Rhabdoviridae,ssRNA(-),Insecta,Diptera,0.10169632137415001,0.045340498167195806,0.17688963041573053,FALSE,Low
+Coot Bay almendravirus,Rhabdoviridae,ssRNA(-),Insecta,Diptera,0.16618072534686515,0.08794087167715264,0.28030038942953955,FALSE,Low
+Holmes hapavirus,Rhabdoviridae,ssRNA(-),Insecta,Diptera,0.05831032386888426,0.016274025414978965,0.14594867318417568,FALSE,Low
+Inhangapi arurhavirus,Rhabdoviridae,ssRNA(-),Insecta,Diptera,0.1627315398387437,0.07293574368029171,0.29322480508880333,FALSE,Medium
+Menghai almendravirus,Rhabdoviridae,ssRNA(-),Insecta,Diptera,0.09429049773955626,0.034276074634639414,0.1705229365479169,FALSE,Low
+Muir barhavirus,Rhabdoviridae,ssRNA(-),Insecta,Diptera,0.30228003555781335,0.1443368229054277,0.5381629374693156,TRUE,High
+Oakvale sunrhavirus,Rhabdoviridae,ssRNA(-),Insecta,Diptera,0.20854888040795044,0.10451395736863696,0.3987360321160598,FALSE,Medium
+Rio Chico almendravirus,Rhabdoviridae,ssRNA(-),Insecta,Diptera,0.1642200047091877,0.08707259781053246,0.271526786518619,FALSE,Low
+Walkabout sunrhavirus,Rhabdoviridae,ssRNA(-),Insecta,Diptera,0.25441609852137553,0.12026753363457027,0.4631770677653516,FALSE,Medium
+Yokapox virus,Poxviridae,dsDNA,Insecta,Diptera,0.300432160130291,0.16029127065528023,0.4851290575394419,TRUE,High
+Cotia virus,Poxviridae,dsDNA,Mammalia,Rodentia,0.2679879894520585,0.14742107557311893,0.4408220256800971,FALSE,Medium
+Jun jeilongvirus,Paramyxoviridae,ssRNA(-),Mammalia,Rodentia,0.14406493457849215,0.06005756312654127,0.29247565573073087,FALSE,Low
+Lophuromys jeilongvirus 1,Paramyxoviridae,ssRNA(-),Mammalia,Rodentia,0.24784032591020116,0.1119139656332507,0.44775064092005423,FALSE,Medium
+Lophuromys jeilongvirus 2,Paramyxoviridae,ssRNA(-),Mammalia,Rodentia,0.22237972280053858,0.10265224948623591,0.3872343290553423,FALSE,Medium
+Mossman narmovirus,Paramyxoviridae,ssRNA(-),Mammalia,Rodentia,0.27381158222255697,0.14484563086357746,0.4351509564150458,FALSE,Medium
+Murmansk microtuspox virus,Poxviridae,dsDNA,Mammalia,Rodentia,0.31384715780505346,0.177303343020617,0.4915856814678685,TRUE,High
+Myodes jeilongvirus,Paramyxoviridae,ssRNA(-),Mammalia,Rodentia,0.1961468742719176,0.09740064424146917,0.3039378940728388,FALSE,Medium
+Myodes narmovirus,Paramyxoviridae,ssRNA(-),Mammalia,Rodentia,0.232277966669293,0.10289789888838173,0.4142078411952631,FALSE,Medium
+Nariva narmovirus,Paramyxoviridae,ssRNA(-),Mammalia,Rodentia,0.414675446024399,0.20599510473526628,0.7529689809231872,TRUE,High
+Squirrel respirovirus,Paramyxoviridae,ssRNA(-),Mammalia,Rodentia,0.31539191378447107,0.18050153112873943,0.5464779128297119,TRUE,High
+Tailam jeilongvirus,Paramyxoviridae,ssRNA(-),Mammalia,Rodentia,0.13794596238352302,0.0662455499740955,0.23186818204650694,FALSE,Low
+Akhmeta virus,Poxviridae,dsDNA,Mammalia,Primates,0.4109649766729499,0.18744703770761728,0.6485500572126975,TRUE,High
+Eptesipox virus,Poxviridae,dsDNA,Mammalia,Chiroptera,0.29481304235974065,0.15056733495094615,0.5451908849048959,TRUE,High
+Gannoruwa bat lyssavirus,Rhabdoviridae,ssRNA(-),Mammalia,Chiroptera,0.7218050100042843,0.4353378607614979,0.9093454878927633,TRUE,Very high
+Hervey pararubulavirus,Paramyxoviridae,ssRNA(-),Mammalia,Chiroptera,0.16978240204662354,0.089957614022528,0.2951279043855219,FALSE,Medium
+Lleida bat lyssavirus,Rhabdoviridae,ssRNA(-),Mammalia,Chiroptera,0.44538275393098864,0.23165302327843568,0.6542880337446313,TRUE,High
+Mammalian orthorubulavirus 6,Paramyxoviridae,ssRNA(-),Mammalia,Chiroptera,0.43061073736325584,0.21580558514408937,0.725362984979333,TRUE,High
+Pteropox virus,Poxviridae,dsDNA,Mammalia,Chiroptera,0.20269785737790105,0.12052200722112992,0.3499602169528261,FALSE,Medium
+Taiwan bat lyssavirus,Rhabdoviridae,ssRNA(-),Mammalia,Chiroptera,0.767473418823926,0.5336751790490759,0.9233313547022235,TRUE,Very high
+Vaprio ledantevirus,Rhabdoviridae,ssRNA(-),Mammalia,Chiroptera,0.2408117652684062,0.12717886049771174,0.41732642930401903,FALSE,Medium
+Gruiform aveparvovirus 1,Parvoviridae,ssDNA,Aves,Gruiformes,0.31662758687951825,0.17045544411533042,0.48217649554956754,TRUE,High
+Ungulate copiparvovirus 6,Parvoviridae,ssDNA,Mammalia,Perissodactyla,0.39252163441015725,0.20934014987473454,0.6293076695619132,TRUE,High
+Anseriform dependoparvovirus 1,Parvoviridae,ssDNA,Aves,Anseriformes,0.41206417482282953,0.24625558947061926,0.6162633930642845,TRUE,High
+Ungulate copiparvovirus 3,Parvoviridae,ssDNA,Arachnida,Ixodida,0.36051338134995065,0.20942667977885243,0.5724939357093684,TRUE,High
+Avian dependoparvovirus 1,Parvoviridae,ssDNA,Aves,Galliformes,0.37131844784884743,0.1734448206848868,0.6838235285310427,TRUE,High
+Galliform aveparvovirus 1,Parvoviridae,ssDNA,Aves,Galliformes,0.4416670492503369,0.2879720303400515,0.64877601972418,TRUE,High
+Carnivore amdoparvovirus 3,Parvoviridae,ssDNA,Mammalia,Carnivora,0.3089395267578024,0.16386226410993887,0.5953335440969019,TRUE,High
+Carnivore amdoparvovirus 5,Parvoviridae,ssDNA,Mammalia,Carnivora,0.2380160433366794,0.1468651804267414,0.38932581290850965,FALSE,Medium
+Carnivore bocaparvovirus 2,Parvoviridae,ssDNA,Mammalia,Carnivora,0.25078243442885867,0.11291236011137326,0.42765935457460436,FALSE,Medium
+Carnivore bocaparvovirus 3,Parvoviridae,ssDNA,Mammalia,Carnivora,0.265412663816057,0.12349863980325052,0.457365168382062,FALSE,Medium
+Carnivore protoparvovirus,Parvoviridae,ssDNA,Mammalia,Carnivora,0.2633403186679166,0.13697863511335506,0.39400708576040927,FALSE,Medium
+Pinniped copiparvovirus 1,Parvoviridae,ssDNA,Mammalia,Carnivora,0.25295803346880197,0.13095226679403962,0.4403853680748899,FALSE,Medium
+Pinniped erythroparvovirus 1,Parvoviridae,ssDNA,Mammalia,Carnivora,0.4304826911887249,0.20353752042040366,0.6657485868482544,TRUE,High
+Ungulate bocaparvovirus 7,Parvoviridae,ssDNA,Mammalia,Artiodactyla,0.2832583819850982,0.14819605441818454,0.4342675530585267,FALSE,Medium
+Ungulate bocaparvovirus 8,Parvoviridae,ssDNA,Mammalia,Artiodactyla,0.2510906296424131,0.14217600451100965,0.36225009764236205,FALSE,Medium
+Ungulate copiparvovirus 4,Parvoviridae,ssDNA,Mammalia,Artiodactyla,0.17487943336382955,0.06614973833378458,0.3612200428039044,FALSE,Medium
+Ungulate copiparvovirus 5,Parvoviridae,ssDNA,Mammalia,Artiodactyla,0.4266702674409399,0.23981515997497277,0.6815871362981551,TRUE,High
+Primate loriparvovirus 1,Parvoviridae,ssDNA,Mammalia,Primates,0.28721608379998265,0.15148660504509184,0.4892783164399433,FALSE,Medium
+Dipteran brevihamaparvovirus 1,Parvoviridae,ssDNA,Insecta,Diptera,0.23850015926806603,0.1335541409287567,0.40497069313529666,FALSE,Medium
+Dipteran brevihamaparvovirus 2,Parvoviridae,ssDNA,Insecta,Diptera,0.16279387749938135,0.07920922472624173,0.2843330781589527,FALSE,Low
+Dipteran protoambidensovirus 1,Parvoviridae,ssDNA,Insecta,Diptera,0.2157086239752289,0.11247994783518836,0.40301412760164407,FALSE,Medium
+Rodent bocaparvovirus 1,Parvoviridae,ssDNA,Mammalia,Rodentia,0.2508193172374132,0.1269338471140884,0.42188495407553694,FALSE,Medium
+Rodent bocaparvovirus 2,Parvoviridae,ssDNA,Mammalia,Rodentia,0.3498533175756524,0.1731480849288587,0.5760014034075185,TRUE,High
+Rodent chaphamaparvovirus 1,Parvoviridae,ssDNA,Mammalia,Rodentia,0.5692734361059492,0.3516946480382707,0.8852308461562247,TRUE,Very high
+Rodent dependoparvovirus 1,Parvoviridae,ssDNA,Mammalia,Rodentia,0.2511516018820212,0.14230779242056,0.3993965640681902,FALSE,Medium
+Rodent dependoparvovirus 2,Parvoviridae,ssDNA,Mammalia,Rodentia,0.2792166918300989,0.15274102659151478,0.5165766032943908,FALSE,Medium
+Primate bocaparvovirus 1,Parvoviridae,ssDNA,Mammalia,Primates,0.16071029682604576,0.06239829667094439,0.3054123229246206,FALSE,Medium
+Primate protoparvovirus 4,Parvoviridae,ssDNA,Mammalia,Primates,0.2526786846533385,0.14697201300910107,0.4142091606167363,FALSE,Medium
+Chiropteran artiparvovirus 1,Parvoviridae,ssDNA,Mammalia,Chiroptera,0.29943607228368624,0.13771201071180517,0.5311545351251988,TRUE,High
+Leporid alphaherpesvirus 4,Herpesviridae,dsDNA,Mammalia,Lagomorpha,0.35506845983866403,0.1741807635835277,0.5860744044746444,TRUE,High
+Elephantid betaherpesvirus 1,Herpesviridae,dsDNA,Mammalia,Proboscidea,0.21320515364545345,0.095376407837167,0.3491601234436358,FALSE,Medium
+Elephantid betaherpesvirus 4,Herpesviridae,dsDNA,Mammalia,Proboscidea,0.22461351002669552,0.12490052814469743,0.37732775257908413,FALSE,Medium
+Elephantid betaherpesvirus 5,Herpesviridae,dsDNA,Mammalia,Proboscidea,0.21233742582953904,0.09182528709677329,0.3843720573276409,FALSE,Medium
+Columbid alphaherpesvirus 1,Herpesviridae,dsDNA,Aves,Columbiformes,0.307604359055125,0.15726646032853742,0.463860461992464,TRUE,High
+Spheniscid alphaherpesvirus 1,Herpesviridae,dsDNA,Aves,Sphenisciformes,0.1816007448872234,0.08450912832920103,0.29496956392758056,FALSE,Medium
+Psittacid alphaherpesvirus 1,Herpesviridae,dsDNA,Aves,Psittaciformes,0.29234525303003306,0.14467530967471254,0.5926589843837688,FALSE,Medium
+Anatid alphaherpesvirus 1,Herpesviridae,dsDNA,Aves,Anseriformes,0.24584942800951587,0.11342571234413668,0.42674115744990687,FALSE,Medium
+Gallid alphaherpesvirus 1,Herpesviridae,dsDNA,Aves,Galliformes,0.22419103660134607,0.10546093711665731,0.4112094635722444,FALSE,Medium
+Gallid alphaherpesvirus 2,Herpesviridae,dsDNA,Aves,Galliformes,0.3459182695729239,0.14689996083068757,0.6386761760557014,TRUE,High
+Gallid alphaherpesvirus 3,Herpesviridae,dsDNA,Aves,Galliformes,0.15558420562732128,0.07801641245674218,0.2649642112702125,FALSE,Low
+Meleagrid alphaherpesvirus 1,Herpesviridae,dsDNA,Aves,Galliformes,0.22259872402755235,0.11486423335864843,0.38396794311375504,FALSE,Medium
+Felid gammaherpesvirus 1,Herpesviridae,dsDNA,Mammalia,Carnivora,0.25204174974792504,0.10872053845753317,0.4164426553592565,FALSE,Medium
+Bovine gammaherpesvirus 6,Herpesviridae,dsDNA,Mammalia,Artiodactyla,0.1240871505302223,0.040807130743028455,0.2255336702897346,FALSE,Low
+Monodontid alphaherpesvirus 1,Herpesviridae,dsDNA,Mammalia,Artiodactyla,0.2929594327342785,0.13670359967594653,0.5044765154403779,FALSE,Medium
+Aotine betaherpesvirus 1,Herpesviridae,dsDNA,Mammalia,Primates,0.597358139895,0.3257538291258744,0.8708921914531206,TRUE,Very high
+Macacine betaherpesvirus 8,Herpesviridae,dsDNA,Mammalia,Primates,0.19608164843588297,0.10592432049837106,0.32632754806867414,FALSE,Medium
+Macacine betaherpesvirus 9,Herpesviridae,dsDNA,Mammalia,Primates,0.351521589948241,0.14560205816436497,0.5751545999022172,TRUE,High
+Macacine gammaherpesvirus 10,Herpesviridae,dsDNA,Mammalia,Primates,0.27510529706316555,0.13780389095454967,0.5328835475577172,FALSE,Medium
+Macacine gammaherpesvirus 11,Herpesviridae,dsDNA,Mammalia,Primates,0.2640703347387809,0.1336511983856874,0.43604478966087223,FALSE,Medium
+Mandrilline betaherpesvirus 1,Herpesviridae,dsDNA,Mammalia,Primates,0.27275498356838407,0.1316433414323687,0.4714367214842837,FALSE,Medium
+Panine alphaherpesvirus 3,Herpesviridae,dsDNA,Mammalia,Primates,0.618104688934565,0.30322468873334063,0.8550371776616166,TRUE,Very high
+Papiine betaherpesvirus 4,Herpesviridae,dsDNA,Mammalia,Primates,0.3083491319374718,0.150299544811142,0.4982639422315843,TRUE,High
+Saimiriine betaherpesvirus 4,Herpesviridae,dsDNA,Mammalia,Primates,0.26352685768569284,0.13301649303185067,0.4714858090568731,FALSE,Medium
+Murid betaherpesvirus 3,Herpesviridae,dsDNA,Mammalia,Rodentia,0.2290175058746153,0.12368683113868742,0.34951685325134346,FALSE,Medium
+Murid betaherpesvirus 8,Herpesviridae,dsDNA,Mammalia,Rodentia,0.24912082378359346,0.13517092292506744,0.35079482522928007,FALSE,Medium
+Murid gammaherpesvirus 7,Herpesviridae,dsDNA,Mammalia,Rodentia,0.3122141912354473,0.1440396971992562,0.5385134745051889,TRUE,High
+Human betaherpesvirus 6A,Herpesviridae,dsDNA,Mammalia,Primates,0.26813073034962914,0.1356867213868148,0.45693311042610907,FALSE,Medium
+Human betaherpesvirus 6B,Herpesviridae,dsDNA,Mammalia,Primates,0.2303316982349712,0.11075289743266784,0.38740093396403036,FALSE,Medium
+Pteropodid alphaherpesvirus 1,Herpesviridae,dsDNA,Mammalia,Chiroptera,0.2749482427581184,0.13615642761644098,0.47212902309250354,FALSE,Medium
+Itaituba phlebovirus,Phenuiviridae,ssRNA(+/-),Mammalia,Didelphimorphia,0.4949079910508378,0.2915986090895386,0.7637734988820175,TRUE,High
+Parechovirus E,Picornaviridae,ssRNA(+),Aves,Falconiformes,0.17420260435896434,0.08167856121708497,0.28468382033919487,FALSE,Low
+Megrivirus D,Picornaviridae,ssRNA(+),Aves,Accipitriformes,0.3079888429768729,0.15881580897155662,0.5150047330643084,TRUE,High
+Murre uukuvirus,Phenuiviridae,ssRNA(+/-),Aves,Charadriiformes,0.35023252117639586,0.1925686256595892,0.5822272160501456,TRUE,High
+Crahelivirus A,Picornaviridae,ssRNA(+),Aves,Gruiformes,0.29808640679592974,0.1523249210022577,0.5019541748227683,TRUE,High
+Gruhelivirus A,Picornaviridae,ssRNA(+),Aves,Gruiformes,0.19926662227676867,0.09821339289172187,0.32381483127507715,FALSE,Medium
+Grusopivirus A,Picornaviridae,ssRNA(+),Aves,Gruiformes,0.31899693725607,0.16392071316002496,0.5414659428661766,TRUE,High
+Grusopivirus B,Picornaviridae,ssRNA(+),Aves,Gruiformes,0.16663515962388412,0.08925662821064725,0.28249367790230917,FALSE,Low
+Megrivirus E,Picornaviridae,ssRNA(+),Aves,Sphenisciformes,0.24198239758787451,0.12441738426699353,0.4114334172856594,FALSE,Medium
+Cadicivirus B,Picornaviridae,ssRNA(+),Mammalia,Eulipotyphla,0.17409262781768273,0.0882615986541514,0.2941711726767544,FALSE,Medium
+Ludopivirus A,Picornaviridae,ssRNA(+),Aves,Anseriformes,0.13986540382782428,0.06641328067781045,0.22917126607992355,FALSE,Low
+American dog uukuvirus,Phenuiviridae,ssRNA(+/-),Arachnida,Ixodida,0.43852364877218436,0.22619679037114482,0.6591875737896586,TRUE,High
+Bhanja bandavirus,Phenuiviridae,ssRNA(+/-),Arachnida,Ixodida,0.29709611197033553,0.15406395351039986,0.44626712026139304,TRUE,High
+Blackleg ixovirus,Phenuiviridae,ssRNA(-),Arachnida,Ixodida,0.44182330859486124,0.25027501488429504,0.6403753902228779,TRUE,High
+Grand Arbaud uukuvirus,Phenuiviridae,ssRNA(+/-),Arachnida,Ixodida,0.3775936971862723,0.1945076300404755,0.6044228899776116,TRUE,High
+Huangpi uukuvirus,Phenuiviridae,ssRNA(+/-),Arachnida,Ixodida,0.4768608904534519,0.2415602150210089,0.7434636084817154,TRUE,High
+Kabuto mountain uukuvirus,Phenuiviridae,ssRNA(+/-),Arachnida,Ixodida,0.5052470145807257,0.2927962803790943,0.7549189876241054,TRUE,High
+Kismaayo bandavirus,Phenuiviridae,ssRNA(+/-),Arachnida,Ixodida,0.3524429888262775,0.17738814962622612,0.5828339941658185,TRUE,High
+Laurel Lake laulavirus,Phenuiviridae,ssRNA(-),Arachnida,Ixodida,0.20865298515895184,0.08471406944800092,0.3239994123505517,FALSE,Medium
+Lone Star bandavirus,Phenuiviridae,ssRNA(+/-),Arachnida,Ixodida,0.3253601023005812,0.16578188023440044,0.5668136920923925,TRUE,High
+Mukawa phlebovirus,Phenuiviridae,ssRNA(+/-),Arachnida,Ixodida,0.687862135336869,0.4224827439698921,0.9291770376026003,TRUE,Very high
+Precarious Point uukuvirus,Phenuiviridae,ssRNA(+/-),Arachnida,Ixodida,0.37940916320509316,0.2056134021864479,0.7507055229959282,TRUE,High
+Silverwater uukuvirus,Phenuiviridae,ssRNA(+/-),Arachnida,Ixodida,0.3065283439324264,0.14579315836275464,0.537451647310944,TRUE,High
+Passerivirus B,Picornaviridae,ssRNA(+),Aves,Passeriformes,0.32660153450678064,0.16489939810241172,0.5594272733882412,TRUE,High
+Poecivirus A,Picornaviridae,ssRNA(+),Aves,Passeriformes,0.1463094697666438,0.06814311741942644,0.23904335870864313,FALSE,Low
+Leticia phlebovirus,Phenuiviridae,ssRNA(+/-),NA,NA,0.43774790710560196,0.22981758715133532,0.735195062936749,TRUE,High
+Salobo phlabovirus,Phenuiviridae,ssRNA(+/-),NA,NA,0.3395886579147864,0.1796741155860197,0.5730454676621771,TRUE,High
+Schmidt uukuvirus,Phenuiviridae,ssRNA(+/-),NA,NA,0.5387488952001506,0.299336230498343,0.8332163354031206,TRUE,Very high
+Uriurana phlebovirus,Phenuiviridae,ssRNA(+/-),NA,NA,0.31045479165834644,0.17441414114949966,0.49758385460755694,TRUE,High
+Anativirus B,Picornaviridae,ssRNA(+),Aves,Galliformes,0.13976318434311696,0.05601577745812335,0.2432160327150475,FALSE,Low
+Megrivirus C,Picornaviridae,ssRNA(+),Aves,Galliformes,0.17731657431107617,0.09634646075522443,0.2778020039694885,FALSE,Low
+Orivirus A,Picornaviridae,ssRNA(+),Aves,Galliformes,0.21351995011033123,0.08976116306873402,0.35114605622833817,FALSE,Medium
+Ailurivirus A,Picornaviridae,ssRNA(+),Mammalia,Carnivora,0.23902735297200117,0.12133217345331496,0.4255760735731377,FALSE,Medium
+Felipivirus A,Picornaviridae,ssRNA(+),Mammalia,Carnivora,0.09695308208717109,0.03340389620537397,0.18653096153458898,FALSE,Low
+Mischivirus D,Picornaviridae,ssRNA(+),Mammalia,Carnivora,0.1515914819686588,0.06577713014835833,0.27760546975917666,FALSE,Low
+Boosepivirus A,Picornaviridae,ssRNA(+),Mammalia,Artiodactyla,0.5028966570788399,0.25217783021748075,0.7811833642212804,TRUE,High
+Boosepivirus B,Picornaviridae,ssRNA(+),Mammalia,Artiodactyla,0.29002633857556603,0.1517153854788879,0.47299476885725467,FALSE,Medium
+Boosepivirus C,Picornaviridae,ssRNA(+),Mammalia,Artiodactyla,0.3566355325826282,0.18291769187231122,0.5914323317115575,TRUE,High
+Teschovirus B,Picornaviridae,ssRNA(+),Mammalia,Artiodactyla,0.14784229807124738,0.07897999938266023,0.23658431475102062,FALSE,Low
+Tottorivirus A,Picornaviridae,ssRNA(+),Mammalia,Artiodactyla,0.30986536667916104,0.18432283994312187,0.4578949846029435,TRUE,High
+Enterovirus L,Picornaviridae,ssRNA(+),Mammalia,Primates,0.28431469841244017,0.13708949951505062,0.4898688263217338,FALSE,Medium
+Kunsagivirus C,Picornaviridae,ssRNA(+),Mammalia,Primates,0.1747840836510504,0.0760860612991861,0.29118928609351313,FALSE,Low
+Malagasivirus A,Picornaviridae,ssRNA(+),Mammalia,Primates,0.14265386700813038,0.06288474507349213,0.22988592327000396,FALSE,Low
+Malagasivirus B,Picornaviridae,ssRNA(+),Mammalia,Primates,0.16091556575448723,0.06040077693120795,0.29061206151429736,FALSE,Low
+Adana phlebovirus,Phenuiviridae,ssRNA(+/-),Insecta,Diptera,0.28929450341415486,0.13280978885871808,0.6210290580742955,FALSE,Medium
+Aguacate phlebovirus,Phenuiviridae,ssRNA(+/-),Insecta,Diptera,0.4175015434863715,0.2409775134949303,0.6402629619926254,TRUE,High
+Alcube phlebovirus,Phenuiviridae,ssRNA(+/-),Insecta,Diptera,0.35264470561382666,0.176994315699611,0.6541997439056637,TRUE,High
+Arumowot phlebovirus,Phenuiviridae,ssRNA(+/-),Insecta,Diptera,0.41102781323948157,0.20426164186494128,0.6664790428825134,TRUE,High
+Buenaventura phlebovirus,Phenuiviridae,ssRNA(+/-),Insecta,Diptera,0.2923993511706068,0.147349235478154,0.4881533327033832,FALSE,Medium
+Cacao phlebovirus,Phenuiviridae,ssRNA(+/-),Insecta,Diptera,0.18396863974215844,0.0920167664615657,0.33183835380827814,FALSE,Medium
+Dashli phlebovirus,Phenuiviridae,ssRNA(+/-),Insecta,Diptera,0.3831874407090055,0.18495178378637347,0.5734470540226939,TRUE,High
+Durania phlebovirus,Phenuiviridae,ssRNA(+/-),Insecta,Diptera,0.45267294304278255,0.24174397295749275,0.7654385848024475,TRUE,High
+Ixcanal phlebovirus,Phenuiviridae,ssRNA(+/-),Insecta,Diptera,0.44154412594791576,0.255795882923539,0.7172396290876444,TRUE,High
+Massilia phlebovirus,Phenuiviridae,ssRNA(+/-),Insecta,Diptera,0.27958750507361835,0.11994500784061907,0.4506589887825554,FALSE,Medium
+Medjerda phlebovirus,Phenuiviridae,ssRNA(+/-),Insecta,Diptera,0.35937725142094323,0.17481605133802022,0.6063613232116738,TRUE,High
+Nique phlebovirus,Phenuiviridae,ssRNA(+/-),Insecta,Diptera,0.24816655638873752,0.12072612859167103,0.39330430310102776,FALSE,Medium
+Ntepes phlebovirus,Phenuiviridae,ssRNA(+/-),Insecta,Diptera,0.41049333153848544,0.2033122618820358,0.6446987558539047,TRUE,High
+Odrenisrou phlebovirus,Phenuiviridae,ssRNA(+/-),Insecta,Diptera,0.43748074780420765,0.21285459941787577,0.7577167753107537,TRUE,High
+Oriximina phlebovirus,Phenuiviridae,ssRNA(+/-),Insecta,Diptera,0.36993650920145327,0.17488565851839197,0.642525006433348,TRUE,High
+Toros phlebovirus,Phenuiviridae,ssRNA(+/-),Insecta,Diptera,0.23729088267126058,0.12472927306797721,0.3878406798327486,FALSE,Medium
+Turuna phlebovirus,Phenuiviridae,ssRNA(+/-),Insecta,Diptera,0.35328800346010564,0.2020254568010799,0.5663012402220773,TRUE,High
+Cardiovirus E,Picornaviridae,ssRNA(+),Mammalia,Rodentia,0.15526420240710911,0.06560284945811103,0.2550785775681919,FALSE,Low
+Cardiovirus F,Picornaviridae,ssRNA(+),Mammalia,Rodentia,0.16347681436208328,0.0699123019833777,0.2598118398854137,FALSE,Low
+Gabek phlebovirus,Phenuiviridae,ssRNA(+/-),Mammalia,Rodentia,0.4944160846177699,0.24640772894550872,0.781920013366983,TRUE,High
+Itaporanga phlebovirus,Phenuiviridae,ssRNA(+/-),Mammalia,Rodentia,0.36896813598491657,0.21007502153574392,0.5912338412157816,TRUE,High
+Mosavirus B,Picornaviridae,ssRNA(+),Mammalia,Rodentia,0.17606816807487377,0.07435624237773511,0.29228267943289665,FALSE,Low
+Mupivirus A,Picornaviridae,ssRNA(+),Mammalia,Rodentia,0.15422691687115167,0.06824301439170269,0.30411410792022675,FALSE,Medium
+Parabovirus A,Picornaviridae,ssRNA(+),Mammalia,Rodentia,0.168814107860442,0.06843440461954234,0.29925092608451365,FALSE,Medium
+Parabovirus B,Picornaviridae,ssRNA(+),Mammalia,Rodentia,0.17504831350391023,0.07171095425539928,0.2818122417241267,FALSE,Low
+Parabovirus C,Picornaviridae,ssRNA(+),Mammalia,Rodentia,0.12525410178343985,0.06562177213162888,0.20781775697568117,FALSE,Low
+Rabovirus B,Picornaviridae,ssRNA(+),Mammalia,Rodentia,0.22982679836437733,0.09302008885607416,0.42943270524595767,FALSE,Medium
+Rabovirus C,Picornaviridae,ssRNA(+),Mammalia,Rodentia,0.21188318535011244,0.09191537384854605,0.3150281800908431,FALSE,Medium
+Rabovirus D,Picornaviridae,ssRNA(+),Mammalia,Rodentia,0.13143450854145133,0.05288503224200783,0.20811585685598827,FALSE,Low
+Rohelivirus A,Picornaviridae,ssRNA(+),Mammalia,Rodentia,0.18138442790968676,0.0815439692400815,0.30919219716574703,FALSE,Medium
+Rosavirus B,Picornaviridae,ssRNA(+),Mammalia,Rodentia,0.21595893718689135,0.10822797990819541,0.35511923658609346,FALSE,Medium
+Rosavirus C,Picornaviridae,ssRNA(+),Mammalia,Rodentia,0.13620698379420965,0.06722770535476871,0.2504014049656084,FALSE,Low
+Saint Floris phlebovirus,Phenuiviridae,ssRNA(+/-),Mammalia,Rodentia,0.25861977071796055,0.13221502109783384,0.4220728312859962,FALSE,Medium
+Alenquer phlebovirus,Phenuiviridae,ssRNA(+/-),Mammalia,Primates,0.24333269463690319,0.1220327273922033,0.42145235687850696,FALSE,Medium
+Cardiovirus D,Picornaviridae,ssRNA(+),Mammalia,Primates,0.2440551232158962,0.12146960029229481,0.4694921551442982,FALSE,Medium
+Chagres phlebovirus,Phenuiviridae,ssRNA(+/-),Mammalia,Primates,0.21101040423010406,0.10119633288232524,0.35668605075341286,FALSE,Medium
+Echarate phlebovirus,Phenuiviridae,ssRNA(+/-),Mammalia,Primates,0.30718104146606234,0.1620607853837882,0.5119757761766026,TRUE,High
+Heartland bandavirus,Phenuiviridae,ssRNA(-),Mammalia,Primates,0.39885125585808356,0.19895929349828112,0.6737831273831046,TRUE,High
+Sicilian phlebovirus,Phenuiviridae,ssRNA(+/-),Mammalia,Primates,0.42816481266579404,0.25251747436397165,0.6888865530409054,TRUE,High
+Diresapivirus A,Picornaviridae,ssRNA(+),Mammalia,Chiroptera,0.4664724739111872,0.24747856683455668,0.7294016803419558,TRUE,High
+Diresapivirus B,Picornaviridae,ssRNA(+),Mammalia,Chiroptera,0.20993471195470567,0.0972490347551978,0.3733229180189163,FALSE,Medium
+Mischivirus B,Picornaviridae,ssRNA(+),Mammalia,Chiroptera,0.16678288209524045,0.08794087167715264,0.27337220473240925,FALSE,Low
+Utinga orthobunyavirus,Peribunyaviridae,ssRNA(-),Mammalia,Pilosa,0.41394328624761006,0.228926733153941,0.698472825142732,TRUE,High
+Snowshoe hare orthobunyavirus,Peribunyaviridae,ssRNA(-),Mammalia,Lagomorpha,0.4798975745645126,0.24935911737377758,0.7329504455116991,TRUE,High
+Ingwavuma orthobunyavirus,Peribunyaviridae,ssRNA(-),Aves,Passeriformes,0.40115769291458725,0.21015413636556685,0.6294711864027347,TRUE,High
+Mermet orthobunyavirus,Peribunyaviridae,ssRNA(-),Aves,Passeriformes,0.4381503468163569,0.2429253922376861,0.7108390794278772,TRUE,High
+Cachoeira Porteira orthobunyavirus,Peribunyaviridae,ssRNA(-),NA,NA,0.4162953798614233,0.21791423482639205,0.6605067357389243,TRUE,High
+Jatobal orthobunyavirus,Peribunyaviridae,ssRNA(-),Mammalia,Carnivora,0.5061810555134332,0.2749309142424253,0.7637622189425046,TRUE,High
+Sabo orthobunyavirus,Peribunyaviridae,ssRNA(-),Mammalia,Artiodactyla,0.3399660406476695,0.17441879608744737,0.5902214216204731,TRUE,High
+Sango orthobunyavirus,Peribunyaviridae,ssRNA(-),Mammalia,Artiodactyla,0.47838038031803687,0.25660874981718307,0.7077300151900777,TRUE,High
+Aino orthobunyavirus,Peribunyaviridae,ssRNA(-),Insecta,Diptera,0.7238342823487792,0.4097020183710493,0.9270013487936493,TRUE,Very high
+Anadyr orthobunyavirus,Peribunyaviridae,ssRNA(-),Insecta,Diptera,0.46431153341831943,0.23422805072230765,0.716111662831273,TRUE,High
+Anhembi orthobunyavirus,Peribunyaviridae,ssRNA(-),Insecta,Diptera,0.5000645977995867,0.2752164981142089,0.7518236584615579,TRUE,High
+Batai orthobunyavirus,Peribunyaviridae,ssRNA(-),Insecta,Diptera,0.34284135463246074,0.17066532720891253,0.5842271112829516,TRUE,High
+Bellavista orthobunyavirus,Peribunyaviridae,ssRNA(-),Insecta,Diptera,0.47507164371825605,0.24288299768874105,0.6960216697616719,TRUE,High
+Birao orthobunyavirus,Peribunyaviridae,ssRNA(-),Insecta,Diptera,0.6398594998527122,0.37264777511537045,0.9211609270597523,TRUE,Very high
+Bozo orthobunyavirus,Peribunyaviridae,ssRNA(-),Insecta,Diptera,0.4059608354556679,0.22213486078309674,0.6328145213086201,TRUE,High
+Buttonwillow orthobunyavirus,Peribunyaviridae,ssRNA(-),Insecta,Diptera,0.3559697469042888,0.19886415971358812,0.5761805518638299,TRUE,High
+Cache Valley orthobunyavirus,Peribunyaviridae,ssRNA(-),Insecta,Diptera,0.5930219294322567,0.33790138216929244,0.8472078162443275,TRUE,Very high
+Caimito pacuvirus,Peribunyaviridae,ssRNA(-),Insecta,Diptera,0.45858238150059694,0.2587589887069756,0.7475526017025249,TRUE,High
+Cat Que orthobunyavirus,Peribunyaviridae,ssRNA(-),Insecta,Diptera,0.2306474493333696,0.11295950249399714,0.5411501683343771,FALSE,Medium
+Enseada orthobunyavirus,Peribunyaviridae,ssRNA(-),Insecta,Diptera,0.3092611494186334,0.14807175848894572,0.49644722843443545,TRUE,High
+Faceys paddock orthobunyavirus,Peribunyaviridae,ssRNA(-),Insecta,Diptera,0.2967925162373968,0.15447332878096476,0.5053918697493991,TRUE,High
+Iaco orthobunyavirus,Peribunyaviridae,ssRNA(-),Insecta,Diptera,0.3310049408228087,0.1923442849841861,0.5389339180256199,TRUE,High
+Jamestown Canyon orthobunyavirus,Peribunyaviridae,ssRNA(-),Insecta,Diptera,0.31436199373228496,0.16439815244411893,0.5389182072166275,TRUE,High
+Keystone orthobunyavirus,Peribunyaviridae,ssRNA(-),Insecta,Diptera,0.47040679433603194,0.2882126597346159,0.7649710283999673,TRUE,High
+Leanyer orthobunyavirus,Peribunyaviridae,ssRNA(-),Insecta,Diptera,0.314913990119696,0.13178037429228412,0.5392702256476798,TRUE,High
+Lumbo orthbunyavirus,Peribunyaviridae,ssRNA(-),Insecta,Diptera,0.6663913880366784,0.4575258949016979,0.900756544903232,TRUE,Very high
+Macaua orthobunyavirus,Peribunyaviridae,ssRNA(-),Insecta,Diptera,0.24269263984125924,0.12186497658068585,0.39010337398260697,FALSE,Medium
+Maguari orthobunyavirus,Peribunyaviridae,ssRNA(-),Insecta,Diptera,0.6157856366108811,0.3743380892863731,0.8776680132419556,TRUE,Very high
+Melao orthobunyavirus,Peribunyaviridae,ssRNA(-),Insecta,Diptera,0.5097875936574383,0.29303428133366083,0.7749524465634834,TRUE,Very high
+Peaton orthobunyavirus,Peribunyaviridae,ssRNA(-),Insecta,Diptera,0.39015825453017794,0.24291741282129514,0.5719789210182911,TRUE,High
+Potosi orthobunyavirus,Peribunyaviridae,ssRNA(-),Insecta,Diptera,0.6231889895502178,0.3753507647437484,0.8400754690544823,TRUE,Very high
+Rio Preto da Eva pacuvirus,Peribunyaviridae,ssRNA(-),Insecta,Diptera,0.4014171005435253,0.23528270267455215,0.630690609283748,TRUE,High
+San Angelo orthobunyavirus,Peribunyaviridae,ssRNA(-),Insecta,Diptera,0.47614369123951383,0.25759263793851883,0.7610169692353883,TRUE,High
+Serra do Navio orthobunyavirus,Peribunyaviridae,ssRNA(-),Insecta,Diptera,0.38223280931466813,0.21494602032007265,0.6220845030967639,TRUE,High
+Sororoca orthobunyavirus,Peribunyaviridae,ssRNA(-),Insecta,Diptera,0.36799839922417005,0.17146267885026756,0.6018170417895112,TRUE,High
+Tahyna orthobunyavirus,Peribunyaviridae,ssRNA(-),Insecta,Diptera,0.5095966461166656,0.29638800921089276,0.7692948294135745,TRUE,Very high
+Tataguine orthobunyavirus,Peribunyaviridae,ssRNA(-),Insecta,Diptera,0.3567666149183176,0.16947258654358366,0.6624310747415152,TRUE,High
+Tensaw orthobunyavirus,Peribunyaviridae,ssRNA(-),Insecta,Diptera,0.3510004135620722,0.18043048121704225,0.6175243631708647,TRUE,High
+Trivittatus orthobunyavirus,Peribunyaviridae,ssRNA(-),Insecta,Diptera,0.43913982029764087,0.24496191807983336,0.6701010575931151,TRUE,High
+Witwatersrand orthobunyavirus,Peribunyaviridae,ssRNA(-),Insecta,Diptera,0.31635299962004493,0.1296380800591465,0.5163473293793214,TRUE,High
+Wolkberg orthobunyavirus,Peribunyaviridae,ssRNA(-),Insecta,Diptera,0.21392370581684217,0.11463749434989759,0.36438702738964457,FALSE,Medium
+Pacui pacuvirus,Peribunyaviridae,ssRNA(-),Mammalia,Rodentia,0.3282209710751764,0.1713384677272598,0.5164246340132795,TRUE,High
+Tapirape pacuvirus,Peribunyaviridae,ssRNA(-),Mammalia,Rodentia,0.3667743413274585,0.20034547081211057,0.5868362217770424,TRUE,High
+Fort Sherman orthobunyavirus,Peribunyaviridae,ssRNA(-),Mammalia,Primates,0.5256731862046545,0.2948774011314167,0.7495452196887317,TRUE,Very high
+Ilesha orthobunyavirus,Peribunyaviridae,ssRNA(-),Mammalia,Primates,0.2599196295890272,0.12311563267385874,0.45671545819711934,FALSE,Medium
+La Crosse orthobunyavirus,Peribunyaviridae,ssRNA(-),Mammalia,Primates,0.6598919709069847,0.38678781207212043,0.9020091734563009,TRUE,Very high
+Raptor siadenovirus A,Adenoviridae,dsDNA,Aves,Accipitriformes,0.36444089383198197,0.2171730298708036,0.5701612259233639,TRUE,High
+Skua siadenovirus A,Adenoviridae,dsDNA,Aves,Charadriiformes,0.2840706851809455,0.16554140060929717,0.43735250237026724,FALSE,Medium
+Pigeon aviadenovirus A,Adenoviridae,dsDNA,Aves,Columbiformes,0.25299138127040083,0.13977105883682983,0.41506362385146744,FALSE,Medium
+Pigeon aviadenovirus B,Adenoviridae,dsDNA,Aves,Columbiformes,0.34700279910972937,0.19152242193663482,0.5507471404069181,TRUE,High
+Penguin siadenovirus A,Adenoviridae,dsDNA,Aves,Sphenisciformes,0.25450849135938003,0.1515137695663939,0.42841493053911206,FALSE,Medium
+Psittacine atadenovirus A,Adenoviridae,dsDNA,Aves,Psittaciformes,0.2002602157080047,0.08695156335723961,0.37703739045460194,FALSE,Medium
+Psittacine aviadenovirus B,Adenoviridae,dsDNA,Aves,Psittaciformes,0.1959357158854641,0.10366364758900203,0.3865799318766153,FALSE,Medium
+Duck aviadenovirus B,Adenoviridae,dsDNA,Aves,Anseriformes,0.19530365686503284,0.10212919587932077,0.33162564194611566,FALSE,Medium
+Goose aviadenovirus A,Adenoviridae,dsDNA,Aves,Anseriformes,0.42732968830883616,0.24298353144682136,0.7208887552683383,TRUE,High
+Duck atadenovirus A,Adenoviridae,dsDNA,Aves,NA,0.23150896722285377,0.10573654058645623,0.3649015901304359,FALSE,Medium
+Fowl aviadenovirus A,Adenoviridae,dsDNA,Aves,Galliformes,0.27925462034088844,0.15193467559947718,0.45152669088762476,FALSE,Medium
+Fowl aviadenovirus B,Adenoviridae,dsDNA,Aves,Galliformes,0.39124223245234724,0.20874035476888397,0.6548560672131893,TRUE,High
+Fowl aviadenovirus C,Adenoviridae,dsDNA,Aves,Galliformes,0.35015924351474975,0.16469847887072483,0.5924402270755107,TRUE,High
+Fowl aviadenovirus D,Adenoviridae,dsDNA,Aves,Galliformes,0.2770689377272973,0.14889582182499905,0.44163567167968576,FALSE,Medium
+Fowl aviadenovirus E,Adenoviridae,dsDNA,Aves,Galliformes,0.31838379408442435,0.16790221034228991,0.5451767154091204,TRUE,High
+Turkey aviadenovirus B,Adenoviridae,dsDNA,Aves,Galliformes,0.23099064057163896,0.12659311021904157,0.40820580288324637,FALSE,Medium
+Turkey aviadenovirus C,Adenoviridae,dsDNA,Aves,Galliformes,0.3123347997053712,0.16829272270866313,0.5221619736736508,TRUE,High
+Turkey aviadenovirus D,Adenoviridae,dsDNA,Aves,Galliformes,0.23280567628619434,0.14182459620790527,0.35256164077544316,FALSE,Medium
+Turkey siadenovirus A,Adenoviridae,dsDNA,Aves,Galliformes,0.17150292683265644,0.07987485036051525,0.2669464542968376,FALSE,Low
+Polar bear mastadenovirus A,Adenoviridae,dsDNA,Mammalia,Carnivora,0.22578176305644418,0.1263505050241307,0.38172961443808673,FALSE,Medium
+Sea lion mastadenovirus A,Adenoviridae,dsDNA,Mammalia,Carnivora,0.24501697446842677,0.1200744523944749,0.40275132546516423,FALSE,Medium
+Skunk mastadenovirus A,Adenoviridae,dsDNA,Mammalia,Carnivora,0.35348119857469124,0.2006187248965113,0.6485553085895377,TRUE,High
+Deer atadenovirus A,Adenoviridae,dsDNA,Mammalia,Artiodactyla,0.30719960296938836,0.1889806605175754,0.4811510503596581,TRUE,High
+Deer mastadenovirus B,Adenoviridae,dsDNA,Mammalia,Artiodactyla,0.2572954856005682,0.13448885876263433,0.5165530592327054,FALSE,Medium
+Dolphin mastadenovirus B,Adenoviridae,dsDNA,Mammalia,Artiodactyla,0.26172447135915405,0.13268236913628034,0.42606843318724474,FALSE,Medium
+Ovine mastadenovirus C,Adenoviridae,dsDNA,Mammalia,Artiodactyla,0.1984652547113294,0.09838598838642676,0.33649279111085295,FALSE,Medium
+Human mastadenovirus G,Adenoviridae,dsDNA,Mammalia,Primates,0.4337999800796531,0.26029819338772564,0.6798966968139017,TRUE,High
+Platyrrhini mastadenovirus A,Adenoviridae,dsDNA,Mammalia,Primates,0.45703254473882665,0.207795228736749,0.7704618450513238,TRUE,High
+Simian mastadenovirus A,Adenoviridae,dsDNA,Mammalia,Primates,0.4721434329246553,0.25789123332351127,0.7649396249120721,TRUE,High
+Simian mastadenovirus B,Adenoviridae,dsDNA,Mammalia,Primates,0.5018082970125249,0.2802747530139875,0.7422360153085679,TRUE,High
+Simian mastadenovirus C,Adenoviridae,dsDNA,Mammalia,Primates,0.28264712745693055,0.10852091715252955,0.48676063789360635,FALSE,Medium
+Simian mastadenovirus D,Adenoviridae,dsDNA,Mammalia,Primates,0.306613296778559,0.1496941669800266,0.5298436800261378,TRUE,High
+Simian mastadenovirus E,Adenoviridae,dsDNA,Mammalia,Primates,0.48799317507447354,0.2464882344822731,0.7486731282402947,TRUE,High
+Simian mastadenovirus F,Adenoviridae,dsDNA,Mammalia,Primates,0.5013893226941868,0.2776599312421321,0.8063158289400689,TRUE,High
+Simian mastadenovirus G,Adenoviridae,dsDNA,Mammalia,Primates,0.31706021647061244,0.13388633103562564,0.5463825444753723,TRUE,High
+Simian mastadenovirus H,Adenoviridae,dsDNA,Mammalia,Primates,0.4632175279511804,0.27490945079564705,0.787987950786663,TRUE,High
+Simian mastadenovirus I,Adenoviridae,dsDNA,Mammalia,Primates,0.5753402205019629,0.3394644438933188,0.8126326442498522,TRUE,Very high
+Murine mastadenovirus C,Adenoviridae,dsDNA,Mammalia,Rodentia,0.21107977843318934,0.09891556639637605,0.4054053636312457,FALSE,Medium
+Squirrel mastadenovirus A,Adenoviridae,dsDNA,Mammalia,Rodentia,0.3438370872037132,0.19537843513588518,0.6246826689835834,TRUE,High
+Bat mastadenovirus A,Adenoviridae,dsDNA,Mammalia,Chiroptera,0.5320875583076241,0.27049861378615236,0.810633406327344,TRUE,High
+Bat mastadenovirus B,Adenoviridae,dsDNA,Mammalia,Chiroptera,0.5219457773385572,0.2789757678429168,0.8120987061667916,TRUE,High
+Bat mastadenovirus C,Adenoviridae,dsDNA,Mammalia,Chiroptera,0.6162677055708512,0.3694382993394898,0.8384544403253451,TRUE,Very high
+Bat mastadenovirus D,Adenoviridae,dsDNA,Mammalia,Chiroptera,0.3740372463466038,0.22028684449538471,0.5647891343211924,TRUE,High
+Bat mastadenovirus E,Adenoviridae,dsDNA,Mammalia,Chiroptera,0.35489425307184164,0.20148410020939278,0.5563018796376875,TRUE,High
+Bat mastadenovirus F,Adenoviridae,dsDNA,Mammalia,Chiroptera,0.5380696189505781,0.26876564280115867,0.8115938546590103,TRUE,High
+Bat mastadenovirus G,Adenoviridae,dsDNA,Mammalia,Chiroptera,0.22022271347895694,0.09229042345831295,0.35082379854172074,FALSE,Medium
+Bat mastadenovirus H,Adenoviridae,dsDNA,Mammalia,Chiroptera,0.49021789020376855,0.2507743306055516,0.7836723397309044,TRUE,High
+Bat mastadenovirus I,Adenoviridae,dsDNA,Mammalia,Chiroptera,0.6343463815291057,0.37093192707166633,0.8206946296346886,TRUE,Very high
+Bat mastadenovirus J,Adenoviridae,dsDNA,Mammalia,Chiroptera,0.2768934870084691,0.14018254614909204,0.45739240623716015,FALSE,Medium
+Ostrich associated gemytondvirus 1,Genomoviridae,ssDNA,Aves,Struthioniformes,0.24289449466282073,0.12995513986871024,0.38629772496134096,FALSE,Medium
+Rabbit associated gemykroznavirus 1,Genomoviridae,ssDNA,Mammalia,Lagomorpha,0.48885420354157,0.2571009385465898,0.8098755574573717,TRUE,High
+Equine associated gemycircularvirus 1,Genomoviridae,ssDNA,Mammalia,Perissodactyla,0.10931784547071068,0.04214597019387789,0.18974356034966422,FALSE,Low
+Mallard associated gemycircularvirus 1,Genomoviridae,ssDNA,Aves,Anseriformes,0.33809642973344134,0.158658990260241,0.5641329582856967,TRUE,High
+Mallard associated gemygorvirus 1,Genomoviridae,ssDNA,Aves,Anseriformes,0.15595366817598044,0.07514384441281173,0.26344966038083206,FALSE,Low
+Black robin associated gemykibivirus 1,Genomoviridae,ssDNA,Aves,Passeriformes,0.33763313964938607,0.1679447554044834,0.5610692729658556,TRUE,High
+Blackbird associated gemykibivirus 1,Genomoviridae,ssDNA,Aves,Passeriformes,0.17080857148546222,0.0734310078460223,0.2947456983091976,FALSE,Medium
+Chickadee associated gemycircularvirus 1,Genomoviridae,ssDNA,Aves,Passeriformes,0.2296765102046846,0.118949177389905,0.3975615689155917,FALSE,Medium
+Gerygone associated gemycircularvirus 1,Genomoviridae,ssDNA,Aves,Passeriformes,0.2525232450300642,0.1201259128457333,0.4134648137125637,FALSE,Medium
+Gerygone associated gemycircularvirus 2,Genomoviridae,ssDNA,Aves,Passeriformes,0.18836879611469007,0.08903476998061487,0.3091890859447972,FALSE,Medium
+Gerygone associated gemycircularvirus 3,Genomoviridae,ssDNA,Aves,Passeriformes,0.3439524390887035,0.17321521129855327,0.6422149148389886,TRUE,High
+Starling associated gemygorvirus 1,Genomoviridae,ssDNA,Aves,Passeriformes,0.31398943669899304,0.1532041553294088,0.5842474585577111,TRUE,High
+Sewage derived gemycircularvirus 1,Genomoviridae,ssDNA,NA,NA,0.16327303396498152,0.0771954543130419,0.27353750139995126,FALSE,Low
+Sewage derived gemycircularvirus 2,Genomoviridae,ssDNA,NA,NA,0.11060582031966734,0.045674806117470296,0.19947740232588776,FALSE,Low
+Sewage derived gemycircularvirus 3,Genomoviridae,ssDNA,NA,NA,0.2157115572909231,0.10355356650195849,0.3747664637055098,FALSE,Medium
+Sewage derived gemycircularvirus 4,Genomoviridae,ssDNA,NA,NA,0.2195109163085245,0.1173999726325778,0.39146354434086517,FALSE,Medium
+Sewage derived gemycircularvirus 5,Genomoviridae,ssDNA,NA,NA,0.18329175537849154,0.09307325799628878,0.32629836160842807,FALSE,Medium
+Sewage derived gemygorvirus 1,Genomoviridae,ssDNA,NA,NA,0.20166273621168632,0.09427719772874102,0.3487882092451645,FALSE,Medium
+Sewage derived gemykibivirus 1,Genomoviridae,ssDNA,NA,NA,0.24904009239594538,0.11778300346718354,0.4204334180155078,FALSE,Medium
+Sewage derived gemykibivirus 2,Genomoviridae,ssDNA,NA,NA,0.16053628714028167,0.08094544074066878,0.27288578273896846,FALSE,Low
+Sewage derived gemykrogvirus 1,Genomoviridae,ssDNA,NA,NA,0.21240417343407392,0.09632577811621355,0.4181736833333438,FALSE,Medium
+Chicken associated gemycircularvirus 1,Genomoviridae,ssDNA,Aves,Galliformes,0.1903231985176736,0.09049867265111682,0.3748783854715937,FALSE,Medium
+Chicken associated gemycircularvirus 2,Genomoviridae,ssDNA,Aves,Galliformes,0.4591970933077292,0.24754498571907113,0.7423540808639841,TRUE,High
+Badger associated gemykibivirus 1,Genomoviridae,ssDNA,Mammalia,Carnivora,0.3258998513999643,0.17726854985181095,0.551042738477936,TRUE,High
+Canine associated gemygorvirus 1,Genomoviridae,ssDNA,Mammalia,Carnivora,0.12423989646362393,0.046076931456695225,0.2179464303070471,FALSE,Low
+Fur seal associated gemycircularvirus 1,Genomoviridae,ssDNA,Mammalia,Carnivora,0.1785492554532024,0.07144699641202511,0.2973815653958499,FALSE,Medium
+Mongoose associated gemycircularvirus 1,Genomoviridae,ssDNA,Mammalia,Carnivora,0.2715196473773934,0.14319359980986535,0.4867150433655073,FALSE,Medium
+Mongoose associated gemykibivirus 1,Genomoviridae,ssDNA,Mammalia,Carnivora,0.22181336500630647,0.10346961142810868,0.3890105627045938,FALSE,Medium
+Blackbird associated gemycircularvirus 1,Genomoviridae,ssDNA,Mammalia,Artiodactyla,0.25306907146571556,0.14871031329712311,0.4535259925960916,FALSE,Medium
+Bovine associated gemycircularvirus 1,Genomoviridae,ssDNA,Mammalia,Artiodactyla,0.2144914615144909,0.08951219159692433,0.40126308491356966,FALSE,Medium
+Bovine associated gemykibivirus 1,Genomoviridae,ssDNA,Mammalia,Artiodactyla,0.15679168314375314,0.06127534875975679,0.2672697177270669,FALSE,Low
+Bovine associated gemykrogvirus 1,Genomoviridae,ssDNA,Mammalia,Artiodactyla,0.1932944252533836,0.08988870809510201,0.32474098957165565,FALSE,Medium
+Caribou associated gemykrogvirus 1,Genomoviridae,ssDNA,Mammalia,Artiodactyla,0.18877217350912448,0.08709637835880885,0.31257337029824384,FALSE,Medium
+Lama associated gemycircularvirus 1,Genomoviridae,ssDNA,Mammalia,Artiodactyla,0.2524267236198869,0.1054902979134586,0.4482239212856248,FALSE,Medium
+Porcine associated gemycircularvirus 1,Genomoviridae,ssDNA,Mammalia,Artiodactyla,0.14974890520409143,0.062163748857067436,0.24278877647136252,FALSE,Low
+Porcine associated gemycircularvirus 2,Genomoviridae,ssDNA,Mammalia,Artiodactyla,0.16688700647697124,0.07074778749754815,0.29344365403562966,FALSE,Medium
+Sheep associated gemycircularvirus 1,Genomoviridae,ssDNA,Mammalia,Artiodactyla,0.22443803902740217,0.11219231192095466,0.41624831969088194,FALSE,Medium
+Mosquito associated gemycircularvirus 1,Genomoviridae,ssDNA,Insecta,Diptera,0.21689245047997271,0.09885422166051233,0.37182984780020856,FALSE,Medium
+Rat associated gemycircularvirus 1,Genomoviridae,ssDNA,Mammalia,Rodentia,0.551498975609678,0.31461401271963085,0.8816950622489756,TRUE,Very high
+Human associated gemykibivirus 1,Genomoviridae,ssDNA,Mammalia,Primates,0.24197406048428552,0.12356380830664863,0.39463923744465124,FALSE,Medium
+Human associated gemykibivirus 2,Genomoviridae,ssDNA,Mammalia,Primates,0.1801992584472926,0.08477844467707851,0.28043990236742733,FALSE,Low
+Human associated gemykibivirus 3,Genomoviridae,ssDNA,Mammalia,Primates,0.1783084308063264,0.08985326089563433,0.2865858405658228,FALSE,Low
+Human associated gemykibivirus 4,Genomoviridae,ssDNA,Mammalia,Primates,0.24772730833698028,0.13010144038567414,0.4301889623415287,FALSE,Medium
+Human associated gemykibivirus 5,Genomoviridae,ssDNA,Mammalia,Primates,0.16775705106289115,0.07654974760035835,0.29560615204946206,FALSE,Medium
+Human associated gemyvongvirus 1,Genomoviridae,ssDNA,Mammalia,Primates,0.2917694616294807,0.1453195602379993,0.5586375799071857,FALSE,Medium
+Miniopterus associated gemycircularvirus 1,Genomoviridae,ssDNA,Mammalia,Chiroptera,0.3140003465883244,0.16177201143904424,0.5530599740991636,TRUE,High
+Pteropus associated gemycircularvirus 1,Genomoviridae,ssDNA,Mammalia,Chiroptera,0.35615136703781514,0.20664766591127806,0.5326925390113244,TRUE,High
+Pteropus associated gemycircularvirus 10,Genomoviridae,ssDNA,Mammalia,Chiroptera,0.19444095462315397,0.09725864480773616,0.3375537055177026,FALSE,Medium
+Pteropus associated gemycircularvirus 2,Genomoviridae,ssDNA,Mammalia,Chiroptera,0.16909144901734,0.08440690659742997,0.28877319795517786,FALSE,Low
+Pteropus associated gemycircularvirus 3,Genomoviridae,ssDNA,Mammalia,Chiroptera,0.2423425073153034,0.11721880980864799,0.43914487255821844,FALSE,Medium
+Pteropus associated gemycircularvirus 4,Genomoviridae,ssDNA,Mammalia,Chiroptera,0.17283488699196956,0.08145438356151949,0.29744064369138157,FALSE,Medium
+Pteropus associated gemycircularvirus 5,Genomoviridae,ssDNA,Mammalia,Chiroptera,0.25666611041139836,0.14754963001252852,0.43023631318159905,FALSE,Medium
+Pteropus associated gemycircularvirus 6,Genomoviridae,ssDNA,Mammalia,Chiroptera,0.24108961866032308,0.11603550945475069,0.43356461577279415,FALSE,Medium
+Pteropus associated gemycircularvirus 7,Genomoviridae,ssDNA,Mammalia,Chiroptera,0.26314111421460784,0.13946497561529303,0.4719381626657291,FALSE,Medium
+Pteropus associated gemycircularvirus 8,Genomoviridae,ssDNA,Mammalia,Chiroptera,0.1399404216861424,0.05708272677949203,0.2502438109555163,FALSE,Low
+Pteropus associated gemycircularvirus 9,Genomoviridae,ssDNA,Mammalia,Chiroptera,0.18517861537344357,0.08717075435014199,0.3315062306276023,FALSE,Medium
+Pteropus associated gemygorvirus 1,Genomoviridae,ssDNA,Mammalia,Chiroptera,0.18130163778084032,0.08606214443236596,0.3159278979260867,FALSE,Medium
+Pteropus associated gemykibivirus 1,Genomoviridae,ssDNA,Mammalia,Chiroptera,0.25430343878893014,0.1318401486235462,0.4340105171693105,FALSE,Medium
+Pteropus associated gemykolovirus 1,Genomoviridae,ssDNA,Mammalia,Chiroptera,0.3167842142808469,0.16525599638970323,0.4844024485604329,TRUE,High
+Pteropus associated gemykolovirus 2,Genomoviridae,ssDNA,Mammalia,Chiroptera,0.19725251746237407,0.08340632605077805,0.31302213135987444,FALSE,Medium
+Rhinolophus associated gemykibivirus 1,Genomoviridae,ssDNA,Mammalia,Chiroptera,0.1443549646486513,0.04749298789755366,0.2633346241763889,FALSE,Low
+Rhinolophus associated gemykibivirus 2,Genomoviridae,ssDNA,Mammalia,Chiroptera,0.16518238314730874,0.07541924915723057,0.2976054873759749,FALSE,Medium
+Torque teno tupaia virus,Anelloviridae,ssDNA(-),Mammalia,Scandentia,0.23428908322972364,0.11818722250762628,0.39569207693509734,FALSE,Medium
+Torque teno equus virus 1,Anelloviridae,ssDNA(-),Mammalia,Perissodactyla,0.3045273623075011,0.16258078697509776,0.5326708989709283,TRUE,High
+Torque teno virus 17,Anelloviridae,ssDNA(-),NA,NA,0.164147716733793,0.08353741366338566,0.26788371310453896,FALSE,Low
+Torque teno virus 18,Anelloviridae,ssDNA(-),NA,NA,0.1601335749175299,0.07819943321171176,0.2662938629951078,FALSE,Low
+Torque teno virus 22,Anelloviridae,ssDNA(-),NA,NA,0.1919831751967237,0.0942316090146211,0.3029299984770257,FALSE,Medium
+Chicken anemia virus,Anelloviridae,ssDNA(-),Aves,Galliformes,0.41997645867456085,0.2117688424847009,0.7607587011421619,TRUE,High
+Torque teno canis virus,Anelloviridae,ssDNA(-),Mammalia,Carnivora,0.5791050109601573,0.33750548171427563,0.8300852479412187,TRUE,Very high
+Torque teno felis virus,Anelloviridae,ssDNA(-),Mammalia,Carnivora,0.3109894579278624,0.18004373116028144,0.551016925984049,TRUE,High
+Torque teno felis virus 2,Anelloviridae,ssDNA(-),Mammalia,Carnivora,0.40719778553178293,0.22054219037736228,0.6465204806427777,TRUE,High
+Torque teno seal virus 1,Anelloviridae,ssDNA(-),Mammalia,Carnivora,0.3196684555651705,0.1731505142543352,0.5334546853890183,TRUE,High
+Torque teno seal virus 2,Anelloviridae,ssDNA(-),Mammalia,Carnivora,0.21368100322074454,0.05778457249843355,0.36724472654056717,FALSE,Medium
+Torque teno seal virus 3,Anelloviridae,ssDNA(-),Mammalia,Carnivora,0.3697196106361438,0.18793618470702322,0.6232487801630813,TRUE,High
+Torque teno seal virus 4,Anelloviridae,ssDNA(-),Mammalia,Carnivora,0.42724975152906775,0.2288337235662751,0.698571329559504,TRUE,High
+Torque teno seal virus 8,Anelloviridae,ssDNA(-),Mammalia,Carnivora,0.2733599296216791,0.12968407373086954,0.4560041188176773,FALSE,Medium
+Torque teno seal virus 9,Anelloviridae,ssDNA(-),Mammalia,Carnivora,0.2993240770284542,0.16794637448367922,0.491738104198624,TRUE,High
+Torque teno zalophus virus 1,Anelloviridae,ssDNA(-),Mammalia,Carnivora,0.11908794474030793,0.045019201205932294,0.23674780767067555,FALSE,Low
+Torque teno sus virus 1a,Anelloviridae,ssDNA(-),Mammalia,Artiodactyla,0.3517957903456674,0.17623389769320252,0.5771958632535662,TRUE,High
+Torque teno sus virus 1b,Anelloviridae,ssDNA(-),Mammalia,Artiodactyla,0.42314375118547787,0.23574023072137726,0.7038090967280505,TRUE,High
+Torque teno sus virus k2a,Anelloviridae,ssDNA(-),Mammalia,Artiodactyla,0.4198765700682729,0.22090911374278782,0.6717036298540513,TRUE,High
+Torque teno sus virus k2b,Anelloviridae,ssDNA(-),Mammalia,Artiodactyla,0.47647444476518386,0.2549777468352794,0.7267584638564244,TRUE,High
+Torque teno douroucouli virus,Anelloviridae,ssDNA(-),Mammalia,Primates,0.3108935744140514,0.14617684115589785,0.5005885605118019,TRUE,High
+Torque teno midi virus 15,Anelloviridae,ssDNA(-),Mammalia,Primates,0.3869426436431721,0.17023146120739346,0.6568049271072768,TRUE,High
+Torque teno mini virus 4,Anelloviridae,ssDNA(-),Mammalia,Primates,0.6473591027298469,0.3922305328544565,0.9063995431911909,TRUE,Very high
+Torque teno tamarin virus,Anelloviridae,ssDNA(-),Mammalia,Primates,0.3097627382087832,0.16584352155209747,0.5290963390570999,TRUE,High
+Torque teno virus 14,Anelloviridae,ssDNA(-),Mammalia,Primates,0.3054349720449671,0.17907325497590346,0.49594547099686304,TRUE,High
+Torque teno virus 2,Anelloviridae,ssDNA(-),Mammalia,Primates,0.2532108603012461,0.12430087430833342,0.45217710319949106,FALSE,Medium
+Torque teno virus 23,Anelloviridae,ssDNA(-),Mammalia,Primates,0.3651762482779525,0.20473980391144989,0.6008092507688283,TRUE,High
+Torque teno virus 25,Anelloviridae,ssDNA(-),Mammalia,Primates,0.30938768842567804,0.14331004430777322,0.5004848568038277,TRUE,High
+Torque teno virus 26,Anelloviridae,ssDNA(-),Mammalia,Primates,0.25505537663329314,0.13892229074699697,0.42900049919064903,FALSE,Medium
+Torque teno virus 4,Anelloviridae,ssDNA(-),Mammalia,Primates,0.20819601400864482,0.11043856927552212,0.36361985243302436,FALSE,Medium
+Torque teno midi virus 1,Anelloviridae,ssDNA(-),Mammalia,Primates,0.5293210272979105,0.35302806386322433,0.8198134352248914,TRUE,Very high
+Torque teno midi virus 10,Anelloviridae,ssDNA(-),Mammalia,Primates,0.584332764269723,0.3134750824573659,0.8633680344884579,TRUE,Very high
+Torque teno midi virus 11,Anelloviridae,ssDNA(-),Mammalia,Primates,0.5187373873354751,0.2885027678450983,0.7791275350341019,TRUE,High
+Torque teno midi virus 12,Anelloviridae,ssDNA(-),Mammalia,Primates,0.5358398690990089,0.27148957482157776,0.8656591157373061,TRUE,High
+Torque teno midi virus 13,Anelloviridae,ssDNA(-),Mammalia,Primates,0.5880153253693299,0.3219275458505248,0.8847703715428612,TRUE,Very high
+Torque teno midi virus 14,Anelloviridae,ssDNA(-),Mammalia,Primates,0.576941937558162,0.34846332443935846,0.8059377393583436,TRUE,Very high
+Torque teno midi virus 2,Anelloviridae,ssDNA(-),Mammalia,Primates,0.6332349015582872,0.3825088603789538,0.8827575539003611,TRUE,Very high
+Torque teno midi virus 3,Anelloviridae,ssDNA(-),Mammalia,Primates,0.4348644312406914,0.26986492246837623,0.6438132870806617,TRUE,High
+Torque teno midi virus 4,Anelloviridae,ssDNA(-),Mammalia,Primates,0.6467841914674533,0.4031563017179009,0.8980330976921711,TRUE,Very high
+Torque teno midi virus 5,Anelloviridae,ssDNA(-),Mammalia,Primates,0.4536346248196029,0.2649666234299387,0.7234225739756748,TRUE,High
+Torque teno midi virus 6,Anelloviridae,ssDNA(-),Mammalia,Primates,0.6250205327378575,0.38075675262408415,0.9054391123253571,TRUE,Very high
+Torque teno midi virus 7,Anelloviridae,ssDNA(-),Mammalia,Primates,0.39504609440671834,0.19601468876457523,0.6562010920810687,TRUE,High
+Torque teno midi virus 8,Anelloviridae,ssDNA(-),Mammalia,Primates,0.36886944901914476,0.15953027196151123,0.6083965233631552,TRUE,High
+Torque teno midi virus 9,Anelloviridae,ssDNA(-),Mammalia,Primates,0.6813599048934028,0.38714764964241405,0.9205736949876793,TRUE,Very high
+Torque teno mini virus 1,Anelloviridae,ssDNA(-),Mammalia,Primates,0.43289371608936067,0.2404061750004602,0.7104188497160904,TRUE,High
+Torque teno mini virus 10,Anelloviridae,ssDNA(-),Mammalia,Primates,0.46382971195302253,0.2456456581558643,0.7493133221170131,TRUE,High
+Torque teno mini virus 11,Anelloviridae,ssDNA(-),Mammalia,Primates,0.43294037358586146,0.2249618333676228,0.7318925541669656,TRUE,High
+Torque teno mini virus 12,Anelloviridae,ssDNA(-),Mammalia,Primates,0.5318148231750347,0.30212737848243687,0.8010571755279317,TRUE,Very high
+Torque teno mini virus 2,Anelloviridae,ssDNA(-),Mammalia,Primates,0.43543684991891946,0.23781302124786471,0.7586030008885087,TRUE,High
+Torque teno mini virus 3,Anelloviridae,ssDNA(-),Mammalia,Primates,0.4766887538621782,0.24780439704193086,0.8014558835998307,TRUE,High
+Torque teno mini virus 5,Anelloviridae,ssDNA(-),Mammalia,Primates,0.6486887661037547,0.41609056592569493,0.9129697974771549,TRUE,Very high
+Torque teno mini virus 6,Anelloviridae,ssDNA(-),Mammalia,Primates,0.2536514708506594,0.13321233778235902,0.4847676437315047,FALSE,Medium
+Torque teno mini virus 7,Anelloviridae,ssDNA(-),Mammalia,Primates,0.41536123790363044,0.22110863244313406,0.6597977692294512,TRUE,High
+Torque teno mini virus 8,Anelloviridae,ssDNA(-),Mammalia,Primates,0.41842848664461113,0.2552734068834641,0.7165381212040431,TRUE,High
+Torque teno mini virus 9,Anelloviridae,ssDNA(-),Mammalia,Primates,0.5079104956665813,0.29875267436816816,0.7300871794087287,TRUE,Very high
+Torque teno virus 1,Anelloviridae,ssDNA(-),Mammalia,Primates,0.32892082235848497,0.1542625301238278,0.5814739490699932,TRUE,High
+Torque teno virus 10,Anelloviridae,ssDNA(-),Mammalia,Primates,0.5629477251710517,0.3269807647458165,0.8116935708611819,TRUE,Very high
+Torque teno virus 11,Anelloviridae,ssDNA(-),Mammalia,Primates,0.40146092302557806,0.20584181967211146,0.6283944693525852,TRUE,High
+Torque teno virus 12,Anelloviridae,ssDNA(-),Mammalia,Primates,0.3848662084391491,0.22809725800911257,0.6472542771208142,TRUE,High
+Torque teno virus 13,Anelloviridae,ssDNA(-),Mammalia,Primates,0.34076834430163305,0.19043647266388053,0.577467276576151,TRUE,High
+Torque teno virus 15,Anelloviridae,ssDNA(-),Mammalia,Primates,0.5639340870564727,0.2783688635239915,0.8797262196757822,TRUE,High
+Torque teno virus 16,Anelloviridae,ssDNA(-),Mammalia,Primates,0.39503825095408196,0.20792424823661465,0.6834410893461764,TRUE,High
+Torque teno virus 19,Anelloviridae,ssDNA(-),Mammalia,Primates,0.4382306230097803,0.24772901458881097,0.7181461499729989,TRUE,High
+Torque teno virus 20,Anelloviridae,ssDNA(-),Mammalia,Primates,0.23005708408200176,0.09922982840398747,0.39393672511318545,FALSE,Medium
+Torque teno virus 21,Anelloviridae,ssDNA(-),Mammalia,Primates,0.6093599428598545,0.38281183027090815,0.8993061913207121,TRUE,Very high
+Torque teno virus 24,Anelloviridae,ssDNA(-),Mammalia,Primates,0.28101024964405785,0.11167454050083614,0.48935548372558435,FALSE,Medium
+Torque teno virus 27,Anelloviridae,ssDNA(-),Mammalia,Primates,0.46292252298854775,0.2749164028487201,0.7903524110165794,TRUE,High
+Torque teno virus 28,Anelloviridae,ssDNA(-),Mammalia,Primates,0.45361782230325376,0.23865005167971218,0.7434905671282015,TRUE,High
+Torque teno virus 29,Anelloviridae,ssDNA(-),Mammalia,Primates,0.4494259517657232,0.23172430352837542,0.6946550864925006,TRUE,High
+Torque teno virus 3,Anelloviridae,ssDNA(-),Mammalia,Primates,0.3239167401981619,0.15100160126532947,0.6078849879634693,TRUE,High
+Torque teno virus 5,Anelloviridae,ssDNA(-),Mammalia,Primates,0.25605074970874414,0.12035363680126449,0.4311470839229975,FALSE,Medium
+Torque teno virus 6,Anelloviridae,ssDNA(-),Mammalia,Primates,0.19129463167886698,0.09155431014685769,0.3221054889149896,FALSE,Medium
+Torque teno virus 7,Anelloviridae,ssDNA(-),Mammalia,Primates,0.5775289825411956,0.33392166794660844,0.8501067208810382,TRUE,Very high
+Torque teno virus 8,Anelloviridae,ssDNA(-),Mammalia,Primates,0.24209897271297467,0.131378726966489,0.3942529572406384,FALSE,Medium
+Torque teno virus 9,Anelloviridae,ssDNA(-),Mammalia,Primates,0.31095885583262817,0.16176954662782628,0.5120315634497412,TRUE,High
+Gull circovirus,Circoviridae,ssDNA,Aves,Charadriiformes,0.12336269434184703,0.055218294739010944,0.20274313588746862,FALSE,Low
+Pigeon circovirus,Circoviridae,ssDNA,Aves,Columbiformes,0.3964599007847825,0.2337367246115069,0.6848779700946213,TRUE,High
+Beak and feather disease virus,Circoviridae,ssDNA,Aves,Psittaciformes,0.20933358194423732,0.09800124337015058,0.3712757975124046,FALSE,Medium
+Horse associated cyclovirus 1,Circoviridae,ssDNA,Mammalia,Perissodactyla,0.33465344146427717,0.1599542953418993,0.5655542166799048,TRUE,High
+Duck associated cyclovirus 1,Circoviridae,ssDNA,Aves,Anseriformes,0.21540870864389913,0.09180237245156198,0.35555505409838983,FALSE,Medium
+Duck circovirus,Circoviridae,ssDNA,Aves,Anseriformes,0.28365557337979524,0.13015472504682596,0.5182591792209499,FALSE,Medium
+Goose circovirus,Circoviridae,ssDNA,Aves,Anseriformes,0.11449407285392206,0.05600345018082846,0.2022929443828954,FALSE,Low
+Swan circovirus,Circoviridae,ssDNA,Aves,Anseriformes,0.311352719358168,0.15748886373817655,0.5722439460822963,TRUE,High
+Tick associated circovirus 1,Circoviridae,ssDNA,Arachnida,Ixodida,0.12577961770355237,0.05590183314768908,0.21553394499569342,FALSE,Low
+Tick associated circovirus 2,Circoviridae,ssDNA,Arachnida,Ixodida,0.180741850613674,0.07476897600342393,0.30440856462107907,FALSE,Medium
+Canary circovirus,Circoviridae,ssDNA,Aves,Passeriformes,0.4544311177097638,0.26391992963284844,0.7136364685731855,TRUE,High
+Finch circovirus,Circoviridae,ssDNA,Aves,Passeriformes,0.2298998670765714,0.11702202337918033,0.38962548747845904,FALSE,Medium
+Raven circovirus,Circoviridae,ssDNA,Aves,Passeriformes,0.30827445027562306,0.1407749001718313,0.5061192960343888,TRUE,High
+Starling circovirus,Circoviridae,ssDNA,Aves,Passeriformes,0.17804685091833355,0.07815776439791255,0.32837860645379846,FALSE,Medium
+Zebra finch circovirus,Circoviridae,ssDNA,Aves,Passeriformes,0.47776508034506776,0.28436751335855553,0.7487499005221213,TRUE,High
+Chicken associated cyclovirus 1,Circoviridae,ssDNA,Aves,Galliformes,0.24185684505269792,0.1218698442390587,0.41886468991227377,FALSE,Medium
+Chicken associated cyclovirus 2,Circoviridae,ssDNA,Aves,Galliformes,0.2755613748397063,0.12881659574840765,0.43011599978343773,FALSE,Medium
+Canine circovirus,Circoviridae,ssDNA,Mammalia,Carnivora,0.20902241416240103,0.10136806763132539,0.3608738534668143,FALSE,Medium
+Civet circovirus,Circoviridae,ssDNA,Mammalia,Carnivora,0.24317586195245025,0.12174339948482815,0.3887735380286681,FALSE,Medium
+Feline associated cyclovirus 1,Circoviridae,ssDNA,Mammalia,Carnivora,0.16593760631395812,0.08288290587184552,0.2990852110378052,FALSE,Medium
+Mink circovirus,Circoviridae,ssDNA,Mammalia,Carnivora,0.21316841633501374,0.11604384689764627,0.3822382833791977,FALSE,Medium
+Bovine associated cyclovirus 1,Circoviridae,ssDNA,Mammalia,Artiodactyla,0.11130112343502775,0.04905837465473381,0.19459430675083597,FALSE,Low
+Goat associated cyclovirus 1,Circoviridae,ssDNA,Mammalia,Artiodactyla,0.15422766180617165,0.06968303665922909,0.25049235681276394,FALSE,Low
+Porcine circovirus 3,Circoviridae,ssDNA,Mammalia,Artiodactyla,0.35815886442630884,0.19713841915110364,0.6044688363102841,TRUE,High
+Chimpanzee associated circovirus 1,Circoviridae,ssDNA,Mammalia,Primates,0.28919806442144946,0.1491126472599633,0.533984879606709,FALSE,Medium
+Chimpanzee associated cyclovirus 1,Circoviridae,ssDNA,Mammalia,Primates,0.471473882340448,0.2674174306940947,0.7700603801329576,TRUE,High
+Mosquito associated circovirus 1,Circoviridae,ssDNA,Insecta,Diptera,0.18085016629835127,0.08992898795685436,0.3208819845354693,FALSE,Medium
+Mouse associated cyclovirus 1,Circoviridae,ssDNA,Mammalia,Rodentia,0.20548881376545466,0.10110302406329066,0.3676790590915033,FALSE,Medium
+Rodent associated circovirus 1,Circoviridae,ssDNA,Mammalia,Rodentia,0.25068208155555977,0.12110874381024078,0.47489575462542555,FALSE,Medium
+Rodent associated circovirus 2,Circoviridae,ssDNA,Mammalia,Rodentia,0.17778030652432106,0.06901885274398056,0.30066155005219597,FALSE,Medium
+Rodent associated circovirus 3,Circoviridae,ssDNA,Mammalia,Rodentia,0.1711432694891999,0.0627134134501694,0.31823426799946386,FALSE,Medium
+Rodent associated circovirus 4,Circoviridae,ssDNA,Mammalia,Rodentia,0.17850157405033662,0.07089913181336696,0.3484031265673893,FALSE,Medium
+Rodent associated circovirus 5,Circoviridae,ssDNA,Mammalia,Rodentia,0.22559853082467576,0.08745414323124143,0.3790004958963473,FALSE,Medium
+Rodent associated circovirus 6,Circoviridae,ssDNA,Mammalia,Rodentia,0.3079465377050296,0.1640256672509827,0.5268113845329503,TRUE,High
+Rodent associated circovirus 7,Circoviridae,ssDNA,Mammalia,Rodentia,0.286089673960245,0.13566996129340875,0.5216917702150694,FALSE,Medium
+Rodent associated cyclovirus 1,Circoviridae,ssDNA,Mammalia,Rodentia,0.4468373653697303,0.26269709426752663,0.7222224857379345,TRUE,High
+Rodent associated cyclovirus 2,Circoviridae,ssDNA,Mammalia,Rodentia,0.36655561834744743,0.18266431830728397,0.5908588106971254,TRUE,High
+Squirrel associated cyclovirus 1,Circoviridae,ssDNA,Mammalia,Rodentia,0.2591364693465377,0.13344894650184697,0.40406302194552346,FALSE,Medium
+Human associated circovirus 1,Circoviridae,ssDNA,Mammalia,Primates,0.23737228381373868,0.1270477461082305,0.45994876638789817,FALSE,Medium
+Human associated cyclovirus 1,Circoviridae,ssDNA,Mammalia,Primates,0.21246218064555797,0.10126093832358783,0.35338350100682725,FALSE,Medium
+Human associated cyclovirus 10,Circoviridae,ssDNA,Mammalia,Primates,0.3035433000713384,0.15115699052643689,0.5338994450064961,TRUE,High
+Human associated cyclovirus 11,Circoviridae,ssDNA,Mammalia,Primates,0.3329442996186814,0.19369852898168877,0.573894905188337,TRUE,High
+Human associated cyclovirus 12,Circoviridae,ssDNA,Mammalia,Primates,0.32213670403719,0.16411566169344333,0.5655873940348943,TRUE,High
+Human associated cyclovirus 2,Circoviridae,ssDNA,Mammalia,Primates,0.2103710133644189,0.10358776936946218,0.3273548230639688,FALSE,Medium
+Human associated cyclovirus 3,Circoviridae,ssDNA,Mammalia,Primates,0.2876306158267341,0.13411973106377373,0.4559737286192115,FALSE,Medium
+Human associated cyclovirus 4,Circoviridae,ssDNA,Mammalia,Primates,0.1617899381931009,0.07316262283719734,0.30666675043669567,FALSE,Medium
+Human associated cyclovirus 5,Circoviridae,ssDNA,Mammalia,Primates,0.2687585953574553,0.135845546008321,0.47157934154466014,FALSE,Medium
+Human associated cyclovirus 6,Circoviridae,ssDNA,Mammalia,Primates,0.49028220650743587,0.2495212044746979,0.7274026269425627,TRUE,High
+Human associated cyclovirus 7,Circoviridae,ssDNA,Mammalia,Primates,0.25504188920129406,0.13895317111408917,0.4234152146591908,FALSE,Medium
+Human associated cyclovirus 8,Circoviridae,ssDNA,Mammalia,Primates,0.17711992410760913,0.08543456179678803,0.33416449115067587,FALSE,Medium
+Human associated cyclovirus 9,Circoviridae,ssDNA,Mammalia,Primates,0.42025621264173424,0.2552093720819057,0.6675594317513882,TRUE,High
+Bat associated circovirus 1,Circoviridae,ssDNA,Mammalia,Chiroptera,0.19401123376782206,0.08221562989327705,0.31460299988714036,FALSE,Medium
+Bat associated circovirus 10,Circoviridae,ssDNA,Mammalia,Chiroptera,0.3058556896692143,0.15933407990661141,0.5384280328138824,TRUE,High
+Bat associated circovirus 11,Circoviridae,ssDNA,Mammalia,Chiroptera,0.13976509448764796,0.05872018725075293,0.24125765216697015,FALSE,Low
+Bat associated circovirus 12,Circoviridae,ssDNA,Mammalia,Chiroptera,0.14039293450805104,0.0721273607728479,0.2598196557344159,FALSE,Low
+Bat associated circovirus 2,Circoviridae,ssDNA,Mammalia,Chiroptera,0.10747904392081531,0.04069354772003132,0.2021586397432844,FALSE,Low
+Bat associated circovirus 3,Circoviridae,ssDNA,Mammalia,Chiroptera,0.13539965005824192,0.06342694364992725,0.20746466891229975,FALSE,Low
+Bat associated circovirus 4,Circoviridae,ssDNA,Mammalia,Chiroptera,0.21768080791001657,0.1001674494763518,0.3811572864869699,FALSE,Medium
+Bat associated circovirus 5,Circoviridae,ssDNA,Mammalia,Chiroptera,0.21399135903648445,0.0859132137020884,0.40028399680474597,FALSE,Medium
+Bat associated circovirus 6,Circoviridae,ssDNA,Mammalia,Chiroptera,0.17391039043273757,0.06889672022226852,0.32922379336730356,FALSE,Medium
+Bat associated circovirus 7,Circoviridae,ssDNA,Mammalia,Chiroptera,0.1604367045976467,0.05342067387460131,0.31346498447883125,FALSE,Medium
+Bat associated circovirus 8,Circoviridae,ssDNA,Mammalia,Chiroptera,0.3479222480730571,0.1902919477610468,0.5848360476798637,TRUE,High
+Bat associated circovirus 9,Circoviridae,ssDNA,Mammalia,Chiroptera,0.18762395802468163,0.0731629974166621,0.30225640175978863,FALSE,Medium
+Bat associated cyclovirus 1,Circoviridae,ssDNA,Mammalia,Chiroptera,0.5257566011387915,0.33671801784375655,0.7733796773298536,TRUE,Very high
+Bat associated cyclovirus 10,Circoviridae,ssDNA,Mammalia,Chiroptera,0.4500255055028682,0.236689930454588,0.7208635727774511,TRUE,High
+Bat associated cyclovirus 11,Circoviridae,ssDNA,Mammalia,Chiroptera,0.23278065197079678,0.11143196765203278,0.39803864519579985,FALSE,Medium
+Bat associated cyclovirus 12,Circoviridae,ssDNA,Mammalia,Chiroptera,0.2275762223026883,0.10971823822151816,0.40043004749522004,FALSE,Medium
+Bat associated cyclovirus 13,Circoviridae,ssDNA,Mammalia,Chiroptera,0.2373879109533328,0.13094971388121,0.3639836084633007,FALSE,Medium
+Bat associated cyclovirus 14,Circoviridae,ssDNA,Mammalia,Chiroptera,0.34322322838967584,0.1803060264928979,0.565898477603594,TRUE,High
+Bat associated cyclovirus 15,Circoviridae,ssDNA,Mammalia,Chiroptera,0.3202912872368462,0.16155601207044462,0.5067002221617907,TRUE,High
+Bat associated cyclovirus 16,Circoviridae,ssDNA,Mammalia,Chiroptera,0.3667712262506344,0.18354290966510378,0.6266453179764124,TRUE,High
+Bat associated cyclovirus 2,Circoviridae,ssDNA,Mammalia,Chiroptera,0.15729846890142016,0.08308791959029141,0.2828251838473337,FALSE,Low
+Bat associated cyclovirus 3,Circoviridae,ssDNA,Mammalia,Chiroptera,0.25710628827700904,0.13428338166761783,0.41880070666597313,FALSE,Medium
+Bat associated cyclovirus 4,Circoviridae,ssDNA,Mammalia,Chiroptera,0.24353044444139596,0.1283988112456989,0.4111309273833349,FALSE,Medium
+Bat associated cyclovirus 5,Circoviridae,ssDNA,Mammalia,Chiroptera,0.25019769354495025,0.12359813373252113,0.38887832880598383,FALSE,Medium
+Bat associated cyclovirus 6,Circoviridae,ssDNA,Mammalia,Chiroptera,0.15671537840279168,0.07834725846866174,0.2610919696323669,FALSE,Low
+Bat associated cyclovirus 7,Circoviridae,ssDNA,Mammalia,Chiroptera,0.2103016215279615,0.11912504678164001,0.3385150513201162,FALSE,Medium
+Bat associated cyclovirus 8,Circoviridae,ssDNA,Mammalia,Chiroptera,0.29013241939668616,0.1329029080388809,0.5152233363908086,FALSE,Medium
+Bat associated cyclovirus 9,Circoviridae,ssDNA,Mammalia,Chiroptera,0.29590988414772557,0.15328809942535004,0.5298182713203698,TRUE,High
+Treiszetapapillomavirus 1,Papillomaviridae,dsDNA,Aves,Procellariiformes,0.3253226724023874,0.15916397846073815,0.5900717981449639,TRUE,High
+Rhopapillomavirus 1,Papillomaviridae,dsDNA,Mammalia,Sirenia,0.5439835261001033,0.3310875432369217,0.8399195625972985,TRUE,Very high
+Rhopapillomavirus 2,Papillomaviridae,dsDNA,Mammalia,Sirenia,0.5231374742299236,0.3097316835459418,0.8473395773667813,TRUE,Very high
+Dyolambdapapillomavirus 1,Papillomaviridae,dsDNA,Mammalia,Diprotodontia,0.25326183401056734,0.13717314880660128,0.3929684178471352,FALSE,Medium
+Treisepsilonpapillomavirus 1,Papillomaviridae,dsDNA,Aves,Sphenisciformes,0.2200817689919801,0.10224078594173847,0.4157337155347377,FALSE,Medium
+Thetapapillomavirus 1,Papillomaviridae,dsDNA,Aves,Psittaciformes,0.3853857927197033,0.21143061087612924,0.6798378524497053,TRUE,High
+Dyoetapapillomavirus 1,Papillomaviridae,dsDNA,Mammalia,Eulipotyphla,0.33734485284120985,0.17733471086877306,0.4898583742843047,TRUE,High
+Dyophipapillomavirus 1,Papillomaviridae,dsDNA,Mammalia,Eulipotyphla,0.4935776920311883,0.31347685622191424,0.7389324114372972,TRUE,Very high
+Dyochipapillomavirus 1,Papillomaviridae,dsDNA,Mammalia,Perissodactyla,0.26072918432295034,0.12697382860005513,0.44510876372758484,FALSE,Medium
+Dyoiotapapillomavirus 1,Papillomaviridae,dsDNA,Mammalia,Perissodactyla,0.13679995391065702,0.05563607203339968,0.24362426040007001,FALSE,Low
+Dyoiotapapillomavirus 2,Papillomaviridae,dsDNA,Mammalia,Perissodactyla,0.33650459558650553,0.1717231522383533,0.5786387195900217,TRUE,High
+Dyorhopapillomavirus 1,Papillomaviridae,dsDNA,Mammalia,Perissodactyla,0.1772072773153967,0.08173333658277757,0.2836602839100403,FALSE,Low
+Treiskappapapillomavirus 1,Papillomaviridae,dsDNA,Mammalia,Perissodactyla,0.3185281498313628,0.1473266115743893,0.5282045229007863,TRUE,High
+Etapapillomavirus 1,Papillomaviridae,dsDNA,Aves,Passeriformes,0.2162872333967435,0.10700381299165104,0.38813970014615257,FALSE,Medium
+Dyoepsilonpapillomavirus 1,Papillomaviridae,dsDNA,Aves,Galliformes,0.23605516635385068,0.10185363739340525,0.406940361995053,FALSE,Medium
+Chipapillomavirus 1,Papillomaviridae,dsDNA,Mammalia,Carnivora,0.21100961202239008,0.09031391284514007,0.36774238156377737,FALSE,Medium
+Chipapillomavirus 2,Papillomaviridae,dsDNA,Mammalia,Carnivora,0.41541311607993786,0.2060336197782009,0.6426138208101733,TRUE,High
+Chipapillomavirus 3,Papillomaviridae,dsDNA,Mammalia,Carnivora,0.18220133116875795,0.07397951202943623,0.3396141253751196,FALSE,Medium
+Dyonupapillomavirus 1,Papillomaviridae,dsDNA,Mammalia,Carnivora,0.5599575450287858,0.3286932267870154,0.8144819471904907,TRUE,Very high
+Dyothetapapillomavirus 1,Papillomaviridae,dsDNA,Mammalia,Carnivora,0.23740321808910556,0.11570889486760613,0.3614574717964484,FALSE,Medium
+Lambdapapillomavirus 3,Papillomaviridae,dsDNA,Mammalia,Carnivora,0.4836311139419933,0.266096130684797,0.7410738373874803,TRUE,High
+Lambdapapillomavirus 4,Papillomaviridae,dsDNA,Mammalia,Carnivora,0.31723466644704273,0.20026576712986216,0.4876216335807366,TRUE,High
+Lambdapapillomavirus 5,Papillomaviridae,dsDNA,Mammalia,Carnivora,0.4135185397624954,0.20190725411442467,0.690241472279141,TRUE,High
+Omegapapillomavirus 1,Papillomaviridae,dsDNA,Mammalia,Carnivora,0.23708072541319983,0.11826008259211736,0.38892506288452855,FALSE,Medium
+Taupapillomavirus 1,Papillomaviridae,dsDNA,Mammalia,Carnivora,0.23258635036845796,0.10096483306432855,0.37574799379684964,FALSE,Medium
+Taupapillomavirus 2,Papillomaviridae,dsDNA,Mammalia,Carnivora,0.189907209177119,0.08864753382407549,0.327768840001415,FALSE,Medium
+Taupapillomavirus 3,Papillomaviridae,dsDNA,Mammalia,Carnivora,0.18870065574368566,0.10233928727997992,0.2885139328120563,FALSE,Low
+Taupapillomavirus 4,Papillomaviridae,dsDNA,Mammalia,Carnivora,0.4803620292800763,0.25846299530345485,0.6936673005173083,TRUE,High
+Treisetapapillomavirus 1,Papillomaviridae,dsDNA,Mammalia,Carnivora,0.31306437332945447,0.1699010299733294,0.49768964117517467,TRUE,High
+Deltapapillomavirus 5,Papillomaviridae,dsDNA,Mammalia,Artiodactyla,0.09273186681525518,0.03526760784017943,0.17348921219669228,FALSE,Low
+Deltapapillomavirus 6,Papillomaviridae,dsDNA,Mammalia,Artiodactyla,0.21256231655266603,0.10921701341108349,0.35503223275326806,FALSE,Medium
+Deltapapillomavirus 7,Papillomaviridae,dsDNA,Mammalia,Artiodactyla,0.18999816563684688,0.07245341979283217,0.3607078724071755,FALSE,Medium
+Dyodeltapapillomavirus 1,Papillomaviridae,dsDNA,Mammalia,Artiodactyla,0.3029418072663153,0.14669037220856335,0.5036635265313614,TRUE,High
+Dyokappapapillomavirus 1,Papillomaviridae,dsDNA,Mammalia,Artiodactyla,0.2177383639193023,0.10705499086116127,0.3664298070303843,FALSE,Medium
+Dyokappapapillomavirus 2,Papillomaviridae,dsDNA,Mammalia,Artiodactyla,0.20481455446795643,0.10113250650564881,0.3515165899464168,FALSE,Medium
+Dyokappapapillomavirus 3,Papillomaviridae,dsDNA,Mammalia,Artiodactyla,0.5329073105315989,0.3113648314230796,0.831100345571415,TRUE,Very high
+Dyokappapapillomavirus 4,Papillomaviridae,dsDNA,Mammalia,Artiodactyla,0.6710289722172185,0.43642780012774196,0.9140751566994011,TRUE,Very high
+Dyokappapapillomavirus 5,Papillomaviridae,dsDNA,Mammalia,Artiodactyla,0.3580263709791858,0.16002333369010335,0.5989753053365565,TRUE,High
+Dyopipapillomavirus 1,Papillomaviridae,dsDNA,Mammalia,Artiodactyla,0.6272720329771238,0.3878320620156587,0.896986606476728,TRUE,Very high
+Dyoxipapillomavirus 1,Papillomaviridae,dsDNA,Mammalia,Artiodactyla,0.3237576204919699,0.17798530080121966,0.5208506398881793,TRUE,High
+Dyoxipapillomavirus 2,Papillomaviridae,dsDNA,Mammalia,Artiodactyla,0.443899861211067,0.27055278433368635,0.6680965635199956,TRUE,High
+Epsilonpapillomavirus 2,Papillomaviridae,dsDNA,Mammalia,Artiodactyla,0.20350304141320955,0.10514921599858648,0.3164051589448831,FALSE,Medium
+Phipapillomavirus 1,Papillomaviridae,dsDNA,Mammalia,Artiodactyla,0.4670790681898303,0.26452420456047865,0.7580488384001608,TRUE,High
+Treisthetapapillomavirus 1,Papillomaviridae,dsDNA,Mammalia,Artiodactyla,0.38088813881307076,0.23682724010202966,0.6277561129900046,TRUE,High
+Upsilonpapillomavirus 1,Papillomaviridae,dsDNA,Mammalia,Artiodactyla,0.4267282170914079,0.2445580057629359,0.680264930543167,TRUE,High
+Upsilonpapillomavirus 2,Papillomaviridae,dsDNA,Mammalia,Artiodactyla,0.35911874843787756,0.15958184000886982,0.5784147150889256,TRUE,High
+Upsilonpapillomavirus 3,Papillomaviridae,dsDNA,Mammalia,Artiodactyla,0.419233838111259,0.23174841068268992,0.6482168922040161,TRUE,High
+Xipapillomavirus 2,Papillomaviridae,dsDNA,Mammalia,Artiodactyla,0.6970842951635478,0.44561954080062915,0.9195508025586473,TRUE,Very high
+Xipapillomavirus 3,Papillomaviridae,dsDNA,Mammalia,Artiodactyla,0.5697704314722538,0.33468131296196973,0.8115245752881115,TRUE,Very high
+Xipapillomavirus 4,Papillomaviridae,dsDNA,Mammalia,Artiodactyla,0.42858026506450664,0.22136497460088853,0.6739624055145321,TRUE,High
+Xipapillomavirus 5,Papillomaviridae,dsDNA,Mammalia,Artiodactyla,0.5398590999212591,0.31344131673877196,0.7921324597613946,TRUE,Very high
+Betapapillomavirus 6,Papillomaviridae,dsDNA,Mammalia,Primates,0.28290811873108884,0.13562077751147467,0.44142369293960165,FALSE,Medium
+Dyoomikronpapillomavirus 1,Papillomaviridae,dsDNA,Mammalia,Primates,0.20707592210903314,0.10702527218374483,0.3215830991655132,FALSE,Medium
+Dyosigmapapillomavirus 1,Papillomaviridae,dsDNA,Mammalia,Rodentia,0.16007308944728868,0.05992172603763843,0.2824528602833417,FALSE,Low
+Iotapapillomavirus 2,Papillomaviridae,dsDNA,Mammalia,Rodentia,0.218508215313411,0.09420221033789583,0.35198782966446374,FALSE,Medium
+Pipapillomavirus 2,Papillomaviridae,dsDNA,Mammalia,Rodentia,0.33022419501026673,0.1760414466641388,0.5562095001869449,TRUE,High
+Sigmapapillomavirus 1,Papillomaviridae,dsDNA,Mammalia,Rodentia,0.5700235809059019,0.31139038115293505,0.8496361039189189,TRUE,Very high
+Gammapapillomavirus 10,Papillomaviridae,dsDNA,Mammalia,Primates,0.8088604403777865,0.6070363942945469,0.9728269734044788,TRUE,Very high
+Gammapapillomavirus 11,Papillomaviridae,dsDNA,Mammalia,Primates,0.6688975741414243,0.4090954315062403,0.9202375849214381,TRUE,Very high
+Gammapapillomavirus 12,Papillomaviridae,dsDNA,Mammalia,Primates,0.7005564772421149,0.4311970170416368,0.9392067707338208,TRUE,Very high
+Gammapapillomavirus 13,Papillomaviridae,dsDNA,Mammalia,Primates,0.5861206904181309,0.3320174837617936,0.8614993635410451,TRUE,Very high
+Gammapapillomavirus 14,Papillomaviridae,dsDNA,Mammalia,Primates,0.5369000271872518,0.25757516788142454,0.8552299360482396,TRUE,High
+Gammapapillomavirus 15,Papillomaviridae,dsDNA,Mammalia,Primates,0.6215341248139817,0.3577859950414777,0.8846823019879745,TRUE,Very high
+Gammapapillomavirus 16,Papillomaviridae,dsDNA,Mammalia,Primates,0.6259205496643545,0.38013234697846,0.8426474210166293,TRUE,Very high
+Gammapapillomavirus 17,Papillomaviridae,dsDNA,Mammalia,Primates,0.6359288089282651,0.36063725329311147,0.8799006051373324,TRUE,Very high
+Gammapapillomavirus 18,Papillomaviridae,dsDNA,Mammalia,Primates,0.5169092105170845,0.26654892050388446,0.805547618287869,TRUE,High
+Gammapapillomavirus 19,Papillomaviridae,dsDNA,Mammalia,Primates,0.7772873718452036,0.4945337922227382,0.9583302195402407,TRUE,Very high
+Gammapapillomavirus 20,Papillomaviridae,dsDNA,Mammalia,Primates,0.7103804169597383,0.44566066530047177,0.9259617158922908,TRUE,Very high
+Gammapapillomavirus 21,Papillomaviridae,dsDNA,Mammalia,Primates,0.5518888891460179,0.2949989402025848,0.8078511665882662,TRUE,Very high
+Gammapapillomavirus 22,Papillomaviridae,dsDNA,Mammalia,Primates,0.7589255123112322,0.4699452112898124,0.9670394488493063,TRUE,Very high
+Gammapapillomavirus 23,Papillomaviridae,dsDNA,Mammalia,Primates,0.7043778508966418,0.4053801274272094,0.9376462445671345,TRUE,Very high
+Gammapapillomavirus 24,Papillomaviridae,dsDNA,Mammalia,Primates,0.7654109425789385,0.47576799840726425,0.9667563390691836,TRUE,Very high
+Gammapapillomavirus 25,Papillomaviridae,dsDNA,Mammalia,Primates,0.5041782535251513,0.3030367516174426,0.7455581384604726,TRUE,Very high
+Gammapapillomavirus 26,Papillomaviridae,dsDNA,Mammalia,Primates,0.6672846158380754,0.40155236156304025,0.959662577793126,TRUE,Very high
+Gammapapillomavirus 27,Papillomaviridae,dsDNA,Mammalia,Primates,0.7014513951926861,0.43507581776482424,0.928779081425813,TRUE,Very high
+Gammapapillomavirus 6,Papillomaviridae,dsDNA,Mammalia,Primates,0.6646157627741828,0.37268756111823736,0.8748938482140597,TRUE,Very high
+Gammapapillomavirus 7,Papillomaviridae,dsDNA,Mammalia,Primates,0.6980226839191946,0.4240057951212608,0.9090496121843912,TRUE,Very high
+Gammapapillomavirus 8,Papillomaviridae,dsDNA,Mammalia,Primates,0.4042479251706214,0.1884852582217351,0.6332678213990712,TRUE,High
+Gammapapillomavirus 9,Papillomaviridae,dsDNA,Mammalia,Primates,0.7370702417633054,0.4823823472565384,0.939460608372564,TRUE,Very high
+Mupapillomavirus 3,Papillomaviridae,dsDNA,Mammalia,Primates,0.6907871769781632,0.4204053763195036,0.9221142961108723,TRUE,Very high
+Dyoomegapapillomavirus 1,Papillomaviridae,dsDNA,Mammalia,Chiroptera,0.31663966681969763,0.16298257658705823,0.5288826520977674,TRUE,High
+Dyopsipapillomavirus 1,Papillomaviridae,dsDNA,Mammalia,Chiroptera,0.4490256162497061,0.2471727138554986,0.7231336304150588,TRUE,High
+Dyotaupapillomavirus 1,Papillomaviridae,dsDNA,Mammalia,Chiroptera,0.5370045555507197,0.3319928690071308,0.8451492851631645,TRUE,Very high
+Dyoupsilonpapillomavirus 1,Papillomaviridae,dsDNA,Mammalia,Chiroptera,0.7015285801146084,0.4590476699864081,0.9212692710262758,TRUE,Very high
+Psipapillomavirus 1,Papillomaviridae,dsDNA,Mammalia,Chiroptera,0.39962806406931145,0.20105502362272765,0.6530317023003775,TRUE,High
+Psipapillomavirus 2,Papillomaviridae,dsDNA,Mammalia,Chiroptera,0.32607784111594035,0.14276574710107437,0.5486335281144992,TRUE,High
+Psipapillomavirus 3,Papillomaviridae,dsDNA,Mammalia,Chiroptera,0.34413859935596836,0.15206269516694038,0.5804564684710359,TRUE,High
+Treisdeltapapillomavirus 1,Papillomaviridae,dsDNA,Mammalia,Chiroptera,0.33379289452967914,0.19045682807010547,0.6172382617597034,TRUE,High
+Treisiotapapillomavirus 1,Papillomaviridae,dsDNA,Mammalia,Chiroptera,0.6293459881253503,0.4235559947918769,0.8685105926767984,TRUE,Very high
+Tupaia belangeri polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Scandentia,0.3528307455272647,0.18287475065847675,0.542870277834255,TRUE,High
+Loxodonta africana polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Proboscidea,0.2906504933311906,0.12311835314404587,0.5036533510526628,FALSE,Medium
+Pygoscelis adeliae polyomavirus 1,Polyomaviridae,dsDNA,Aves,Sphenisciformes,0.18159117622622065,0.09140281229356051,0.3052246830183655,FALSE,Medium
+Aves polyomavirus 1,Polyomaviridae,dsDNA,Aves,Psittaciformes,0.2890486721860831,0.13218001808063456,0.4815452238530807,FALSE,Medium
+Sorex araneus polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Eulipotyphla,0.49975793981018213,0.30659398643855196,0.7409191775307905,TRUE,Very high
+Sorex coronatus polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Eulipotyphla,0.45520236661765767,0.2630577344427895,0.6904069675403596,TRUE,High
+Sorex minutus polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Eulipotyphla,0.43122480026380144,0.24552795783732204,0.6691255468352567,TRUE,High
+Equus caballus polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Perissodactyla,0.20265525725519465,0.0949460980697455,0.3332410196477138,FALSE,Medium
+Anser anser polyomavirus 1,Polyomaviridae,dsDNA,Aves,Anseriformes,0.13991332084600194,0.053844908229636945,0.28454352752768375,FALSE,Low
+Corvus monedula polyomavirus 1,Polyomaviridae,dsDNA,Aves,Passeriformes,0.32943078994724967,0.2106291983723631,0.5302328481561555,TRUE,High
+Cracticus torquatus polyomavirus 1,Polyomaviridae,dsDNA,Aves,Passeriformes,0.19282424585240548,0.09076346469686183,0.3233767789327525,FALSE,Medium
+Erythrura gouldiae polyomavirus 1,Polyomaviridae,dsDNA,Aves,Passeriformes,0.2049682762393197,0.09756560334158734,0.3197838713692208,FALSE,Medium
+Lonchura maja polyomavirus 1,Polyomaviridae,dsDNA,Aves,Passeriformes,0.27389080007411953,0.1513833986341484,0.4838980424267746,FALSE,Medium
+Pyrrhula pyrrhula polyomavirus 1,Polyomaviridae,dsDNA,Aves,Passeriformes,0.2469240044549946,0.11938002588944929,0.43512175808452214,FALSE,Medium
+Serinus canaria polyomavirus 1,Polyomaviridae,dsDNA,Aves,Passeriformes,0.2503979917574267,0.10569811796452677,0.45112995133248657,FALSE,Medium
+Ailuropoda melanoleuca polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Carnivora,0.2873926146576946,0.15888498286485972,0.48712776605211316,FALSE,Medium
+Canis familiaris polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Carnivora,0.18505200852390016,0.0930038257482668,0.3001809169284339,FALSE,Medium
+Enhydra lutris polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Carnivora,0.305889520518307,0.1448137074300608,0.5243917640449803,TRUE,High
+Leptonychotes weddellii polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Carnivora,0.3122592643090075,0.17527716238493035,0.44319773030240495,TRUE,High
+Meles meles polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Carnivora,0.20638019622971088,0.1116995829069059,0.3409100555413178,FALSE,Medium
+Procyon lotor polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Carnivora,0.23426515591045335,0.12751499814499925,0.4157972858878721,FALSE,Medium
+Procyon lotor polyomavirus 2,Polyomaviridae,dsDNA,Mammalia,Carnivora,0.2558380888681741,0.13936485044425628,0.39417333645523456,FALSE,Medium
+Zalophus californianus polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Carnivora,0.24316887867033388,0.14133680917930314,0.42522913142249197,FALSE,Medium
+Delphinus delphis polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Artiodactyla,0.3924779309446443,0.1941944260077212,0.6198654461754718,TRUE,High
+Vicugna pacos polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Artiodactyla,0.2543634762614579,0.14431324378214622,0.4521037884815119,FALSE,Medium
+Ateles paniscus polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Primates,0.26157066185842137,0.1468848134387862,0.4637921215558653,FALSE,Medium
+Cebus albifrons polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Primates,0.2998649397360628,0.1495834632384136,0.530628496281821,TRUE,High
+Cercopithecus erythrotis polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Primates,0.3606115570784312,0.18787684742245503,0.5703905431554033,TRUE,High
+Chlorocebus pygerythrus polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Primates,0.46654033055177657,0.2418536124372928,0.696008464754647,TRUE,High
+Chlorocebus pygerythrus polyomavirus 2,Polyomaviridae,dsDNA,Mammalia,Primates,0.29839710473428155,0.16587174766372442,0.4954030157216689,TRUE,High
+Chlorocebus pygerythrus polyomavirus 3,Polyomaviridae,dsDNA,Mammalia,Primates,0.23907685166656867,0.11828008556251823,0.43553711618787233,FALSE,Medium
+Gorilla gorilla polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Primates,0.310226822318869,0.15559890157649925,0.537419561302179,TRUE,High
+Macaca fascicularis polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Primates,0.42586743868336524,0.2086360748765047,0.6819201708217755,TRUE,High
+Pan troglodytes polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Primates,0.4237104442315889,0.2259856708724953,0.697699923426718,TRUE,High
+Pan troglodytes polyomavirus 2,Polyomaviridae,dsDNA,Mammalia,Primates,0.33063866928516916,0.17728548624391902,0.5382423461625505,TRUE,High
+Pan troglodytes polyomavirus 3,Polyomaviridae,dsDNA,Mammalia,Primates,0.3712037442894364,0.2064919568640623,0.5877202311523544,TRUE,High
+Pan troglodytes polyomavirus 4,Polyomaviridae,dsDNA,Mammalia,Primates,0.25313009485608023,0.13708810059427862,0.42970505914187707,FALSE,Medium
+Pan troglodytes polyomavirus 5,Polyomaviridae,dsDNA,Mammalia,Primates,0.3974041826086156,0.19044158942518946,0.676442989775474,TRUE,High
+Pan troglodytes polyomavirus 6,Polyomaviridae,dsDNA,Mammalia,Primates,0.25595463071996843,0.11179200053579871,0.42355221821451106,FALSE,Medium
+Pan troglodytes polyomavirus 7,Polyomaviridae,dsDNA,Mammalia,Primates,0.3086986312716694,0.17005958770835575,0.4679397435697841,TRUE,High
+Pan troglodytes polyomavirus 8,Polyomaviridae,dsDNA,Mammalia,Primates,0.5859706241478466,0.3425668048789746,0.8476373649154167,TRUE,Very high
+Papio cynocephalus polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Primates,0.39332631723545525,0.21663835210345872,0.6551625150068607,TRUE,High
+Papio cynocephalus polyomavirus 2,Polyomaviridae,dsDNA,Mammalia,Primates,0.34384027992411687,0.18809397527767807,0.5363690086113572,TRUE,High
+Piliocolobus badius polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Primates,0.27920866880790285,0.15209256945045285,0.4955029469249652,FALSE,Medium
+Piliocolobus rufomitratus polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Primates,0.21419617952271272,0.10537281036285516,0.3712911027111938,FALSE,Medium
+Pongo abelii polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Primates,0.3904144290065963,0.19595085936486797,0.6933787926527932,TRUE,High
+Pongo pygmaeus polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Primates,0.30294381971542206,0.1846015405195807,0.5158651527709973,TRUE,High
+Saimiri boliviensis polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Primates,0.24638225018108834,0.12243853764579755,0.3967284092630869,FALSE,Medium
+Saimiri sciureus polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Primates,0.2100449056968756,0.10433347281400465,0.36776175819926127,FALSE,Medium
+Mastomys natalensis polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Rodentia,0.33473532945083784,0.1675764045555474,0.5733576077885842,TRUE,High
+Microtus arvalis polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Rodentia,0.15714593670777505,0.0733978452603393,0.2519151646571409,FALSE,Low
+Mus musculus polyomavirus 3,Polyomaviridae,dsDNA,Mammalia,Rodentia,0.40266200216768505,0.22899845636760857,0.6698706822776249,TRUE,High
+Myodes glareolus polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Rodentia,0.22467492366452285,0.11407932851524274,0.3865653308028154,FALSE,Medium
+Rattus norvegicus polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Rodentia,0.2056929866046997,0.10009164349224076,0.36238346089468004,FALSE,Medium
+Rattus norvegicus polyomavirus 2,Polyomaviridae,dsDNA,Mammalia,Rodentia,0.2010716598153323,0.08518848866935333,0.34310424758824487,FALSE,Medium
+Human polyomavirus 10,Polyomaviridae,dsDNA,Mammalia,Primates,0.38159896197177867,0.196482488006668,0.6595405690070846,TRUE,High
+Human polyomavirus 11,Polyomaviridae,dsDNA,Mammalia,Primates,0.46706239784592984,0.24976979215732703,0.7574889313575575,TRUE,High
+Human polyomavirus 13,Polyomaviridae,dsDNA,Mammalia,Primates,0.3994410795792478,0.22427182123636902,0.6984434472504691,TRUE,High
+Human polyomavirus 14,Polyomaviridae,dsDNA,Mammalia,Primates,0.4251030704112928,0.23301217024174692,0.6693275801146549,TRUE,High
+Human polyomavirus 3,Polyomaviridae,dsDNA,Mammalia,Primates,0.4990550657367538,0.2855767733690655,0.7628998890868043,TRUE,High
+Human polyomavirus 4,Polyomaviridae,dsDNA,Mammalia,Primates,0.4356793528257071,0.23649441694923146,0.6956765820412091,TRUE,High
+Human polyomavirus 5,Polyomaviridae,dsDNA,Mammalia,Primates,0.425224177381382,0.24857783224113517,0.7018847620844437,TRUE,High
+Human polyomavirus 6,Polyomaviridae,dsDNA,Mammalia,Primates,0.2016404655061318,0.11035799306238087,0.3229470070979528,FALSE,Medium
+Human polyomavirus 7,Polyomaviridae,dsDNA,Mammalia,Primates,0.20795231616435936,0.09066030815630044,0.35741897226880837,FALSE,Medium
+Human polyomavirus 8,Polyomaviridae,dsDNA,Mammalia,Primates,0.2888678413079717,0.16868302749791564,0.4485315032492283,FALSE,Medium
+Human polyomavirus 9,Polyomaviridae,dsDNA,Mammalia,Primates,0.2631702984261712,0.12800933093528288,0.4744146189468568,FALSE,Medium
+Acerodon celebensis polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Chiroptera,0.1904177943923664,0.08315875905554246,0.3315744319923316,FALSE,Medium
+Acerodon celebensis polyomavirus 2,Polyomaviridae,dsDNA,Mammalia,Chiroptera,0.3002053925996461,0.1460125868395859,0.5137736757108655,TRUE,High
+Artibeus planirostris polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Chiroptera,0.32355825413243344,0.1486056838351233,0.5823415793962456,TRUE,High
+Artibeus planirostris polyomavirus 2,Polyomaviridae,dsDNA,Mammalia,Chiroptera,0.2527927552093613,0.13089244794233396,0.44121727534728983,FALSE,Medium
+Artibeus planirostris polyomavirus 3,Polyomaviridae,dsDNA,Mammalia,Chiroptera,0.16931519814146453,0.07446924468369814,0.28012486831102834,FALSE,Low
+Cardioderma cor polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Chiroptera,0.3497500690962578,0.19290645141369328,0.5920441962831049,TRUE,High
+Carollia perspicillata polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Chiroptera,0.23819343768070156,0.1039059079793519,0.37476713854677574,FALSE,Medium
+Desmodus rotundus polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Chiroptera,0.28253898668277716,0.14700791863315366,0.5016278558704288,FALSE,Medium
+Dobsonia moluccensis polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Chiroptera,0.2896664877835496,0.14817156200255485,0.46720818159512734,FALSE,Medium
+Dobsonia moluccensis polyomavirus 2,Polyomaviridae,dsDNA,Mammalia,Chiroptera,0.42148443874766917,0.24412073812567298,0.7077171595871492,TRUE,High
+Dobsonia moluccensis polyomavirus 3,Polyomaviridae,dsDNA,Mammalia,Chiroptera,0.22181350317121934,0.11095238789180861,0.3748924148146535,FALSE,Medium
+Eidolon helvum polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Chiroptera,0.20243580553975707,0.07755750190063584,0.34944368075425614,FALSE,Medium
+Miniopterus africanus polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Chiroptera,0.31669307595061497,0.13134340326596172,0.567225742860528,TRUE,High
+Miniopterus schreibersii polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Chiroptera,0.37307884536251373,0.2296491559643073,0.5504782213626864,TRUE,High
+Miniopterus schreibersii polyomavirus 2,Polyomaviridae,dsDNA,Mammalia,Chiroptera,0.464975333258828,0.2216647780750597,0.7560434817278106,TRUE,High
+Molossus molossus polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Chiroptera,0.4790518089225937,0.23672091390620625,0.7590912002925653,TRUE,High
+Myotis lucifugus polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Chiroptera,0.4429494353925307,0.22676201854222006,0.7136037526401362,TRUE,High
+Otomops martiensseni polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Chiroptera,0.26915615993029735,0.13902377117759424,0.4431445547343469,FALSE,Medium
+Otomops martiensseni polyomavirus 2,Polyomaviridae,dsDNA,Mammalia,Chiroptera,0.16373951918061114,0.07804726181675445,0.26649270630234073,FALSE,Low
+Pteronotus davyi polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Chiroptera,0.2907678977382117,0.1361985206918966,0.41852702397487845,FALSE,Medium
+Pteronotus parnellii polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Chiroptera,0.3203235136365769,0.16924890424737826,0.5344281369615069,TRUE,High
+Pteropus vampyrus polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Chiroptera,0.202272321127509,0.09045106552817267,0.3095043101027233,FALSE,Medium
+Rousettus aegyptiacus polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Chiroptera,0.24160321957533049,0.12636652849750335,0.42968292101955985,FALSE,Medium
+Sturnira lilium polyomavirus 1,Polyomaviridae,dsDNA,Mammalia,Chiroptera,0.21106252705273398,0.10900382004078982,0.3546320233216516,FALSE,Medium
