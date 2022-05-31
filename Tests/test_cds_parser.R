@@ -82,12 +82,3 @@ test_that("extract_cds should not return sequences with internal stop codons", {
 test_that("extract_cds should allow sequences ending in a stop codon", {
 	expect_error(extract_cds(SEQUENCE, VALID_START, TRAILING_STOP), NA) # Expect no error
 })
-
-
-test_that("extract_cds should strip trailing stop codon", {
-	expectedSeq <- SEQUENCE[VALID_START:VALID_STOP]
-	returnedSeq <- extract_cds(SEQUENCE, VALID_START, TRAILING_STOP)
-	returnedSeq <- as.character(returnedSeq)
-	
-	expect_equal(returnedSeq, expectedSeq)
-})
