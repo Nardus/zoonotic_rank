@@ -12,7 +12,7 @@ check_cds <- function(sequence) {
 	
 	translation <- seqinr::getTrans(sequence)
 	
-	if ("*" %in% translation)
+	if ("*" %in% translation[1:(length(translation) - 1)])
 		stop("Extracted CDS contained an internal stop codon.")
 }
 
@@ -51,13 +51,6 @@ extract_cds_internal <- function(sequence, start_coordinate, stop_coordinate, al
 	if (reverse_complement) {
 		cds <- rev(seqinr::comp(cds))
 	}
-	
-	# Strip trailing stop codon
-	# - Give flexibility in how coordinates are specified
-	lastcodon <- paste(cds[(length(cds) - 2):length(cds)], collapse = "")
-	
-	if (tolower(lastcodon) %in% c("taa", "tag", "tga"))
-		cds <- cds[1:(length(cds) - 3)]
 	
 	# Check cds for validity before returning
 	check_cds(cds)

@@ -218,7 +218,13 @@ if (inputArgs$format == "fasta") {
                    stop_coordinate = metaData$Stop,
   								 MoreArgs = list(allow_complementary = TRUE))
 
-  # Output: Each CDS simply gets the same name as the parent sequence
+  # Output: Each CDS simply gets the same name as the parent sequence (but a different SeqID)
+  new_ids <- paste(names(coding), seq_len(length(coding)), sep = "_")
+  new_metadata <- metaData %>%
+    mutate(SequenceID = new_ids)
+  
+  names(coding) <- new_ids
+  
   temp_coding_file <- tempfile()
 
   write.fasta(coding, names = names(coding), file.out = temp_coding_file)
@@ -245,7 +251,10 @@ temp_out_coding <- tempfile()
 temp_out_entire <- tempfile()
 
 if (inputArgs$format == "fasta") {
-  cmd_string_coding <- paste(genome_feature_script, temp_metadata_file, temp_coding_file, 
+  temp_extra_metadata_file <- tempfile()
+  write.csv(new_metadata, temp_extra_metadata_file)
+  
+  cmd_string_coding <- paste(genome_feature_script, temp_extra_metadata_file, temp_coding_file, 
   													 "--out", temp_out_coding)
   
   cmd_string_entire <- paste(genome_feature_script, temp_metadata_file, inputArgs$sequences,
@@ -281,8 +290,11 @@ features_entire <- read.csv(temp_out_entire)
 
 # Clean up tempfiles:
 # - Capturing return code to preven errors when a file is missing
-if (inputArgs$format == "fasta") 
+if (inputArgs$format == "fasta") {
   unlink(temp_coding_file)
+  unlink(temp_extra_metadata_file)
+}
+
 
 unlink(temp_metadata_file)
 unlink(temp_out_coding)
