@@ -8,6 +8,11 @@ Code and data used in Mollentze N, Babayan SA, Streicker DG (2021) *Identifying 
 For a list of priority categories and ranks for all virus species in the paper, see [here](https://nardusmollentze.com/dataset/zoonotic_rank/).
 
 
+\
+*__Note:__ This repository uses [git-lfs](https://git-lfs.github.com/). This must be installed before cloning to ensure large files are included.*
+
+
+
 ## Table of contents
 - [Requirements](#requirements)
 - [Ranking novel viruses](#ranking-novel-viruses)
