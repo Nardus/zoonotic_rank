@@ -56,11 +56,11 @@ download: $(EXTERNALDATAFILES)
 
 ExternalData/ICTV_MasterSpeciesList_2016v1.3.xlsx:
 	mkdir -p ExternalData
-	curl -L -o $@ 'https://talk.ictvonline.org/files/master-species-lists/m/msl/6776/download'
+	curl -L -o $@ 'https://ictv.global/filebrowser/download/484'
 	
 ExternalData/ICTV_MasterSpeciesList_2018b.xlsx:
 	mkdir -p ExternalData
-	curl -L -o $@ 'https://talk.ictvonline.org/files/master-species-lists/m/msl/8266/download'
+	curl -L -o $@ 'https://ictv.global/filebrowser/download/489'
 
 
 ExternalData/WoolhouseBrierley_2018.xlsx:
