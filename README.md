@@ -7,9 +7,8 @@ Code and data used in Mollentze N, Babayan SA, Streicker DG (2021) *Identifying 
 
 For a list of priority categories and ranks for all virus species in the paper, see [here](https://nardusmollentze.com/dataset/zoonotic_rank/).
 
-
-\
-*__Note:__ This repository uses [git-lfs](https://git-lfs.github.com/). This must be installed before cloning to ensure large files are included.*
+> [!NOTE]
+> This repository uses [git-lfs](https://git-lfs.github.com/). This must be installed before cloning to ensure large files are included.
 
 
 
@@ -33,14 +32,6 @@ conda env create -f base_environment.yml
 ```
 conda activate zoonotic_rank
 ```
-
-### Repeating published analyses
-If repeating all analyses in the manuscript (see below), a few additional tools and R libraries are needed. The majority of these can be added to the base environment created above using:
-```
-conda env update -n zoonotic_rank -f dev_environment.yml
-```
-
-The [BLAST+ suite of applications](https://www.ncbi.nlm.nih.gov/books/NBK279670/?report=classic) is also required (used for "phylogenetic neighbourhood" analyses and predictions). Version 2.8.1+ was used in the manuscript. If your R session has trouble finding the BLAST+ executables, run `make update_path` and enter the location of the BLAST executables (e.g. `/usr/local/ncbi/blast/bin`). 
 
 
 
@@ -71,7 +62,8 @@ Segmented virus 1     | NC_015450.1 | 24          | 3986       | Name repeated t
 Segmented virus 1     | NC_015452.1 | 36          | 866        | The first of two genes on this segment
 Segmented virus 1     | NC_015452.1 | 1778        | 1041       | Coordinates reversed to indicate that the ORF is on the complementary strand
 
-If sequences are available in genbank format, only the first two columns are required, mapping each virus name to one or more sequence identifiers. This format allows more flexiblility in the specification of open reading frames (see the "FEATURES" section of https://www.ncbi.nlm.nih.gov/genbank/samplerecord).
+> [!TIP]
+> If sequences are available in genbank format, only the first two columns are required, mapping each virus name to one or more sequence identifiers. This format allows more flexiblility in the specification of open reading frames (`CDS` features in genbank files). See the [NCBI help page](https://www.ncbi.nlm.nih.gov/genbank/samplerecord), particulary the [FEATURES section](https://www.ncbi.nlm.nih.gov/genbank/samplerecord/#FeaturesB) for details.
 
 #### Output
 All files generated will be preceded by the output name specified ("example_1" in the example above).
@@ -88,11 +80,24 @@ File                         | Description
 
 
 
-## Repeating all analyses
+## Repeating all analyses 
 
-Follow instructions below to repeat the analyses described in the manuscript. Note that these steps are _not_ needed to make predictions as described above (pre-trained models are included). Running all analyses takes ~3 weeks on a 4-core, 2.8 GHz i7 processor and requires ~5Gb of disk space.
+> [!Note]
+> These steps will repeat the analyses described in the manuscript. They are **not** needed to make predictions as described above (pre-trained models are included). 
 
-#### Basic
+> [!WARNING]
+> Running all analyses takes ~3 weeks on a 4-core, 2.8 GHz i7 processor and requires ~5Gb of disk space.
+
+### Additional requirements
+A few additional tools and R libraries are needed to run the full pipeline. The majority of these can be added to the `zoonotic_rank` environment created above using:
+```
+conda env update -n zoonotic_rank -f dev_environment.yml
+```
+
+The [BLAST+ suite of applications](https://www.ncbi.nlm.nih.gov/books/NBK279670/?report=classic) is also required (used for "phylogenetic neighbourhood" analyses and predictions). Version 2.8.1+ was used in the manuscript. If your R session has trouble finding the BLAST+ executables, run `make update_path` and enter the location of the BLAST executables (e.g. `/usr/local/ncbi/blast/bin`). 
+
+
+### Re-run everything
 These steps will download all external data and re-run the entire pipeline.
 
 _Using Rstudio:_
@@ -104,7 +109,7 @@ _Using the command-line:_
 make clean all
 ```
 
-#### Advanced options (command-line only)
+### Advanced options (command-line only)
 
 - Use `make help` to see individual steps in the pipeline. Upstream steps are run automatically if needed. For example, using `make prepare` will run the data cleanup step, but also downloads the raw data if needed.
 - `make as_distributed` resets the project to the state in which it was distributed.
