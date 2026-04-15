@@ -27,17 +27,24 @@ For a list of priority categories and ranks for all virus species in the paper, 
 
 ## Requirements
 
-- Install the [conda package manager](https://conda.io/)
-- Create the base environment (this installs everything required for prediction of new viruses)
-```
-conda env create -f base_environment.yml
-```
+1. Install the [conda package manager](https://conda.io/)
+2. Create the base environment (this installs everything required for prediction of new viruses)
+    - PCs and older Macs (x86-based processors from Intel or AMD):
+        
+        ```
+        conda env create -f base_environment.yml
+        ```
+        
+    - Macs with ARM-based processors (listed [here](https://support.apple.com/en-gb/116943)):
+        
+        ```
+        conda env create --platform osx-64 -f base_environment.yaml
+        ```
 
-- Before each use, activate this environment using
-```
-conda activate zoonotic_rank
-```
-
+3. Before each use, activate this environment using
+    ```
+    conda activate zoonotic_rank
+    ```
 
 
 ## Ranking novel viruses
